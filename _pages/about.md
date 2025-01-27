@@ -11,7 +11,7 @@ redirect_from:
 <br>
 <h1 style="text-align: center;"> Læs H.M. Dronningens nytårstale 2023 </h1>
 <br>
-***<p style="text-align: center;">Hendes Majestæt Dronningens nytårstale 2023</p>***
+**<p style="text-align: center;">Hendes Majestæt Dronningens nytårstale 2023</p>**
 <br>
 Vi har netop fejret julen, den dejlige fest, med juletræ, tændte lys og forventningsfulde børn. I den mørkeste tid på året lyser julen op. Nu står det nye år for døren, i aften fejrer vi nytårsaften. Foran os ligger et år, som vi møder med forventning, men også med bekymring, for der sker voldsomme ting ude i verden.
 
