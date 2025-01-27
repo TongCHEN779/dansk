@@ -5,8 +5,6 @@ permalink: /ord_og_gram/sub/
 author_profile: true
 ---
 
-<!DOCTYPE html>
-
 <script>
     function playSound(soundId) {
         var audioElement = document.getElementById(soundId);
@@ -12627,4 +12625,4 @@ author_profile: true
 <td> decade </td>
 <td> 1 </td>
 </tr>
-</table>
+<!-- </table> -->

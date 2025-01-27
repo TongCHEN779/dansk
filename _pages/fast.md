@@ -449,7 +449,6 @@ author_profile: true
 <td> at the moment </td>
 <td> Lene er i lære som advokatsekretær, og Mette arbejder for tiden som kassedame i et supermarked. </td>
 </tr>
-</tr>
 <tr>
 <td> idømme nogen straf / dømme nogen til straf </td>
 <td> impose a penalty on sb </td>

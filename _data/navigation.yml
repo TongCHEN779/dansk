@@ -19,7 +19,7 @@ main:
       - title: "Pronominer"
         url: /ord_og_gram/pron/
       - title: "Præpositioner"
-        url: /ord_og_gram/Præp/
+        url: /ord_og_gram/præp/
       - title: "Substantiver"
         url: /ord_og_gram/sub/
       - title: "Verber"
