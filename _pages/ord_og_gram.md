@@ -3,15 +3,15 @@ layout: archive
 title: ""
 permalink: /ord_og_gram/
 author_profile: true
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    toc_collapsed: true
-toc_depth: 3
+# output:
+#   html_document:
+#     toc: true
+#     toc_float: true
+#     toc_collapsed: true
+# toc_depth: 3
 ---
 
-<script>
+<!-- <script>
   document.addEventListener("DOMContentLoaded", function () {
     const tocContainer = document.querySelector("#table-of-contents");
     if (!tocContainer) return;
@@ -35,7 +35,7 @@ toc_depth: 3
 
     tocContainer.appendChild(tocList);
   });
-</script>
+</script> -->
 
 <!-- <div id="table-of-contents" class="toc-container">
 <ul>
