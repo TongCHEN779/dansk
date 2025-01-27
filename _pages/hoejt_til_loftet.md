@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /lytte/hoej_til_loftet/
+permalink: /lytte/hoejt_til_loftet/
 author_profile: true
 ---
 
