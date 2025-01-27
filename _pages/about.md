@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<video controls src="https://www.youtube.com/watch?v=0i-IfRvNmvc"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0i-IfRvNmvc?si=b-RHP-b45pYyGXxZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Hendes Majestæt Dronningens nytårstale 2023.
 
