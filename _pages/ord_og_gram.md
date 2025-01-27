@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Ordforråd og Grammatik"
+title: ""
 permalink: /ord_og_gram/
 author_profile: true
 ---
