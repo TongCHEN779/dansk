@@ -2,6 +2,8 @@
 .masthead__menu-item {
   position: relative;
   font-weight: normal; /* Reset font weight */
+  display: block;      /* Ensure items stack vertically */
+  border-bottom: 1px solid #eee; /* Optional: Separator between items */
 }
 
 /* Hide submenu by default */
@@ -19,8 +21,6 @@
 .submenu .masthead__submenu-item {
   padding: 10px 20px;
   white-space: nowrap; /* Prevent text wrapping */
-  display: block;      /* Ensure items stack vertically */
-  border-bottom: 1px solid #eee; /* Optional: Separator between items */
 }
 
 /* Show submenu on hover */
