@@ -12,15 +12,28 @@
   background: white;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   z-index: 1000;
+  list-style: none; /* Remove bullet points */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margin */
+}
+
+/* Style submenu items */
+.submenu .masthead__submenu-item {
+  display: block; /* Stack items vertically */
+  border-bottom: 1px solid #eee; /* Optional: Separator between items */
 }
 
 /* Style submenu items */
 .submenu .masthead__submenu-item a {
   padding: 10px 20px;
   font-weight: normal; /* Reset submenu font weight */
-  white-space: nowrap; /* Prevent text wrapping */
-  display: block;      /* Ensure items stack vertically */
-  border-bottom: 1px solid #eee; /* Optional: Separator between items */
+  display: block; /* Ensure links span the full width */
+  text-decoration: none; /* Optional: Remove underline from links */
+  color: inherit; /* Use inherited color for consistency */
+}
+
+.submenu .masthead__submenu-item:last-child {
+  border-bottom: none; /* Remove separator from the last item */
 }
 
 /* Show submenu on hover */
