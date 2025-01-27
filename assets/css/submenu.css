@@ -15,13 +15,12 @@
 }
 
 /* Style submenu items */
-.submenu .masthead__submenu-item {
-  padding: 10px 20px;
-}
-
-/* Reset submenu font weight */
 .submenu .masthead__submenu-item a {
-  font-weight: normal;
+  padding: 10px 20px;
+  font-weight: normal; /* Reset submenu font weight */
+  white-space: nowrap; /* Prevent text wrapping */
+  display: block;      /* Ensure items stack vertically */
+  border-bottom: 1px solid #eee; /* Optional: Separator between items */
 }
 
 /* Show submenu on hover */
