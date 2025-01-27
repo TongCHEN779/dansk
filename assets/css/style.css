@@ -1,7 +1,7 @@
 .toc-container {
   position: fixed; /* Keeps the TOC in place while scrolling */
   top: 100px; /* Adjust to your header height */
-  left: 20px; /* Adjust for horizontal positioning */
+  left: 100px; /* Adjust for horizontal positioning */
   width: 250px; /* Set width for the sidebar */
   max-height: calc(100vh - 120px); /* Allow space for footer/header */
   overflow-y: auto; /* Scrollable for long TOCs */
