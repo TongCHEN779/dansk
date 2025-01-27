@@ -1,7 +1,6 @@
 /* Style for the main menu items */
 .masthead__menu-item {
   position: relative;
-  font-weight: normal; /* Reset font weight */
 }
 
 /* Hide submenu by default */
@@ -17,20 +16,15 @@
 
 /* Style submenu items */
 .submenu .masthead__submenu-item {
-  font-weight: normal; /* Reset font weight */
   padding: 10px 20px;
-  white-space: nowrap; /* Prevent text wrapping */
 }
 
-.masthead__menu-item .submenu .masthead__submenu-item a {
-  font-weight: normal !important;
+/* Reset submenu font weight */
+.submenu .masthead__submenu-item a {
+  font-weight: normal;
 }
 
 /* Show submenu on hover */
 .masthead__menu-item:hover .submenu {
   display: block;
-}
-
-nav .submenu a {
-  font-weight: normal !important;
 }
