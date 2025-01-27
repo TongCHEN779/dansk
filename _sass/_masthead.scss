@@ -47,12 +47,13 @@
 }
 
 .masthead__menu-item {
+  position: relative;
   display: block;
   list-style-type: none;
   white-space: nowrap;
 
   &--lg {
     padding-right: 4em;
-    font-weight: normal;
+    font-weight: 700;
   }
 }
