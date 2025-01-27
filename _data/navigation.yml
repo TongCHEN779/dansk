@@ -7,9 +7,6 @@
 main:
   - title: "Ordforråd og Grammatik"
     url: /ord_og_gram/
-  
-    - title: "Adjektiver"
-      url: /ord_og_gram/adj/
 
   - title: "Talks"
     url: /talks/    
