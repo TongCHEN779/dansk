@@ -1,6 +1,7 @@
 /* Style for the main menu items */
 .masthead__menu-item {
   position: relative;
+  font-weight: normal; /* Reset font weight */
 }
 
 /* Hide submenu by default */
@@ -20,7 +21,6 @@
   white-space: nowrap; /* Prevent text wrapping */
   display: block;      /* Ensure items stack vertically */
   border-bottom: 1px solid #eee; /* Optional: Separator between items */
-  font-weight: normal; /* Reset font weight */
 }
 
 /* Show submenu on hover */
