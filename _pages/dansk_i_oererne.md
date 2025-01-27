@@ -27,6 +27,10 @@ author_profile: true
 <tr>
 <th> <audio controls src="https://danskioererne.dk/podcast-player/36/blabla.mp4"></audio> </th>
 <th> 
+<button type="button" class="collapsible">2 - Københavns historie</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div>
 <details>
 <summary>
 <h1 style="text-align: center;"> 2 - Københavns historie </h1>
