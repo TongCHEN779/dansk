@@ -12,24 +12,22 @@
   background: white;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   z-index: 1000;
-  padding: 0; /* Remove any padding on the submenu container */
-  margin: 0; /* Remove any margin on the submenu container */
+  padding: 0!important; /* Remove any padding on the submenu container */
+  margin: 0!important; /* Remove any margin on the submenu container */
   list-style: none; /* Ensure no default list styling */
 }
 
 /* Style submenu items */
 .submenu .masthead__submenu-item {
   display: block!important; /* Ensure each submenu item is a block element */
-  margin: 0; /* Reset margin for submenu items */
-  padding: 0; /* Reset padding for submenu items */
+  margin: 0!important; /* Reset margin for submenu items */
+  padding: 0!important; /* Reset padding for submenu items */
 }
 
 .submenu .masthead__submenu-item a {
   display: block; /* Ensure links within submenu items span the full width */
   padding: 10px 20px;
   font-weight: normal; /* Reset submenu font weight */
-  text-decoration: none; /* Optional: Remove underline from links */
-  color: #333; /* Optional: Set link text color */
 }
 
 /* Add hover effect for submenu links */

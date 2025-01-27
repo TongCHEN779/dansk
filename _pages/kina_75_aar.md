@@ -17,10 +17,10 @@ author_profile: true
     }
     /* Customize width for specific columns */
     th:nth-child(1), td:nth-child(1) {
-        width: 40%; /* First column */
+        width: 30%; /* First column */
     }
     th:nth-child(2), td:nth-child(2) {
-        width: 60%; /* Second column */
+        width: 70%; /* Second column */
     }
 </style>
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
@@ -172,6 +172,20 @@ Xie Jin røg - ligesom store dele af den kinesiske filmindustri - ud i kulden un
 Revolutionsoperaen ’The East is Red’ fra 1965 fortæller den tumultariske historie om kommunismens udvikling i Kina. Fra 4. maj-bevægelsen i 1919 og dannelsen af Kommunistpartiet i 1921 over Den Lange March og opbygningstiden i Yan’an i 30’erne til den endelige sejr over Chiang kai-shek i 1949. Det hele selvfølgelig set fra kommunisternes eget synspunkt. 
 <br><br>
 Som flere af de mest prominente film fra tiden omkring Kulturrevolutionen er ’The East is Red’ filmet opera. I dette tilfælde en filmatisering af prestige-opsætningen af operaen i Folkets Store Hal i Beijing i 1964, hvor Kinas daværende premierminister og Maos tro væbner Zhou Enlai fungerede som initiativtager. Filmen er et dybt fascinerende og farverigt eksempel på den radikale revolutionsopera-æstetik, der kun få år senere skulle blive den primære visuelle udtryksform under Kulturrevolutionen.
+</span>
+</details> 
+</th>
+</tr>
+
+<tr>
+<th> <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=676927527&bvid=BV1jU4y1T7gj&cid=450979907&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> </th>
+<th> 
+<details>
+<summary>
+<h1> Yellow Earth (黄土地) - Kaige Chen (陈凯歌) </h1>
+</summary>
+<span style="font-weight: normal">
+Se Chen Kaiges smukke debutfilm ’Yellow Earth’ med introduktion ved Kinaekspert og adjunkt i Kinastudier på Københavns Universitet Bo Ærenlund Sørensen. Introduktionen vil fokusere på de kinesiske Femte Generations-filmskabere, der efter åbningen af Kina i 80’erne under Deng Xiaoping tog den internationale filmverden med storm, men siden har fået kortere snor af magthaverne.
 </span>
 </details> 
 </th>
