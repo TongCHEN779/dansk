@@ -26,7 +26,18 @@ main:
         url: /ord_og_gram/verb/
 
   - title: "Lytte"
-    url: /lytte/    
+    url: /lytte/
+    subcategories:
+      - title: "Dansk i Ørerne"
+        url: /lytte/dansk_i_orerne/
+      - title: "Folkerepublikken Kina 75 år"
+        url: /lytte/kina_75_aar/
+      - title: "Højt til Loftet"
+        url: /lytte/hojt_til_loftet/
+      - title: "Nytårstaler"
+        url: /lytte/nytaarstaler/
+      - title: "Sangen"
+        url: /lytte/sangen/
 
   - title: "Læsning"
     url: /læsning/
