@@ -40,14 +40,14 @@ toc_depth: 3
 <div id="table-of-contents" class="toc-container">
 <ul>
 <li><a href="#adj">Adjektivernes former</a></li>
-<li><a href="#adj">Substantivernes former</a></li>
-<li><a href="#adj">Verbernes former</a></li>
-<li><a href="#adj">Spørgeord</a></li>
+<li><a href="#sub">Substantivernes former</a></li>
+<li><a href="#verb">Verbernes former</a></li>
+<li><a href="#spørg">Spørgeord</a></li>
 </ul>
 </div>
 
 <div class="main-content">
-<h1 style="text-align: center;"> Adjektivernes former </h1>
+<h1 id="adj" style="text-align: center;"> Adjektivernes former </h1>
 <p>
 <style>
     table {
@@ -140,7 +140,7 @@ toc_depth: 3
 
 <br>
 
-<h1 style="text-align: center;"> Substantivernes former </h1>
+<h1 id="sub" style="text-align: center;"> Substantivernes former </h1>
 <p>
 <style>
     table {
@@ -218,7 +218,7 @@ toc_depth: 3
 
 <br>
 
-<h1 style="text-align: center;"> Verbernes former </h1>
+<h1 id="verb" style="text-align: center;"> Verbernes former </h1>
 <p>
 <style>
     table {
@@ -388,7 +388,7 @@ toc_depth: 3
 
 <br>
 
-<h1 style="text-align: center;"> Spørgeord </h1>
+<h1 id="spørg" style="text-align: center;"> Spørgeord </h1>
 <p>
 <style>
     table {

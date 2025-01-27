@@ -3,12 +3,6 @@ layout: archive
 title: ""
 permalink: /ord_og_gram/adj/
 author_profile: true
-output:
-  html_document:
-    toc: true
-    toc_float: true
-    toc_collapsed: true
-toc_depth: 3
 ---
 
 <script>
