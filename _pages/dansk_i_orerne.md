@@ -5,6 +5,21 @@ permalink: /lytte/dansk_i_orerne/
 author_profile: true
 ---
 
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        padding: 8px;
+        text-align: left;
+    }
+</style>
+<table align="center" cellspacing="5" style="text-align: left" width="100%">
+<tr>
+<th> <audio controls src="https://danskioererne.dk/podcast-player/39/eksempel-paa-podcast.mp4"></audio> </th>
+<th> 
 <details>
 <summary>1 - Dansk foreningsliv</summary>
 <p>
@@ -24,4 +39,9 @@ Der er mange fordele ved at være med i en forening. Det er en god mulighed for 
 
 Det var alt for denne episode! Jeg håber du blev klogere på dansk foreningskultur. Tak fordi du lyttede med.
 </p>
-</details>
+</details> 
+</th>
+</tr>
+</table>
+
+
