@@ -192,14 +192,30 @@ Se Chen Kaiges smukke debutfilm ’Yellow Earth’ med introduktion ved Kinaeksp
 </tr>
 
 <tr>
-<th> <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=676927527&bvid=BV1jU4y1T7gj&cid=450979907&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> </th>
+<th> <a><img src="https://tongchen779.github.io/dansk/files/24_city.png"/></a></th>
 <th> 
 <details>
 <summary>
-<h1> Yellow Earth (黄土地) - Kaige Chen (陈凯歌) </h1>
+<h1> 24 City (二十四城记) - Zhangke Jia (贾樟柯) </h1>
 </summary>
 <span style="font-weight: normal">
-Se Chen Kaiges smukke debutfilm ’Yellow Earth’ med introduktion ved Kinaekspert og adjunkt i Kinastudier på Københavns Universitet Bo Ærenlund Sørensen. Introduktionen vil fokusere på de kinesiske Femte Generations-filmskabere, der efter åbningen af Kina i 80’erne under Deng Xiaoping tog den internationale filmverden med storm, men siden har fået kortere snor af magthaverne.
+I '24 City' fortsætter Kinas største internationale auteur siden 00’erne, Jia Zhangke, med at analysere det kommunistiske Kinas clash med den nye, globaliserede verden og landets nye position som økonomisk og politisk supermagt. Filmen følger tre generationer af kinesere i Chengdu, hvis verden ændres, da deres arbejdsplads – en statsejet fabrik, selve symbolet på det moderne Kina – bliver revet ned til fordel for et hypermoderne lejlighedskompleks ved navn 24 City. 
+<br><br>
+Filmens kontroversielle mix af dokumentariske optagelser og fiktionaliserede interviews med kendte kinesiske skuespillere gør filmen til en grænsesøgende mediering over, hvordan det nye Kina er ved at glemme dets fortid og de arbejdere, der har dedikeret deres liv til at opbygge den kommunistiske superstat. En kinesisk spøgelseshistorie, hvor erindringen – ligesom fabrikken – langsomt falder fra hinanden.
+</span>
+</details> 
+</th>
+</tr>
+
+<tr>
+<th> <a><img src="https://tongchen779.github.io/dansk/files/ascension.png"/></a></th>
+<th> 
+<details>
+<summary>
+<h1> Ascension (登楼叹) - Jessica Kingdon </h1>
+</summary>
+<span style="font-weight: normal">
+Kinesisk-amerikanske Jessica Kingdons Oscar-nominerede dokumentar 'Ascension' har kameraet rettet mod det hyper-produktive, kapitalistiske Kina, hvor vækst synes at betyde alt. Igennem en observerende stil med smukke, til tider næsten 'Koyaanisqatsi'-agtige tableauer – fra fabriksgulvet til luksushotellet – præsenteres en moderne økonomisk supermagt med en hurtigt voksende middelklasse, hvor drømmen om materiel velstand for alvor har slået rod.
 </span>
 </details> 
 </th>
