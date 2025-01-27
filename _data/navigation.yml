@@ -8,8 +8,8 @@ main:
   - title: "Ordforråd og Grammatik"
     url: /ord_og_gram/
 
-    - title: "Adjektiver"
-      url: /adj/
+  - title: "Adjektiver"
+    url: /adj/
 
   - title: "Talks"
     url: /talks/    
