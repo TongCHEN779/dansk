@@ -1,33 +1,39 @@
 .toc-container {
-    position: fixed;
-    top: 100px; /* Adjust based on your header height */
-    left: 20px;
-    width: 250px;
-    max-height: calc(100vh - 120px); /* Adjust for footer/header space */
-    overflow-y: auto;
-    border: 1px solid #ddd;
-    padding: 10px;
-    background-color: #f9f9f9;
-    border-radius: 5px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  }
-  
-  .toc-container ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-  .toc-container li {
-    margin: 5px 0;
-  }
-  
-  .toc-container a {
-    text-decoration: none;
-    color: #007bff;
-  }
-  
-  .toc-container a:hover {
-    text-decoration: underline;
-  }
-  
+  position: fixed; /* Keeps the TOC in place while scrolling */
+  top: 100px; /* Adjust to your header height */
+  left: 20px; /* Adjust for horizontal positioning */
+  width: 250px; /* Set width for the sidebar */
+  max-height: calc(100vh - 120px); /* Allow space for footer/header */
+  overflow-y: auto; /* Scrollable for long TOCs */
+  border: 1px solid #ddd;
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 1000; /* Ensure it stays on top of other elements */
+}
+
+.toc-container ul {
+  list-style: none; /* Remove bullet points */
+  padding: 0;
+  margin: 0;
+}
+
+.toc-container li {
+  margin: 5px 0; /* Add spacing between items */
+}
+
+.toc-container a {
+  text-decoration: none; /* No underline */
+  color: #007bff; /* Link color */
+}
+
+.toc-container a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Adjust main content to not overlap */
+.main-content {
+  margin-left: 280px; /* Adjust based on TOC width + left margin */
+  padding: 20px; /* Add padding for readability */
+}

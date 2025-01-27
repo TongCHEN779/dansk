@@ -11,8 +11,6 @@ output:
 toc_depth: 3
 ---
 
-<div id="table-of-contents" class="toc-container"></div>
-
 <script>
   document.addEventListener("DOMContentLoaded", function () {
     const tocContainer = document.querySelector("#table-of-contents");
@@ -39,8 +37,18 @@ toc_depth: 3
   });
 </script>
 
-<h1 style="text-align: center;"> Adjektivernes former </h1>
+<div id="table-of-contents" class="toc-container">
+<ul>
+<li><a href="#adj">Adjektivernes former</a></li>
+<li><a href="#adj">Adjektivernes former</a></li>
+<li><a href="#adj">Adjektivernes former</a></li>
+<li><a href="#adj">Adjektivernes former</a></li>
+</ul>
+</div>
 
+<div class="main-content">
+<h1 style="text-align: center;"> Adjektivernes former </h1>
+<p>
 <style>
     table {
         border-collapse: collapse;
@@ -58,7 +66,6 @@ toc_depth: 3
         text-align: left;
     }
 </style>
-
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <td colspan="2">  </td>
@@ -129,10 +136,12 @@ toc_depth: 3
 <td> spændende </td>
 </tr>
 </table>
+</p>
+
 <br>
 
 <h1 style="text-align: center;"> Substantivernes former </h1>
-
+<p>
 <style>
     table {
         border-collapse: collapse;
@@ -150,7 +159,6 @@ toc_depth: 3
         text-align: left;
     }
 </style>
-
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th>  </th>
@@ -206,10 +214,12 @@ toc_depth: 3
 <td> cyklerne </td>
 </tr>
 </table>
+</p>
+
 <br>
 
 <h1 style="text-align: center;"> Verbernes former </h1>
-
+<p>
 <style>
     table {
         border-collapse: collapse;
@@ -227,7 +237,6 @@ toc_depth: 3
         text-align: left;
     }
 </style>
-
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th>  </th>
@@ -375,10 +384,12 @@ toc_depth: 3
 <td> - </td>
 </tr>
 </table>
+</p>
+
 <br>
 
 <h1 style="text-align: center;"> Spørgeord </h1>
-
+<p>
 <style>
     table {
         border-collapse: collapse;
@@ -396,7 +407,6 @@ toc_depth: 3
         text-align: left;
     }
 </style>
-
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th> Spørgeord </th>
@@ -499,3 +509,5 @@ toc_depth: 3
 <td> Hvorved adskiller skemaernes indhold sig fra hinanden? </td>
 </tr>
 </table>
+</p>
+</div>
