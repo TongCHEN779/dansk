@@ -25,7 +25,7 @@ author_profile: true
 </style>
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/watch?v=prvv9-lr9TU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/prvv9-lr9TU?si=YLmflTlRfb2Ie4XO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -39,7 +39,7 @@ Revisionistisk Femte Generations-klassiker om en Beijing-familie, der går gradv
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/watch?v=PvCPBCEoV7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/PvCPBCEoV7g?si=wKoTiBAACthZ--iz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -59,7 +59,7 @@ Filmen er delt op i tre dele. Første del, 'Rust', følger en gruppe arbejdere p
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/watch?v=kAycwHbO8iA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/kAycwHbO8iA?si=Wo9q7ErjcvNQK-xH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -75,7 +75,7 @@ Især kvarterets mange teenagere rumsterer retningsløse rundt, da de – som é
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/watch?v=KqfJ-ob_uGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/KqfJ-ob_uGE?si=xsBanDAtorCYfe5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
