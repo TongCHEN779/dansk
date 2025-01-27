@@ -15,13 +15,22 @@ author_profile: true
         padding: 8px;
         text-align: left;
     }
+    /* Customize width for specific columns */
+    th:nth-child(1), td:nth-child(1) {
+        width: 20%; /* First column */
+    }
+    th:nth-child(2), td:nth-child(2) {
+        width: 80%; /* Second column */
+    }
 </style>
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th> <audio controls src="https://danskioererne.dk/podcast-player/39/eksempel-paa-podcast.mp4"></audio> </th>
 <th> 
 <details>
-<summary>1 - Dansk foreningsliv</summary>
+<summary>
+<h1 style="text-align: center;"> 1 - Dansk foreningsliv </h1>
+</summary>
 <p>
 Hej, og velkommen til første episode af ”Dansk i ørerne”. ”Dansk i ørerne” er en ny podcast, hvor jeg i korte afsnit vil snakke om emner, der er relateret til Danmark og danskerne. Jeg vil forsøge at snakke lidt langsommere og mere tydeligt, så man kan lytte til podcasten, selvom man ikke har dansk som sit modersmål. Man kan finde teksten til denne episode på podcastens hjemmeside, www.danskioererne.dk.
 
