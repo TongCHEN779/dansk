@@ -10,6 +10,20 @@ main:
     subcategories:
       - title: "Adjektiver"
         url: /ord_og_gram/adj/
+      - title: "Adverbier"
+        url: /ord_og_gram/adv/
+      - title: "Faste udtryk"
+        url: /ord_og_gram/fast/
+      - title: "Konjunktioner"
+        url: /ord_og_gram/konj/
+      - title: "Pronominer"
+        url: /ord_og_gram/pron/
+      - title: "Præpositioner"
+        url: /ord_og_gram/Præp/
+      - title: "Substantiver"
+        url: /ord_og_gram/sub/
+      - title: "Verber"
+        url: /ord_og_gram/verb/
 
   - title: "Talks"
     url: /talks/    
