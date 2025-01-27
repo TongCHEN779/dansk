@@ -40,9 +40,9 @@ toc_depth: 3
 <div id="table-of-contents" class="toc-container">
 <ul>
 <li><a href="#adj">Adjektivernes former</a></li>
-<li><a href="#adj">Adjektivernes former</a></li>
-<li><a href="#adj">Adjektivernes former</a></li>
-<li><a href="#adj">Adjektivernes former</a></li>
+<li><a href="#adj">Substantivernes former</a></li>
+<li><a href="#adj">Verbernes former</a></li>
+<li><a href="#adj">Spørgeord</a></li>
 </ul>
 </div>
 
