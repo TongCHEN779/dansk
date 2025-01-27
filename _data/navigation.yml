@@ -9,7 +9,7 @@ main:
     url: /ord_og_gram/
     subcategories:
       - title: "Adjektiver"
-        url: /adj/
+        url: /ord_og_gram/adj/
 
   - title: "Talks"
     url: /talks/    

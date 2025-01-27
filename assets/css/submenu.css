@@ -17,6 +17,7 @@
   /* Style submenu items */
   .submenu .masthead__submenu-item {
     padding: 10px 20px;
+    font-weight: normal;
   }
   
   /* Show submenu on hover */
