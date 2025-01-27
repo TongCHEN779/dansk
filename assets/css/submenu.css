@@ -12,22 +12,25 @@
   background: white;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   z-index: 1000;
-}
-
-/* Style for submenu items to stack vertically */
-.submenu .masthead__submenu-item {
-  position: relative;
-  display: block!important; /* Stack items vertically */
-  width: 100%; /* Ensure items take up full width of the submenu */
-  margin: 0; /* Reset margin */
+  padding: 0; /* Optional: Remove extra padding from the submenu */
 }
 
 /* Style submenu items */
+.submenu .masthead__submenu-item {
+  display: block!important; /* Ensure each submenu item is a block element */
+}
+
 .submenu .masthead__submenu-item a {
-  position: relative;
-  display: block;
+  display: block; /* Ensure links within submenu items span the full width */
   padding: 10px 20px;
   font-weight: normal; /* Reset submenu font weight */
+  text-decoration: none; /* Optional: Remove underline from links */
+  color: #333; /* Optional: Set link text color */
+}
+
+/* Add hover effect for submenu links */
+.submenu .masthead__submenu-item a:hover {
+  background: #f5f5f5; /* Optional: Add hover background color */
 }
 
 /* Show submenu on hover */
