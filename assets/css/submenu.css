@@ -14,6 +14,13 @@
   z-index: 1000;
 }
 
+/* Style for submenu items to stack vertically */
+.submenu .masthead__submenu-item {
+  display: block; /* Stack items vertically */
+  width: 100%; /* Ensure items take up full width of the submenu */
+  margin: 0; /* Reset margin */
+}
+
 /* Style submenu items */
 .submenu .masthead__submenu-item a {
   position: relative;
