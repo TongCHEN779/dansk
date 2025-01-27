@@ -3,13 +3,36 @@ layout: archive
 title: ""
 permalink: /ord_og_gram/
 author_profile: true
-output: 
-    html_document:
+output:
+  html_document:
     toc: true
     toc_float: true
     toc_collapsed: true
 toc_depth: 3
 ---
+
+<div id="table-of-contents" class="toc-container"></div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const tocContainer = document.querySelector("#table-of-contents");
+    if (!tocContainer) return;
+
+    const headings = document.querySelectorAll("h1, h2, h3");
+    const tocList = document.createElement("ul");
+
+    headings.forEach((heading) => {
+      const id = heading.textContent.trim().toLowerCase().replace(/\s+/g, "-");
+      heading.id = id;
+
+      const tocItem = document.createElement("li");
+      tocItem.innerHTML = `<a href="#${id}">${heading.textContent}</a>`;
+      tocList.appendChild(tocItem);
+    });
+
+    tocContainer.appendChild(tocList);
+  });
+</script>
 
 <h1 style="text-align: center;"> Adjektivernes former </h1>
 

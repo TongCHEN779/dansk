@@ -17,6 +17,10 @@
   /* Style submenu items */
   .submenu .masthead__submenu-item {
     padding: 10px 20px;
+  }
+
+  /* Reset submenu font weight */
+  .submenu .masthead__submenu-item a {
     font-weight: normal;
   }
   
