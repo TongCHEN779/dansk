@@ -29,7 +29,7 @@ author_profile: true
 <th> 
 <details>
 <summary>
-**2 - Københavns historie**
+<h1 style="text-align: center;"> 2 - Københavns historie </h1>
 </summary>
 <p>
 Hej, og velkommen til ”dansk i ørerne”. Denne episode handler om Danmarks hovedstad, København. Teksten til denne episode kan findes på podcastens hjemmeside.
@@ -63,7 +63,7 @@ Det var alt for denne episode! Jeg håber at du er blevet klogere på Danmarks h
 <th> 
 <details>
 <summary>
-**1 - Danskforeningsliv**
+<h1 style="text-align: center;"> 1 - Dansk foreningsliv </h1>
 </summary>
 <p>
 Hej, og velkommen til første episode af ”Dansk i ørerne”. ”Dansk i ørerne” er en ny podcast, hvor jeg i korte afsnit vil snakke om emner, der er relateret til Danmark og danskerne. Jeg vil forsøge at snakke lidt langsommere og mere tydeligt, så man kan lytte til podcasten, selvom man ikke har dansk som sit modersmål. Man kan finde teksten til denne episode på podcastens hjemmeside, www.danskioererne.dk.
