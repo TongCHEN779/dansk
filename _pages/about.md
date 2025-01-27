@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<audio controls src="https://www.youtube.com/watch?v=0i-IfRvNmvc"></audio>
+<video controls src="https://www.youtube.com/watch?v=0i-IfRvNmvc"></video>
 
 # Hendes Majestæt Dronningens nytårstale 2023.
 
