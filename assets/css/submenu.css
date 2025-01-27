@@ -25,11 +25,6 @@
   font-weight: normal; /* Reset submenu font weight */
 }
 
-/* Add hover effect for submenu links */
-.submenu .masthead__submenu-item a:hover {
-  background: #f5f5f5; /* Optional: Add hover background color */
-}
-
 /* Show submenu on hover */
 .masthead__menu-item:hover .submenu {
   display: block;
