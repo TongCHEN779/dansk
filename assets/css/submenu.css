@@ -1,7 +1,6 @@
 /* Style for the main menu items */
 .masthead__menu-item {
   position: relative;
-  list-style: none; /* Remove default list styling */
 }
 
 /* Hide submenu by default */
@@ -13,30 +12,12 @@
   background: white;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   z-index: 1000;
-  margin: 0; /* Remove default margin */
-  padding: 0; /* Remove default padding */
-  width: 200px; /* Set a consistent width for the submenu */
 }
 
-/* Ensure submenu items stack vertically */
-.submenu .masthead__submenu-item {
-  display: block; /* Stack items vertically */
-  width: 100%; /* Ensure items take full width of submenu */
-}
-
-/* Style submenu links */
+/* Style submenu items */
 .submenu .masthead__submenu-item a {
-  display: block; /* Make links block-level to stack properly */
-  padding: 10px 15px; /* Add spacing */
-  text-decoration: none; /* Remove underline */
-  color: #333; /* Set text color */
-  background: transparent; /* Ensure no default background */
-}
-
-/* Add hover effect for links */
-.submenu .masthead__submenu-item a:hover {
-  background: #f5f5f5; /* Highlight on hover */
-  color: #000; /* Optional: Change text color on hover */
+  padding: 10px 20px;
+  font-weight: normal; /* Reset submenu font weight */
 }
 
 /* Show submenu on hover */
