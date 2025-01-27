@@ -22,7 +22,12 @@ toc_depth: 3
     const tocList = document.createElement("ul");
 
     headings.forEach((heading) => {
-      const id = heading.textContent.trim().toLowerCase().replace(/\s+/g, "-");
+      if (heading.textContent.trim() === "") return; // Skip empty headings
+
+      const id = heading.textContent
+        .trim()
+        .toLowerCase()
+        .replace(/\s+/g, "-");
       heading.id = id;
 
       const tocItem = document.createElement("li");
