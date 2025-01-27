@@ -116,3 +116,11 @@ any formatting and layout you want to a collapsible item. For example:</p>
 </div>
 <h2>No longer expanding!</h2>
 <p>This stuff is just regular.</p>
+
+
+<details>
+<summary> title </summary>
+<p>
+content
+</p>
+</details> 
