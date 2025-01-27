@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Lær Dansk af Dronningen"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,7 @@ redirect_from:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0i-IfRvNmvc?si=b-RHP-b45pYyGXxZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br>
-<h1 style="text-align: center;"> Læs H.M. Dronningens nytårstale 2023 </h1>
-<br>
-**<p style="text-align: center;">Hendes Majestæt Dronningens nytårstale 2023</p>**
+<h1 style="text-align: center;"> Hendes Majestæt Dronningens nytårstale 2023 </h1>
 <br>
 Vi har netop fejret julen, den dejlige fest, med juletræ, tændte lys og forventningsfulde børn. I den mørkeste tid på året lyser julen op. Nu står det nye år for døren, i aften fejrer vi nytårsaften. Foran os ligger et år, som vi møder med forventning, men også med bekymring, for der sker voldsomme ting ude i verden.
 
