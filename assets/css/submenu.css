@@ -16,8 +16,8 @@
 
 /* Style for submenu items to stack vertically */
 .submenu .masthead__submenu-item {
-  position: relative;
-  display: block; /* Stack items vertically */
+  position: relative!important;
+  display: block!important; /* Stack items vertically */
   width: 100%; /* Ensure items take up full width of the submenu */
   margin: 0; /* Reset margin */
 }
