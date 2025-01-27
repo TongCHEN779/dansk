@@ -27,7 +27,6 @@ author_profile: true
 <tr>
 <th> <audio controls src="https://danskioererne.dk/podcast-player/36/blabla.mp4"></audio> </th>
 <th> 
-<button type="button" class="collapsible">2 - Københavns historie</button>
 <div class="content">
   <p>Lorem ipsum...</p>
 </div>
@@ -65,6 +64,10 @@ Det var alt for denne episode! Jeg håber at du er blevet klogere på Danmarks h
 <tr>
 <th> <audio controls src="https://danskioererne.dk/podcast-player/39/eksempel-paa-podcast.mp4"></audio> </th>
 <th> 
+<button type="button" class="collapsible">2 - Københavns historie</button>
+<div class="content">
+  <p>Lorem ipsum...</p>
+</div>
 <details>
 <summary>
 <h1 style="text-align: center;"> 1 - Dansk foreningsliv </h1>
