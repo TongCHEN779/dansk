@@ -33,7 +33,7 @@ author_profile: true
 </summary>
 <p>
 Hej, og velkommen til ”dansk i ørerne”. Denne episode handler om Danmarks hovedstad, København. Teksten til denne episode kan findes på podcastens hjemmeside.
-<br>
+<br><br>
 København er Danmarks hovedstad og har 1.3 millioner indbyggere. Det kan faktisk være lidt forvirrende, når danskere snakker om København. København kan nemlig både dække over ”Københavns kommune” og ”Storkøbenhavn”. Københavns kommune er en af de 18 kommuner, der findes i Storkøbenhavn, og her bor cirka 600.000 mennesker. Storkøbenhavn er hele København og området omkring København, der udgør Hovedstaden i Danmark. Denne episode handler om Storkøbenhavn og Storkøbenhavns historie.
 <br>
 København er en by med en meget lang historie. Arkæologer har fundet genstande helt tilbage fra stenalderen, altså for mere end 4000 år siden. I vikingetiden for omkring 1000 år siden begyndte man at anlægge byer i Københavnsområdet. At anlægge en by, betyder at man grundlægger og bygger en by. I 1100-tallet gav Kong Valdemar Biskop Absalon flere byer i gave. En af de byer, som Biskop Valdemar fik i gave, var København. Han byggede en borg og en bymur i byen. Herefter begyndte København for alvor at udvikle sig. I løbet af de næste 200 år blev der bygget tre store kirker, og København voksede til omkring 5000 indbyggere. I denne periode forblev byen under kirkens ejerskab. I år 1419 lykkedes det den danske konge, Erik af Pommern, at overtage magten over København. 50 år senere blev Københavns universitet grundlagt som det første universitet i Danmark, og København var nu landets vigtigste by.
