@@ -324,6 +324,7 @@ author_profile: true
 <td> away (from) </td>
 <td> Magnetfeltets styrke bliver mindre, jo længere man kommer væk fra anlægget. </td>
 </tr>
+</table>
 
 <br>
 

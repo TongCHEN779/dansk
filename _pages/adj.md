@@ -5,7 +5,7 @@ permalink: /ord_og_gram/adj/
 author_profile: true
 ---
 
-<h1 id="adj" style="text-align: center;"> Adjektiver </h1>
+<h1 style="text-align: center;"> Adjektiver </h1>
 <script>
     function playSound(soundId) {
         var audioElement = document.getElementById(soundId);
@@ -4780,4 +4780,4 @@ author_profile: true
 <td> - </td>
 <td> other </td>
 </tr>
-<!-- </table> -->
+</table>
