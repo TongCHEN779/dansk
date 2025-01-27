@@ -1,12 +1,12 @@
 /* Style for the main menu items */
 .masthead__menu-item {
-  position: absolute;
+  position: fixed;
 }
 
 /* Hide submenu by default */
 .submenu {
   display: none;
-  position: absolute;
+  position: fixed;
   top: 100%;
   left: 0;
   background: white;
