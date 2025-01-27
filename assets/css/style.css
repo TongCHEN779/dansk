@@ -5,7 +5,7 @@
   width: 250px; /* Set width for the sidebar */
   max-height: calc(100vh - 120px); /* Allow space for footer/header */
   overflow-y: auto; /* Scrollable for long TOCs */
-  border: 1px solid #ddd;
+  border: 2px solid ;
   padding: 10px;
   background-color: #f9f9f9;
   border-radius: 5px;
@@ -34,6 +34,9 @@
 
 /* Adjust main content to not overlap */
 .main-content {
+  position: relative; /* Ensure proper stacking context */
+  z-index: 1; /* Lower than .toc-container */
   margin-left: 280px; /* Adjust based on TOC width + left margin */
   padding: 20px; /* Add padding for readability */
+  border: 2px solid #ddd; /* Main content boundary */
 }

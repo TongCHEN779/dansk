@@ -37,14 +37,14 @@ toc_depth: 3
   });
 </script>
 
-<!-- <div id="table-of-contents" class="toc-container">
+<div id="table-of-contents" class="toc-container">
 <ul>
 <li><a href="#adj">Adjektivernes former</a></li>
 <li><a href="#sub">Substantivernes former</a></li>
 <li><a href="#verb">Verbernes former</a></li>
 <li><a href="#spørg">Spørgeord</a></li>
 </ul>
-</div> -->
+</div>
 
 <div class="main-content">
 <h1 id="adj" style="text-align: center;"> Adjektivernes former </h1>
