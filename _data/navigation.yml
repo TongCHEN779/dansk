@@ -5,54 +5,54 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Ordforråd og Grammatik"
-    url: /ord_og_gram/
-    subcategories:
-      - title: "Adjektiver"
-        url: /ord_og_gram/adj/
-      - title: "Adverbier"
-        url: /ord_og_gram/adv/
-      - title: "Faste udtryk"
-        url: /ord_og_gram/fast/
-      - title: "Konjunktioner"
-        url: /ord_og_gram/konj/
-      - title: "Pronominer"
-        url: /ord_og_gram/pron/
-      - title: "Præpositioner"
-        url: /ord_og_gram/Præp/
-      - title: "Substantiver"
-        url: /ord_og_gram/sub/
-      - title: "Verber"
-        url: /ord_og_gram/verb/
+  # - title: "Ordforråd og Grammatik"
+  #   url: /ord_og_gram/
+  #   subcategories:
+  #     - title: "Adjektiver"
+  #       url: /ord_og_gram/adj/
+  #     - title: "Adverbier"
+  #       url: /ord_og_gram/adv/
+  #     - title: "Faste udtryk"
+  #       url: /ord_og_gram/fast/
+  #     - title: "Konjunktioner"
+  #       url: /ord_og_gram/konj/
+  #     - title: "Pronominer"
+  #       url: /ord_og_gram/pron/
+  #     - title: "Præpositioner"
+  #       url: /ord_og_gram/Præp/
+  #     - title: "Substantiver"
+  #       url: /ord_og_gram/sub/
+  #     - title: "Verber"
+  #       url: /ord_og_gram/verb/
 
-  - title: "Lytte"
-    url: /lytte/
-    subcategories:
-      - title: "Dansk i Ørerne"
-        url: /lytte/dansk_i_orerne/
-      - title: "Folkerepublikken Kina 75 år"
-        url: /lytte/kina_75_aar/
-      - title: "Højt til Loftet"
-        url: /lytte/hojt_til_loftet/
-      - title: "Nytårstaler"
-        url: /lytte/nytaarstaler/
-      - title: "Sangen"
-        url: /lytte/sangen/
+  # - title: "Lytte"
+  #   url: /lytte/
+  #   subcategories:
+  #     - title: "Dansk i Ørerne"
+  #       url: /lytte/dansk_i_orerne/
+  #     - title: "Folkerepublikken Kina 75 år"
+  #       url: /lytte/kina_75_aar/
+  #     - title: "Højt til Loftet"
+  #       url: /lytte/hojt_til_loftet/
+  #     - title: "Nytårstaler"
+  #       url: /lytte/nytaarstaler/
+  #     - title: "Sangen"
+  #       url: /lytte/sangen/
 
-  - title: "Læsning"
-    url: /læsning/
-    subcategories:
-      - title: "Against All Odds - SMK"
-        url: /læsning/against_all_odds/
-      - title: "Museet STORM"
-        url: /læsning/museet_storm/
-      - title: "Davidssamling"
-        url: /læsning/david/
-      - title: "Frihedsmuseet"
-        url: /læsning/frihed/
-      - title: "Salon des Refusés - SMK"
-        url: /læsning/salon_des_refuses/
-      - title: "Uddrag"
-        url: /læsning/uddrag/
-      - title: "Verdensarv Vadehavet"
-        url: /læsning/verdensarv_vadehavet/
+  # - title: "Læsning"
+  #   url: /læsning/
+  #   subcategories:
+  #     - title: "Against All Odds - SMK"
+  #       url: /læsning/against_all_odds/
+  #     - title: "Museet STORM"
+  #       url: /læsning/museet_storm/
+  #     - title: "Davidssamling"
+  #       url: /læsning/david/
+  #     - title: "Frihedsmuseet"
+  #       url: /læsning/frihed/
+  #     - title: "Salon des Refusés - SMK"
+  #       url: /læsning/salon_des_refuses/
+  #     - title: "Uddrag"
+  #       url: /læsning/uddrag/
+  #     - title: "Verdensarv Vadehavet"
+  #       url: /læsning/verdensarv_vadehavet/
