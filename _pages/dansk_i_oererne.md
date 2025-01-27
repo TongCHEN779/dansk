@@ -27,9 +27,6 @@ author_profile: true
 <tr>
 <th> <audio controls src="https://danskioererne.dk/podcast-player/36/blabla.mp4"></audio> </th>
 <th> 
-<div class="content">
-  <p>Lorem ipsum...</p>
-</div>
 <details>
 <summary>
 <h1 style="text-align: center;"> 2 - Københavns historie </h1>
@@ -64,10 +61,6 @@ Det var alt for denne episode! Jeg håber at du er blevet klogere på Danmarks h
 <tr>
 <th> <audio controls src="https://danskioererne.dk/podcast-player/39/eksempel-paa-podcast.mp4"></audio> </th>
 <th> 
-<button type="button" class="collapsible">2 - Københavns historie</button>
-<div class="content">
-  <p>Lorem ipsum...</p>
-</div>
 <details>
 <summary>
 <h1 style="text-align: center;"> 1 - Dansk foreningsliv </h1>
@@ -95,3 +88,31 @@ Det var alt for denne episode! Jeg håber du blev klogere på dansk foreningskul
 </table>
 
 
+<div class="openberkeley-collapsible-container">
+<h2 class="openberkeley-collapsible-controller">Line of collapsible text</h2>
+<div class="openberkeley-collapsible-target">
+<p>In hac habitasse platea dictumst. Suspendisse dictum, velit vel vehicula gravida,
+turpis nulla dignissim nibh, a tristique enim dui vestibulum enim. Duis cursus
+euismod diam vitae gravida. Etiam a purus lorem.</p>
+</div>
+</div>
+<div class="openberkeley-collapsible-container">
+<h2 class="openberkeley-collapsible-controller">Another line of collapsible text</h2>
+<div class="openberkeley-collapsible-target">
+<p>Here is another paragraph that will expand. It can be long or short. You can add
+any formatting and layout you want to a collapsible item. For example:</p>
+<h3>Here is a subheading</h3>
+<p>More text.</p>
+<table>
+<tbody>
+<tr><th>Table header</th><th>Table header 2</th></tr>
+<tr>
+<td>Content of table</td>
+<td>More content of table</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h2>No longer expanding!</h2>
+<p>This stuff is just regular.</p>
