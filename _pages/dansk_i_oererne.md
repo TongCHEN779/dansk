@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /lytte/dansk_i_orerne/
+permalink: /lytte/dansk_i_oererne/
 author_profile: true
 ---
 
@@ -74,7 +74,7 @@ I Danmark er omkring 3 millioner mennesker medlem af en forening. Der findes cir
 
 Både børn og voksne er medlemmer i foreninger. Hos børn er det ofte sportsforeninger, musikforeninger og spejderforeninger, der er mest populære. Langt de fleste børn dyrker sport i en forening et par gange i ugen. I 2020 var 182.000 børn og unge fx medlem af en fodboldklub. Ofte er det børnenes forældre, der er frivillige i børnenes foreninger. Fx ved at sidde i bestyrelsen, køre børnene til stævner og kampe og bage kage til arrangementerne i foreningen. Mange voksne er ligeledes medlemmer i en forening.
 
-En forening styres af en bestyrelse. Mindst en gang om året holder foreningen en generalforsamling, hvor foreningens medlemmer stemmer om, hvem der skal sidde i bestyrelsen. Det er som regel frivilligt arbejde at være i en forenings bestyrelse. Bestyrelsen holder løbende møder og beslutter hvad foreningen skal gøre. Fx hvilke arrangementer og aktiviteter, som foreningen skal afholde. 
+En forening styres af en bestyrelse. Mindst en gang om året holder foreningen en generalforsamling, hvor foreningens medlemmer stemmer om, hvem der skal sidde i bestyrelsen. Det er som regel frivilligt arbejde at være i en forenings bestyrelse. Bestyrelsen holder løbende møder og beslutter hvad foreningen skal gøre. Fx hvilke arrangementer og aktiviteter, som foreningen skal afholde.
 
 Den danske foreningskultur startede i 1700-tallet og udsprang i København. En af de første foreninger man kender til, er Det Kongelige Danske Videnskabernes Selskab, der blev stiftet i 1742 med det formål at fremme oplysningen om historie, filosofi, naturvidenskab og matematik. I starten var det primært de mere velstillede borgere i samfundet, der dannede foreninger. I løbet af 1800-tallet begyndte større dele af befolkningen også at engagere sig i foreninger. I 1849 blev det skrevet i den danske grundlov, at alle borgere havde ret til at stifte en forening. Foreningskulturen førte også til dannelsen af fagforeninger, men det vil jeg fortælle om i en anden episode.
 

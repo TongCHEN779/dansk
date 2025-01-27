@@ -1,10 +1,10 @@
 /* Style for the main menu items */
-.masthead__menu-item {
+/* .masthead__menu-item {
   position: relative;
-}
+} */
 
 /* Hide submenu by default */
-.submenu {
+/* .submenu {
   display: none;
   position: absolute;
   top: 100%;
@@ -12,14 +12,14 @@
   background: white;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   z-index: 1000;
-}
+} */
 
 /* Style submenu items */
-.submenu .masthead__submenu-item {
+/* .submenu .masthead__submenu-item {
   padding: 10px 20px;
-}
+} */
 
 /* Show submenu on hover */
-.masthead__menu-item:hover .submenu {
+/* .masthead__menu-item:hover .submenu {
   display: block;
-}
+} */

@@ -29,30 +29,30 @@ main:
     url: /lytte/
     subcategories:
       - title: "Dansk i Ørerne"
-        url: /lytte/dansk_i_orerne/
+        url: /lytte/dansk_i_oererne/
       - title: "Folkerepublikken Kina 75 år"
         url: /lytte/kina_75_aar/
       - title: "Højt til Loftet"
-        url: /lytte/hojt_til_loftet/
+        url: /lytte/hoejt_til_loftet/
       - title: "Nytårstaler"
         url: /lytte/nytaarstaler/
       - title: "Sangen"
         url: /lytte/sangen/
 
   - title: "Læsning"
-    url: /læsning/
+    url: /laesning/
     subcategories:
       - title: "Against All Odds - SMK"
-        url: /læsning/against_all_odds/
+        url: /laesning/against_all_odds/
       - title: "Museet STORM"
-        url: /læsning/museet_storm/
+        url: /laesning/museet_storm/
       - title: "Davidssamling"
-        url: /læsning/david/
+        url: /laesning/david/
       - title: "Frihedsmuseet"
-        url: /læsning/frihed/
+        url: /laesning/frihed/
       - title: "Salon des Refusés - SMK"
-        url: /læsning/salon_des_refuses/
+        url: /laesning/salon_des_refuses/
       - title: "Uddrag"
-        url: /læsning/uddrag/
+        url: /laesning/uddrag/
       - title: "Verdensarv Vadehavet"
-        url: /læsning/verdensarv_vadehavet/
+        url: /laesning/verdensarv_vadehavet/
