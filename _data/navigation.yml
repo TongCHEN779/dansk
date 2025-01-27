@@ -25,20 +25,23 @@ main:
       - title: "Verber"
         url: /ord_og_gram/verb/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Lytte"
+    url: /lytte/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Læsning"
+    url: /læsning/
+    subcategories:
+      - title: "Against All Odds - SMK"
+        url: /læsning/against_all_odds/
+      - title: "Museet STORM"
+        url: /læsning/museet_storm/
+      - title: "Davidssamling"
+        url: /læsning/david/
+      - title: "Frihedsmuseet"
+        url: /læsning/frihed/
+      - title: "Salon des Refusés - SMK"
+        url: /læsning/salon_des_refuses/
+      - title: "Uddrag"
+        url: /læsning/uddrag/
+      - title: "Verdensarv Vadehavet"
+        url: /læsning/verdensarv_vadehavet/
