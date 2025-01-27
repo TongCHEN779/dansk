@@ -15,19 +15,15 @@
 }
 
 /* Style submenu items */
-/* .submenu .masthead__submenu-item {
-  padding: 10px 20px;
-} */
-
-/* Show submenu on hover */
-.masthead__menu-item:hover .submenu {
-  display: block;
-}
-
-/* Style submenu items */
 .submenu .masthead__submenu-item {
   padding: 10px 20px;
   white-space: nowrap; /* Prevent text wrapping */
   display: block;      /* Ensure items stack vertically */
   border-bottom: 1px solid #eee; /* Optional: Separator between items */
+  font-weight: normal; /* Reset font weight */
+}
+
+/* Show submenu on hover */
+.masthead__menu-item:hover .submenu {
+  display: block;
 }
