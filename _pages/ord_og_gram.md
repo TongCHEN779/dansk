@@ -3,52 +3,9 @@ layout: archive
 title: ""
 permalink: /ord_og_gram/
 author_profile: true
-# output:
-#   html_document:
-#     toc: true
-#     toc_float: true
-#     toc_collapsed: true
-# toc_depth: 3
 ---
 
-<!-- <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const tocContainer = document.querySelector("#table-of-contents");
-    if (!tocContainer) return;
-
-    const headings = document.querySelectorAll("h1, h2, h3");
-    const tocList = document.createElement("ul");
-
-    headings.forEach((heading) => {
-      if (heading.textContent.trim() === "") return; // Skip empty headings
-
-      const id = heading.textContent
-        .trim()
-        .toLowerCase()
-        .replace(/\s+/g, "-");
-      heading.id = id;
-
-      const tocItem = document.createElement("li");
-      tocItem.innerHTML = `<a href="#${id}">${heading.textContent}</a>`;
-      tocList.appendChild(tocItem);
-    });
-
-    tocContainer.appendChild(tocList);
-  });
-</script> -->
-
-<!-- <div id="table-of-contents" class="toc-container">
-<ul>
-<li><a href="#adj">Adjektivernes former</a></li>
-<li><a href="#sub">Substantivernes former</a></li>
-<li><a href="#verb">Verbernes former</a></li>
-<li><a href="#spørg">Spørgeord</a></li>
-</ul>
-</div> -->
-
-<div class="main-content">
 <h1 id="adj" style="text-align: center;"> Adjektivernes former </h1>
-<p>
 <style>
     table {
         border-collapse: collapse;
@@ -136,12 +93,10 @@ author_profile: true
 <td> spændende </td>
 </tr>
 </table>
-</p>
 
 <br>
 
 <h1 id="sub" style="text-align: center;"> Substantivernes former </h1>
-<p>
 <style>
     table {
         border-collapse: collapse;
@@ -214,12 +169,10 @@ author_profile: true
 <td> cyklerne </td>
 </tr>
 </table>
-</p>
 
 <br>
 
 <h1 id="verb" style="text-align: center;"> Verbernes former </h1>
-<p>
 <style>
     table {
         border-collapse: collapse;
@@ -384,12 +337,10 @@ author_profile: true
 <td> - </td>
 </tr>
 </table>
-</p>
 
 <br>
 
 <h1 id="spørg" style="text-align: center;"> Spørgeord </h1>
-<p>
 <style>
     table {
         border-collapse: collapse;
@@ -509,5 +460,3 @@ author_profile: true
 <td> Hvorved adskiller skemaernes indhold sig fra hinanden? </td>
 </tr>
 </table>
-</p>
-</div>
