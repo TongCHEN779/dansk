@@ -121,6 +121,8 @@ any formatting and layout you want to a collapsible item. For example:</p>
 <details>
 <summary> title </summary>
 <p>
-content
+content 1
+<br>
+content 2
 </p>
 </details> 
