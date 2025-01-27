@@ -6,7 +6,7 @@
 /* Hide submenu by default */
 .submenu {
   display: none;
-  position: relative;
+  position: absolute!important;
   top: 100%;
   left: 0;
   background: white;
@@ -16,7 +16,6 @@
 
 /* Style for submenu items to stack vertically */
 .submenu .masthead__submenu-item {
-  position: relative!important;
   display: block!important; /* Stack items vertically */
   width: 100%; /* Ensure items take up full width of the submenu */
   margin: 0; /* Reset margin */
@@ -24,8 +23,7 @@
 
 /* Style submenu items */
 .submenu .masthead__submenu-item a {
-  position: relative;
-  display: block;
+  display: block!important;
   padding: 10px 20px;
   font-weight: normal; /* Reset submenu font weight */
 }
