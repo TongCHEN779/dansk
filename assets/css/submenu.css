@@ -18,3 +18,9 @@
 .submenu .masthead__submenu-item {
   display: block!important; /* Ensure each submenu item is a block element */
 }
+
+.submenu .masthead__submenu-item a {
+  display: block; /* Ensure links within submenu items span the full width */
+  padding: 10px 20px;
+  font-weight: normal; /* Reset submenu font weight */
+}
