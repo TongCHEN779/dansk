@@ -38,9 +38,11 @@ Hver generation skaber og omskriver historien. Deter måden, vi gør det på, de
 <th style="vertical-align: top;">
 <h1> Kunstneren Venny Soldan-Brofeldt - Hanna Hirsch-Pauli </h1>
 <br>
+<span style="font-weight: normal">
 I vinteren 1886-87 malede svenske Hanna Hirsch et portræt af sin finske veninde, kunstneren Venny Soldan, i deres fælles atelier på Montparnasse i Paris. Soldan sidder på et tæppe af indtørret farve i et spartansk atelier med ler i hænderne. Hun er malet helt i sort og med åben mund, som er hun ved at sige noget.<br><br>
 Hænderne er snavsede af ler og gestikken tydeligt domineret af den uformelle tone mellem kunstner og model. At hun sidder på gulvet udfordrer ideen om, at kunst kun kan skabes under ideelle betingelser. Soldan er ikke en passiv model, men en aktiv, professionel kunstner. Den åbne mund antyder kontakt, måske med kunstneren selv eller en anden i rummet, og skaber en følelse af forbindelse og fællesskab.<br><br>
 Hirsch beskrev senere den frihed, kvinderne følte, trods de nøjsomme forhold i det fugtige atelier. Maleriet er ikke kun en hyldest til veninden som kunstner. Det er også et vidnesbyrd om kvindernes styrke, fællesskab og modstand mod tidens begrænsende normer.
+</span>
 </th>
 </tr>
 
@@ -49,9 +51,11 @@ Hirsch beskrev senere den frihed, kvinderne følte, trods de nøjsomme forhold i
 <th style="vertical-align: top;">
 <h1> Anna Seekamp, Kunstnerens søster - Bertha Wegmann </h1>
 <br>
+<span style="font-weight: normal">
 Wegmanns portræt forestiller søsteren Anna Seekamp, der ser direkte på os, mens fingrene leger med et garnnøgle. Modellen er trukket helt frem i forgrunden og viser, at kunstneren suverænt behersker de ukonventionelle øjebliksbilleder, hvor det flygtige og umiddelbare forenes med nærvær og intimitet.<br><br>
 Wegmann vandt en tredje klasses medalje for portrættet på Parisersalonen - den højeste udmærkelse nogen kvindelig kunstner fra Skandinavien opnåede mellem 1878 og 1889.<br><br>
 Som en af Danmarks mest efterspurgte portrætmalere dokumenterede Wegmann nationens store personligheder med succes. Selv boede hun i udlandet i lange perioder. Den transnationale livsstil var nødvendig, men betød også, at hun først i nyere tid har fået en plads i kunsthistorien.
+</span>
 </th>
 </tr>
 
@@ -60,10 +64,12 @@ Som en af Danmarks mest efterspurgte portrætmalere dokumenterede Wegmann nation
 <th style="vertical-align: top;">
 <h1> Interlinked - Ix Shells </h1>
 <br>
+<span style="font-weight: normal">
 Ix Shells har skabt tre værker til udstillingen. Det første er den immersive installation Interlinked. Værket er baseret på data om udstillingens historiske kunstnere. Mange tænker på data som numeriske værdier, men data kan også være historier, farver eller lyde. I Interlinked indgår data om de historiske kvindelige kunstnere, deres værker, liv og personlige relationer. Tre af de historiske værker er blevet udvalgt og bearbejdet kunstnerisk af Ix Shells og vises her i et nutidigt, digitalt univers.<br><br>
 Ix Shells har opstillet en række parametre for, hvordan data skal bearbejdes. Dog vil algoritmerne, som er trin-for-trin instruktioner eller regler, der bruges til at behandle data (dvs. analysere og ændre realtid, hvilket betyder, at værket hele tiden er i forandring.<br><br>
 De historiske kvindelige kunstnere bliver løbende fortolket og oplevet på stadigt nye måder. I Interlinked indgår data om de historiske kunstneres rejser rundt i Europa og Mellemøsten. Rejserne var med til at frisætte kunstnerne og skabe fundamentet for deres karrierer. En sensor registrere dine bevægelser i rummet og lader dig blive en del af disse rejser på tværs af tid og sted.<br><br>
 Rundt omkring i udstillingen er der placeret en række skærme, Lost Pixels, der viser Ix Shells' digitale fortolkninger af udvalgte værker. De er en påmindelse om, at vi hele tiden er i gang med at skabe vores egen historie. Den samlede mængde af data vises frem i installationen Backend, som du vil møde senere i udstillingen.
+</span>
 </th>
 </tr>
 </table>
@@ -80,8 +86,34 @@ Følg kindernes nomadiske bevægelser mellem deres nordiske hjemlande, Europas s
 <th style="vertical-align: top;">
 <h1> Valkyrier - Elisabeth Jerichau Baumann </h1>
 <br>
+<span style="font-weight: normal">
 I nordisk mytologi er det valkyrierne, der afgør, hvem der skal leve og dø i kamp. I Jerichau Baumanns maleri fremstilles de som formidable kvindeskikkelser af stor skønhed og styrke. Valkyrierne dominerer værket med kraftfulde positurer og hævede spyd, understreget af hestenes vildskab og de hvirvlende skyer. Det haster med at bringe de faldne til Valhal.<br><br>
 Maleriet blev udstillet i London i 1871. Jerichau Baumann var polsk, men dansk gift, blev uddannet i Tyskland og tilhørte Düsseldorf-skolen. De politiske og revolutionære temaer i hendes kunst var fremmede for den danske kunstscene. Med sine portrætter af nordafrikanske kvinder, som dette til venstre, skrev kunstneren sig ind i europæisk kunsthistorie.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/6.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Selvportræt - Amanda Sidwall </h1>
+<br>
+<span style="font-weight: normal">
+Amanda Sidwall var en af de første studerende i 'Kvindeafdelingen', der åbnede på Det Kongelige Svenske Kunstakademi i 1864. I 1874 tog hun til Paris for at fortsætte sine studier på Académie Julian. Senere etablerede hun sit eget atelier i byen og forsatte undertiden som lærer ved skolen, hvor hun hjalp flere svenske kunstnere ind, bl.a. Mina Carlsson-Bredberg, som man vil møde senere i udstillingen.<br><br>
+Sidwall blev godt modtaget i sin levetid, også af anmelderne, og solgte værker i både Frankrig og Sverige. På Parisersalonen i 1877 blev to af hendes malerier endda solgt til den franske stat. Selvportrættet med hattens blå silkesløjfe og bogen i hånden blev malet, mens hun stadig var studerende ved Stockholms Akademi.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/7.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/8.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Vinterlandskab - Fanny Churberg </h1>
+<br>
+<span style="font-weight: normal">
+Vinterlandskab er et af Churbergs sidste værker. Det skildrer den rå skønhed i den finske vildmark. Med dristige penselstrøg fanger hun det dramatiske samspil mellem lys og skygge i en uvejrsscene. Hendes evne til at formidle naturens stemninger og atmosfære med følsomhed og intensitet adskilte hende fra samtidige kunstnere.<br><br>
+Churberg mødte så meget kritik, at hun opgav sin karriere i 1880 som 35-årig. Hun indvarslede en ny måde at male landskaber på i Norden, der var dristig, ekspressiv og eksplosiv. Desuden skrev hun kunstkritik, introducerede kvindelige kunstnerskaber og uddannede sig i Düsseldorf og siden i Paris ad flere omgange. De omfattende rejser på tværs af Europa gjorde hende til en af de første transnationale kvindelige malere i de nordiske lande.
+</span>
 </th>
 </tr>
 </table>
