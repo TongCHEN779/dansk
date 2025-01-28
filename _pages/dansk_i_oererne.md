@@ -25,6 +25,31 @@ author_profile: true
 </style>
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<th> <audio controls src="https://danskioererne.dk/podcast-player/92/3-overblik-over-dansk-politik-venstrefloejen.mp4"></audio> </th>
+<th> 
+<details>
+<summary>
+<h1> 3 - Overblik over dansk politik – venstrefløjen </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. Denne episode giver et overblik over dansk politik og partierne på venstrefløjen. Du kan finde teksten til episoden på podcastens hjemmeside, www.danskioererne.dk.<br><br>
+Danmark er et parlamentarisk demokrati. Den lovgivende magt er placeret i det danske parlament, i Folketinget. Nogle ting bliver dog besluttet i Danmarks regioner og kommuner. Det vil jeg fortælle om i en anden episode.<br><br>
+I Folketinget sidder 179 folkevalgte politikere. De repræsenterer 16 forskellige partier; Socialdemokratiet, Venstre, Dansk Folkeparti, Socialistisk Folkeparti (SF), Radikale Venstre, Enhedslisten, Det Konservative Folkeparti, Nye Borgerlige, Liberal Alliance, Frie Grønne, Alternativet, Kristendemokraterne, samt to grønlandske partier og to partier fra Færøerne. Desuden er der en håndfuld folkevalgte politikere, der ikke repræsenterer et parti.<br><br>
+Når man taler om partier og politik i Danmark, så snakker man ofte om blå og røde partier. De blå partier er de højreorienterede, mere liberale partier. De røde partier er de venstreorienterede og mere socialistiske partier. I denne episode vil jeg fortælle om de røde og venstreorienterede partier. I næste episode vil jeg fortælle om de blå, højreorienterede partier.<br><br>
+Regeringen består af Socialdemokratiet. Socialdemokratiet har 49 af de 179 pladser i Folketinget. Formanden er Mette Frederiksen, og hun er også Danmarks statsminister. Tidligere regeringer har ofte bestået af flere partier, men lige nu er det altså kun ét parti, der sidder i regering. Denne regering har vi haft siden år 2019.<br><br>
+Socialdemokratiet er et af Danmarks ældste partier, og blev dannet i år 1871. Socialdemokratiet har siddet i Folketinget siden 1884 og lige nu er det Danmarks største parti. Socialdemokratiets vigtigste mærkesag er velfærdsstaten. De mener at vi skal udvide og bruge flere penge på det danske velfærdssystem. En af deres vigtigste sager de sidste par år, har været retten til at gå tidligere på pension, hvis man har haft et fysisk hårdt arbejdsliv. Desuden mener de, at velfærden er blevet for centraliseret omkring storbyerne, og ønsker at skabe flere daginstitutioner, skoler og lægehuse i de mindre byer og på landet. Socialdemokratiet er positivt indstillet over for et stærkt EU-samarbejde. Desuden arbejder Socialdemokratiet for den grønne omstilling. De ønsker at reducere Danmarks CO2-udledning og gøre Danmark klimaneutralt, samt beskytte det danske grundvand, så man fortsat kan drikke vand fra vandhanen.<br><br>
+Regeringen har tre støttepartier: Radikale Venstre, Socialistisk Folkeparti og Enhedslisten. Radikale Venstre er et socialliberalt parti, der er placeret i midten af det politiske spektrum. Historisk set har de både støttet blå og røde regeringer. Deres leder er Sofie Carsten Nielsen og partiet har 14 pladser i Folketinget. Partiet blev stiftet i år 1905. Deres mærkesager er især miljø og klima, samt en mildere flygtningepolitik. Desuden er partiet meget EU-positive og generelt meget globalt indstillede.
+Socialistisk Folkeparti kaldes som regel bare ”SF”. Partiets formand er Pia Olsen Dyhr, og de har 15 pladser i Folketinget. Partiet blev dannet i år 1959. Nogle af partiets vigtigste mærkesager de sidste par år har været ligestilling blandt mænd og kvinder i forhold til barsel, mere personale i vuggestuer og børnehaver, samt mere fokus på klima og den grønne omstilling.<br><br>
+Enhedslisten er det mest venstreorienterede parti i Folketinget. Partiet blev stiftet i år 1991. Som det eneste parti i Folketinget, har de ikke en formand eller en leder, da partiet styres som en kollektiv ledelse. I stedet vælger den en politisk ordfører. Mai Villadsen er lige nu partiets politiske ordfører. Enhedslisten blev valgt ind i Folketinget for første gang i år 1994. Enhedslisten er mere skeptisk over for EU, fordi de mener at EU ikke arbejder nok for klima, miljø, sundhed og velfærd. Deres vigtigste mærkesag er klimapolitikken, hvor de bl.a. ønsker at gøre offentlig transport i hele Europa billigere og gøre Europa klimaneutral allerede i år 2040.<br><br>
+Alternativet er også et af de røde partier, men de er ikke et af regeringens støttepartier. Det skyldes at Socialdemokratiet allerede havde et flertal i Folketinget, når de fik støtte fra Radikale Venstre, SF og Enhedslisten, så de behøvede ikke også et samarbejde med Alternativet. I praksis støtter Alternativet dog ofte regeringens politik. Partiet blev først stiftet i år 2013. Alternativets partileder er Franciska Rosenkilde. Partiet har kun én plads i Folketinget. Ved sidste folketingvalg fik de faktisk 4 pladser i Folketinget, men efter mange interne problemer i partiet, valgte tre af de fire folketingsmedlemmer at melde sig ud af partiet. Deres mest kendte mærkesager, er ønsket om en ny politisk kultur, indførelsen af 30-timers arbejdsuge og mere fokus på miljø- og klimapolitik.
+Frie Grønne blev stiftet i år 2020 og placerer sig også på venstrefløjen. Partiet er blevet stiftet af tidligere medlemmer af Alternativet, og lige nu har de tre pladser i Folketinget. Partiet er dog ikke direkte blevet valgt i Folketinget af vælgerne. De tre pladser i Folketinget skyldes, at de tre tidligere folkevalgte medlemmer af Alternativet har meldt sig ind i Frie Grønne.<br><br>
+Det var alt for denne episode! Jeg håber at episoden har gjort dig klogere på dansk politik og de forskellige danske partier på venstrefløjen. Tak fordi du lyttede med.
+</span>
+</details> 
+</th>
+</tr>
+
+<tr>
 <th> <audio controls src="https://danskioererne.dk/podcast-player/36/blabla.mp4"></audio> </th>
 <th> 
 <details>
