@@ -17,10 +17,10 @@ author_profile: true
     }
     /* Customize width for specific columns */
     th:nth-child(1), td:nth-child(1) {
-        width: 40%; /* First column */
+        width: 30%; /* First column */
     }
     th:nth-child(2), td:nth-child(2) {
-        width: 60%; /* Second column */
+        width: 70%; /* Second column */
     }
 </style>
 
