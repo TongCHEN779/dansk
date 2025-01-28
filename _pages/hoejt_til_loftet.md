@@ -5,7 +5,7 @@ permalink: /lytte/hoejt_til_loftet/
 author_profile: true
 ---
 
-<img align="center" src="http://tongchen779.github.io/dansk/files/htl.png" width="500"/>
+<p align="center"><img src="http://tongchen779.github.io/dansk/files/htl.png" width="500"/></p>
 
 <style>
     table {
