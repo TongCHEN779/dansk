@@ -12,17 +12,22 @@
   background: white;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   z-index: 1000;
+  padding: 0; /* Ensure no padding is applied to the submenu container */
+  margin: 0; /* Ensure no margin is applied to the submenu container */
 }
 
 /* Style submenu items */
 .submenu .masthead__submenu-item {
   display: block!important; /* Ensure each submenu item is a block element */
+  padding: 0; /* Reset padding for submenu items */
+  margin: 0; /* Reset margin for submenu items */
 }
 
 .submenu .masthead__submenu-item a {
   display: block; /* Ensure links within submenu items span the full width */
   padding: 10px 10px;
   font-weight: normal; /* Reset submenu font weight */
+  text-align: left; /* Ensure text alignment is consistent */
 }
 
 /* Show submenu on hover */
