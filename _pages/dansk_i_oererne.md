@@ -48,7 +48,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Danmarks fjer
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/148/17-lakrids.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/148/17-lakrids.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -67,7 +67,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på lakrids. De f
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/144/16-borgerforslag.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/144/16-borgerforslag.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -90,7 +90,7 @@ Det var alt for denne episode! I beskrivelsen til denne episode, har jeg lagt et
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/141/15-1-maj-i-danmark.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/141/15-1-maj-i-danmark.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -111,7 +111,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på hvordan man m
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/139/14-storebaeltsbroen.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/139/14-storebaeltsbroen.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -132,7 +132,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Storebæltsbr
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/136/13-paaske-i-danmark.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/136/13-paaske-i-danmark.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -161,7 +161,7 @@ Det var alt for denne episode. Jeg håber du nyder påskeferien og er blevet klo
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/124/12-novo-nordisk.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/124/12-novo-nordisk.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -183,7 +183,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Danmarks næs
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/121/11-danskernes-sundhed.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/121/11-danskernes-sundhed.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -206,7 +206,7 @@ Det var alt for denne episode! Husk at du kan støtte podcasten på www.buymeaco
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/119/10-haandbold.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/119/10-haandbold.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -229,7 +229,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på den populære
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/116/det-danske-forsvar.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/116/det-danske-forsvar.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -256,7 +256,7 @@ Det var alt for denne episode! Jeg håber du er blevet klogere på det danske fo
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/114/8-det-danske-skolesystem.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/114/8-det-danske-skolesystem.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -283,7 +283,7 @@ Det var alt for denne episode. Jeg håber du har fået et bedre overblik over de
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/111/7-dannebrog.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/111/7-dannebrog.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -305,7 +305,7 @@ Det var alt for denne episode! Jeg håber du er blevet klogere på Dannebrogs hi
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/107/6-fastelavn-i-danmark.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/107/6-fastelavn-i-danmark.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -330,7 +330,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på de danske fas
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/104/5-aarhus.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/104/5-aarhus.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -353,7 +353,7 @@ Det var alt for denne episode. Jeg håber du blev klogere på Danmarks næststø
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/102/4-overblik-over-dansk-politik-hoejrefloejen.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/102/4-overblik-over-dansk-politik-hoejrefloejen.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -374,7 +374,7 @@ Kristendemokraterne blev stiftet i 1970 og har en enkelt plads i Folketinget. De
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/92/3-overblik-over-dansk-politik-venstrefloejen.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/92/3-overblik-over-dansk-politik-venstrefloejen.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -399,7 +399,7 @@ Det var alt for denne episode! Jeg håber at episoden har gjort dig klogere på 
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/36/blabla.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/36/blabla.mp4"></audio> </th>
 <th> 
 <details>
 <summary>
@@ -433,7 +433,7 @@ Det var alt for denne episode! Jeg håber at du er blevet klogere på Danmarks h
 </tr>
 
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/39/eksempel-paa-podcast.mp4"></audio> </th>
+<th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/39/eksempel-paa-podcast.mp4"></audio> </th>
 <th> 
 <details>
 <summary>

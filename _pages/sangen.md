@@ -25,7 +25,7 @@ author_profile: true
 </style>
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/kqx72Brq3hQ?si=8YZ5yF88ZJrY_khq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/kqx72Brq3hQ?si=8YZ5yF88ZJrY_khq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -46,7 +46,7 @@ Børn! nu er jeg bleven træt<br>Og I fåer ei Mere,<br>Moder er i Kjøkkenet,<b
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/YE4oZj28T4w?si=Ezav3zjChWPWu_le" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/YE4oZj28T4w?si=Ezav3zjChWPWu_le" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -87,7 +87,7 @@ Zebra, Zebra, Zebra! <br>Er du et æsel eller hest? <br>Tror du striber klær di
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/umZ7HmTpqbo?si=dZfDNcuehY6bYN1i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/umZ7HmTpqbo?si=dZfDNcuehY6bYN1i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -111,7 +111,7 @@ Må jeg kalde Dem for du<br>Daisy, please<br>Må jeg kalde Dem for du<br>Kom nu
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/jtqk_CFWJ4Q?si=mXgmmwIPNyEYzPmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/jtqk_CFWJ4Q?si=mXgmmwIPNyEYzPmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -129,7 +129,7 @@ For denne rene farve <br>den er mig som en vårens dåb, <br>den la'r mig nyfød
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/FJhefDOjiYg?si=IlVURvuraA_QIiTF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/FJhefDOjiYg?si=IlVURvuraA_QIiTF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -150,7 +150,7 @@ Jeg er havren. Mine bjælder går <br>over lyse vange år for år, <br>ringler o
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/s-AOOECFK2I?si=52V6BRyEzSyZwvLf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/s-AOOECFK2I?si=52V6BRyEzSyZwvLf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -178,7 +178,7 @@ Og jeg følger med stikker af fra endnu en dag
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/eh8zdpRb0Tw?si=gmMyOsPQ2a8lt7a8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/eh8zdpRb0Tw?si=gmMyOsPQ2a8lt7a8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -196,7 +196,7 @@ Inderlig jeg længes <br>efter vår, men vintren strænges; <br>atter vinden om 
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/s8FOxNmmbTg?si=eRSiYix_eADAAd9n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/s8FOxNmmbTg?si=eRSiYix_eADAAd9n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -211,7 +211,7 @@ Hør landsbyklokken lyder ned, <br>bebuder aftenfred, <br>småfuglen, før den g
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/UB3hfefI8Nw?si=FCfafJxcfWh5C1fK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/UB3hfefI8Nw?si=FCfafJxcfWh5C1fK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>

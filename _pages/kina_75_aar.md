@@ -25,7 +25,7 @@ author_profile: true
 </style>
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/prvv9-lr9TU?si=YLmflTlRfb2Ie4XO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/prvv9-lr9TU?si=YLmflTlRfb2Ie4XO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -39,7 +39,7 @@ Revisionistisk Femte Generations-klassiker om en Beijing-familie, der går gradv
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/PvCPBCEoV7g?si=wKoTiBAACthZ--iz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/PvCPBCEoV7g?si=wKoTiBAACthZ--iz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -59,7 +59,7 @@ Filmen er delt op i tre dele. Første del, 'Rust', følger en gruppe arbejdere p
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/kAycwHbO8iA?si=Wo9q7ErjcvNQK-xH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/kAycwHbO8iA?si=Wo9q7ErjcvNQK-xH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -75,7 +75,7 @@ Især kvarterets mange teenagere rumsterer retningsløse rundt, da de – som é
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/KqfJ-ob_uGE?si=xsBanDAtorCYfe5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/KqfJ-ob_uGE?si=xsBanDAtorCYfe5L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -89,7 +89,7 @@ Tredje og sidste del, 'Rails', følger en gruppe togkonduktører på det store j
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/iBnGj4qtQMA?si=cRBwN33gM2FmI_hf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/iBnGj4qtQMA?si=cRBwN33gM2FmI_hf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -103,7 +103,7 @@ Dansk propaganda-kortfilm fra de knaldrøde 70’ere om Maos revolutionære digt
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/VGm01DxUFak?si=KDN9yQSzsBaIUzF-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/VGm01DxUFak?si=KDN9yQSzsBaIUzF-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -119,7 +119,7 @@ Med stort arkivmateriale og interviews med flere af de mest prominente studenter
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/ncfdlRZ4Tkw?si=p9S6u79viyLvGQsX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/ncfdlRZ4Tkw?si=p9S6u79viyLvGQsX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -133,7 +133,7 @@ Den store franske filmessayist, dokumentarist og socialist Chris Markers 'Sunday
 </tr>
 
 <tr>
-<th> <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=10664401&bvid=BV1ex411v7m4&cid=17601841&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> </th>
+<th style="vertical-align: top;"> <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=10664401&bvid=BV1ex411v7m4&cid=17601841&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -147,7 +147,7 @@ Den store franske filmessayist, dokumentarist og socialist Chris Markers 'Sunday
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/9A_VHOFG_II?si=uGA36YsiKxcYBAXh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/9A_VHOFG_II?si=uGA36YsiKxcYBAXh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -162,7 +162,7 @@ Xie Jin røg - ligesom store dele af den kinesiske filmindustri - ud i kulden un
 </tr>
 
 <tr>
-<th> <iframe width="560" height="315" src="https://www.youtube.com/embed/lG0hUNTlxPY?si=spQL-8Ikj-1JOYRa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
+<th style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/lG0hUNTlxPY?si=spQL-8Ikj-1JOYRa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </th>
 <th> 
 <details>
 <summary>
@@ -178,7 +178,7 @@ Som flere af de mest prominente film fra tiden omkring Kulturrevolutionen er ’
 </tr>
 
 <tr>
-<th> <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=676927527&bvid=BV1jU4y1T7gj&cid=450979907&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> </th>
+<th style="vertical-align: top;"> <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=676927527&bvid=BV1jU4y1T7gj&cid=450979907&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe> </th>
 <th> 
 <details>
 <summary>

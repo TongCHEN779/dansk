@@ -33,18 +33,14 @@ Hver generation skaber og omskriver historien. Deter måden, vi gør det på, de
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/1.png"/></p></th>
 <th>
-<details>
-<summary>
 <h1> Kunstneren Venny Soldan-Brofeldt - Hanna Hirsch-Pauli </h1>
-</summary>
 <span style="font-weight: normal">
 I vinteren 1886-87 malede svenske Hanna Hirsch et portræt af sin finske veninde, kunstneren Venny Soldan, i deres fælles atelier på Montparnasse i Paris. Soldan sidder på et tæppe af indtørret farve i et spartansk atelier med ler i hænderne. Hun er malet helt i sort og med åben mund, som er hun ved at sige noget.<br><br>
 Hænderne er snavsede af ler og gestikken tydeligt domineret af den uformelle tone mellem kunstner og model. At hun sidder på gulvet udfordrer ideen om, at kunst kun kan skabes under ideelle betingelser. Soldan er ikke en passiv model, men en aktiv, professionel kunstner. Den åbne mund antyder kontakt, måske med kunstneren selv eller en anden i rummet, og skaber en følelse af forbindelse og fællesskab.<br><br>
 Hirsch beskrev senere den frihed, kvinderne følte, trods de nøjsomme forhold i det fugtige atelier. Maleriet er ikke kun en hyldest til veninden som kunstner. Det er også et vidnesbyrd om kvindernes styrke, fællesskab og modstand mod tidens begrænsende normer.
 </span>
-</details> 
 </th>
 </tr>
 </table>
