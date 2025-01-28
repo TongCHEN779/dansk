@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /lytte/dansk_i_oererne/
+permalink: /lytte/against_all_odds/
 author_profile: true
 ---
 
