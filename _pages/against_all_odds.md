@@ -35,7 +35,7 @@ Hver generation skaber og omskriver historien. Deter måden, vi gør det på, de
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/1.png"/></p></th>
-<th>
+<th style="vertical-align: top;">
 <h1> Kunstneren Venny Soldan-Brofeldt - Hanna Hirsch-Pauli </h1>
 <br>
 <span style="font-weight: normal">
@@ -48,7 +48,7 @@ Hirsch beskrev senere den frihed, kvinderne følte, trods de nøjsomme forhold i
 
 <tr>
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/2.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/3.png"/></p></th>
-<th>
+<th style="vertical-align: top;">
 <h1> Anna Seekamp, Kunstnerens søster - Bertha Wegmann </h1>
 <br>
 <span style="font-weight: normal">
