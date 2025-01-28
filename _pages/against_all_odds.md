@@ -25,6 +25,7 @@ author_profile: true
 </style>
 
 <h1 style="text-align: center;"> Against All Odds - Historiske Kvinder og Nye Algoritmer </h1>
+<br>
 Against All Odds - Historiske Kvinder og nye algoritmer udfolder historierne om 24 nordiske, kvindelige kunstnere omkring 1900. På den ene side oplevede de deres køn som en barriere. På den anden side opnåede de succes trods alle odds. Fælles for dem var, at de forlod deres nordiske hjemlande for at forfølge deres kunstneriske ambitioner. De bevægede sig over hele Europa, hvor de mødte andre kinder i samme situation og blev del af en større transnational bevægelse. Kvindernes nomadetilværelse blev afgørende for deres succes i en tid, hvor de ikke have samme adgang til kunstskoler og udstillingsmuligheder som mænd.
 <br><br>
 Historien om de nomadiske kinder fra Norden er aldrig før blevet fortalt i en samlet præsentation. Kinderne bevægede sig ikke blot geografisk, men også i forhold til normer for køn og god kunst. Selvom flere blev anerkendt i deres egen levetid, særligt i udlandet, blev mange glemt efter deres død. Spørgsmålet er hvorfor? Og hvordan kan de igen få plads i historien? Er det meningsfuldt at skrive dem ind i den historie, der skrev dem ud, eller skal vi forestille os helt nye måder at skrive historie på?
