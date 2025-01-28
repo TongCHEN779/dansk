@@ -25,7 +25,7 @@ author_profile: true
 </style>
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th> <audio controls src="https://danskioererne.dk/podcast-player/151/18-aalborg.mp4"></audio> </th>
+<th> <audio src="https://danskioererne.dk/podcast-player/151/18-aalborg.mp4">audio</audio> </th>
 <th> 
 <details>
 <summary>
