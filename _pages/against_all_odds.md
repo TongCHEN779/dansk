@@ -58,4 +58,38 @@ Som en af Danmarks mest efterspurgte portrætmalere dokumenterede Wegmann nation
 </span>
 </th>
 </tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/4.jpg"/></p></th>
+<th style="vertical-align: top;">
+<h1> Interlinked - Ix Shells </h1>
+<br>
+<span style="font-weight: normal">
+Ix Shells har skabt tre værker til udstillingen. Det første er den immersive installation Interlinked. Værket er baseret på data om udstillingens historiske kunstnere. Mange tænker på data som numeriske værdier, men data kan også være historier, farver eller lyde. I Interlinked indgår data om de historiske kvindelige kunstnere, deres værker, liv og personlige relationer. Tre af de historiske værker er blevet udvalgt og bearbejdet kunstnerisk af Ix Shells og vises her i et nutidigt, digitalt univers.<br><br>
+Ix Shells har opstillet en række parametre for, hvordan data skal bearbejdes. Dog vil algoritmerne, som er trin-for-trin instruktioner eller regler, der bruges til at behandle data (dvs. analysere og ændre realtid, hvilket betyder, at værket hele tiden er i forandring.<br><br>
+De historiske kvindelige kunstnere bliver løbende fortolket og oplevet på stadigt nye måder. I Interlinked indgår data om de historiske kunstneres rejser rundt i Europa og Mellemøsten. Rejserne var med til at frisætte kunstnerne og skabe fundamentet for deres karrierer. En sensor registrere dine bevægelser i rummet og lader dig blive en del af disse rejser på tværs af tid og sted.<br><br>
+Rundt omkring i udstillingen er der placeret en række skærme, Lost Pixels, der viser Ix Shells' digitale fortolkninger af udvalgte værker. De er en påmindelse om, at vi hele tiden er i gang med at skabe vores egen historie. Den samlede mængde af data vises frem i installationen Backend, som du vil møde senere i udstillingen.
+</span>
+</th>
+</tr>
+</table>
+
+<h1 style="text-align: center;"> Begyndelsen </h1>
+<br>
+Her begynder de nordiske kinders rejse i det sene 1800-tal. Fælles for kvinderne var, at de måtte tage til udlandet for at udvikle og leve af deres kunst. De tog alle del i tidens transnationale bevægelser, der blev afgørende for deres succes. Hjemme havde de ikke samme adgang til kunstskoler, akademier eller udstillingsmuligheder som mænd. Når kinderne blev afvist af de nationale fællesskaber, gav de internationale netværk i Europa en solidaritet, en styrke og de nødvendige rammer for deres arbejde.<br><br>
+Den kosmopolitiske bevægelse blev et alternativ til nationale traditioner, som afgjorde, hvilken kunst der blev opfattet som betydningsfuld. Kvinderne udviklede både deres kunstnerskaber og deres personlige identiteter på tværs af kulturer. At holde sig i konstant bevægelse blev en forudsætning for både karrieren og den personlige frigørelse.<br><br>
+Følg kindernes nomadiske bevægelser mellem deres nordiske hjemlande, Europas storbyer og de mange kunstnerkolonier, mellem samtid og fortid, mellem pligt og frigørelse, mellem familiebånd og selvvalgte slægtskaber.
+
+<table align="center" cellspacing="5" style="text-align: left" width="100%">
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/5.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Valkyrier - Elisabeth Jerichau Baumann </h1>
+<br>
+<span style="font-weight: normal">
+I nordisk mytologi er det valkyrierne, der afgør, hvem der skal leve og dø i kamp. I Jerichau Baumanns maleri fremstilles de som formidable kvindeskikkelser af stor skønhed og styrke. Valkyrierne dominerer værket med kraftfulde positurer og hævede spyd, understreget af hestenes vildskab og de hvirvlende skyer. Det haster med at bringe de faldne til Valhal.<br><br>
+Maleriet blev udstillet i London i 1871. Jerichau Baumann var polsk, men dansk gift, blev uddannet i Tyskland og tilhørte Düsseldorf-skolen. De politiske og revolutionære temaer i hendes kunst var fremmede for den danske kunstscene. Med sine portrætter af nordafrikanske kvinder, som dette til venstre, skrev kunstneren sig ind i europæisk kunsthistorie.
+</span>
+</th>
+</tr>
 </table>
