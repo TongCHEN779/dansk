@@ -192,7 +192,7 @@ Se Chen Kaiges smukke debutfilm ’Yellow Earth’ med introduktion ved Kinaeksp
 </tr>
 
 <tr>
-<th> <a><img src="https://tongchen779.github.io/dansk/files/24_city.png"/></a></th>
+<th> <a><img src="https://tongchen779.github.io/dansk/images/24_city.png"/></a></th>
 <th> 
 <details>
 <summary>
@@ -208,7 +208,7 @@ Filmens kontroversielle mix af dokumentariske optagelser og fiktionaliserede int
 </tr>
 
 <tr>
-<th> <a><img src="https://tongchen779.github.io/dansk/files/ascension.png"/></a></th>
+<th> <a><img src="https://tongchen779.github.io/dansk/images/ascension.png"/></a></th>
 <th> 
 <details>
 <summary>

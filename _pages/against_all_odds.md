@@ -37,10 +37,24 @@ Hver generation skaber og omskriver historien. Deter måden, vi gør det på, de
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/1.png"/></p></th>
 <th>
 <h1> Kunstneren Venny Soldan-Brofeldt - Hanna Hirsch-Pauli </h1>
+<br>
 <span style="font-weight: normal">
 I vinteren 1886-87 malede svenske Hanna Hirsch et portræt af sin finske veninde, kunstneren Venny Soldan, i deres fælles atelier på Montparnasse i Paris. Soldan sidder på et tæppe af indtørret farve i et spartansk atelier med ler i hænderne. Hun er malet helt i sort og med åben mund, som er hun ved at sige noget.<br><br>
 Hænderne er snavsede af ler og gestikken tydeligt domineret af den uformelle tone mellem kunstner og model. At hun sidder på gulvet udfordrer ideen om, at kunst kun kan skabes under ideelle betingelser. Soldan er ikke en passiv model, men en aktiv, professionel kunstner. Den åbne mund antyder kontakt, måske med kunstneren selv eller en anden i rummet, og skaber en følelse af forbindelse og fællesskab.<br><br>
 Hirsch beskrev senere den frihed, kvinderne følte, trods de nøjsomme forhold i det fugtige atelier. Maleriet er ikke kun en hyldest til veninden som kunstner. Det er også et vidnesbyrd om kvindernes styrke, fællesskab og modstand mod tidens begrænsende normer.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/2.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/3.png"/></p></th>
+<th>
+<h1> Anna Seekamp, Kunstnerens søster - Bertha Wegmann </h1>
+<br>
+<span style="font-weight: normal">
+Wegmanns portræt forestiller søsteren Anna Seekamp, der ser direkte på os, mens fingrene leger med et garnnøgle. Modellen er trukket helt frem i forgrunden og viser, at kunstneren suverænt behersker de ukonventionelle øjebliksbilleder, hvor det flygtige og umiddelbare forenes med nærvær og intimitet.<br><br>
+Wegmann vandt en tredje klasses medalje for portrættet på Parisersalonen - den højeste udmærkelse nogen kvindelig kunstner fra Skandinavien opnåede mellem 1878 og 1889.<br><br>
+Som en af Danmarks mest efterspurgte portrætmalere dokumenterede Wegmann nationens store personligheder med succes. Selv boede hun i udlandet i lange perioder. Den transnationale livsstil var nødvendig, men betød også, at hun først i nyere tid har fået en plads i kunsthistorien.
 </span>
 </th>
 </tr>
