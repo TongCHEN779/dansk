@@ -27,6 +27,6 @@ author_profile: true
 <tr>
 <th> <audio controls src="https://danskioererne.dk/podcast-player/36/blabla.mp4"></audio> </th>
 <th><h1> Kapitel 1 – hvor du møder Magnus og hans virkelig pinlige mor </h1></th>
-<th> [link](http://tongchen779.github.io/dansk/files/htl1.pdf) </th>
+<th><a href="http://tongchen779.github.io/dansk/files/htl1.pdf">link</a></th>
 </tr>
 </table>
