@@ -25,7 +25,7 @@ author_profile: true
 </style>
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th> Adverb </th>
+<th> Konjunktion </th>
 <th> Engelsk </th>
 <th> Eksempler </th>
 </tr>

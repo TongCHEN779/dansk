@@ -5,7 +5,6 @@ permalink: /ord_og_gram/adj/
 author_profile: true
 ---
 
-<h1 style="text-align: center;"> Adjektiver </h1>
 <script>
     function playSound(soundId) {
         var audioElement = document.getElementById(soundId);
