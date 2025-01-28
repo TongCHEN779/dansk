@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /læsning/against_all_odds/
+permalink: /laesning/against_all_odds/
 author_profile: true
 ---
 
