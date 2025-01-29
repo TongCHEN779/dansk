@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "dk-DK"
-title                    : Danskundervisning"
+title                    : "Danskundervisning"
 title_separator          : "-"
 name                     : &name "Young Man"
 description              : &description "Intelligent Agent"
