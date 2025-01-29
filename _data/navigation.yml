@@ -56,3 +56,6 @@ main:
         url: /laesning/uddrag/
       - title: "Verdensarv Vadehavet"
         url: /laesning/verdensarv_vadehavet/
+
+  - title: "Links"
+    url: /links/

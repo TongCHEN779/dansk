@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "dk-DK"
-title                    : "Tongs Hjemmeside for Danskundervisning"
+title                    : Danskundervisning"
 title_separator          : "-"
-name                     : &name "Tong Chen"
+name                     : &name "Young Man"
 description              : &description "Intelligent Agent"
 url                      : https://TongCHEN779.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/dansk" # the subpath of your site, e.g. "/blog"
