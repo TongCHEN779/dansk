@@ -457,7 +457,7 @@ Skærmene her er struktureret som brugerfladen i programmet Touchdesigner. Progr
 <br>
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
-Tegneundervisning af den danske maler Frants Henningsen (1850-1908), elev af den belgiske maler Alfred Stevens (1823-1908) 1888, Den med akademiet forbundne Kunstskole for Kvinder i 1889-93.<br>
+Tegneundervisning af den danske maler Frants Henningsen (1850-1908), elev af den belgiske maler Alfred Stevens (1823-1908) 1888, Den med akademiet forbundne Kunstskole for Kvinder i 1889-93.<br><br>
 - Udvalgte udstillinger og honoreringer <br>
 Kunstforeningens udstillinger, Charlottenborgs Forårsudstilling, Charlottenborgs Efterårsudstilling. Tildeles titlen Officier de l´Académie i Paris i 1928.
 </span>
