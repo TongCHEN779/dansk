@@ -18,7 +18,7 @@
 
 /* Style submenu items */
 .submenu .masthead__submenu-item {
-  padding-right: 6em; /* Ensure submenu items are aligned with main menu items */
+  padding-right: 6em!important; /* Ensure submenu items are aligned with main menu items */
   display: block!important; /* Ensure each submenu item is a block element */
   padding: 0; /* Reset padding for submenu items */
   margin: 0; /* Reset margin for submenu items */
