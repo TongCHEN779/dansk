@@ -408,15 +408,15 @@ Vi har udvalgt data og defineret, hvordan hun skal tale, og hvad hun skal tale o
 <br>
 Chatbotten kan svare på meget, men ikke hvad som helst. SMK har udvalgt en række faglige temaer i udstillingen, som vi ønsker, chatbotten skal formidle. Du kan blandt andet spørge til Anne Marie Carl-Nielsens uddannelse eller udviklingen af hendes værker, såsom den kendte rytterstatue af Christian 9. eller de mange dyrefigurer.<br><br>
 
-### Hordan fungerer det og hvor kommer data fra?
+<h2 style="text-align: left;"> Hordan fungerer det og hvor kommer data fra? </h2>
 
 Chatbotten er skabt i samarbejde mellem SMK, DTU og Yoke ved hjælp af generativ kunstig intelligens (Al). Den bygger på en model, der anvender datasæt fra internettet og digitaliserede kilder, nøje udvalgt af SMK. Museets gengivelse af Anne Marie Carl-Nielsen er med andre ord baseret på andres arbejde og deres fortolkninger af hendes liv og kunst. Derfor er gennemsigtighed omkring datakilderne også centralt. Udviklingen af chatbotten er muliggjort med stor støtte fra forlag, forskere og forfattere. Kilderne kan ses på listen her i rummet og du kan læse mere om både transparens og etik i kataloget, der følger udstillingen.<br><br>
 
-### Hvorfor bruge en chatbot?
+<h2 style="text-align: left;"> Hvorfor bruge en chatbot? </h2>
 
 Når vi udvikler nye generative teknologier baseret på de sidste 30 års internetindhold, bliver internettet ikke kun en kilde til ny viden, men også en platform for vores fælles erindringer - en ny kollektiv hukommelse, et nyt kollektivt arkiv. Kunstig intelligens spejler dog ikke kun fremtiden, men også fortidens magtstrukturer og uligheder, som er synlige i nutidens datasæt. Derfor er det vigtigt, at undersøge Al som en historisk teknologi, ikke kun en nutidig og fremtidig. Dette gælder også for denne chatbot, som er et af SMKs første forsøg på at give historiske kvindelige kunstnere et digitalt efterliv, du kan interagere med.<br><br>
 
-### Prøv selv - stil et spørgsmål og lyt til svaret. Spørgsmål til inspiration:
+<h2 style="text-align: left;"> Prøv selv - stil et spørgsmål og lyt til svaret. Spørgsmål til inspiration: </h2>
 
 - Hvordan påvirkede din skilsmisse din kunst?<br>
 - Hvordan er dit forhold til naturen?<br>
