@@ -21,7 +21,7 @@ repository               : "TongCHEN779/dansk"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "young_man.jpg"
+  avatar           : "young_man.png"
   name             : Young Man
   pronouns         : # example: "she/her"  
   bio              :
