@@ -227,6 +227,7 @@ Beck rejste tidligt til Frankrig og flyttede aldrig hjem. Hun malede flod- og s�
 Da de danske, kvindelige kunstnere rejste til Grækenland omkring 1900, var de på en dobbelt mission. Der var gjort en række sensationelle fund af bemalede skulpturer fra arkaisk oldtid på Akropolis i Athen. Gengivelserne i de mange arkæologiske udgivelser, der fulgte, var sjældent fyldestgørende. Derfor var der stor efterspørgsel på nøjagtige kopier af de bemalede oldtidsskulpturer fra museer og akademier over hele Europa.<br><br>
 Der var behov for dygtige billedkunstnere til at udføre arbejdet. I Grækenland var kongen dansk født, hvilket gav danske kunstnere lettere adgang til kopiarbejdet. Den farverige, arkaisk-græske kunst blev en stor inspirationskilde for kunstnerne. Oldtidsskulpturerne blev del af den unge generations opgør med det idealiserede og det naturtro og kom til at præge yngre kunstneres formsprog langt indi 1900-tallet.<br><br>
 På den måde blev de nye, modellerede kopier og bemalede afstøbninger ikke bare videnskabelige genstande, men også selvstandige kunstværker, som blev udstillet i hele Europa.
+<br>
 
 <h1 style="text-align: center;"> Kunst eller Kopi </h1>
 <br>
@@ -414,15 +415,15 @@ Vi har udvalgt data og defineret, hvordan hun skal tale, og hvad hun skal tale o
 
 <h1 style="text-align: center;"> Stil Spørgsmål til Anne Marie Carl-Nielsen Chatbotten </h1>
 <br>
-Chatbotten kan svare på meget, men ikke hvad som helst. SMK har udvalgt en række faglige temaer i udstillingen, som vi ønsker, chatbotten skal formidle. Du kan blandt andet spørge til Anne Marie Carl-Nielsens uddannelse eller udviklingen af hendes værker, såsom den kendte rytterstatue af Christian 9. eller de mange dyrefigurer.<br><br>
+Chatbotten kan svare på meget, men ikke hvad som helst. SMK har udvalgt en række faglige temaer i udstillingen, som vi ønsker, chatbotten skal formidle. Du kan blandt andet spørge til Anne Marie Carl-Nielsens uddannelse eller udviklingen af hendes værker, såsom den kendte rytterstatue af Christian 9. eller de mange dyrefigurer.<br>
 
 <h2 style="text-align: left;"> Hordan fungerer det og hvor kommer data fra? </h2>
 
-Chatbotten er skabt i samarbejde mellem SMK, DTU og Yoke ved hjælp af generativ kunstig intelligens (Al). Den bygger på en model, der anvender datasæt fra internettet og digitaliserede kilder, nøje udvalgt af SMK. Museets gengivelse af Anne Marie Carl-Nielsen er med andre ord baseret på andres arbejde og deres fortolkninger af hendes liv og kunst. Derfor er gennemsigtighed omkring datakilderne også centralt. Udviklingen af chatbotten er muliggjort med stor støtte fra forlag, forskere og forfattere. Kilderne kan ses på listen her i rummet og du kan læse mere om både transparens og etik i kataloget, der følger udstillingen.<br><br>
+Chatbotten er skabt i samarbejde mellem SMK, DTU og Yoke ved hjælp af generativ kunstig intelligens (Al). Den bygger på en model, der anvender datasæt fra internettet og digitaliserede kilder, nøje udvalgt af SMK. Museets gengivelse af Anne Marie Carl-Nielsen er med andre ord baseret på andres arbejde og deres fortolkninger af hendes liv og kunst. Derfor er gennemsigtighed omkring datakilderne også centralt. Udviklingen af chatbotten er muliggjort med stor støtte fra forlag, forskere og forfattere. Kilderne kan ses på listen her i rummet og du kan læse mere om både transparens og etik i kataloget, der følger udstillingen.<br>
 
 <h2 style="text-align: left;"> Hvorfor bruge en chatbot? </h2>
 
-Når vi udvikler nye generative teknologier baseret på de sidste 30 års internetindhold, bliver internettet ikke kun en kilde til ny viden, men også en platform for vores fælles erindringer - en ny kollektiv hukommelse, et nyt kollektivt arkiv. Kunstig intelligens spejler dog ikke kun fremtiden, men også fortidens magtstrukturer og uligheder, som er synlige i nutidens datasæt. Derfor er det vigtigt, at undersøge Al som en historisk teknologi, ikke kun en nutidig og fremtidig. Dette gælder også for denne chatbot, som er et af SMKs første forsøg på at give historiske kvindelige kunstnere et digitalt efterliv, du kan interagere med.<br><br>
+Når vi udvikler nye generative teknologier baseret på de sidste 30 års internetindhold, bliver internettet ikke kun en kilde til ny viden, men også en platform for vores fælles erindringer - en ny kollektiv hukommelse, et nyt kollektivt arkiv. Kunstig intelligens spejler dog ikke kun fremtiden, men også fortidens magtstrukturer og uligheder, som er synlige i nutidens datasæt. Derfor er det vigtigt, at undersøge Al som en historisk teknologi, ikke kun en nutidig og fremtidig. Dette gælder også for denne chatbot, som er et af SMKs første forsøg på at give historiske kvindelige kunstnere et digitalt efterliv, du kan interagere med.<br>
 
 <h2 style="text-align: left;"> Prøv selv - stil et spørgsmål og lyt til svaret. Spørgsmål til inspiration: </h2>
 
