@@ -126,7 +126,7 @@ Mellem 1870 og 1910 voksede migrationen i Europa markant. Frem til 1880 strømme
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/8.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/9.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/10.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/9.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/10.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/11.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Selvportræt - Eva Bonnier </h1>
 <br>
@@ -138,7 +138,7 @@ Pariserårene i 1880erne betød kunstnerisk udvikling og frihed fra de borgerlig
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/11.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/12.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/12.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/13.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Stilleben med løg - Helene Schjerfbeck </h1>
 <br>
@@ -150,7 +150,7 @@ Schjerfbecks evne til at opløse billedfladen i stærke kontraster skaber enest�
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/13.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/14.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Selvportræt - Mina Carlson-Bredberg </h1>
 <br>
@@ -162,7 +162,7 @@ Efter endt uddannelse fortsatte Carlson-Bredberg på skolen i Paris som lærer. 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/14.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/15.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Atelierinteriør i Paris - Eva Bonnier </h1>
 <br>
@@ -182,7 +182,7 @@ Men de nye arbejds- og omgangsformer og frigørelsen af den kvindelige seksualdr
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/15.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/16.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Bondekone fra Normandiet - Asta Nørregaard </h1>
 <br>
@@ -194,7 +194,7 @@ Nørregaard kom tidligt til Paris fra München, studerede og arbejdede der i man
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/16.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/17.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Bretagnepige ordner planter i et drivhus - Anna Petersen </h1>
 <br>
@@ -206,7 +206,7 @@ Vi mangler ofte skriftlige kilder om de historiske kvinder. Her bliver kunsten t
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/17.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/18.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Selvportræt - Julia Beck </h1>
 <br>
@@ -232,7 +232,7 @@ Her var skulpturernes frontale, stiliserede træk, voldsomme farver og mytologis
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/18.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/19.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Kore (Akropolis museet inv.nr. 685) - Marie Henriques </h1>
 <br>
@@ -244,7 +244,7 @@ Henriques var af velhavende jødisk slægt og rejste ofte alene. Hun så sig sel
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/19.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/20.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Typhon - Anne Marie Carl-Nielsen </h1>
 <br>
@@ -265,7 +265,7 @@ Kritikerne var ofte fordomsfulde over for både det nye og over for de kvindelig
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/20.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/21.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Ekko - Ellen Thesleff </h1>
 <br>
@@ -277,7 +277,7 @@ Ekko blev vist første gang i 1891 på en udstilling, hvor flere af de kunstnere
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/21.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/22.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> En abonnent på Aftenposten - Oda Krohg </h1>
 <br>
@@ -289,7 +289,7 @@ Krohg var en kontroversiel skikkelse i Kristiania, i dag Oslo, og levede i lange
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/22.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/23.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Stokkavannet - Kitty Lange Kielland </h1>
 <br>
@@ -309,7 +309,7 @@ At undersøge disse forbindelser er at udforske kvindernes ex-centriske slægtsk
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/23.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/24.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Edvard Munch - Asta Nørregaard </h1>
 <br>
@@ -321,7 +321,7 @@ Nørregaards ophold i München og Paris definerede hendes stil, men hun blev ald
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/24.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/25.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Thyra Elisabeth - Ellen Thesleff </h1>
 <br>
@@ -333,7 +333,7 @@ Billedet balancerer mellem uskyld og sanselighed - som en mild Madonna på tærs
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/25.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/26.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Aftenstemning - Henriette Hahn-Brinckmann </h1>
 <br>
@@ -346,7 +346,7 @@ Over denne tekst vises en Lost Pixel - et fragment fra Ix Shells' digitale bearb
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/26.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/27.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Brita Maria (Mussa) Banck, 1830-1906, Husbestyrerinde - Eva Bonnier </h1>
 <br>
@@ -358,7 +358,7 @@ Kroppens mørke silhuet træder frem foran de lyse farvefelter. Der er en fortro
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/27.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/28.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Selvportræt - Ellen Thesleff </h1>
 <br>
@@ -370,7 +370,7 @@ Thesleff dyrkede dans og teater som en del af sit kvindeoprør, og maleriet hand
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/28.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/29.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Fiskeflåden sejler ud. Studie fra Nord-Norge - Anna Boberg </h1>
 <br>
@@ -390,7 +390,7 @@ Filmen præsenterer en dokumentation af dette nytænkende samarbejde, hvor Leeso
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/29.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/30.png"/></p></th>
 <th style="vertical-align: top;">
 <span style="font-weight: normal">
 Chatbotten næste rum er en fortolkning af billedhuggeren Anne Marie Carl-Nielsen. <br><br>
@@ -408,13 +408,13 @@ Vi har udvalgt data og defineret, hvordan hun skal tale, og hvad hun skal tale o
 <br>
 Chatbotten kan svare på meget, men ikke hvad som helst. SMK har udvalgt en række faglige temaer i udstillingen, som vi ønsker, chatbotten skal formidle. Du kan blandt andet spørge til Anne Marie Carl-Nielsens uddannelse eller udviklingen af hendes værker, såsom den kendte rytterstatue af Christian 9. eller de mange dyrefigurer.<br><br>
 
-**Hordan fungerer det og hvor kommer data fra?**<br><br>
+### Hordan fungerer det og hvor kommer data fra?
 Chatbotten er skabt i samarbejde mellem SMK, DTU og Yoke ved hjælp af generativ kunstig intelligens (Al). Den bygger på en model, der anvender datasæt fra internettet og digitaliserede kilder, nøje udvalgt af SMK. Museets gengivelse af Anne Marie Carl-Nielsen er med andre ord baseret på andres arbejde og deres fortolkninger af hendes liv og kunst. Derfor er gennemsigtighed omkring datakilderne også centralt. Udviklingen af chatbotten er muliggjort med stor støtte fra forlag, forskere og forfattere. Kilderne kan ses på listen her i rummet og du kan læse mere om både transparens og etik i kataloget, der følger udstillingen.<br><br>
 
-**Hvorfor bruge en chatbot?**<br><br>
+### Hvorfor bruge en chatbot?
 Når vi udvikler nye generative teknologier baseret på de sidste 30 års internetindhold, bliver internettet ikke kun en kilde til ny viden, men også en platform for vores fælles erindringer - en ny kollektiv hukommelse, et nyt kollektivt arkiv. Kunstig intelligens spejler dog ikke kun fremtiden, men også fortidens magtstrukturer og uligheder, som er synlige i nutidens datasæt. Derfor er det vigtigt, at undersøge Al som en historisk teknologi, ikke kun en nutidig og fremtidig. Dette gælder også for denne chatbot, som er et af SMKs første forsøg på at give historiske kvindelige kunstnere et digitalt efterliv, du kan interagere med.<br><br>
 
-**Prøv selv - stil et spørgsmål og lyt til svaret. Spørgsmål til inspiration:**<br><br>
+### Prøv selv - stil et spørgsmål og lyt til svaret. Spørgsmål til inspiration:
 - Hvordan påvirkede din skilsmisse din kunst?<br>
 - Hvordan er dit forhold til naturen?<br>
 - Hvad er det mest betydningsfulde værk, du har skabt?<br>
