@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "dk-DK"
 title                    : "Tongs Hjemmeside for Danskundervisning"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Tong Chen"
+description              : &description "Intelligent Agent"
 url                      : https://TongCHEN779.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/dansk" # the subpath of your site, e.g. "/blog"
 repository               : "TongCHEN779/dansk"
@@ -21,8 +21,8 @@ repository               : "TongCHEN779/dansk"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :
-  name             :
+  avatar           : "young_man.jpg"
+  name             : Young Man
   pronouns         : # example: "she/her"  
   bio              :
   location         :
