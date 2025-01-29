@@ -117,3 +117,186 @@ Churberg mødte så meget kritik, at hun opgav sin karriere i 1880 som 35-årig.
 </th>
 </tr>
 </table>
+
+<h1 style="text-align: center;"> Paris </h1>
+<br>
+"l atelieret forsvinder alle skel; man har hverken navn eller familie; man er ikke sin mors datter; man er sig selv, et individ. Det eneste man skal gøre er at skabe kunst, kunst og intet andet. Man føler sig så lykkelig, så fri, så stolt."<br><br>
+Sådan skrev en ung kvinde om den private kunstskole Académie Julian i Parisi 1877.Idet sene 1800-tal var køn afgørende for de sociale hierarkier, også i det borgerskab, som mange af kunstnerne tilhørte. Kvinder blev nægtet politisk indflydelse, var økonomisk afhængige, umyndige og havde begrænsede uddannelsesmuligheder. Deres indflydelse og moralske autoritet var bundet til hjemmet. Den transkulturelle bevægelse gav kvinderne mulighed for at udvikle og frigøre sig.<br><br>
+Mellem 1870 og 1910 voksede migrationen i Europa markant. Frem til 1880 strømmede kunstnere til München. Herefter blev Paris Europas kunstcentrum.l 1880'erne blev over 1250 nordiske kvindelige kunstnere registreret i Paris, hvor køn, klasse, etnicitet og nationalitet krydsede hinanden og formede kunstnernes akademiske og sociale liv.
+
+<table align="center" cellspacing="5" style="text-align: left" width="100%">
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/8.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/9.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/10.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Selvportræt - Eva Bonnier </h1>
+<br>
+<span style="font-weight: normal">
+Eva Bonnier har portrætteret sig selv som borgerlig intellektuel, ikke som maler. Hun er iklædt højeste mode og iagttager beskueren. De utallige varme toner viser, hvor suverænt hun behersker tidens franske "valørmaleri".<br><br>
+Pariserårene i 1880erne betød kunstnerisk udvikling og frihed fra de borgerlige konventioner, der styrede Bonniers liv i Stochholm. Hun var født ind i en rig, jødisk familie som datter af en berømt forlægger. Socialklasse var afgørende for hendes ophold i udlandet. Hun skulle ikke bekymre sig om penge til at betale f.eks. sine modeller. Selv regnede hun studiet til højre som et af sine bedste og indsendte det til et kunstlotteri i Stockholm. Modellen var en tyrkisk kvinde, en femme turque, som hun skriver til en ven.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/11.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/12.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Stilleben med løg - Helene Schjerfbeck </h1>
+<br>
+<span style="font-weight: normal">
+I Schjerfbecks tidlige stilleben med løg er farverne det egentlige motiv. Jordfarverne dominerer, med nuancer fra dyb brun og okker til gyldne og blege rosa og grønne toner som subtil variation. Penselstrøgene fremhæver løgskallernes tekstur, mens lyset reflekteres på de runde overflader mod den mørke baggrund, der tilføjer dybde og kontrast.<br><br>
+Schjerfbecks evne til at opløse billedfladen i stærke kontraster skaber enestående stemningsfulde billeder, som man kan se flere af i udstillingen. Trods sin enorme begavelse mødte Schjerfbeck hård kritik i Finland. Hendes lange ophold i Frankrig, England og Italien var utvivlsomt hendes lykkeligste år. Først sent kom hendes talent til at revolutionere finsk kunst.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/13.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Selvportræt - Mina Carlson-Bredberg </h1>
+<br>
+<span style="font-weight: normal">
+Mina Carlsson-Bredberg ser på os fra sit loftsatelier i Paris, iført grå malerkittel med opsmøgede ærmer. Den klare, blå farve på paletten svarer til hendes øjenfarve. Selvportrættet sikrede kunstnerens gennembrud, da hun vandt en stor pris for det på Verdensudstillingen i Paris i 1889. Carlsson-Bredberg kom til Paris i 1883 for at studere på Académie Julian, med hjælp fra sin lærer, Amanda Sidwall, hvis selvportræt hænger tidligere i udstillingen.<br><br>
+Efter endt uddannelse fortsatte Carlson-Bredberg på skolen i Paris som lærer. Hun giftede sig to gange. I sine ægteskaber var hun inaktiv som kunstner, men resten af tiden rejste og udstillede hun over store dele af Europa. Ud over underviser var hun aktiv kvindesagsforkæmper.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/14.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Atelierinteriør i Paris - Eva Bonnier </h1>
+<br>
+<span style="font-weight: normal">
+Bonniers maleri viser et hjørne af hendes atelier på Montparnasse, hvor hun boede fra 1885-87. På modelstanden står et drengehoved i ler, som hun har skabt for at få en pause fra portrætmaleriet. Man tror, drengen sover, men Bonnier beskrev modellen som "et lille pindsvin... utilbøjelig til at sidde stille."<br><br>
+Det blålige lys spreder sig i rummet og over skulpturen. Atelieret på Rue Humboldt var ofte motiv i hendes værker. Det er også tilfældet  i maleriet for enden af væggen her, hvor Bonniers søster sidder i samme atelier. Bonnier studerede ved Académie Colarossi og udstillede på Parisersalonen. Værkerne viser kunstnerens evne til at skabe kompositioner og eksperimentere med beskæringer, form og indhold.
+</span>
+</th>
+</tr>
+</table>
+
+<h1 style="text-align: center;"> Uden for Byen </h1>
+<br>
+I det sene 1800-tal samlede de internationale miljøer sig uden for storbyerne. Fra Bretagne og Normandiet i Frankrig, til Cornwall i England og Toscana i Italien. Kunstnerkolonierne var frigjorte miljøer med moderne kønsroller og jævnbyrdige arbejdsvilkår. Man dyrkede Den Nye Kvinde, der skulle leve et liv med samme friheds- og borgerrettigheder som mænd.<br><br>
+Men de nye arbejds- og omgangsformer og frigørelsen af den kvindelige seksualdrift gjorde også de kvindelige kunstnere kontroversielle. Kvinderne blev udsat for massive angreb fra det klassiske patriarkalske system. | 1880'erne skrev forfatteren August Strindberg harmdirrende om en skandinavisk kunstnerkoloni nær Paris:<br><br>
+"For at maskere deres køn har de tillagt sig ydre vaner som mænd, ryger, drikker sig fulde, spiller billard, forretter deres nødtørft på gaden bag en port, brækker sig uden blusel på offentlige steder og kaster sig ud i amorøse lege indbyrdes. Det er virkelig gået for vidt!"
+
+<table align="center" cellspacing="5" style="text-align: left" width="100%">
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/15.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Bondekone fra Normandiet - Asta Nørregaard </h1>
+<br>
+<span style="font-weight: normal">
+Sommeren 1887 tilbragte Asta Nørregaard i den lille by Arques-La-Bataille i Normandiet, hvor hun portrætterede lokalbefolkningen. I 1889 præsenterede hun maleriet her på Verdensudstillingen i Paris. Motivet er ingen landlig idyl, men en realistisk skildring af en træt kvinde, med noget i skød og seglet ved sin side. Blikket er fjernt og landskabet uendeligt. Det er lyset, der fanger opmærksomheden i de gyldne kornaks.<br><br>
+Nørregaard kom tidligt til Paris fra München, studerede og arbejdede der i mange år, rejste løbende, fik store opgaver, vandt priser og oprettede en malerskole. Flere af sine somre tilbragte hun med en nær veninde i Villiers-le-Bel, den lille by i morgendis, der hænger her ved siden af.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/16.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Bretagnepige ordner planter i et drivhus - Anna Petersen </h1>
+<br>
+<span style="font-weight: normal">
+I sommeren 1884 var Anna Petersen i Bretagne. Her malede hun den unge kvinde i et drivhus med en væltet urtepotte. Samme år tog finske Amélie Lundahl fat på et lignende motiv, der fik titlen Gartnerpigen. Umiddelbart er interiørerne i de to billeder forskellige. Ser man efter, viser de sig dog at være ens: Væggenes gyldne farve, de mørkegrå karme og til venstre i Petersens billede antydningen af de rhombeformede vinduessprosser, der er så fremtrædende i Lundahls maleri.<br><br>
+Vi mangler ofte skriftlige kilder om de historiske kvinder. Her bliver kunsten til en slags "tavse kilder", der bl.a. kan belyse forbindelserne imellem dem. De viser, hvordan kunstnerne studerede, boede, rejste og arbejdede, som her - side om side.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/17.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Selvportræt - Julia Beck </h1>
+<br>
+<span style="font-weight: normal">
+Julia Beck har malet sig selv iført sort kappe og bredskygget hat med hvide fjer som i et 1600-tals-kunstnerportræt. Selvportrætter var en måde for de nordiske kvinder at introducere sig selv på som professionelle kunstnere på de store, internationale udstillinger.<br><br>
+Beck rejste tidligt til Frankrig og flyttede aldrig hjem. Hun malede flod- og sølandskaber i det fri, inspireret af fransk maleri og japanske træsnit, som de dramatiske forkortelser i asymmetriske kompositioner vidner om på det lille billede til venstre herfor. Beck var en produktiv og radikal kunstner i sin samtid, og hun modtog den franske stats ærespris. I 1933 skriver hun til svenske Prins Eugen: "I går den 20 December fyllde jag 80 år... Jag reser, jag arbetar, jeg säljer och förstår ej self min höga ålder."
+</span>
+</th>
+</tr>
+</table>
+
+<h1 style="text-align: center;"> Arkaisk Skulptur på Akropolis </h1>
+<br>
+Da de danske, kvindelige kunstnere rejste til Grækenland omkring 1900, var de på en dobbelt mission. Der var gjort en række sensationelle fund af bemalede skulpturer fra arkaisk oldtid på Akropolis i Athen. Gengivelserne i de mange arkæologiske udgivelser, der fulgte, var sjældent fyldestgørende. Derfor var der stor efterspørgsel på nøjagtige kopier af de bemalede oldtidsskulpturer fra museer og akademier over hele Europa.<br><br>
+Der var behov for dygtige billedkunstnere til at udføre arbejdet. I Grækenland var kongen dansk født, hvilket gav danske kunstnere lettere adgang til kopiarbejdet. Den farverige, arkaisk-græske kunst blev en stor inspirationskilde for kunstnerne. Oldtidsskulpturerne blev del af den unge generations opgør med det idealiserede og det naturtro og kom til at præge yngre kunstneres formsprog langt indi 1900-tallet.<br><br>
+På den måde blev de nye, modellerede kopier og bemalede afstøbninger ikke bare videnskabelige genstande, men også selvstandige kunstværker, som blev udstillet i hele Europa.
+
+<h1 style="text-align: center;"> Kunst eller Kopi </h1>
+<br>
+Marie Henriques og Anne Marie Carl-Nielsen underminerede et moralsk og æstetisk dogme i europæisk kultur med deres bemalede kopier af arkaiske skulpturer. Siden renæssancens genopdagelse af antikkens Rom og Grækenland havde mange ment, at oldtidens skulpturer var hvide. I århundreder blev den ideologisk forankrede hide antik dyrket som det højeste ideal for skønhed og dannelse i Europa.<br><br>
+Henriques´ og Carl-Nielsens kopier var derfor epokeskabende. De var del af en kunstnerisk bevægelse, der viste, at det hide ideal byggede på en løgn. Den farverige arkaiske skulptur blev del af et frigørelsesprojekt, hvor nordiske kvinder forbandt sig med tiden før 'den hvide antik'.<br><br>
+Her var skulpturernes frontale, stiliserede træk, voldsomme farver og mytologiske figurer en billedverden, der gav kinderne mulighed for at eksperimentere med form og farve og herved opnå en vis jævnbyrdighed med mænd. Arbejdet med før-klassiske skulpturer udfordrede altså både en europæisk selvforståelse og udvidede kvindernes billedsprog.
+
+<table align="center" cellspacing="5" style="text-align: left" width="100%">
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/18.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Kore (Akropolis museet inv.nr. 685) - Marie Henriques </h1>
+<br>
+<span style="font-weight: normal">
+Akvarellerne her viser skulpturfragmenter, der blev udgravet på Akropolis i 1888. Brygger Carl Jacobsen købte akvarellerne på en udstilling om bemalet skulptur i Rom og skænkede dem til Afstøbningssamlingen på Statens Museum for Kunst i 1912. Henriques' akvareller havde både kunstnerisk og arkæologisk værdi. De var vigtig dokumentation af skulpturernes sarte bemalinger og var samtidig interessante billeder.<br><br>
+Henriques var af velhavende jødisk slægt og rejste ofte alene. Hun så sig selv som mere end turist og storbykunstner. I sin dagbog noterede hun: "Man har ikke set Grækenland, fordi man har opholdt sig i Athen. Man kender ikke Frankrig, fordi man har været i Paris."
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/19.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Typhon - Anne Marie Carl-Nielsen </h1>
+<br>
+<span style="font-weight: normal">
+I 1903 blev Anne Marie Carl-Nielsens tre børn sat i pleje hos gode venner, mens hun rejste til Athen på stipendium. Her skulle hun kopiere oldtidskunst på Akropolis: en række bemalede gavludsmykninger fra ca. 575-550 f.Kr.<br><br>
+At støde direkte efter originalerne ville trække farven af skulpturerne. Derfor måtte hun modellere dem op i ler, før de kunne afstøbes i gips og bemales.<br><br>
+Det blev til de i alt seks kopier, der vises her. Kopierne blev solgt til museer over hele Europa og herhjemme til brygger Carl Jacobsen, der forærede dem til Afstøbningssamlingen på det nyåbnede Statens Museum for Kunst. Arbejdet krævede enorme ressourcer over flere år og under stor ægteskabelig uro, men sikrede kunstneren hendes gennembrud.
+</span>
+</th>
+</tr>
+</table>
+
+<h1 style="text-align: center;"> Sommer mod Nord </h1>
+<br>
+Sidst i 1800-tallet var der tradition for, at mange nordiske kunstnere tog hjem om sommeren for at bo og male. Denne sæsonbestemte migration havde både kunstneriske, kulturelle og personlige årsager. Nordpå er sommerdagene lange, dagslyset blødt og gyldent. Lyset strækker sig ind i natten med midnatssol i de nordligste egne. Dette særlige lys gav kunstnerne ekstra timer til at male udendørs, en plein air.<br><br>
+Fjorde, søer og kystlinjer blev baggrund for lyset som hovedmotiv. Tiden var præget af et patriotisk, realistisk maleri, der skulle give nationalstaterne en visuel historie og identitet. Mange af kinderne var mere interesserede l tendenser fra udlandet og var hurtige til at tage dem op, såsom melankolske stemningslandskaber, livsovergange, intime relationer og i uventede beskæringer.<br><br>
+Kritikerne var ofte fordomsfulde over for både det nye og over for de kvindelige kunstnere. I Norden holdt man fast i naturalismens gengivelser af naturen, længe efter man have vendt sig fra den ydre til den indre virkelighed mange steder i Europa.
+
+<table align="center" cellspacing="5" style="text-align: left" width="100%">
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/20.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Ekko - Ellen Thesleff </h1>
+<br>
+<span style="font-weight: normal">
+Finske Ellen Thesleffs portræt af den unge pige er en stemningsmættet skildring af de uendelige lyse sommernætter mod nord. Solen er som guld mod skovens rolige mørke. Man fornemmer lyden af latter og leg i pausen mellem sommerens pligter. Pigen er legekammerat til kunstnerens lillesøster og datter af arbejdere på savværket i Murole, der lå tæt på familiens sommervilla.<br><br>
+Ekko blev vist første gang i 1891 på en udstilling, hvor flere af de kunstnere deltog, der er med her i udstillingen, såsom Elin Danielson-Gambogi og Amélie Lundahl. Thesleff frigjorde sig tidligt fra den realisme, der prægede den finske kunst i perioden. Hun var del af både den franske og nordiske symbolisme og en af de vigtigste moderne malere i Norden i 1890erne.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/21.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> En abonnent på Aftenposten - Oda Krohg </h1>
+<br>
+<span style="font-weight: normal">
+På Oda Krohgs tid skulle børn være artige, også på billeder. Krogh har valgt at male sin søn i hjemmet i Oslo, mens han klipper ivrigt i avisen. Motivet er set fra oven, med en dristig beskæring. Kompositionen udgøres af diagonaler frem for et traditionelt centralperspektiv, der forstærker nærheden til barnet og handlingen.<br><br>
+Krohg var en kontroversiel skikkelse i Kristiania, i dag Oslo, og levede i lange perioder i Paris. Forfatteren Hans Jæger beskrev hende som en af "fremtidens for tidligt fødte børn". Hendes insisteren på frigørelse, kærlighed og kvinders ret til en seksualdrift fyldte mere for borgerskabet end hendes kunst. Måske klipper sønnen i en af de barske anmeldelser, der blev trykt om hans mor?
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/22.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Stokkavannet - Kitty Lange Kielland </h1>
+<br>
+<span style="font-weight: normal">
+En mand i sin båd på en sø en sommernat, båden spejler sig i vandet, der fanger himlens farver. Ser man efter, bliver nattens rosa lys i det blanke vandspejl billedets egentlige tema. En præcis gengivelse af himmel og kyst forenes med spejlingens forenkling af motivet. Med dette maleri fra sin fødeegn indvarsler Kielland stemningslandskabet i nordisk kunst.<br><br>
+Kielland udviklede sit landskabsmaleri i Karlsruhe, München og Paris. Hendes værker afspejler hendes nomadiske liv mellem europæiske kunstmetropoler og norske sommernætter. Ud over kunstner var hun kunstkritiker, kvindesagsforkæmper og samfundsdebattør. Anna anchers portræt af hende her i udstillingen vidner om Kiellands forbindelse til det danske kunstmiljø.
+</span>
+</th>
+</tr>
+<table>
