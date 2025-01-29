@@ -25,12 +25,17 @@ author_profile: true
 # Læsning
 - [Andersens Eventyr](https://www.andersenstories.com/)
 - [Danmarkshistorien](https://danmarkshistorien.dk/)
+- [DR](https://www.dr.dk/)
 
 # Podcast
+- [Vores Tid - Nationalmuseets mediehus](https://natmus.dk/vorestid/)
 - [Dansk i Ørerne](https://danskioererne.dk/)
+- [Simple Danish](https://denmarkandme.com/podcast/)
 - [Spreaker](https://www.spreaker.com/)
 
 # Bibliotek
 - [Danskernes Historie Online](https://slaegtsbibliotek.dk/)
+- [Det Kongelige Bibliotek](https://tekster.kb.dk/)
 - [Claus Rønlevs bibliotek](https://www.ronlev.dk/)
 - [I Kierkegaards fodspor](https://ikierkegaardsfodspor.dk/)
+- [Internet Archive](https://archive.org/)
