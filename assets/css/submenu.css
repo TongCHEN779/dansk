@@ -34,25 +34,3 @@
 .masthead__menu-item:hover .submenu {
   display: block;
 }
-
-/* Responsive Styles */
-@media (max-width: 768px) {
-  .greedy-nav ul {
-    flex-direction: column;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    width: 100%;
-    background: white;
-    display: none; /* Hidden by default */
-  }
-
-  .greedy-nav button {
-    display: block; /* Show button on mobile */
-  }
-
-  /* Show the menu when button is clicked (JS needed) */
-  .greedy-nav ul.show-menu {
-    display: flex;
-  }
-}
