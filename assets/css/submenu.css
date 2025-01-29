@@ -18,6 +18,7 @@
 
 /* Style submenu items */
 .submenu .masthead__submenu-item {
+  padding-right: 6em; /* Ensure submenu items are aligned with main menu items */
   display: block!important; /* Ensure each submenu item is a block element */
   padding: 0; /* Reset padding for submenu items */
   margin: 0; /* Reset margin for submenu items */
@@ -27,7 +28,7 @@
   display: block; /* Ensure links within submenu items span the full width */
   padding: 10px 10px;
   font-weight: normal; /* Reset submenu font weight */
-  text-align: left!important; /* Ensure text alignment is consistent */
+  text-align: left; /* Ensure text alignment is consistent */
 }
 
 /* Show submenu on hover */
