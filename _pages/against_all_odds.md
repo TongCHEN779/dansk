@@ -73,6 +73,7 @@ Rundt omkring i udstillingen er der placeret en række skærme, Lost Pixels, der
 </th>
 </tr>
 </table>
+<br>
 
 <h1 style="text-align: center;"> Begyndelsen </h1>
 <br>
@@ -117,6 +118,7 @@ Churberg mødte så meget kritik, at hun opgav sin karriere i 1880 som 35-årig.
 </th>
 </tr>
 </table>
+<br>
 
 <h1 style="text-align: center;"> Paris </h1>
 <br>
@@ -173,6 +175,7 @@ Det blålige lys spreder sig i rummet og over skulpturen. Atelieret på Rue Humb
 </th>
 </tr>
 </table>
+<br>
 
 <h1 style="text-align: center;"> Uden for Byen </h1>
 <br>
@@ -217,6 +220,7 @@ Beck rejste tidligt til Frankrig og flyttede aldrig hjem. Hun malede flod- og s�
 </th>
 </tr>
 </table>
+<br>
 
 <h1 style="text-align: center;"> Arkaisk Skulptur på Akropolis </h1>
 <br>
@@ -256,6 +260,7 @@ Det blev til de i alt seks kopier, der vises her. Kopierne blev solgt til museer
 </th>
 </tr>
 </table>
+<br>
 
 <h1 style="text-align: center;"> Sommer mod Nord </h1>
 <br>
@@ -300,6 +305,7 @@ Kielland udviklede sit landskabsmaleri i Karlsruhe, München og Paris. Hendes v�
 </th>
 </tr>
 <table>
+<br>
 
 <h1 style="text-align: center;"> Excentriske Slægtskaber </h1>
 <br>
@@ -381,6 +387,7 @@ Efter en kølig modtagelse i Stockholm i 1903 udstillede Boberg sine malerier i 
 </th>
 </tr>
 </table>
+<br>
 
 <h1 style="text-align: center;"> Rhizome X SMK - Et digitalt partnerskab </h1>
 <br>
@@ -403,6 +410,7 @@ Vi har udvalgt data og defineret, hvordan hun skal tale, og hvad hun skal tale o
 </th>
 </tr>
 </table>
+<br>
 
 <h1 style="text-align: center;"> Stil Spørgsmål til Anne Marie Carl-Nielsen Chatbotten </h1>
 <br>
