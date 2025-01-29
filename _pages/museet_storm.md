@@ -34,23 +34,12 @@ Den censurerede udstilling om censur bygger på omfattende forskning og præsent
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/ms/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/ms/1.jpg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Erklæring om menneskets og borgerens rettigheder 1789 </h1>
 <br>
 <span style="font-weight: normal">
 I den franske menneskerettighedserklæring fra 1789 står der i kap. 11, at "enhver borger kan tale, skrive og trykke frit, men må dog forholde sig til misbruget af denne frihed som fastsat af loven". Det indledte en lang kamp om ytringsfriheden, som også kom til udtryk i satiren.
-</span>
-</th>
-</tr>
-
-<tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/ms/47.png"/></p></th>
-<th style="vertical-align: top;">
-<h1> 1961-63 </h1>
-<br>
-<span style="font-weight: normal">
-Freddie anmodede i 1961 om at få sine tre beslaglagte værker tilbage fra Kriminalmuseet, men fik afslag. Han udførte da en kopi af hvert af de tre værker og udstillede dem i Galerie Køpcke i København. Politiet beslaglagde kopierne og der blev på ny rejst sag mod Freddie. De to malerier blev frigivet, mens busten endnu en gang blev erklæret utugtig. Først i 1963 blev Freddie endeligt frikendt og "Sex-paralysappeal" tilbageleveret.
 </span>
 </th>
 </tr>
@@ -65,7 +54,7 @@ Politianmeldelsen af Freddies værker og de efterfølgende retssager er et vidne
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/ms/45.png"/><br><img src="http://tongchen779.github.io/dansk/images/ms/46.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/ms/45.jpg"/><br><img src="http://tongchen779.github.io/dansk/images/ms/46.jpg"/></p></th>
 <th style="vertical-align: top;">
 <h1> 1937-38 </h1>
 <br>
@@ -76,7 +65,7 @@ Freddies udstilling "Træk Gaflen ud af Øjet på Sommerfuglen. Sex-surreal", de
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/ms/47.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/ms/47.jpg"/></p></th>
 <th style="vertical-align: top;">
 <h1> 1961-63 </h1>
 <br>
