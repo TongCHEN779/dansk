@@ -445,3 +445,21 @@ Når vi udvikler nye generative teknologier baseret på de sidste 30 års intern
 Backend tager os med ind i Ix Shells' arbejdsproces. Installationen baserer sig på en omhyggelig udvalgelse af data, såsom de historiske kvinders rejser 0g relationer samt værkernes farver og detaljer. Det er alt sammen information, der indgår i skabelsen af det generative værk Interlinked, man mødte først i denne udstilling, og som man nu står på bagsiden af.<br><br>
 Det er Ix Shells' kunstneriske strategi at blotlægge systemet, gøre alle elementer synlige og bryde illusionen om, at teknologi er neutral. I Backend insisterer Ix Shells på, at teknologi er skabt af mennesker for mennesker. Der er altid nogen, der bestemmer, hvordan det, vi møder på skærmen, ser ud.<br><br>
 Skærmene her er struktureret som brugerfladen i programmet Touchdesigner. Programmet er det Ix Shells anvender - det er hendes pensel og lærred. Installationen skal læses fra højre mod venstre. Indholdet på de mange skærme resulterer i det, der vises på de tre store skærme. Først vises de tre historiske værker, der er udgangspunktet for Interlinked. Skærmene indeholder en blanding af optagede videoer, der illustrerer forskellige anvendte greb og live feeds fra Interlinked.
+<br><br>
+
+<h1 style="text-align: center;"> Liste over Kunstnere </h1>
+<table align="center" cellspacing="5" style="text-align: left" width="100%">
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/31.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Marie Henriques 1866 (Klampenborg)-1944 (Helsingør) </h1>
+<br>
+<span style="font-weight: normal">
+- Kunstnerisk uddannelse
+Tegneundervisning af den danske maler Frants Henningsen (1850-1908), elev af den belgiske maler Alfred Stevens (1823-1908) 1888, Den med akademiet forbundne Kunstskole for Kvinder i 1889-93.<br>
+- Udvalgte udstillinger og honoreringer
+Kunstforeningens udstillinger, Charlottenborgs Forårsudstilling, Charlottenborgs Efterårsudstilling. Tildeles titlen Officier de l´Académie i Paris i 1928.
+</span>
+</th>
+</tr>
+</table>
