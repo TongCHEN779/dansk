@@ -417,7 +417,8 @@ Vi har udvalgt data og defineret, hvordan hun skal tale, og hvad hun skal tale o
 <br>
 Chatbotten kan svare på meget, men ikke hvad som helst. SMK har udvalgt en række faglige temaer i udstillingen, som vi ønsker, chatbotten skal formidle. Du kan blandt andet spørge til Anne Marie Carl-Nielsens uddannelse eller udviklingen af hendes værker, såsom den kendte rytterstatue af Christian 9. eller de mange dyrefigurer. <br><br>
 
-__Hordan fungerer det og hvor kommer data fra?__ <br>
+**Hordan fungerer det og hvor kommer data fra?** 
+<br>
 Chatbotten er skabt i samarbejde mellem SMK, DTU og Yoke ved hjælp af generativ kunstig intelligens (Al). Den bygger på en model, der anvender datasæt fra internettet og digitaliserede kilder, nøje udvalgt af SMK. Museets gengivelse af Anne Marie Carl-Nielsen er med andre ord baseret på andres arbejde og deres fortolkninger af hendes liv og kunst. Derfor er gennemsigtighed omkring datakilderne også centralt. Udviklingen af chatbotten er muliggjort med stor støtte fra forlag, forskere og forfattere. Kilderne kan ses på listen her i rummet og du kan læse mere om både transparens og etik i kataloget, der følger udstillingen.
 
 <h2 style="text-align: left;"> Hvorfor bruge en chatbot? </h2>
