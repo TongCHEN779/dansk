@@ -300,3 +300,133 @@ Kielland udviklede sit landskabsmaleri i Karlsruhe, München og Paris. Hendes v�
 </th>
 </tr>
 <table>
+
+<h1 style="text-align: center;"> Excentriske Slægtskaber </h1>
+<br>
+De fleste kvinder i Against All Odds bevægede sig det meste af livet på tværs af Europas grænser som anerkendte kunstnere, undervisere og politisk engagerede borgere. De skabte nye måder at leve på gennem deres bevægelser i Europas kunstcentre og blev intellektuelt og kunstnerisk forbundet med den tidlige moderne udvikling. Selvom de først og fremmest var verdensborgere i Europa, udfordrede selve deres mobilitet den traditionelle forståelse af identitet og tilhørsforhold.<br><br>
+Kunstnerne bevægede sig konstant væk fra deres forventede roller og nationale forankringer; Om det så var et land, en slægt, et ægteskab, en socialklasse eller en kunstnerisk tradition. De levede på forskellige måder - fra lesbiske og gifte, til enker og fraskilte, fra velhavende til beskedne kår - og dannede herved et mangfoldigt fællesskab af hybride identiteter. Deres positioner uden for centrum og deres indbyrdes ligheder og interesser forbandt kvinderne på måder, der rækker langt ud over deres køn.<br><br>
+At undersøge disse forbindelser er at udforske kvindernes ex-centriske slægtskaber, der fremhæver betydningen af personlige netværk, venskaber og samarbejder. Forbindelser, der kan være lige så indflydelsesrige som formelle, kunstneriske bevægelser eller akademisk uddannelse, og som åbner vores verden for anderledes måder at se køns- og kunsthistorien på.
+
+<table align="center" cellspacing="5" style="text-align: left" width="100%">
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/23.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Edvard Munch - Asta Nørregaard </h1>
+<br>
+<span style="font-weight: normal">
+Den unge kunstner Edvard Munch fremstår ambitiøs og elegant i jakkesæt med et lommeur som smykke. Modellen er helt tæt på, og pastelkridtet giver Asta Nørregaard mulighed for at arbejde med en blidere og mere taktil personskildring. Portrættet er nøjagtigt i figurgengivelsen, og Munchs personlighed træder levende frem takket være detaljegraden, farveholdningen og kunstnerens intime greb.<br><br>
+Nørregaards ophold i München og Paris definerede hendes stil, men hun blev aldrig del af en nordisk kunstelite. Til gengæld var hun en efterspurgt portrætkunstner. Portrætterne er særegne og viser hendes evne til at følge sin egen kunstneriske kurs, ligesom Munch gjorde i sin eksperimenterende ungdom.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/24.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Thyra Elisabeth - Ellen Thesleff </h1>
+<br>
+<span style="font-weight: normal">
+Det lange, løse, brune hår bølger ned over pigens skuldre. Hendes øjne er lukkede og hendes udtryk roligt. En blomst glider gennem fingrene. Portrættet forestiller kunstnerens 12-årige søster. Baggrunden er enkel og sløret med en okkergul farve. En næsten umærkelig glorie tegner sig rundt om pigens hoved og danner baggrund for den unge kvindes ansigt.<br><br>
+Billedet balancerer mellem uskyld og sanselighed - som en mild Madonna på tærsklen mellem pige og kvinde. Ellen Thesleff rejste mellem Finland, Frankrig og Italien. I Helsinki studerede hun med Helene Schjerfbeck. Inspireret af fransk symbolisme og kunstnere som Eugène Carrière og Puvis de Chavannes, blev Thesleff selv en central figur i nordisk symbolisme.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/25.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Aftenstemning - Henriette Hahn-Brinckmann </h1>
+<br>
+<span style="font-weight: normal">
+Hahn-Brinckmann, hvis værk hænger til venstre herfor, var pioner inden for store farvetræsnit i Nordeuropa. Hun kombinerede japansk teknik med europæiske motiver som i venskabsportrættet af kunstneren Niels Hansen Jacobsen.<br><br>
+Vennen ses i profil foran et vindue med blomsterranker i jugendstil. Ansigtet er modelleret i lys og skygge, opbygget af kontrastfarver uden tydelige konturer. Hahn-Brinckmann tegnede, skar og trykte sine træsnit selv, ligesom hun blandede egne akvarelfarver. Hun udstillede og vandt priser internationalt. Som kunstner var hun aktiv hele livet, dog afbrudt af 13 års ægteskab.<br><br>
+Over denne tekst vises en Lost Pixel - et fragment fra Ix Shells' digitale bearbejdning af Hahn-Brinkmanns træsnit.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/26.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Brita Maria (Mussa) Banck, 1830-1906, Husbestyrerinde - Eva Bonnier </h1>
+<br>
+<span style="font-weight: normal">
+Eva Bonnier malede denne hverdagsscene af familiens husbestyrerinde, Brita Maria Banck, kaldet Mussa, med en avis spredt ud på bordet. Mussa kigger op over brillekanten. Hendes direkte, let forbeholdne blik giver et fast, roligt indtryk. Bonnier skrev: "Jeg føler, det er mest naturligt at fremstille hende som en avislæser, da det er det, hun bruger det meste af sin tid på." Når hun ikke tjente familien, kunne der have stået.<br><br>
+Kroppens mørke silhuet træder frem foran de lyse farvefelter. Der er en fortrolighed i fremstilliengen, og motivets naturlige størrelse vidner om en hengivenhed mellem de to kvinder på tværs af sociale skel. Bonnier var en af sin tids førende portrætmalere. Hendes selvportræt ses tidligere i udstillingen.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/27.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Selvportræt - Ellen Thesleff </h1>
+<br>
+<span style="font-weight: normal">
+En rosa figur på en blåviolet baggrund: Lyset falder på kvinden som scenelys på en skuespiller. Maleriet blev bestilt af Den Finske Kunstforening til kunstmuseet Ateneums samling. Thesleff var begejstret for opgaven, og i løbet af få måneder var hun færdig med portrættet. Maleriet havde dog ikke større ydre lighed med kunstneren selv. Som hun skrev til sin søster Thyra, havde hun malet sig selv som forskellige karakterer med mange forskellige masker på en gang.<br><br>
+Thesleff dyrkede dans og teater som en del af sit kvindeoprør, og maleriet handlede for hende om optræden og iscenesættelse, ligesom på teateret. Hun var radikal i sin samtid, påvirket af fransk symbolismes drømmelignende billeder, og hun introducerede den franske impressionisme i Finland.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/28.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Fiskeflåden sejler ud. Studie fra Nord-Norge - Anna Boberg </h1>
+<br>
+<span style="font-weight: normal">
+Hundredevis af fiskerbåde sejler ud på havet under den arktiske sol. Vandet er roligt og spejler himlen og landskabet i bløde nuancer. Træbådenes røde sejl fremhæver solens ultraviolette lys i rødt, grønt og blåt. Boberg besøgte Lofoten første gang i 1901 og vendte tilbage mere end 25 gange på 30 år for at male nordlys, fjelde og gletsjere.<br><br>
+Efter en kølig modtagelse i Stockholm i 1903 udstillede Boberg sine malerier i Paris i 1905 med stor succes. Divaen Sarah Bernhardt anbefalede udstillingen, og franske aviser roste hende. Herefter udstillede hun i Berlin, London, USA og gentagne gange på Venedig Biennalen. I dag er hun en af de bedst repræsenterede kunstnere på Nationalmuseum i Stockholm, men er endnu relativt ukendt.
+</span>
+</th>
+</tr>
+</table>
+
+<h1 style="text-align: center;"> Rhizome X SMK - Et digitalt partnerskab </h1>
+<br>
+SMK har i forbindelse med udstillingen Against All Odds etableret et vigtigt partnerskab med Rhizome i New York, en af verdens førende institutioner for digital kunst. Dette samarbejde danner grundlag for udforskningen af, hvordan SMK fremover kan arbejde i krydsfeltet mellem kunst og kunstig intelligens.<br><br>
+Rhizome har i mange år arbejdet med formatet 7x7, hvor førende kunstnere og teknologieksperter skaber nye værker gennem kreative samarbejder. | 2024 havde 7x7 fokus på AI. SMK understøttede her et samarbejdsprojekt mellem Eugenia Kuyda, grundlægger af Replika Al, og kunstner Lynn Hershman Leeson. Kuyda har skabt en af verdens mest avancerede personlige chatbots inden for udviklingen af Al-companions, mens Leeson i over fem årtier har været en banebrydende skikkelse inden for kunst, der forbinder køn, identitet og teknologi.<br><br>
+Filmen præsenterer en dokumentation af dette nytænkende samarbejde, hvor Leeson skriver manuskriptet til en chatbot på Kyudas platform. Projektet undersøger, hvordan vi opbygger følelsesmæssige relationer til og med teknologi. Det undersøger også, hvordan interaktiv software kan genopdage og revitalisere fortællinger, erfaringer og arkivmateriale - hvilket chatbotten i næste rum er et eksempel på - og hvordan dialogen mellem menneske og Al kan skabe nye forståelser af vores indbyrdes forbundethed på tværs af tid. Michael Connor, leder af Rhizome, uddyber desuden disse komplekse relationer mellem kunst, digital teknologi, følelser, etik og historieproduktion i udstillingskataloget på bordet her ved siden af.
+
+<table align="center" cellspacing="5" style="text-align: left" width="100%">
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/29.png"/></p></th>
+<th style="vertical-align: top;">
+<span style="font-weight: normal">
+Chatbotten næste rum er en fortolkning af billedhuggeren Anne Marie Carl-Nielsen. <br><br>
+Når man udvilker en chatbot er adgang til data essentiel. Anne Marie Carl-Nielsen blev valgt, fordi vi har adgang til et stort udvalg af hendes egne digitaliserede breve og dagbøger, samt den litteratur, der er skrevet om hende. <br><br>
+Vi havde ikke mulighed for at vælge andre af de kvindelige kunstnere, som deltager i udstillingen, fordi der ikke er nok tilgængeligt digitalt data om dem. De kunstnere, der ikke blev bevaret i fortiden, får nu endnu vanskeligere ved at få en stemme i fremtiden, simpelthen fordi de ikke eksisterer digitalt. <br><br>
+Derfor er det vigtigt, at vi ikke alene skaber synlighed via udstillinger, men også giver de historiske kvindelige kunstnere et digitalt efterliv.<br><br>
+Det er første gang, SMK bruger en chatbot som redskab til at formidle og skabe overblik over et omfattende arkivmateriale. Museet har sammen med DTU udformet denne version af kunstneren.<br><br>
+Vi har udvalgt data og defineret, hvordan hun skal tale, og hvad hun skal tale om. Det gør det muligt for dig at tale med en version af Anne Marie Carl-Nielsen ud af mange.
+</span>
+</th>
+</tr>
+</table>
+
+<h1 style="text-align: center;"> Stil Spørgsmål til Anne Marie Carl-Nielsen Chatbotten </h1>
+<br>
+Chatbotten kan svare på meget, men ikke hvad som helst. SMK har udvalgt en række faglige temaer i udstillingen, som vi ønsker, chatbotten skal formidle. Du kan blandt andet spørge til Anne Marie Carl-Nielsens uddannelse eller udviklingen af hendes værker, såsom den kendte rytterstatue af Christian 9. eller de mange dyrefigurer.<br><br>
+**Hordan fungerer det og hvor kommer data fra?**<br><br>
+Chatbotten er skabt i samarbejde mellem SMK, DTU og Yoke ved hjælp af generativ kunstig intelligens (Al). Den bygger på en model, der anvender datasæt fra internettet og digitaliserede kilder, nøje udvalgt af SMK. Museets gengivelse af Anne Marie Carl-Nielsen er med andre ord baseret på andres arbejde og deres fortolkninger af hendes liv og kunst. Derfor er gennemsigtighed omkring datakilderne også centralt. Udviklingen af chatbotten er muliggjort med stor støtte fra forlag, forskere og forfattere. Kilderne kan ses på listen her i rummet og du kan læse mere om både transparens og etik i kataloget, der følger udstillingen.<br><br>
+**Hvorfor bruge en chatbot?**<br><br>
+Når vi udvikler nye generative teknologier baseret på de sidste 30 års internetindhold, bliver internettet ikke kun en kilde til ny viden, men også en platform for vores fælles erindringer - en ny kollektiv hukommelse, et nyt kollektivt arkiv. Kunstig intelligens spejler dog ikke kun fremtiden, men også fortidens magtstrukturer og uligheder, som er synlige i nutidens datasæt. Derfor er det vigtigt, at undersøge Al som en historisk teknologi, ikke kun en nutidig og fremtidig. Dette gælder også for denne chatbot, som er et af SMKs første forsøg på at give historiske kvindelige kunstnere et digitalt efterliv, du kan interagere med.<br><br>
+**Prøv selv - stil et spørgsmål og lyt til svaret. Spørgsmål til inspiration:**<br><br>
+- Hvordan påvirkede din skilsmisse din kunst?<br><br>
+- Hvordan er dit forhold til naturen?<br><br>
+- Hvad er det mest betydningsfulde værk, du har skabt?<br><br>
+- Hvordan arbejdede du med dine voksfigurer?<br><br>
+- Hvad har musik og kunst efter din mening tilfælles?<br><br>
+- Hvilke temaer udforsker du i dine skulpturer?<br><br>
+- Hvilke andre kunstnere er du inspireret af?<br><br>
+- Hvor er du vokset op?<br><br>
+- Hvordan uddannede du dig til kunstner?<br><br>
+- Hvordan blev din kunst modtaget i pressen?<br><br>
+- Hvordan samarbejdede du med din mand, den danske komponist Carl Nielsen?<br><br>
+- Rejste du meget?
+
+<h1 style="text-align: center;"> Backend </h1>
+<br>
+Backend tager os med ind i Ix Shells' arbejdsproces. Installationen baserer sig på en omhyggelig udvalgelse af data, såsom de historiske kvinders rejser 0g relationer samt værkernes farver og detaljer. Det er alt sammen information, der indgår i skabelsen af det generative værk Interlinked, man mødte først i denne udstilling, og som man nu står på bagsiden af.<br><br>
+Det er Ix Shells' kunstneriske strategi at blotlægge systemet, gøre alle elementer synlige og bryde illusionen om, at teknologi er neutral. I Backend insisterer Ix Shells på, at teknologi er skabt af mennesker for mennesker. Der er altid nogen, der bestemmer, hvordan det, vi møder på skærmen, ser ud.<br><br>
+Skærmene her er struktureret som brugerfladen i programmet Touchdesigner. Programmet er det Ix Shells anvender - det er hendes pensel og lærred. Installationen skal læses fra højre mod venstre. Indholdet på de mange skærme resulterer i det, der vises på de tre store skærme. Først vises de tre historiske værker, der er udgangspunktet for Interlinked. Skærmene indeholder en blanding af optagede videoer, der illustrerer forskellige anvendte greb og live feeds fra Interlinked.
