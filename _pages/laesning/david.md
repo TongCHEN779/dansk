@@ -109,6 +109,7 @@ Frisen, som er den længste, kendte af sin art fra den islamske verden, er stadi
 I 630´erne og 640´erne erobrede muslimske hære fra Den Arabiske Halvø store områder fra Det Byzantinske Rige. I disse områder overtog muslimerne bl.a. kontrollen med møntprægningen, men de lancerede ikke en ny valuta. På mønten her er det byzantinske design bevaret inklusiv et lille kors allerøverst. Den eneste ændring er, at bynavnet Tiberias er skrevet på både græsk (tv.) og på arabisk (th.).
 <br><br>
 Denne forsigtige tilgang kan skyldes, at man endnu ikke havde udviklet et islamisk møntdesign. Men der kan også være tale om, at de nye magthavere valgte at efterligne det forrige imperiums mønter for at forsikre befolkningen om, at mønternes værdi var uændret.
+</span>
 <br><br>
 <h1> Sølvmønt (drakme) </h1>
 
