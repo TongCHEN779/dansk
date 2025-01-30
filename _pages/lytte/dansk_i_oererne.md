@@ -24,7 +24,7 @@ author_profile: true
     }
 </style>
 
-Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).
+(Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th style="vertical-align: top;"> <audio controls src="https://danskioererne.dk/podcast-player/151/18-aalborg.mp4"></audio> </th>
