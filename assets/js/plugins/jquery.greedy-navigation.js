@@ -5,12 +5,12 @@
 *
 */
 
-var $nav = $('#site-nav');
-var $btn = $('#site-nav button');
-var $vlinks = $('#site-nav .visible-links');
-var $hlinks = $('#site-nav .hidden-links');
+// var $nav = $('#site-nav');
+// var $btn = $('#site-nav button');
+// var $vlinks = $('#site-nav .visible-links');
+// var $hlinks = $('#site-nav .hidden-links');
 
-var breaks = [];
+// var breaks = [];
 
 // function updateNav() {
 
@@ -58,20 +58,46 @@ var breaks = [];
 
 // }
 
+// // Window listeners
+
+// $(window).resize(function() {
+//   updateNav();
+// });
+
+// $btn.on('click', function() {
+//   $hlinks.toggleClass('hidden');
+//   $(this).toggleClass('close');
+// });
+
+// updateNav();
+
+var $nav = $('#site-nav');
+var $btn = $('#site-nav button');
+var $vlinks = $('#site-nav .visible-links');
+var $hlinks = $('#site-nav .hidden-links');
+
+var breaks = [];
+
+function getMainMenuWidth() {
+  var width = 0;
+  $vlinks.children('li').each(function() {
+    if (!$(this).find('.submenu').length) { // Exclude submenu containers
+      width += $(this).outerWidth(true); // Include margins
+    }
+  });
+  return width;
+}
+
 function updateNav() {
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
-  // Calculate width of only main menu items, excluding submenus
-  var mainMenuWidth = 0;
-  $vlinks.children('li:not(.submenu, .masthead__submenu-item)').each(function() {
-    mainMenuWidth += $(this).outerWidth(true); // Include margins
-  });
+  var mainMenuWidth = getMainMenuWidth();
 
   // The visible list is overflowing the nav
   if (mainMenuWidth > availableSpace) {
     breaks.push(mainMenuWidth);
 
-    // Move item to the hidden list
+    // Move last non-submenu item to the hidden list
     $vlinks.children('li:not(.masthead__menu-item--lg)').last().prependTo($hlinks);
 
     // Show the dropdown button
@@ -80,7 +106,7 @@ function updateNav() {
     }
   } else {
     // There is space for another item in the nav
-    if (availableSpace > breaks[breaks.length - 1]) {
+    if (breaks.length > 0 && availableSpace > breaks[breaks.length - 1]) {
       $hlinks.children().first().appendTo($vlinks);
       breaks.pop();
     }
@@ -92,19 +118,17 @@ function updateNav() {
     }
   }
 
+  // Update button counter
   $btn.attr("count", breaks.length);
 
-  if (mainMenuWidth > availableSpace) {
+  // Re-run the function if still overflowing
+  if (getMainMenuWidth() > availableSpace) {
     updateNav();
   }
 }
 
-
 // Window listeners
-
-$(window).resize(function() {
-  updateNav();
-});
+$(window).resize(updateNav);
 
 $btn.on('click', function() {
   $hlinks.toggleClass('hidden');
