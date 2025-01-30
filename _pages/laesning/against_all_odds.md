@@ -132,6 +132,7 @@ Mellem 1870 og 1910 voksede migrationen i Europa markant. Frem til 1880 strømme
 <tr>
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/9.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/10.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/11.png"/></p></th>
 <th style="vertical-align: top;">
+<h1> Selvportræt - Eva Bonnier </h1>
 
 <span style="font-weight: normal">
 Eva Bonnier har portrætteret sig selv som borgerlig intellektuel, ikke som maler. Hun er iklædt højeste mode og iagttager beskueren. De utallige varme toner viser, hvor suverænt hun behersker tidens franske "valørmaleri".<br><br>
