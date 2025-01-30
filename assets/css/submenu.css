@@ -5,10 +5,8 @@
 
 /* Hide submenu by default */
 .submenu {
-  display: none;
-  visibility: hidden;
+  display: none!important;
   position: absolute;
-  width: auto;
   top: 100%;
   left: 0;
   background: white;
