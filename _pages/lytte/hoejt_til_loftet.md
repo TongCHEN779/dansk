@@ -25,6 +25,8 @@ author_profile: true
         width: 80%; /* Second column */
     }
 </style>
+
+Alle tekster og lydfiler kan findes [her](https://www.xn--hjttilloftet-vjb.dk/).
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th style="vertical-align: top;"> <audio controls src="https://music.wixstatic.com/mp3/e0c169_1a83fcd0195b4db7bc51034ca94c3eca-320.mp3"></audio> </th>
