@@ -83,3 +83,67 @@ En sådan passage er at finde i sura 43:2-3, som er gengivet i linje 6-8 på dob
 </span>
 </th>
 </tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/2.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Træpanel </h1>
+<br>
+<span style="font-weight: normal">
+Fra det 8. århundrede fik arabisk skrift også en fremtrædende plads i arkitekturen i form af inskriptioner i mosaik, sten, stuk og træ.
+<br><br>
+Dette panel stammer fra en ca. 2 km lang træfrise, som blev fremstillet til Ibn Tulun-moskeen i Cairo, opført 876-879. Panelet rummer en bid af Koranens sura 2:133, hvori navnene på flere bibelske profeter nævnes. Frisen har oprindeligt rummet hele sura 2, hvis 286 vers siges at opsummere Koranens budskab.
+<br><br>
+Frisen, som er den længste, kendte af sin art fra den islamske verden, er stadig delvis bevaret. Den løber langs alle Ibn Tulun-moskeens buegange i ca. 8 meters højde, som en svævende repræsentation af Guds ord over de troendes hoveder.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/3.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Kobbermønt (fals) </h1>
+<br>
+<span style="font-weight: normal">
+I 630´erne og 640´erne erobrede muslimske hære fra Den Arabiske Halvø store områder fra Det Byzantinske Rige. I disse områder overtog muslimerne bl.a. kontrollen med møntprægningen, men de lancerede ikke en ny valuta. På mønten her er det byzantinske design bevaret inklusiv et lille kors allerøverst. Den eneste ændring er, at bynavnet Tiberias er skrevet på både græsk (tv.) og på arabisk (th.).
+<br><br>
+Denne forsigtige tilgang kan skyldes, at man endnu ikke havde udviklet et islamisk møntdesign. Men der kan også være tale om, at de nye magthavere valgte at efterligne det forrige imperiums mønter for at forsikre befolkningen om, at mønternes værdi var uændret.
+
+<h1> Sølvmønt (drakme) </h1>
+<br>
+<span style="font-weight: normal">
+I år 651 besejrede de muslimske bære den persiske konge, Yazdigird 3., hvorefter store dele af det nuværende Irsk og Iran blev indlemmet i det islamiske kalifat. Trods kongens fald fortsatte man en tid endnu med at præge mønter med klassiske persiske herskerportrætter med fuldskæg og krone.
+<br><br>
+Møntens tekster er en blanding af nyt of gammelt. Inskriptionen rundt om portrættet hylder den muslimske guvernør Bishr Ibn Marwan, men den er skrevet på Perserrigets officielle sprog pahlavi (middelperisisk). Langs den nedre kant ses til gengæld en arabisk indskrift med en kort udgave af den islamiske trosbekendelse: "I Guds navn, Muhammad er Guds sendebud".
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/4.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Guldmønt (dinar) </h1>
+<br>
+<span style="font-weight: normal">
+I slutningen af det 7. århundrede ændredes de islamiske mønter markant. De tidligere imperiers symboler, billeder og skrifter forsvandt og erstattedes af arabisk skrift, især korancitater.
+<br><br>
+På denne mont ser man også, at skriften er hævet til et nyt designmæssigt niveau. Bogstaverne er ensartede, og første linje i midterfeltet starter og slutter med den samme tegnkombination. Teksten må være nøje tilrettelagt i et større format og derefter overført til montstemplet. 
+<br><br>
+Disse ændringer var en del af en overordnet reform af kalifatets visuelle sprog henimod det non-figurative og skriftcentrerede, som blev iværksat af kaliffen Abd al-Malik (r. 685-705).
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/5.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Koranblad </h1>
+<br>
+<span style="font-weight: normal">
+Dette blad, som stammer fra et af de tidligste kendte koranmanuskripter, indeholder to lag tekst. Øverst et mørkebrunt og tydeligt lag og nederst et ældre lag, der er lysere og mere utydeligt. Dette skyldes, at man har fjernet den oprindelige tekst og beskrevet bladet på ny.
+<br><br>
+Begge tekstlag indeholder passager fra Koranens sura 2. skrevet i en tidlig arabisk skrift kaldet hijazi, dvs. "fra Hijaz", som er det område, hvori byerne Mekka og Medina ligger sammenligner man tekstlagene, ser man f.eks. at opstregerne skråner i det nederste lag, mens de er næsten lodrette i det øverste. Sådanne forskelle viser, at arabisk skrift i det 7. århundrede endnu ikke var blevet standardiserer. 
+</span>
+</th>
+</tr>
+</table>
