@@ -24,7 +24,7 @@ author_profile: true
     }
 </style>
 
-<p style="text-align: center;">Alle tester og videoer kan findes [her](https://danskioererne.dk/)</p>
+Alle tekster og videoer kan findes [her](https://danskioererne.dk/).
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
