@@ -39,11 +39,11 @@ Hver generation skaber og omskriver historien. Deter måden, vi gør det på, de
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/1.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Kunstneren Venny Soldan-Brofeldt - Hanna Hirsch-Pauli </h1>
-<br>
+
 <span style="font-weight: normal">
 I vinteren 1886-87 malede svenske Hanna Hirsch et portræt af sin finske veninde, kunstneren Venny Soldan, i deres fælles atelier på Montparnasse i Paris. Soldan sidder på et tæppe af indtørret farve i et spartansk atelier med ler i hænderne. Hun er malet helt i sort og med åben mund, som er hun ved at sige noget.<br><br>
 Hænderne er snavsede af ler og gestikken tydeligt domineret af den uformelle tone mellem kunstner og model. At hun sidder på gulvet udfordrer ideen om, at kunst kun kan skabes under ideelle betingelser. Soldan er ikke en passiv model, men en aktiv, professionel kunstner. Den åbne mund antyder kontakt, måske med kunstneren selv eller en anden i rummet, og skaber en følelse af forbindelse og fællesskab.<br><br>
-Hirsch beskrev senere den frihed, kvinderne følte, trods de nøjsomme forhold i det fugtige atelier. Maleriet er ikke kun en hyldest til veninden som kunstner. Det er også et vidnesbyrd om kvindernes styrke, fællesskab og modstand mod tidens begrænsende normer.
+Hirsch beskrev senere den frihed, kvinderne følte, trods de nøjsomme forhold i det fugtige atelier. Maleriet er ikke kun en hyldest til veninden som kunstner. Det er også et vidnesbyrd om kvindernes styrke, fællesskab og modstand mod tidens begrænsende normer.<br>
 </span>
 </th>
 </tr>
@@ -52,11 +52,11 @@ Hirsch beskrev senere den frihed, kvinderne følte, trods de nøjsomme forhold i
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/2.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/3.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Anna Seekamp, Kunstnerens søster - Bertha Wegmann </h1>
-<br>
+
 <span style="font-weight: normal">
 Wegmanns portræt forestiller søsteren Anna Seekamp, der ser direkte på os, mens fingrene leger med et garnnøgle. Modellen er trukket helt frem i forgrunden og viser, at kunstneren suverænt behersker de ukonventionelle øjebliksbilleder, hvor det flygtige og umiddelbare forenes med nærvær og intimitet.<br><br>
 Wegmann vandt en tredje klasses medalje for portrættet på Parisersalonen - den højeste udmærkelse nogen kvindelig kunstner fra Skandinavien opnåede mellem 1878 og 1889.<br><br>
-Som en af Danmarks mest efterspurgte portrætmalere dokumenterede Wegmann nationens store personligheder med succes. Selv boede hun i udlandet i lange perioder. Den transnationale livsstil var nødvendig, men betød også, at hun først i nyere tid har fået en plads i kunsthistorien.
+Som en af Danmarks mest efterspurgte portrætmalere dokumenterede Wegmann nationens store personligheder med succes. Selv boede hun i udlandet i lange perioder. Den transnationale livsstil var nødvendig, men betød også, at hun først i nyere tid har fået en plads i kunsthistorien.<br>
 </span>
 </th>
 </tr>
@@ -65,12 +65,12 @@ Som en af Danmarks mest efterspurgte portrætmalere dokumenterede Wegmann nation
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/4.jpg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Interlinked - Ix Shells </h1>
-<br>
+
 <span style="font-weight: normal">
 Ix Shells har skabt tre værker til udstillingen. Det første er den immersive installation Interlinked. Værket er baseret på data om udstillingens historiske kunstnere. Mange tænker på data som numeriske værdier, men data kan også være historier, farver eller lyde. I Interlinked indgår data om de historiske kvindelige kunstnere, deres værker, liv og personlige relationer. Tre af de historiske værker er blevet udvalgt og bearbejdet kunstnerisk af Ix Shells og vises her i et nutidigt, digitalt univers.<br><br>
 Ix Shells har opstillet en række parametre for, hvordan data skal bearbejdes. Dog vil algoritmerne, som er trin-for-trin instruktioner eller regler, der bruges til at behandle data (dvs. analysere og ændre realtid, hvilket betyder, at værket hele tiden er i forandring.<br><br>
 De historiske kvindelige kunstnere bliver løbende fortolket og oplevet på stadigt nye måder. I Interlinked indgår data om de historiske kunstneres rejser rundt i Europa og Mellemøsten. Rejserne var med til at frisætte kunstnerne og skabe fundamentet for deres karrierer. En sensor registrere dine bevægelser i rummet og lader dig blive en del af disse rejser på tværs af tid og sted.<br><br>
-Rundt omkring i udstillingen er der placeret en række skærme, Lost Pixels, der viser Ix Shells' digitale fortolkninger af udvalgte værker. De er en påmindelse om, at vi hele tiden er i gang med at skabe vores egen historie. Den samlede mængde af data vises frem i installationen Backend, som du vil møde senere i udstillingen.
+Rundt omkring i udstillingen er der placeret en række skærme, Lost Pixels, der viser Ix Shells' digitale fortolkninger af udvalgte værker. De er en påmindelse om, at vi hele tiden er i gang med at skabe vores egen historie. Den samlede mængde af data vises frem i installationen Backend, som du vil møde senere i udstillingen.<br>
 </span>
 </th>
 </tr>
@@ -78,20 +78,20 @@ Rundt omkring i udstillingen er der placeret en række skærme, Lost Pixels, der
 <br>
 
 <h1 style="text-align: center;"> Begyndelsen </h1>
-<br>
+
 Her begynder de nordiske kinders rejse i det sene 1800-tal. Fælles for kvinderne var, at de måtte tage til udlandet for at udvikle og leve af deres kunst. De tog alle del i tidens transnationale bevægelser, der blev afgørende for deres succes. Hjemme havde de ikke samme adgang til kunstskoler, akademier eller udstillingsmuligheder som mænd. Når kinderne blev afvist af de nationale fællesskaber, gav de internationale netværk i Europa en solidaritet, en styrke og de nødvendige rammer for deres arbejde.<br><br>
 Den kosmopolitiske bevægelse blev et alternativ til nationale traditioner, som afgjorde, hvilken kunst der blev opfattet som betydningsfuld. Kvinderne udviklede både deres kunstnerskaber og deres personlige identiteter på tværs af kulturer. At holde sig i konstant bevægelse blev en forudsætning for både karrieren og den personlige frigørelse.<br><br>
-Følg kindernes nomadiske bevægelser mellem deres nordiske hjemlande, Europas storbyer og de mange kunstnerkolonier, mellem samtid og fortid, mellem pligt og frigørelse, mellem familiebånd og selvvalgte slægtskaber.
+Følg kindernes nomadiske bevægelser mellem deres nordiske hjemlande, Europas storbyer og de mange kunstnerkolonier, mellem samtid og fortid, mellem pligt og frigørelse, mellem familiebånd og selvvalgte slægtskaber.<br>
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/5.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Valkyrier - Elisabeth Jerichau Baumann </h1>
-<br>
+
 <span style="font-weight: normal">
 I nordisk mytologi er det valkyrierne, der afgør, hvem der skal leve og dø i kamp. I Jerichau Baumanns maleri fremstilles de som formidable kvindeskikkelser af stor skønhed og styrke. Valkyrierne dominerer værket med kraftfulde positurer og hævede spyd, understreget af hestenes vildskab og de hvirvlende skyer. Det haster med at bringe de faldne til Valhal.<br><br>
-Maleriet blev udstillet i London i 1871. Jerichau Baumann var polsk, men dansk gift, blev uddannet i Tyskland og tilhørte Düsseldorf-skolen. De politiske og revolutionære temaer i hendes kunst var fremmede for den danske kunstscene. Med sine portrætter af nordafrikanske kvinder, som dette til venstre, skrev kunstneren sig ind i europæisk kunsthistorie.
+Maleriet blev udstillet i London i 1871. Jerichau Baumann var polsk, men dansk gift, blev uddannet i Tyskland og tilhørte Düsseldorf-skolen. De politiske og revolutionære temaer i hendes kunst var fremmede for den danske kunstscene. Med sine portrætter af nordafrikanske kvinder, som dette til venstre, skrev kunstneren sig ind i europæisk kunsthistorie.<br>
 </span>
 </th>
 </tr>
@@ -100,10 +100,10 @@ Maleriet blev udstillet i London i 1871. Jerichau Baumann var polsk, men dansk g
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/6.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Selvportræt - Amanda Sidwall </h1>
-<br>
+
 <span style="font-weight: normal">
 Amanda Sidwall var en af de første studerende i 'Kvindeafdelingen', der åbnede på Det Kongelige Svenske Kunstakademi i 1864. I 1874 tog hun til Paris for at fortsætte sine studier på Académie Julian. Senere etablerede hun sit eget atelier i byen og forsatte undertiden som lærer ved skolen, hvor hun hjalp flere svenske kunstnere ind, bl.a. Mina Carlsson-Bredberg, som man vil møde senere i udstillingen.<br><br>
-Sidwall blev godt modtaget i sin levetid, også af anmelderne, og solgte værker i både Frankrig og Sverige. På Parisersalonen i 1877 blev to af hendes malerier endda solgt til den franske stat. Selvportrættet med hattens blå silkesløjfe og bogen i hånden blev malet, mens hun stadig var studerende ved Stockholms Akademi.
+Sidwall blev godt modtaget i sin levetid, også af anmelderne, og solgte værker i både Frankrig og Sverige. På Parisersalonen i 1877 blev to af hendes malerier endda solgt til den franske stat. Selvportrættet med hattens blå silkesløjfe og bogen i hånden blev malet, mens hun stadig var studerende ved Stockholms Akademi.<br>
 </span>
 </th>
 </tr>
@@ -112,10 +112,10 @@ Sidwall blev godt modtaget i sin levetid, også af anmelderne, og solgte værker
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/7.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/8.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Vinterlandskab - Fanny Churberg </h1>
-<br>
+
 <span style="font-weight: normal">
 Vinterlandskab er et af Churbergs sidste værker. Det skildrer den rå skønhed i den finske vildmark. Med dristige penselstrøg fanger hun det dramatiske samspil mellem lys og skygge i en uvejrsscene. Hendes evne til at formidle naturens stemninger og atmosfære med følsomhed og intensitet adskilte hende fra samtidige kunstnere.<br><br>
-Churberg mødte så meget kritik, at hun opgav sin karriere i 1880 som 35-årig. Hun indvarslede en ny måde at male landskaber på i Norden, der var dristig, ekspressiv og eksplosiv. Desuden skrev hun kunstkritik, introducerede kvindelige kunstnerskaber og uddannede sig i Düsseldorf og siden i Paris ad flere omgange. De omfattende rejser på tværs af Europa gjorde hende til en af de første transnationale kvindelige malere i de nordiske lande.
+Churberg mødte så meget kritik, at hun opgav sin karriere i 1880 som 35-årig. Hun indvarslede en ny måde at male landskaber på i Norden, der var dristig, ekspressiv og eksplosiv. Desuden skrev hun kunstkritik, introducerede kvindelige kunstnerskaber og uddannede sig i Düsseldorf og siden i Paris ad flere omgange. De omfattende rejser på tværs af Europa gjorde hende til en af de første transnationale kvindelige malere i de nordiske lande.<br>
 </span>
 </th>
 </tr>
@@ -132,11 +132,10 @@ Mellem 1870 og 1910 voksede migrationen i Europa markant. Frem til 1880 strømme
 <tr>
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/9.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/10.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/11.png"/></p></th>
 <th style="vertical-align: top;">
-<h1> Selvportræt - Eva Bonnier </h1>
-<br>
+
 <span style="font-weight: normal">
 Eva Bonnier har portrætteret sig selv som borgerlig intellektuel, ikke som maler. Hun er iklædt højeste mode og iagttager beskueren. De utallige varme toner viser, hvor suverænt hun behersker tidens franske "valørmaleri".<br><br>
-Pariserårene i 1880erne betød kunstnerisk udvikling og frihed fra de borgerlige konventioner, der styrede Bonniers liv i Stochholm. Hun var født ind i en rig, jødisk familie som datter af en berømt forlægger. Socialklasse var afgørende for hendes ophold i udlandet. Hun skulle ikke bekymre sig om penge til at betale f.eks. sine modeller. Selv regnede hun studiet til højre som et af sine bedste og indsendte det til et kunstlotteri i Stockholm. Modellen var en tyrkisk kvinde, en femme turque, som hun skriver til en ven.
+Pariserårene i 1880erne betød kunstnerisk udvikling og frihed fra de borgerlige konventioner, der styrede Bonniers liv i Stochholm. Hun var født ind i en rig, jødisk familie som datter af en berømt forlægger. Socialklasse var afgørende for hendes ophold i udlandet. Hun skulle ikke bekymre sig om penge til at betale f.eks. sine modeller. Selv regnede hun studiet til højre som et af sine bedste og indsendte det til et kunstlotteri i Stockholm. Modellen var en tyrkisk kvinde, en femme turque, som hun skriver til en ven.<br>
 </span>
 </th>
 </tr>
@@ -145,10 +144,10 @@ Pariserårene i 1880erne betød kunstnerisk udvikling og frihed fra de borgerlig
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/12.png"/><br><img src="http://tongchen779.github.io/dansk/images/aao/13.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Stilleben med løg - Helene Schjerfbeck </h1>
-<br>
+
 <span style="font-weight: normal">
 I Schjerfbecks tidlige stilleben med løg er farverne det egentlige motiv. Jordfarverne dominerer, med nuancer fra dyb brun og okker til gyldne og blege rosa og grønne toner som subtil variation. Penselstrøgene fremhæver løgskallernes tekstur, mens lyset reflekteres på de runde overflader mod den mørke baggrund, der tilføjer dybde og kontrast.<br><br>
-Schjerfbecks evne til at opløse billedfladen i stærke kontraster skaber enestående stemningsfulde billeder, som man kan se flere af i udstillingen. Trods sin enorme begavelse mødte Schjerfbeck hård kritik i Finland. Hendes lange ophold i Frankrig, England og Italien var utvivlsomt hendes lykkeligste år. Først sent kom hendes talent til at revolutionere finsk kunst.
+Schjerfbecks evne til at opløse billedfladen i stærke kontraster skaber enestående stemningsfulde billeder, som man kan se flere af i udstillingen. Trods sin enorme begavelse mødte Schjerfbeck hård kritik i Finland. Hendes lange ophold i Frankrig, England og Italien var utvivlsomt hendes lykkeligste år. Først sent kom hendes talent til at revolutionere finsk kunst.<br>
 </span>
 </th>
 </tr>
@@ -157,10 +156,10 @@ Schjerfbecks evne til at opløse billedfladen i stærke kontraster skaber enest�
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/14.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Selvportræt - Mina Carlson-Bredberg </h1>
-<br>
+
 <span style="font-weight: normal">
 Mina Carlsson-Bredberg ser på os fra sit loftsatelier i Paris, iført grå malerkittel med opsmøgede ærmer. Den klare, blå farve på paletten svarer til hendes øjenfarve. Selvportrættet sikrede kunstnerens gennembrud, da hun vandt en stor pris for det på Verdensudstillingen i Paris i 1889. Carlsson-Bredberg kom til Paris i 1883 for at studere på Académie Julian, med hjælp fra sin lærer, Amanda Sidwall, hvis selvportræt hænger tidligere i udstillingen.<br><br>
-Efter endt uddannelse fortsatte Carlson-Bredberg på skolen i Paris som lærer. Hun giftede sig to gange. I sine ægteskaber var hun inaktiv som kunstner, men resten af tiden rejste og udstillede hun over store dele af Europa. Ud over underviser var hun aktiv kvindesagsforkæmper.
+Efter endt uddannelse fortsatte Carlson-Bredberg på skolen i Paris som lærer. Hun giftede sig to gange. I sine ægteskaber var hun inaktiv som kunstner, men resten af tiden rejste og udstillede hun over store dele af Europa. Ud over underviser var hun aktiv kvindesagsforkæmper.<br>
 </span>
 </th>
 </tr>
@@ -169,10 +168,10 @@ Efter endt uddannelse fortsatte Carlson-Bredberg på skolen i Paris som lærer. 
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/15.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Atelierinteriør i Paris - Eva Bonnier </h1>
-<br>
+
 <span style="font-weight: normal">
 Bonniers maleri viser et hjørne af hendes atelier på Montparnasse, hvor hun boede fra 1885-87. På modelstanden står et drengehoved i ler, som hun har skabt for at få en pause fra portrætmaleriet. Man tror, drengen sover, men Bonnier beskrev modellen som "et lille pindsvin... utilbøjelig til at sidde stille."<br><br>
-Det blålige lys spreder sig i rummet og over skulpturen. Atelieret på Rue Humboldt var ofte motiv i hendes værker. Det er også tilfældet  i maleriet for enden af væggen her, hvor Bonniers søster sidder i samme atelier. Bonnier studerede ved Académie Colarossi og udstillede på Parisersalonen. Værkerne viser kunstnerens evne til at skabe kompositioner og eksperimentere med beskæringer, form og indhold.
+Det blålige lys spreder sig i rummet og over skulpturen. Atelieret på Rue Humboldt var ofte motiv i hendes værker. Det er også tilfældet  i maleriet for enden af væggen her, hvor Bonniers søster sidder i samme atelier. Bonnier studerede ved Académie Colarossi og udstillede på Parisersalonen. Værkerne viser kunstnerens evne til at skabe kompositioner og eksperimentere med beskæringer, form og indhold.<br>
 </span>
 </th>
 </tr>
@@ -190,10 +189,10 @@ Men de nye arbejds- og omgangsformer og frigørelsen af den kvindelige seksualdr
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/16.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Bondekone fra Normandiet - Asta Nørregaard </h1>
-<br>
+
 <span style="font-weight: normal">
 Sommeren 1887 tilbragte Asta Nørregaard i den lille by Arques-La-Bataille i Normandiet, hvor hun portrætterede lokalbefolkningen. I 1889 præsenterede hun maleriet her på Verdensudstillingen i Paris. Motivet er ingen landlig idyl, men en realistisk skildring af en træt kvinde, med noget i skød og seglet ved sin side. Blikket er fjernt og landskabet uendeligt. Det er lyset, der fanger opmærksomheden i de gyldne kornaks.<br><br>
-Nørregaard kom tidligt til Paris fra München, studerede og arbejdede der i mange år, rejste løbende, fik store opgaver, vandt priser og oprettede en malerskole. Flere af sine somre tilbragte hun med en nær veninde i Villiers-le-Bel, den lille by i morgendis, der hænger her ved siden af.
+Nørregaard kom tidligt til Paris fra München, studerede og arbejdede der i mange år, rejste løbende, fik store opgaver, vandt priser og oprettede en malerskole. Flere af sine somre tilbragte hun med en nær veninde i Villiers-le-Bel, den lille by i morgendis, der hænger her ved siden af.<br>
 </span>
 </th>
 </tr>
@@ -202,10 +201,10 @@ Nørregaard kom tidligt til Paris fra München, studerede og arbejdede der i man
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/17.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Bretagnepige ordner planter i et drivhus - Anna Petersen </h1>
-<br>
+
 <span style="font-weight: normal">
 I sommeren 1884 var Anna Petersen i Bretagne. Her malede hun den unge kvinde i et drivhus med en væltet urtepotte. Samme år tog finske Amélie Lundahl fat på et lignende motiv, der fik titlen Gartnerpigen. Umiddelbart er interiørerne i de to billeder forskellige. Ser man efter, viser de sig dog at være ens: Væggenes gyldne farve, de mørkegrå karme og til venstre i Petersens billede antydningen af de rhombeformede vinduessprosser, der er så fremtrædende i Lundahls maleri.<br><br>
-Vi mangler ofte skriftlige kilder om de historiske kvinder. Her bliver kunsten til en slags "tavse kilder", der bl.a. kan belyse forbindelserne imellem dem. De viser, hvordan kunstnerne studerede, boede, rejste og arbejdede, som her - side om side.
+Vi mangler ofte skriftlige kilder om de historiske kvinder. Her bliver kunsten til en slags "tavse kilder", der bl.a. kan belyse forbindelserne imellem dem. De viser, hvordan kunstnerne studerede, boede, rejste og arbejdede, som her - side om side.<br>
 </span>
 </th>
 </tr>
@@ -214,10 +213,10 @@ Vi mangler ofte skriftlige kilder om de historiske kvinder. Her bliver kunsten t
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/18.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Selvportræt - Julia Beck </h1>
-<br>
+
 <span style="font-weight: normal">
 Julia Beck har malet sig selv iført sort kappe og bredskygget hat med hvide fjer som i et 1600-tals-kunstnerportræt. Selvportrætter var en måde for de nordiske kvinder at introducere sig selv på som professionelle kunstnere på de store, internationale udstillinger.<br><br>
-Beck rejste tidligt til Frankrig og flyttede aldrig hjem. Hun malede flod- og sølandskaber i det fri, inspireret af fransk maleri og japanske træsnit, som de dramatiske forkortelser i asymmetriske kompositioner vidner om på det lille billede til venstre herfor. Beck var en produktiv og radikal kunstner i sin samtid, og hun modtog den franske stats ærespris. I 1933 skriver hun til svenske Prins Eugen: "I går den 20 December fyllde jag 80 år... Jag reser, jag arbetar, jeg säljer och förstår ej self min höga ålder."
+Beck rejste tidligt til Frankrig og flyttede aldrig hjem. Hun malede flod- og sølandskaber i det fri, inspireret af fransk maleri og japanske træsnit, som de dramatiske forkortelser i asymmetriske kompositioner vidner om på det lille billede til venstre herfor. Beck var en produktiv og radikal kunstner i sin samtid, og hun modtog den franske stats ærespris. I 1933 skriver hun til svenske Prins Eugen: "I går den 20 December fyllde jag 80 år... Jag reser, jag arbetar, jeg säljer och förstår ej self min höga ålder."<br>
 </span>
 </th>
 </tr>
@@ -242,10 +241,10 @@ Her var skulpturernes frontale, stiliserede træk, voldsomme farver og mytologis
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/19.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Kore (Akropolis museet inv.nr. 685) - Marie Henriques </h1>
-<br>
+
 <span style="font-weight: normal">
 Akvarellerne her viser skulpturfragmenter, der blev udgravet på Akropolis i 1888. Brygger Carl Jacobsen købte akvarellerne på en udstilling om bemalet skulptur i Rom og skænkede dem til Afstøbningssamlingen på Statens Museum for Kunst i 1912. Henriques' akvareller havde både kunstnerisk og arkæologisk værdi. De var vigtig dokumentation af skulpturernes sarte bemalinger og var samtidig interessante billeder.<br><br>
-Henriques var af velhavende jødisk slægt og rejste ofte alene. Hun så sig selv som mere end turist og storbykunstner. I sin dagbog noterede hun: "Man har ikke set Grækenland, fordi man har opholdt sig i Athen. Man kender ikke Frankrig, fordi man har været i Paris."
+Henriques var af velhavende jødisk slægt og rejste ofte alene. Hun så sig selv som mere end turist og storbykunstner. I sin dagbog noterede hun: "Man har ikke set Grækenland, fordi man har opholdt sig i Athen. Man kender ikke Frankrig, fordi man har været i Paris."<br>
 </span>
 </th>
 </tr>
@@ -254,11 +253,11 @@ Henriques var af velhavende jødisk slægt og rejste ofte alene. Hun så sig sel
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/20.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Typhon - Anne Marie Carl-Nielsen </h1>
-<br>
+
 <span style="font-weight: normal">
 I 1903 blev Anne Marie Carl-Nielsens tre børn sat i pleje hos gode venner, mens hun rejste til Athen på stipendium. Her skulle hun kopiere oldtidskunst på Akropolis: en række bemalede gavludsmykninger fra ca. 575-550 f.Kr.<br><br>
 At støde direkte efter originalerne ville trække farven af skulpturerne. Derfor måtte hun modellere dem op i ler, før de kunne afstøbes i gips og bemales.<br><br>
-Det blev til de i alt seks kopier, der vises her. Kopierne blev solgt til museer over hele Europa og herhjemme til brygger Carl Jacobsen, der forærede dem til Afstøbningssamlingen på det nyåbnede Statens Museum for Kunst. Arbejdet krævede enorme ressourcer over flere år og under stor ægteskabelig uro, men sikrede kunstneren hendes gennembrud.
+Det blev til de i alt seks kopier, der vises her. Kopierne blev solgt til museer over hele Europa og herhjemme til brygger Carl Jacobsen, der forærede dem til Afstøbningssamlingen på det nyåbnede Statens Museum for Kunst. Arbejdet krævede enorme ressourcer over flere år og under stor ægteskabelig uro, men sikrede kunstneren hendes gennembrud.<br>
 </span>
 </th>
 </tr>
@@ -276,10 +275,10 @@ Kritikerne var ofte fordomsfulde over for både det nye og over for de kvindelig
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/21.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Ekko - Ellen Thesleff </h1>
-<br>
+
 <span style="font-weight: normal">
 Finske Ellen Thesleffs portræt af den unge pige er en stemningsmættet skildring af de uendelige lyse sommernætter mod nord. Solen er som guld mod skovens rolige mørke. Man fornemmer lyden af latter og leg i pausen mellem sommerens pligter. Pigen er legekammerat til kunstnerens lillesøster og datter af arbejdere på savværket i Murole, der lå tæt på familiens sommervilla.<br><br>
-Ekko blev vist første gang i 1891 på en udstilling, hvor flere af de kunstnere deltog, der er med her i udstillingen, såsom Elin Danielson-Gambogi og Amélie Lundahl. Thesleff frigjorde sig tidligt fra den realisme, der prægede den finske kunst i perioden. Hun var del af både den franske og nordiske symbolisme og en af de vigtigste moderne malere i Norden i 1890erne.
+Ekko blev vist første gang i 1891 på en udstilling, hvor flere af de kunstnere deltog, der er med her i udstillingen, såsom Elin Danielson-Gambogi og Amélie Lundahl. Thesleff frigjorde sig tidligt fra den realisme, der prægede den finske kunst i perioden. Hun var del af både den franske og nordiske symbolisme og en af de vigtigste moderne malere i Norden i 1890erne.<br>
 </span>
 </th>
 </tr>
@@ -288,10 +287,10 @@ Ekko blev vist første gang i 1891 på en udstilling, hvor flere af de kunstnere
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/22.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> En abonnent på Aftenposten - Oda Krohg </h1>
-<br>
+
 <span style="font-weight: normal">
 På Oda Krohgs tid skulle børn være artige, også på billeder. Krogh har valgt at male sin søn i hjemmet i Oslo, mens han klipper ivrigt i avisen. Motivet er set fra oven, med en dristig beskæring. Kompositionen udgøres af diagonaler frem for et traditionelt centralperspektiv, der forstærker nærheden til barnet og handlingen.<br><br>
-Krohg var en kontroversiel skikkelse i Kristiania, i dag Oslo, og levede i lange perioder i Paris. Forfatteren Hans Jæger beskrev hende som en af "fremtidens for tidligt fødte børn". Hendes insisteren på frigørelse, kærlighed og kvinders ret til en seksualdrift fyldte mere for borgerskabet end hendes kunst. Måske klipper sønnen i en af de barske anmeldelser, der blev trykt om hans mor?
+Krohg var en kontroversiel skikkelse i Kristiania, i dag Oslo, og levede i lange perioder i Paris. Forfatteren Hans Jæger beskrev hende som en af "fremtidens for tidligt fødte børn". Hendes insisteren på frigørelse, kærlighed og kvinders ret til en seksualdrift fyldte mere for borgerskabet end hendes kunst. Måske klipper sønnen i en af de barske anmeldelser, der blev trykt om hans mor?<br>
 </span>
 </th>
 </tr>
@@ -300,10 +299,10 @@ Krohg var en kontroversiel skikkelse i Kristiania, i dag Oslo, og levede i lange
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/23.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Stokkavannet - Kitty Lange Kielland </h1>
-<br>
+
 <span style="font-weight: normal">
 En mand i sin båd på en sø en sommernat, båden spejler sig i vandet, der fanger himlens farver. Ser man efter, bliver nattens rosa lys i det blanke vandspejl billedets egentlige tema. En præcis gengivelse af himmel og kyst forenes med spejlingens forenkling af motivet. Med dette maleri fra sin fødeegn indvarsler Kielland stemningslandskabet i nordisk kunst.<br><br>
-Kielland udviklede sit landskabsmaleri i Karlsruhe, München og Paris. Hendes værker afspejler hendes nomadiske liv mellem europæiske kunstmetropoler og norske sommernætter. Ud over kunstner var hun kunstkritiker, kvindesagsforkæmper og samfundsdebattør. Anna anchers portræt af hende her i udstillingen vidner om Kiellands forbindelse til det danske kunstmiljø.
+Kielland udviklede sit landskabsmaleri i Karlsruhe, München og Paris. Hendes værker afspejler hendes nomadiske liv mellem europæiske kunstmetropoler og norske sommernætter. Ud over kunstner var hun kunstkritiker, kvindesagsforkæmper og samfundsdebattør. Anna anchers portræt af hende her i udstillingen vidner om Kiellands forbindelse til det danske kunstmiljø.<br>
 </span>
 </th>
 </tr>
@@ -321,10 +320,10 @@ At undersøge disse forbindelser er at udforske kvindernes ex-centriske slægtsk
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/24.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Edvard Munch - Asta Nørregaard </h1>
-<br>
+
 <span style="font-weight: normal">
 Den unge kunstner Edvard Munch fremstår ambitiøs og elegant i jakkesæt med et lommeur som smykke. Modellen er helt tæt på, og pastelkridtet giver Asta Nørregaard mulighed for at arbejde med en blidere og mere taktil personskildring. Portrættet er nøjagtigt i figurgengivelsen, og Munchs personlighed træder levende frem takket være detaljegraden, farveholdningen og kunstnerens intime greb.<br><br>
-Nørregaards ophold i München og Paris definerede hendes stil, men hun blev aldrig del af en nordisk kunstelite. Til gengæld var hun en efterspurgt portrætkunstner. Portrætterne er særegne og viser hendes evne til at følge sin egen kunstneriske kurs, ligesom Munch gjorde i sin eksperimenterende ungdom.
+Nørregaards ophold i München og Paris definerede hendes stil, men hun blev aldrig del af en nordisk kunstelite. Til gengæld var hun en efterspurgt portrætkunstner. Portrætterne er særegne og viser hendes evne til at følge sin egen kunstneriske kurs, ligesom Munch gjorde i sin eksperimenterende ungdom.<br>
 </span>
 </th>
 </tr>
@@ -333,10 +332,10 @@ Nørregaards ophold i München og Paris definerede hendes stil, men hun blev ald
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/25.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Thyra Elisabeth - Ellen Thesleff </h1>
-<br>
+
 <span style="font-weight: normal">
 Det lange, løse, brune hår bølger ned over pigens skuldre. Hendes øjne er lukkede og hendes udtryk roligt. En blomst glider gennem fingrene. Portrættet forestiller kunstnerens 12-årige søster. Baggrunden er enkel og sløret med en okkergul farve. En næsten umærkelig glorie tegner sig rundt om pigens hoved og danner baggrund for den unge kvindes ansigt.<br><br>
-Billedet balancerer mellem uskyld og sanselighed - som en mild Madonna på tærsklen mellem pige og kvinde. Ellen Thesleff rejste mellem Finland, Frankrig og Italien. I Helsinki studerede hun med Helene Schjerfbeck. Inspireret af fransk symbolisme og kunstnere som Eugène Carrière og Puvis de Chavannes, blev Thesleff selv en central figur i nordisk symbolisme.
+Billedet balancerer mellem uskyld og sanselighed - som en mild Madonna på tærsklen mellem pige og kvinde. Ellen Thesleff rejste mellem Finland, Frankrig og Italien. I Helsinki studerede hun med Helene Schjerfbeck. Inspireret af fransk symbolisme og kunstnere som Eugène Carrière og Puvis de Chavannes, blev Thesleff selv en central figur i nordisk symbolisme.<br>
 </span>
 </th>
 </tr>
@@ -345,11 +344,11 @@ Billedet balancerer mellem uskyld og sanselighed - som en mild Madonna på tærs
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/26.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Aftenstemning - Henriette Hahn-Brinckmann </h1>
-<br>
+
 <span style="font-weight: normal">
 Hahn-Brinckmann, hvis værk hænger til venstre herfor, var pioner inden for store farvetræsnit i Nordeuropa. Hun kombinerede japansk teknik med europæiske motiver som i venskabsportrættet af kunstneren Niels Hansen Jacobsen.<br><br>
 Vennen ses i profil foran et vindue med blomsterranker i jugendstil. Ansigtet er modelleret i lys og skygge, opbygget af kontrastfarver uden tydelige konturer. Hahn-Brinckmann tegnede, skar og trykte sine træsnit selv, ligesom hun blandede egne akvarelfarver. Hun udstillede og vandt priser internationalt. Som kunstner var hun aktiv hele livet, dog afbrudt af 13 års ægteskab.<br><br>
-Over denne tekst vises en Lost Pixel - et fragment fra Ix Shells' digitale bearbejdning af Hahn-Brinkmanns træsnit.
+Over denne tekst vises en Lost Pixel - et fragment fra Ix Shells' digitale bearbejdning af Hahn-Brinkmanns træsnit.<br>
 </span>
 </th>
 </tr>
@@ -358,10 +357,10 @@ Over denne tekst vises en Lost Pixel - et fragment fra Ix Shells' digitale bearb
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/27.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Brita Maria (Mussa) Banck, 1830-1906, Husbestyrerinde - Eva Bonnier </h1>
-<br>
+
 <span style="font-weight: normal">
 Eva Bonnier malede denne hverdagsscene af familiens husbestyrerinde, Brita Maria Banck, kaldet Mussa, med en avis spredt ud på bordet. Mussa kigger op over brillekanten. Hendes direkte, let forbeholdne blik giver et fast, roligt indtryk. Bonnier skrev: "Jeg føler, det er mest naturligt at fremstille hende som en avislæser, da det er det, hun bruger det meste af sin tid på." Når hun ikke tjente familien, kunne der have stået.<br><br>
-Kroppens mørke silhuet træder frem foran de lyse farvefelter. Der er en fortrolighed i fremstilliengen, og motivets naturlige størrelse vidner om en hengivenhed mellem de to kvinder på tværs af sociale skel. Bonnier var en af sin tids førende portrætmalere. Hendes selvportræt ses tidligere i udstillingen.
+Kroppens mørke silhuet træder frem foran de lyse farvefelter. Der er en fortrolighed i fremstilliengen, og motivets naturlige størrelse vidner om en hengivenhed mellem de to kvinder på tværs af sociale skel. Bonnier var en af sin tids førende portrætmalere. Hendes selvportræt ses tidligere i udstillingen.<br>
 </span>
 </th>
 </tr>
@@ -370,10 +369,10 @@ Kroppens mørke silhuet træder frem foran de lyse farvefelter. Der er en fortro
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/28.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Selvportræt - Ellen Thesleff </h1>
-<br>
+
 <span style="font-weight: normal">
 En rosa figur på en blåviolet baggrund: Lyset falder på kvinden som scenelys på en skuespiller. Maleriet blev bestilt af Den Finske Kunstforening til kunstmuseet Ateneums samling. Thesleff var begejstret for opgaven, og i løbet af få måneder var hun færdig med portrættet. Maleriet havde dog ikke større ydre lighed med kunstneren selv. Som hun skrev til sin søster Thyra, havde hun malet sig selv som forskellige karakterer med mange forskellige masker på en gang.<br><br>
-Thesleff dyrkede dans og teater som en del af sit kvindeoprør, og maleriet handlede for hende om optræden og iscenesættelse, ligesom på teateret. Hun var radikal i sin samtid, påvirket af fransk symbolismes drømmelignende billeder, og hun introducerede den franske impressionisme i Finland.
+Thesleff dyrkede dans og teater som en del af sit kvindeoprør, og maleriet handlede for hende om optræden og iscenesættelse, ligesom på teateret. Hun var radikal i sin samtid, påvirket af fransk symbolismes drømmelignende billeder, og hun introducerede den franske impressionisme i Finland.<br>
 </span>
 </th>
 </tr>
@@ -382,10 +381,10 @@ Thesleff dyrkede dans og teater som en del af sit kvindeoprør, og maleriet hand
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/29.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Fiskeflåden sejler ud. Studie fra Nord-Norge - Anna Boberg </h1>
-<br>
+
 <span style="font-weight: normal">
 Hundredevis af fiskerbåde sejler ud på havet under den arktiske sol. Vandet er roligt og spejler himlen og landskabet i bløde nuancer. Træbådenes røde sejl fremhæver solens ultraviolette lys i rødt, grønt og blåt. Boberg besøgte Lofoten første gang i 1901 og vendte tilbage mere end 25 gange på 30 år for at male nordlys, fjelde og gletsjere.<br><br>
-Efter en kølig modtagelse i Stockholm i 1903 udstillede Boberg sine malerier i Paris i 1905 med stor succes. Divaen Sarah Bernhardt anbefalede udstillingen, og franske aviser roste hende. Herefter udstillede hun i Berlin, London, USA og gentagne gange på Venedig Biennalen. I dag er hun en af de bedst repræsenterede kunstnere på Nationalmuseum i Stockholm, men er endnu relativt ukendt.
+Efter en kølig modtagelse i Stockholm i 1903 udstillede Boberg sine malerier i Paris i 1905 med stor succes. Divaen Sarah Bernhardt anbefalede udstillingen, og franske aviser roste hende. Herefter udstillede hun i Berlin, London, USA og gentagne gange på Venedig Biennalen. I dag er hun en af de bedst repræsenterede kunstnere på Nationalmuseum i Stockholm, men er endnu relativt ukendt.<br>
 </span>
 </th>
 </tr>
@@ -408,7 +407,7 @@ Når man udvilker en chatbot er adgang til data essentiel. Anne Marie Carl-Niels
 Vi havde ikke mulighed for at vælge andre af de kvindelige kunstnere, som deltager i udstillingen, fordi der ikke er nok tilgængeligt digitalt data om dem. De kunstnere, der ikke blev bevaret i fortiden, får nu endnu vanskeligere ved at få en stemme i fremtiden, simpelthen fordi de ikke eksisterer digitalt. <br><br>
 Derfor er det vigtigt, at vi ikke alene skaber synlighed via udstillinger, men også giver de historiske kvindelige kunstnere et digitalt efterliv.<br><br>
 Det er første gang, SMK bruger en chatbot som redskab til at formidle og skabe overblik over et omfattende arkivmateriale. Museet har sammen med DTU udformet denne version af kunstneren.<br><br>
-Vi har udvalgt data og defineret, hvordan hun skal tale, og hvad hun skal tale om. Det gør det muligt for dig at tale med en version af Anne Marie Carl-Nielsen ud af mange.
+Vi har udvalgt data og defineret, hvordan hun skal tale, og hvad hun skal tale om. Det gør det muligt for dig at tale med en version af Anne Marie Carl-Nielsen ud af mange.<br>
 </span>
 </th>
 </tr>
@@ -458,7 +457,7 @@ Skærmene her er struktureret som brugerfladen i programmet Touchdesigner. Progr
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/31.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Marie Henriques 1866 (Klampenborg)-1944 (Helsingør) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Tegneundervisning af den danske maler Frants Henningsen (1850-1908), elev af den belgiske maler Alfred Stevens (1823-1908) 1888, Den med akademiet forbundne Kunstskole for Kvinder i 1889-93.<br><br>
