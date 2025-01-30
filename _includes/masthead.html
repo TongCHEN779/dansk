@@ -60,6 +60,9 @@
       </nav>
 
       <!-- Render submenus separately, so they don’t affect greedy-nav -->
+      <li class="masthead__menu-item masthead__menu-item--lg">
+        <a href="{{ base_path }}/">{{ site.title }}</a>
+      </li>
       {% for link in site.data.navigation.main %}
         {% if link.subcategories %}
           <ul class="submenu">
