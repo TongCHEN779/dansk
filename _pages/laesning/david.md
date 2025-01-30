@@ -146,4 +146,130 @@ Begge tekstlag indeholder passager fra Koranens sura 2. skrevet i en tidlig arab
 </span>
 </th>
 </tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/6.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Koranblad i kufi-skrift </h1>
+<br>
+<span style="font-weight: normal">
+Teksten på dette blad er skrevet i en kantet arabisk skrift, som opstod i det 8. århundrede. Skriften kaldes i dag for kugi, fordi forskere i det 18. århundrede fejlagtigt mente, at den var opstået i den irakiske by Kufa.
+<br><br>
+Kufi er det tidligste eksempel på en standardiseret arabisk skrift, hvor bogstavernes højde og formen på de cirkulære elementer og kurverne er fastlagt på forhånd. Som det ses her, var det dog tilladt at forlænge og forkorte de vandrette streger for at fylde linjen helt ud.
+<br><br>
+Skriften udstråler proportionalitet og symmetri, og dens opkomst menes at være tæt knyttet til kaliferne og deres ønske om en officiel arabisk skrift, der udtrykke religion og politisk orden.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/7.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Astrolab-kvadrant af messing med kufi-skrift </h1>
+<br>
+<span style="font-weight: normal">
+Inden for de fleste områder blev kuft-skriften helt eller delvist udfaset efter 11. århundrede. Dog ikke inden for naturvidenskaben, hvor man fortsatte med at bruge en lille, tæt udgave af skriften på videnskabelige instrumenter.
+<br><br>
+Dette instrument til aflæsning af solens og stjernernes højde er tæt beskrevet med kufi-skrift. En indskrift langs den rundede kant oplyser bl.a. at instrumentet er skabt af astronomen al-Mizzi i Damaskus, og midtfor ses en række stjernenavne, f.eks. al-fard (den enlige), som i dag fortsat kaldes Alphard.
+<br><br>
+I den buede kolonne er kufi-bogstaverne desuden  anvendt som tal, idet hvert af de arabiske bogstaver også angiver en bestemt numerisk værdi.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/8.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Træpanel med floral og flettet kufi-skrift </h1>
+<br>
+<span style="font-weight: normal">
+Dette panel indeholder en kort påkaldelse af Gud fulgt af en længere opfordring til ben for proferen Muhammad. Skriften kaldes for floral kufi, fordi bogstavernes endelser springer ud i både blomster og blade. Denne fantasifulde skrift blev ikke anvendt til boger, men til inskriptioner på materialer såsom sten, stuk og træ.
+<br><br>
+De tidligste udgaver af floral kufi findes på egyptiske gravsten fra det 9. århundrede, men sidenhen spredte skriften sig til den øvrige islamiske verden samtidig med, at ornamentikken blev mere vildtvoksende. I Iran og Centralasien fik skriften også tiltøjet flettede elementer. Eksempler herpå kan ses i panelets øverste linje.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/9.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Koran i sini-skrift </h1>
+<br>
+<span style="font-weight: normal">
+Sini er det arabiske ord for "kinesisk" og bruges som betegnelse for den type arabisk skrift, der anvendtes af muslimske kalligrafer i Kina. Sini-skriften or inspireret af de to kursivskrifter muhaqqaq og rayham, som især kendes fra iranske og centralasiatiske Koraner, men den er friere og mindre ensartet, hvilket vidner om afstanden mellem Beijing og de islamiske kerneområder.
+<br><br>
+Det samme gør margindekorationerne i denne koransektion, som bl.a. viser små pagodelignende bygninger og forholdsvis naturalistiske blomster, i dette tilfælde en krysantemum. Sådanne virkelighedstro motiver bryder med konventionen om kun at udsmykke Koranen med abstrakte mønstre.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/10.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> To blade fra en Koran i maghribi-skrift </h1>
+<br>
+<span style="font-weight: normal">
+Disse to blade stammer fra en berømt 20-binds Koran, som på grund af papirets farve kaldes for "Den Rosa Koran". Manuskriptet er fremstillet i det vestligste bjørne af den islamiske verden, og det er skrevet i en regional skrift, som kaldes for maghribi.
+<br><br>
+Maghribi-skriften opstod i det 10.-11. århundrede som en videreudvikling af den ældre, kantede kufi-skrift. Den adskiller sig især fra forgængeren i kraft af bogstavernes rundede form og bløde knack samt de dybe nedadgående kurver. Dette rundede udtryk skyldes delvist, at kalligraferne i Spanien og Marokko skrev med tilspidsede og let afrundede penne, mens deres kolleger længere mod øst skar deres penne på skrå.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/11.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Skål af lergods med "Ny stil"-skrift </h1>
+<br>
+<span style="font-weight: normal">
+Denne skål er dekoreret med et dobbeltvers, som fremhæver værdien af et godt ry: "Røn forbliver en skat for den unge, men rigdom varer ikke ved for dem, der besidder".
+<br><br>
+Teksten er skrevet i en skrifttype, som blev udviklet i der 10. århundrede, og som kombinerede det vrede og kantede udtryk fra kufi-skriften med blødere, tyndere og længere strøg fra periodens uformelle hverdagsskrifter. Skriften var tidligere kendt som østlig kufi, fordi den blev forbundet med Iran. Da den i dag også kendes fra manuskripter fremstillet i Tunesien og på Sicilien, har den fået flere alternative og mere neutrale navne, herunder "Ny stil".
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/12.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> To papyrusfragmenter med nasklu-skrift </h1>
+<br>
+<span style="font-weight: normal">
+De to papyrusfragmenter rummer hverdagsskrift fra den tidlige islamiske periode. Det øverste omtaler et par varer på ca. 40 kg, mens det nederste er for beskadiget til at kunne læses. Skriften er for uregelmæssig til, at man kan tale om en egentlig skrifttype, men forskere har kaldt den nasklu (fra nasaklio, at kopiere). Nasklu var primært formet af markedsskriverens og bureaukratens behov for at skrive hurtigt og ubesværet. Skriften er derfor kursiv (hældende mod højre), bogstaverne er kompakte og rundede og mellemrummene små.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/13.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Blad fra et manuskript i naskh-skrift </h1>
+<br>
+<span style="font-weight: normal">
+De kursive hverdagsskatter blev med tiden mere fortinede, og fra omkring år 1000 ser man dem anvendt i koranmanuskripter - et kalligrafisk område, som hidtil havde været domineret af kufi-skriften. Dette blad fra en kopi af Kitab al-hashaish (Bogen om urter), er skrevet i den mest udbredte af de forfinede kursivskrifter, naskh. Ligesom den ældre hverdagsskrift, nasklu, er naskh kompakt og rundet, men i modsætning til forgængeren er bogstaverne mere ensartede og sirlige og samtidig mindre påvirket af den individuelle skrivers præferencer.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/14.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Træpanel med thuluth-skrift </h1>
+<br>
+<span style="font-weight: normal">
+Panelet er en del af et sæt på fire, hvis samlede tekst hylder profeter. Muhammad og hans svigersøn, Ah. Teksten er skrevet i thuluth, der som bogskrift primært anvendtes til overskrifter. Skriften var også populær i arkitekturen, hvilket bl.a. skyldtes opstregernes markante højde. Disse streger skabte naturligt et højt skriftfelt, hvor ordene kunne stables i bag. På denne måde kunne teksten tilpasses forskellige arkitektoniske former. Thuluth betyder egentlig "en tredjedel", men navnets præcise betydning inden for kalligrafien er uklar.
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/15.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Dobbeltblad fra en Koran i muhaqqaq-skrift </h1>
+<br>
+<span style="font-weight: normal">
+Teksten på dobbeltbladet er skrevet i muhaqqaq (tydelig), en monumental, men besevenlig skrift, hvis flade nedadgående kurvet sikrer luft om linjerne. Bladet stammer fra en Koran, skabt til den mongolske hersker Oljaytus mausoleum i Iran. Koranen blev i 1637 fremvist for den holstenske diplomat Adam Olearius (1599-1671), og ifølge af de fremviste blade. De opbevaredes først på Gotturp Slot i Slesvig og sidenhen på Det Kgl. Bibliotek i København.
+</span>
+</th>
+</tr>
 </table>
