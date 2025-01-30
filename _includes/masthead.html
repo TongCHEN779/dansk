@@ -15,13 +15,9 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
               {% if link.subcategories %}
-                <ul class="visible-links">
+                <ul class="submenu">
                   {% for sublink in link.subcategories %}
-                    {% if sublink.url contains 'http' %}
-                      {% assign domain = '' %}
-                      {% else %}
-                      {% assign domain = base_path %}
-                    {% endif %}
+                    <li class="masthead__submenu-item"><a href="{{ domain }}{{ sublink.url }}">{{ sublink.title }}</a></li>
                   {% endfor %}
                 </ul>
               {% endif %}
