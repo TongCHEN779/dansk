@@ -103,14 +103,14 @@ Frisen, som er den længste, kendte af sin art fra den islamske verden, er stadi
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/3.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Kobbermønt (fals) </h1>
-<br>
+
 <span style="font-weight: normal">
 I 630´erne og 640´erne erobrede muslimske hære fra Den Arabiske Halvø store områder fra Det Byzantinske Rige. I disse områder overtog muslimerne bl.a. kontrollen med møntprægningen, men de lancerede ikke en ny valuta. På mønten her er det byzantinske design bevaret inklusiv et lille kors allerøverst. Den eneste ændring er, at bynavnet Tiberias er skrevet på både græsk (tv.) og på arabisk (th.).
 <br><br>
 Denne forsigtige tilgang kan skyldes, at man endnu ikke havde udviklet et islamisk møntdesign. Men der kan også være tale om, at de nye magthavere valgte at efterligne det forrige imperiums mønter for at forsikre befolkningen om, at mønternes værdi var uændret.
 <br><br>
 <h1> Sølvmønt (drakme) </h1>
-<br>
+
 <span style="font-weight: normal">
 I år 651 besejrede de muslimske bære den persiske konge, Yazdigird 3., hvorefter store dele af det nuværende Irsk og Iran blev indlemmet i det islamiske kalifat. Trods kongens fald fortsatte man en tid endnu med at præge mønter med klassiske persiske herskerportrætter med fuldskæg og krone.
 <br><br>
