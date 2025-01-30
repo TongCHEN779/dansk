@@ -25,7 +25,7 @@ author_profile: true
 </style>
 
 <h1 style="text-align: center;"> Davidssamling - Museets Stifter og Historie </h1>
-
+<br>
 (Alle tekster og billeder er kopieret fra [her](https://frederiksbergmuseerne.dk/da/udstillinger/den-censurerede-udstilling-om-censur/).)
 
 <h3 style="text-align: left;"> C.L. David (1878-1960) </h3>
@@ -35,21 +35,18 @@ Museets stifter, Christian Ludvig David blev født i en velhavende familie. Hans
 C.L. David blev uddannet som jurist og slog ind på løbebanen som praktiserende sagfører i København, hvor han navnlig var aktiv inden for sager, der vedrørte erhvervslivet. Allerede som 33-årig blev han udnævnt til højesteretssagfører, og som procederende sagfører blev han især kendt for sit forsvar af Emil Glückstadt. Denne bankdirektør stod anklaget for at være hovedansvarlig for datidens store finansskandale, krakket i 1922 af den største danske bank, Landmandsbanken.
 <br><br>
 C.L. David var også engageret på anden vis i dansk erhvervsliv. Han sad i bestyrelserne for adskillige af periodens førende virksomheder som Schous Fabrikker, Vølund og Århus Oliemølle, og en stor del af hans voksende formue skyldtes de aktier, han besad i disse succesfulde virksomheder. Særlig vigtig var aktieposten i De Forenede Vagtselskaber, som C.L. David var medstifter af og bestyrelsesformand for. Igennem opkøb af vægterselskaber i Norge og Sverige samt tilknytning af rengøringsselskaber udviklede virksomheden sig i mellemkrigsperioden til en stor, multinational gruppe, der senere samledes under navnet ISS.
-<br>
 
-<h3 style="text-align: left;"> Kunstsamlingen <h3>
+<h3 style="text-align: left;"> Kunstsamlingen </h3>
 
 C.L. David havde som ung sagfører i 1910´erne gjort sine første kunstindkøb af nyere dansk kunst, fortrinsvis malerier og skulpturer udført af de lidt ældre generationer. I takt med hans stigende rigdom blev denne del af hans samling dog snart overskygget af erhvervelserne inden for europæiske møbler og kunsthåndværk fra det 17.-18. århundrede. Det var et område, der rummede store muligheder for en økonomisk velfunderet samler, idet mange vigtige europæiske samlinger opløstes under 1920´ og 1930´ernes dårlige konjunkturer.
 <br><br>
 Museumsstifteren udviklede snart en særlig interesse for ældre dansk og europæisk fajance og porcelæn. For at sætte denne del af samlingen i relief - og for at dyrke et samlerområde, der i en dansk sammenhæng var enestående - begyndte han at erhverve keramiske genstande fra den islamiske verden. Dermed lagdes grundstenen til en tredje, vigtig del af samlingen.
-<br>
 
-<h3 style="text-align: left;"> Kronprinsessegade 30 <h3>
+<h3 style="text-align: left;"> Kronprinsessegade 30 </h3>
 
 I 1917 erhvervede C.L David ejendommen Kronprinsessegade 30. Den var opført 1806-07 og havde nogen år senere tilhørt hans oldefar J.N. David. Husets to nederste stager blev i begyndelsen lejet ud, og museumsstifteren flyttede selv ind på tredje etage (4 og 5). med adgang herfra lod C.L. David indrette et nyt museumsareal under taget på fjerde etage, som igennem årene udvidedes, i takt med at hans samlinger voksede: Først to større og et mindre rum - samt en trappe op dertil - tegnet af arkitekt Carl Petersen. Senere indrettedes til den keramiske samling nye rum med montrer, skabt af arkitekt Kaare Klint.
-<br>
 
-<h3 style="text-align: left;"> C.L. Davids Fond og Samling <h3>
+<h3 style="text-align: left;"> C.L. Davids Fond og Samling </h3>
 
 C.L. David giftede sig aldrig, og han fik ingen efterkommere. Derfor planlagde han, at samlingen efter hans død skulle bevares som et selvstændigt, offentlig tilgængeligt museum i huset Kronprinsessegade 30. Hans landsted, Marienborg ved Bagsværd Sø, skulle derimod efterlades til den danske stat til brug for landets stats- eller udenrigsminister.
 <br><br>
