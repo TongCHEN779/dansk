@@ -90,6 +90,8 @@ main:
     subcategories:
       - title: "Against All Odds - SMK"
         url: /laesning/against_all_odds/
+      - title: "Bøger"
+        url: /laesning/boeger/
       - title: "Davidssamling"
         url: /laesning/david/
       - title: "Frihedsmuseet"
