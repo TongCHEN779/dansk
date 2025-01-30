@@ -540,6 +540,7 @@ Henning Christiansen, som deltog i aktionen på sin violin, fik således de orga
 </th>
 </tr>
 </table>
+<br>
 
 <h1 style="text-align: center;"> Wilhelm Freddie - En Dansk Surrealist </h1>
 <br>
