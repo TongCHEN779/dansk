@@ -25,7 +25,7 @@
 
 .submenu .masthead__submenu-item a {
   display: block; /* Ensure links within submenu items span the full width */
-  padding: 10px 10px;
+  padding: 0px 0px;
   font-weight: normal; /* Reset submenu font weight */
   text-align: left; /* Ensure text alignment is consistent */
 }
