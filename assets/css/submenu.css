@@ -6,7 +6,9 @@
 /* Hide submenu by default */
 .submenu {
   display: none!important;
+  visibility: hidden;
   position: absolute;
+  width: auto;
   top: 100%;
   left: 0;
   background: white;
