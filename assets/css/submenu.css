@@ -38,7 +38,7 @@
 /* Ensure greedy-nav only affects main menu items */
 .greedy-nav .visible-links > li {
   display: inline-block;
-  white-space: nowrap;
+  white-space: nowrap!important;
 }
 
 /* Ensure hidden links don't contain submenus */
