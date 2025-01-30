@@ -471,7 +471,7 @@ Kunstforeningens udstillinger, Charlottenborgs Forårsudstilling, Charlottenborg
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/32.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Anne Marie Carl-Nielsen 1863 (Sønder Stenderup)-1945 (København) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Tegneundervisning på C.C. Magnussens snitteskole i 1881, Tegne- og Kunstindustriskolen for Kvinder i 1882, privatelev af den danske skulptør August Saabye (1823-1916) 1882-1888, friplads på Den med akademiet forbundne Kunstskole for Kvinder 1889-1890. <br><br>
@@ -485,7 +485,7 @@ Charlottenborgs Forårsudstilling, Verdensudstillingen i Paris 1889, hvor hun mo
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/33.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Anna Petersen 1845 (København)-1910 (København) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Kunstindustriskolen for Kvinder, privatelev af den franske maler Jean-Jacques Henner (1829-1905) og Den med akademiet forbundne Kunstskole for Kvinder i 1890. <br><br>
@@ -499,7 +499,7 @@ Verdensudstillingen i Paris 1889, Kunstforeningens udstilling 11 kunstnerinder i
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/34.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Anna Ancher 1859 (Skagen)-1935 (Skagen) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Tegneundervisning af de danske malere Michael Ancher (1849-1927) og Karl Madsen (1855-1938) i 1874, Vilhelm Kyhns tegne- og maleskole for kvinder 1875-78, undervisning af den franske maler Puvis de Chavannes (1824-1898) på Alfred Philippe Rolls kunstskole i 1889. <br><br>
@@ -513,7 +513,7 @@ Charlottenborgs Forårsudstilling, Verdensudstillingen 1889 og får her en sølv
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/35.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Emilie Mundt 1842 (Sorø)-1922 (Frederiksberg) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Privatelev af den danske maler Jørgen Roed (1808-1888) i 1873, Vilhelm Kyhns tegne- og maleskole for kvinder 1873-75, studier i Munchen 1875-76, Académie Colarossi 1882-84. <br><br>
@@ -527,7 +527,7 @@ Charlottenborgs Forårsudstilling, Kunstnernes Efterårsudstilling, Kvindelige K
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/36.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Henriette Hahn-Brinckmann 1862 (København)-1934 (Hamborg) (Hamborg) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Tegne- og Kunstindustriskolen for Kvinder 1877/78-1884, studier i Dresden og privat akademi i Paris 1892-94. <br><br>
@@ -541,7 +541,7 @@ Udstillingen på Charlottenborg i København 1885, Sociéte Nationale des Beaux 
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/37.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Asta Nørregaard 1853 (Oslo)-1933 (Oslo) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Knud Bergsliens malerskole for kvinder i 1874/75, elev af den norske maler Eilif Peterssen (1852-1928) 1875-78, Académie Trélat 1879-84, Académie Colarossi i 1881. <br><br>
@@ -555,7 +555,7 @@ Drammens Kunstforening, Salon de Paris, udstillinger hos Blomqvist auktionshus, 
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/38.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Eva Bonnier 1857 (Stockholm)-1909 (København) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Elev af den svenske maler Arvid Virgin (1831-1876), August Malmströms kunstskole 1875-78, Kungliga Akademien för de fria konsterna "fruentimmerafdelingen" 1878-1883 og Académie Colarossi 1883-89. <br><br>
@@ -569,7 +569,7 @@ Svenska Konstnärsförbundets udstillinger, Salon de Paris i 1887, Verdensudstil
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/39.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Julia Beck 1853 (Stockholm)-1935 (Vaucresson) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Starter sine studier på Slöjdforeningens skole, Kungliga Akademien för de fria konsterna "fruentimmerafdelingen" 1872-77, Académie Julian 1881-82 og herefter privatelev af den belgiske maler Alfred Stevens (1823-1906). <br><br>
@@ -583,7 +583,7 @@ Salon de Paris i 1882, Salon de l'Union des femmes peintres et sculpteurs. Modta
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/40.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Mina Carlson-Bredberg 1857 (Göteborg)-1943 (Stockholm) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Privatelev af den svenske maler Kerstin Cardon (1843-1924), elev af Amanda Sidwall (1844-1892), Académie Julian 1883-87, privatelev af de franske malere Jules Lefèbre (1836-1911) og Gustave Boulanger (1824-1888) 1883-1888, Carolus Durand (1837-1917) og Jean-Joseph Benjamin-Constant (1845-1902) 1888-89. <br><br>
@@ -597,7 +597,7 @@ Salon de Paris, Verdensudstillingen 1889, hvor hun modtager en mention honorable
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/41.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Anna Cassel 1860 (Varnäs)-1937 (Stockholm) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Slöjdforeningens skole (omdøbes til Tekniska Skolan i 1879) 1878-1880, Kungliga Akademien för de fria konsterna Kungliga Akademien för de fria konsterna "fruentimmerafdelingen" i 1880-1886. <br><br>
@@ -611,7 +611,7 @@ Svenska Konstnärsförbundets udstillinger. Cassel indsender værker til World's
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/42.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Hanna Hirsch-Pauli 1864 (Stockholm)-1940 (Solna) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 August Malmströms kunstskole 1875-, herefter Slöjdforeningens skole, Kungliga Akademien för de fria konsterna "fruentimmerafdelingen" 1881-, Académie Colarossi i 1885. <br><br>
@@ -625,7 +625,7 @@ Kungliga Akademien för de fria konsternas udstillinger, Salon de Paris i 1887, 
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/43.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Amanda Sidwall 1844 (Stockholm)-1892 (Stockholm) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Slöjdforeningens skole i 1860, Kungliga Akademien för de fria konsterna "Fruentimmerafdelingen" 1864-1871, Académie Julian 1874-83. <br><br>
@@ -639,7 +639,7 @@ Salon de Paris, Kungliga Akademien för de fria konsternas udstillinger, Norrlan
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/44.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Elin Danielson-Gambogi 1861 (Noormarkku)-1919 (Antignano) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Finska Konstföreningens tegneskole i Helsinki 1876-79, Konstflitföreningens skole 1878-80, Adolf von Beckers privatakademi 1878-80, Académie Colarossi i 1883 og 1888, privatelev af den franske maler Pierre Puvis de Chavannes (1824-1898) i 1888-starten af 1890'erne. <br><br>
@@ -653,7 +653,7 @@ Finska Konstföreningens almene udstillinger og årsudstillinger, Verdensudstill
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/45.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Helene Schjerfbeck 1862 (Helsinki)-1942 (Saltsjöbaden) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Finska Konstföreningens tegneskole i Helsinki 1873-1877, Adolf von Beckers privatakademi 1877-1879, Académie Trélat i 1880, Académie Colarossi 1881-82. <br><br>
@@ -667,7 +667,7 @@ Finska Konstföreningens årsudstillinger, Salon de Paris, Verdensudstillingen i
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/46.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Amélie Lundahl 1850 (Oulu)-1914 (Helsinki) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Finska Konstföreningens tegneskole i Helsinki 1870, Slöjdforeningens skole 1872-73, lektioner i oliemaleri hos den tyske maler Barnhard Reinhold (1824-1892) i 1873 og herefter Adolf von Beckers privatakademi, Académie Julian 1877-1881. <br><br>
@@ -681,7 +681,7 @@ Finska Konstföreningens udstillinger, Salon de Paris, mindeudstilling i Galleri
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/47.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Fanny Churberg 1845 (Vaasa)-1892 (Helsinki) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Tegneudervisning hos de finske malere Augusta Soldan (1826-1886) og Selma Schaeffer (1836-1918), privatelev af de finske kunstnere Alexandra Fosterus (1837-1916) i 1865, herefter Emma Gyldén (1835-1874) og Berndt Lindholm (1841-1914) i 1866. Privatelev af den tyske maler Carl Ludwig (1839-1901) i 1867 og 1871-74, privatelev af den svenske maler Wilhelm von Gegerfelt (1844-1920) i 1876. <br><br>
@@ -695,7 +695,7 @@ Finska Konstföreningens udstillinger. Modtager Den Finska Konstföreningens fø
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/48.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Ellen Thesleff 1869 (Hesinki)-1954 (Helsinki) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Adolf von Beckers privatakademi 1885-87, Finska Konstföreningens tegneskole 1888-89, privatelev af den finske maler Gunnar Berndtson (1854-1895) 1889-91, Académie Colarossi 1891-92 og 1893 og 1899-1900. <br><br>
@@ -709,7 +709,7 @@ Finska Konstföreningens udstillinger, Höstustillingen, Verdensudstillingen i 1
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/49.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Anna Boberg 1864 (Stockholm)-1935 (Stockholm) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Académie Julian i slutningen af 1880'erne. <br><br>
@@ -723,7 +723,7 @@ Sveriges Allmänna Konstförening, World's Columbian Exposition i 1893, La galé
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/50.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Oda Krohg 1860 (Åsgårdstrand)-1935 (Oslo) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Elev af Christian Krohg (1852-1925) fra 1883, elev på Christian Krohg, Hans Heyerdahi (1857-1913) og Erik Werenskiolds (1855-1938) malerskole fra 1885, elev af den belgiske maler Willem Geets (1838-1919) i 1885, Académie Julian og Académie Colarossi i slutningen af 1890'erne. <br><br>
@@ -737,7 +737,7 @@ Høstutstillingen, udstillinger i Kristiania Kunstforening, Salon des Indépenda
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/51.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Kitty Kielland 1843 (Stavanger)-1914 (Oslo) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Privatelev af den danske maler Fanny Zeuthen (u.å.) i 1860'erne, den norske maler Hans Gude (1825-1903) 1873-75 og den franske maler Léon Germain Pelouse (1838-1891) i 1880-86, Académie Julian i 1879, Académie Colarossi i 1883, 86 og 87. <br><br>
@@ -751,7 +751,7 @@ Salon de Paris, Verdensudstillingen i 1889, hvor hun får sølvmedalje, Venedig 
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/52.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Suzette Holten 1863 (København)-1937 (København) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Tegneundervisning hos den dansker maler, Lauritz Tuxen (1853-1927) 1882, samt undervisning af de danske malere Carl Thomsen (1847-1912) og Frans Schwartz (1850-1917), og tilhørte kredsen omkring Kunstnernes Frie Studieskole. <br><br>
@@ -765,7 +765,7 @@ Den nordiske industri-, Landbrugs- og Kunstudstilling i København 1888, Charlot
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/53.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Elisabeth Jerichau Baumann 1819 (Warsawa)-1881 (København) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Kunstakademie Düsseldorf 1838-45. <br><br>
@@ -779,7 +779,7 @@ Kunstakademie Düsseldorf i 1844, Charlottenborgs Forårsudstilling, Kungliga Ak
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/aao/54.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Bertha Wegmann 1846 (Soglio)-1926 (København) </h1>
-<br>
+
 <span style="font-weight: normal">
 - Kunstnerisk uddannelse <br>
 Professor Frederik Helsteds tegneskole i 1862, tegnelærer hos den tyske maler Johanna Unger (1836-1871) 1867-68, Damenakademien München i 1869, Académie Trélat 1880-81. <br><br>
