@@ -14,6 +14,7 @@
   z-index: 1000;
   padding: 0; /* Ensure no padding is applied to the submenu container */
   margin: 0; /* Ensure no margin is applied to the submenu container */
+  white-space: nowrap; /* Ensure submenu items do not wrap */
 }
 
 /* Style submenu items */
@@ -32,4 +33,10 @@
 /* Show submenu on hover */
 .masthead__menu-item:hover .submenu {
   display: block;
+}
+
+/* Ensure greedy-nav only affects main menu items */
+.greedy-nav .visible-links > li {
+  display: inline-block;
+  white-space: nowrap;
 }
