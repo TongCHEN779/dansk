@@ -7,6 +7,21 @@
 main:
   - title: "Ordforråd og Grammatik"
     url: /ord_og_gram/
+
+  - title: "Undervisning"
+    url: /undervisning/
+
+  - title: "Lytte"
+    url: /lytte/
+
+  - title: "Læsning"
+    url: /laesning/
+
+  - title: "Links"
+    url: /links/
+
+ord_og_gram:
+  - title: "k"
     children:
       - title: "Adjektiver"
         url: /ord_og_gram/adj/
@@ -25,7 +40,8 @@ main:
       - title: "Verber"
         url: /ord_og_gram/verb/
 
-  - title: "Undervisning"
+undervisning:
+  - title: ""
     url: /undervisning/
     children:
       - title: "Det Kommer (modul 3)"
@@ -43,7 +59,8 @@ main:
       - title: "Prøve i Dansk 3"
         url: /undervisning/pd3/
 
-  - title: "Lytte"
+lytte:
+  - title: ""
     url: /lytte/
     children:
       - title: "Dansk i Ørerne"
@@ -85,7 +102,8 @@ main:
       - title: "Vores Tid - Verdens Værste År"
         url: /lytte/vores_tid_verden/
 
-  - title: "Læsning"
+laesning:
+  - title: ""
     url: /laesning/
     children:
       - title: "Against All Odds - SMK"
@@ -104,6 +122,3 @@ main:
         url: /laesning/uddrag/
       - title: "Verdensarv Vadehavet"
         url: /laesning/verdensarv_vadehavet/
-
-  - title: "Links"
-    url: /links/
