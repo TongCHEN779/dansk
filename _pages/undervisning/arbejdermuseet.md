@@ -39,7 +39,7 @@ Materialet er målrettet STX, og sætter fokus på Grundlovsændringen i 1915, h
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/2.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/2.jpg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Børn på arbejde </h1>
 <span style="font-weight: normal">
@@ -107,19 +107,6 @@ Materialet sætter fokus på 1950’erne ud fra et ungdomsperspektiv. Begrebet t
 <tr>
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/8.png"/></p></th>
 <th style="vertical-align: top;">
-<h1> Andre sider af kvinder og tyendes stemmeret </h1>
-<span style="font-weight: normal">
-I vinteren 1886-87 malede svenske Hanna Hirsch et portræt af sin finske veninde, kunstneren Venny Soldan, i deres fælles atelier på Montparnasse i Paris. Soldan sidder på et tæppe af indtørret farve i et spartansk atelier med ler i hænderne. Hun er malet helt i sort og med åben mund, som er hun ved at sige noget.<br><br>
-Hænderne er snavsede af ler og gestikken tydeligt domineret af den uformelle tone mellem kunstner og model. At hun sidder på gulvet udfordrer ideen om, at kunst kun kan skabes under ideelle betingelser. Soldan er ikke en passiv model, men en aktiv, professionel kunstner. Den åbne mund antyder kontakt, måske med kunstneren selv eller en anden i rummet, og skaber en følelse af forbindelse og fællesskab.<br><br>
-Hirsch beskrev senere den frihed, kvinderne følte, trods de nøjsomme forhold i det fugtige atelier. Maleriet er ikke kun en hyldest til veninden som kunstner. Det er også et vidnesbyrd om kvindernes styrke, fællesskab og modstand mod tidens begrænsende normer.<br>
-</span>
-</th>
-<th><a href="https://www.arbejdermuseet.dk/wp-content/uploads/2016/03/farlig_ungdom-3.pdf">link</a></th>
-</tr>
-
-<tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/9.png"/></p></th>
-<th style="vertical-align: top;">
 <h1> Folkets århundrede </h1>
 <span style="font-weight: normal">
 Materialet er oplagt at bruge som gennemgang af den tidlige arbejderbevægelse samt velfærdsstatens udvikling i Danmark. Materialet indeholder desuden en række forslag til arbejdsspørgsmål.
@@ -129,7 +116,7 @@ Materialet er oplagt at bruge som gennemgang af den tidlige arbejderbevægelse s
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/10.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/9.jpg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Hverdagsliv før og nu </h1>
 <span style="font-weight: normal">
@@ -140,7 +127,7 @@ Formålet med undervisningsmaterialet er at udvikle og styrke elevernes strategi
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/11.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/10.jpg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Industrikultur i danmark 1850-1914 </h1>
 <span style="font-weight: normal">
@@ -151,7 +138,7 @@ Antologien er målrettet undervisning i gymnasiet og andre ungdomsuddannelser me
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/12.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/11.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Kanslergadeforliget 1993 </h1>
 <span style="font-weight: normal">
@@ -162,7 +149,7 @@ Materialet giver et indblik i Kanslergadeforliget og perioden omkring forliget u
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/13.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/12.jpg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Kold krig og kiksekage </h1>
 <span style="font-weight: normal">
@@ -173,7 +160,7 @@ Arbejderfamiliens hverdag i Danmark fra 1945 og frem til slutningen af 1950’er
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/14.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/13.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Kvinders valgret </h1>
 <span style="font-weight: normal">
@@ -184,7 +171,7 @@ Siden 1849 har man diskuteret, hvilke befolkningsgrupper der har været egnede t
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/15.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/14.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Slaget på Fælleden </h1>
 <span style="font-weight: normal">
