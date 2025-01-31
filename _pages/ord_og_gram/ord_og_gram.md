@@ -3,8 +3,8 @@ layout: archive
 title: ""
 permalink: /ord_og_gram/
 author_profile: true
-# sidebar:
-#   nav: "ord_og_gram"
+sidebar:
+  nav: "ord_og_gram"
 ---
 
 <h1 id="adj" style="text-align: center;"> Adjektivernes former </h1>

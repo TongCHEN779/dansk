@@ -228,13 +228,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _sidebar
-  - scope:
-      path: ""
-      type: ord_og_gram
-    values:
-      sidebar:
-        nav: "ord_og_gram"
   # _posts
   - scope:
       path: ""
