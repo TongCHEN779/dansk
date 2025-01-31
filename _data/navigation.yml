@@ -20,6 +20,9 @@ main:
   - title: "Links"
     url: /links/
 
+  - title: "Search"
+    url: /search/
+
 ord_og_gram:
   - title: "Ordforråd og Grammatik"
     children:

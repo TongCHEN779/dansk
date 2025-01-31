@@ -27,7 +27,7 @@ toc: true
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/1.webp"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_series/1.webp"/></p></th>
 <th style="vertical-align: top;">
 <h1> Jorden kalder: Skal vores pension investeres i olie? </h1>
 <span style="font-weight: normal">
@@ -36,3 +36,4 @@ PFA Pension har investeringer i et af verdens største energiselskaber, TotalEne
 </th>
 <th><a href="https://www.dr.dk/drtv/episode/jorden-kalder_-skal-vores-pension-investeres-i-olie_475206">link</a></th>
 </tr>
+</table>

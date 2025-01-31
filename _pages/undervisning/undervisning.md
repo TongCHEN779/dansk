@@ -36,3 +36,4 @@ Svampe kommunikerer gennem netværk, der ligner menneskelige neurale nerver. Ind
 </span>
 </th>
 </tr>
+</table>
