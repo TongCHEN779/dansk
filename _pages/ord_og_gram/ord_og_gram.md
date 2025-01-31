@@ -8,7 +8,7 @@ toc_label: "My Table of Contents"
 toc_icon: "cog"
 ---
 
-<h1 id="adj" style="text-align: center;"> Adjektivernes former </h1>
+# Adjektivernes former 
 <style>
     table {
         border-collapse: collapse;
