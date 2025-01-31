@@ -55,6 +55,8 @@ undervisning:
         url: /undervisning/frihedsmuseet/
       - title: "Højt til Loftet (modul 5)"
         url: /undervisning/hoejt_til_loftet/
+      - title: "Museum Vestsjælland"
+        url: /undervisning/vest/
       - title: "Prøve i Dansk 3"
         url: /undervisning/pd3/
 

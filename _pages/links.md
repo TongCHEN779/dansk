@@ -26,7 +26,8 @@ author_profile: true
 - [Andersens Eventyr](https://www.andersenstories.com/)
 - [Danmarks Radio (DR)](https://www.dr.dk/)
 - [Danmarkshistorien](https://danmarkshistorien.dk/)
-- [Klassens digitale genvej til arbejderhistorien](https://www.arbejdermuseet.dk/undervisning/historytogo/)
+- [Historie Lab](https://historielab.dk/): Nationalt Videncenter for Historie- og Kulturarvsformidling
+- [History To Go](https://www.arbejdermuseet.dk/undervisning/historytogo/): Klassens digitale genvej til arbejderhistorien
 
 # Podcast
 - [Dansk i Ørerne](https://danskioererne.dk/)
