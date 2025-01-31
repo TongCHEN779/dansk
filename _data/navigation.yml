@@ -6,7 +6,7 @@
 
 main:
   - title: "Ordforråd og Grammatik"
-    # url: /ord_og_gram/
+    url: /ord_og_gram/
     children:
       - title: "Adjektiver"
         url: /ord_og_gram/adj/
