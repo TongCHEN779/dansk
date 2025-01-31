@@ -13,7 +13,7 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+            <!-- <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
               {% if link.subcategories %}
                 <ul class="submenu">
                   {% for sublink in link.subcategories %}
@@ -21,7 +21,7 @@
                   {% endfor %}
                 </ul>
               {% endif %}
-            </li>
+            </li> -->
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
