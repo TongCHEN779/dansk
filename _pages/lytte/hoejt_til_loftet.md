@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /lytte/hoejt_til_loftet/
 author_profile: true
+toc: true
 ---
 
 <p align="center"><img src="http://tongchen779.github.io/dansk/files/htl/htl.png" width="500"/></p>

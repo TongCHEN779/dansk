@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /laesning/frihed/
+permalink: /lytte/vores_tid_korea/
 author_profile: true
 toc: true
 ---

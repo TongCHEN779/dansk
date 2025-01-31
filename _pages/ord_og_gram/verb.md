@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /ord_og_gram/verb/
 author_profile: true
+toc: true
 ---
 
 <script>

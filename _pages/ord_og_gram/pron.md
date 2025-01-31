@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /ord_og_gram/pron/
 author_profile: true
+toc: true
 ---
 
 <h1 style="text-align: center;"> Alle pronominer </h1>

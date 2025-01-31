@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /laesning/frihed/
+permalink: /undervisning/det_kommer/
 author_profile: true
 toc: true
 ---

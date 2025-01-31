@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /lytte/nytaarstaler/
 author_profile: true
+toc: true
 ---
 
 <style>

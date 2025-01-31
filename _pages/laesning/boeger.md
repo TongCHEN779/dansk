@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /laesning/frihed/
+permalink: /laesning/boeger/
 author_profile: true
 toc: true
 ---

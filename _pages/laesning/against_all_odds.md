@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /laesning/against_all_odds/
 author_profile: true
+toc: true
 ---
 
 <style>

@@ -3,6 +3,7 @@ layout: archive
 title: ""
 permalink: /laesning/david/
 author_profile: true
+toc: true
 ---
 
 <style>

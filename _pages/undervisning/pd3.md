@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /laesning/frihed/
+permalink: /undervisning/pd3/
 author_profile: true
 toc: true
 ---
