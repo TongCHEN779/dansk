@@ -27,7 +27,7 @@ toc: true
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/1.jpeg"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/1"/></p></th>
 <th style="vertical-align: top;">
 <h1> Chatbots sviner klimaet: Kæmpe datacentre kan om få år sluge hele Japans strømforbrug </h1>
 <span style="font-weight: normal">
