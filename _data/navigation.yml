@@ -42,7 +42,6 @@ ord_og_gram:
 
 undervisning:
   - title: "Undervisning"
-    url: /undervisning/
     children:
       - title: "Det Kommer (modul 3)"
         url: /undervisning/det_kommer/
@@ -61,7 +60,6 @@ undervisning:
 
 lytte:
   - title: "Lytte"
-    url: /lytte/
     children:
       - title: "Dansk i Ørerne"
         url: /lytte/dansk_i_oererne/
@@ -104,7 +102,6 @@ lytte:
 
 laesning:
   - title: "Læsning"
-    url: /laesning/
     children:
       - title: "Against All Odds - SMK"
         url: /laesning/against_all_odds/
