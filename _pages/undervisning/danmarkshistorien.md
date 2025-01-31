@@ -131,7 +131,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 <th style="vertical-align: top;">
 <h1> Færøerne efter freden - Hans Andrias Sølvara </h1>
 </th>
-<th><a href="https://www.arbejdermuseet.dk/wp-content/uploads/2018/10/andre-sider-af-kvinder-og-tyendes-stemmeret.pdf">link</a></th>
+<th><a href="http://tongchen779.github.io/dansk/files/Færoeerne.pdf">link</a></th>
 </tr>
 
 <tr>
@@ -142,7 +142,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 Tre vinkler på demokratiets etablering i Danmark ca. 1848-1915 er udviklet som et undervisningsmateriale, der retter sig mod historieundervisningen på ungdomsuddannelserne. Den kan dog med udbytte læses af enhver, der er interesseret i demokratiets historie i Danmark. 
 </span>
 </th>
-<th><a href="https://www.arbejdermuseet.dk/wp-content/uploads/2018/10/andre-sider-af-kvinder-og-tyendes-stemmeret.pdf">link</a></th>
+<th><a href="https://danmarkshistorien.dk/fileadmin/filer/E-boeger-historier-om-demokrati/Historier-om-demokrati.pdf">link</a></th>
 </tr>
 
 <tr>
@@ -153,7 +153,7 @@ Tre vinkler på demokratiets etablering i Danmark ca. 1848-1915 er udviklet som 
 Jens-Peter Bonde (1948-2021) var en markant dansk europapolitiker. I disse erindringer beskriver han sin politiske baggrund i Radikale Venstre, DKP, Folkebevægelsen mod EF og JuniBevægelsen og sine 29 år i Europa-Parlamentet. 
 </span>
 </th>
-<th><a href="https://www.arbejdermuseet.dk/wp-content/uploads/2018/10/andre-sider-af-kvinder-og-tyendes-stemmeret.pdf">link</a></th>
+<th><a href="https://danmarkshistorien.dk/fileadmin/filer/E-boeger-Jens-Peter-Bondes-erindringer/Jens-Peter_Bondes_erindringer.pdf">link</a></th>
 </tr>
 
 <tr>
@@ -164,7 +164,7 @@ Jens-Peter Bonde (1948-2021) var en markant dansk europapolitiker. I disse erind
 Bogen handler om reformationens indførelse i Danmark og de spor, reformationens centrale teologiske budskaber kom til at trække i samfundsudviklingen.
 </span>
 </th>
-<th><a href="https://www.arbejdermuseet.dk/wp-content/uploads/2018/10/andre-sider-af-kvinder-og-tyendes-stemmeret.pdf">link</a></th>
+<th><a href="https://danmarkshistorien.dk/fileadmin/filer/E-boeger-Reformationen/Reformationen_i_Danmark._Lovgivning_og_samfundsudvikling.pdf">link</a></th>
 </tr>
 
 <tr>
@@ -175,7 +175,7 @@ Bogen handler om reformationens indførelse i Danmark og de spor, reformationens
 Bogen handler om de teologiske spørgsmål, der satte den lutherske reformation i gang, og om de svar, som først og fremmest Martin Luther gav, der fik betydning for kultur og samfund.
 </span>
 </th>
-<th><a href="https://www.arbejdermuseet.dk/wp-content/uploads/2018/10/andre-sider-af-kvinder-og-tyendes-stemmeret.pdf">link</a></th>
+<th><a href="https://danmarkshistorien.dk/fileadmin/filer/E-boeger-Reformationen/Reformationen_i_Danmark_-_teologi_og_kultur.pdf">link</a></th>
 </tr>
 
 <tr>
@@ -188,6 +188,6 @@ Jens Christensen (1921-2021) var en af Danmarks mest betydelige udenrigspolitisk
 Erindringerne følger Jens Christensens karriere og aktiviteter fra han træder ind i Udenrigsministeriet i 1945 til engagementet i konfliktzone-fodboldprojektet, Cross Cultures Project Association (CCPA). Hans virke i forhold til FN, OECD og dansk udviklingsbistand er tilmed fremtrædende temaer i erindringerne.
 </span>
 </th>
-<th><a href="https://www.arbejdermuseet.dk/wp-content/uploads/2018/10/andre-sider-af-kvinder-og-tyendes-stemmeret.pdf">link</a></th>
+<th><a href="https://danmarkshistorien.dk/fileadmin/filer/Billeder/E-boeger_Jens_Christensens_erindringer/Jens_Christensen_Som_jeg_nu_husker._46_aars_arbejde_i_Udenrigsministeriet.pdf">link</a></th>
 </tr>
 </table>
