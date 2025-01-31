@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /ord_og_gram/
+permalink: /ord_og_gram/main/
 author_profile: true
 # sidebar:
 #   nav: "ord_og_gram"
