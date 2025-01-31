@@ -43,18 +43,18 @@ ord_og_gram:
 undervisning:
   - title: "Undervisning"
     children:
-      - title: "Det Kommer (modul 3)"
-        url: /undervisning/det_kommer/
-      - title: "Det Rykker (modul 4)"
-        url: /undervisning/det_rykker/
-      - title: "Højt til Loftet (modul 5)"
-        url: /undervisning/hoejt_til_loftet/
       - title: "Arbejdermuseet"
         url: /undervisning/arbejdermuseet/
       - title: "Danmarkshistorien"
         url: /undervisning/danmarkshistorien/
+      - title: "Det Kommer (modul 3)"
+        url: /undervisning/det_kommer/
+      - title: "Det Rykker (modul 4)"
+        url: /undervisning/det_rykker/
       - title: "Frihedsmuseet"
         url: /undervisning/frihedsmuseet/
+      - title: "Højt til Loftet (modul 5)"
+        url: /undervisning/hoejt_til_loftet/
       - title: "Prøve i Dansk 3"
         url: /undervisning/pd3/
 
