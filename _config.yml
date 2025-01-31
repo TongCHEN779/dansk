@@ -230,8 +230,8 @@ collections:
 defaults:
   # _ord_og_gram
   - scope:
-      path: ""
-      type: ord_og_gram
+      path: "ord_og_gram"
+      type: 
     values:
       sidebar:
         nav: "ord_og_gram"
