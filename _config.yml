@@ -230,29 +230,29 @@ collections:
 defaults:
   # _ord_og_gram
   - scope:
-      path: ""
-      type: ord_og_gram
+      path: "ord_og_gram"
+      type: pages
     values:
       sidebar:
         nav: "ord_og_gram"
   # _undervisning
   - scope:
-      path: ""
-      type: undervisning
+      path: "undervisning"
+      type: pages
     values:
       sidebar:
         nav: "undervisning"
   # _lytte
   - scope:
-      path: ""
-      type: lytte
+      path: "lytte"
+      type: pages
     values:
       sidebar:
         nav: "lytte"
   # _laesning
   - scope:
-      path: ""
-      type: laesning
+      path: "laesning"
+      type: pages
     values:
       sidebar:
         nav: "laesning"
