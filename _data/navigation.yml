@@ -21,7 +21,7 @@ main:
     url: /links/
 
 ord_og_gram:
-  - title: "Ordforråd og Grammatik"
+  - title: ""
     children:
       - title: "Adjektiver"
         url: /ord_og_gram/adj/
