@@ -241,7 +241,7 @@ defaults:
       type: pages
     values:
       sidebar:
-        nav: "_pages/undervisning"
+        nav: "undervisning"
   # _lytte
   - scope:
       path: "_pages/lytte"

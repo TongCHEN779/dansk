@@ -4,6 +4,8 @@ title: ""
 permalink: /ord_og_gram/main/
 author_profile: true
 toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 
 <h1 id="adj" style="text-align: center;"> Adjektivernes former </h1>
