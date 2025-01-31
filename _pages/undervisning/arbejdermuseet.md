@@ -25,7 +25,7 @@ toc: true
     }
 </style>
 
-(Alle tekster kan findes [her](https://danskioererne.dk/).)
+(Alle tekster kan findes [her](https://www.arbejdermuseet.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/arbejdermuseet/1.png"/></p></th>
@@ -101,7 +101,7 @@ Handler man med mennesker i dag? Svaret er desværre ja. Materialet giver elever
 Materialet sætter fokus på 1950’erne ud fra et ungdomsperspektiv. Begrebet teenager opstår, og den amerikanisering, man oplever efter krigen, udfoldes i stigende grad inden for mode, musik og film.
 </span>
 </th>
-<th><a href="https://www.kongehuset.dk/nyheder/laes-h-m-kongens-nytaarstale-2024">link</a></th>
+<th><a href="https://www.arbejdermuseet.dk/wp-content/uploads/2016/03/farlig_ungdom-3.pdf">link</a></th>
 </tr>
 
 <tr>
