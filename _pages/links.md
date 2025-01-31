@@ -25,7 +25,7 @@ author_profile: true
 # Læsning
 - [Andersens Eventyr](https://www.andersenstories.com/)
 - [Danmarkshistorien](https://danmarkshistorien.dk/)
-- [DR](https://www.dr.dk/)
+- [Danmarks Radio](https://www.dr.dk/)
 
 # Podcast
 - [Vores Tid - Nationalmuseets mediehus](https://natmus.dk/vorestid/)
