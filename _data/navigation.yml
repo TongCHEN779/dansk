@@ -6,104 +6,16 @@
 
 main:
   - title: "Ordforråd og Grammatik"
-    url: /ord_og_gram/
-    subcategories:
-      - title: "Adjektiver"
-        url: /ord_og_gram/adj/
-      - title: "Adverbier"
-        url: /ord_og_gram/adv/
-      - title: "Faste udtryk"
-        url: /ord_og_gram/fast/
-      - title: "Konjunktioner"
-        url: /ord_og_gram/konj/
-      - title: "Pronominer"
-        url: /ord_og_gram/pron/
-      - title: "Præpositioner"
-        url: /ord_og_gram/præp/
-      - title: "Substantiver"
-        url: /ord_og_gram/sub/
-      - title: "Verber"
-        url: /ord_og_gram/verb/
+    url: /ord_og_gram/ord_og_gram/
 
   - title: "Undervisning"
     url: /undervisning/
-    subcategories:
-      - title: "Det Kommer (modul 3)"
-        url: /undervisning/det_kommer/
-      - title: "Det Rykker (modul 4)"
-        url: /undervisning/det_rykker/
-      - title: "Højt til Loftet (modul 5)"
-        url: /undervisning/hoejt_til_loftet/
-      - title: "Arbejdermuseet"
-        url: /undervisning/arbejdermuseet/
-      - title: "Danmarkshistorien"
-        url: /undervisning/danmarkshistorien/
-      - title: "Frihedsmuseet"
-        url: /undervisning/frihedsmuseet/
-      - title: "Prøve i Dansk 3"
-        url: /undervisning/pd3/
 
   - title: "Lytte"
-    url: /lytte/
-    subcategories:
-      - title: "Dansk i Ørerne"
-        url: /lytte/dansk_i_oererne/
-      - title: "Folkerepublikken Kina 75 år"
-        url: /lytte/kina_75_aar/
-      - title: "Højt til Loftet"
-        url: /lytte/hoejt_til_loftet/
-      - title: "Nytårstaler"
-        url: /lytte/nytaarstaler/
-      - title: "Sangen"
-        url: /lytte/sangen/
-      - title: "Vores Tid - Besat på Bornholm"
-        url: /lytte/vores_tid_bornholm/
-      - title: "Vores Tid - Danmarks historie for børn"
-        url: /lytte/vores_tid_historie_boern/
-      - title: "Vores Tid - Danskere, der ændrede historien"
-        url: /lytte/vores_tid_danskere/
-      - title: "Vores Tid - Forfængelighedens århundrede"
-        url: /lytte/vores_tid_forfaengeligheden/
-      - title: "Vores Tid - Forløber"
-        url: /lytte/vores_tid_forloeber/
-      - title: "Vores Tid - KoreaKontoret"
-        url: /lytte/vores_tid_korea/
-      - title: "Vores Tid - Made in America"
-        url: /lytte/vores_tid_america/
-      - title: "Vores Tid - Magtens Kvinder"
-        url: /lytte/vores_tid_kvinder/
-      - title: "Vores Tid - Ritts Kaffeklub"
-        url: /lytte/vores_tid_kaffe/
-      - title: "Vores Tid - Rustur"
-        url: /lytte/vores_tid_rustur/
-      - title: "Vores Tid - Sexhundredetallet"
-        url: /lytte/vores_tid_sex/
-      - title: "Vores Tid - Skelettet fra Fall River"
-        url: /lytte/vores_tid_skelettet/
-      - title: "Vores Tid - Varbergs Danmarkshistorier"
-        url: /lytte/vores_tid_historier/
-      - title: "Vores Tid - Verdens Værste År"
-        url: /lytte/vores_tid_verden/
+    url: /lytte/lytte/
 
   - title: "Læsning"
-    url: /laesning/
-    subcategories:
-      - title: "Against All Odds - SMK"
-        url: /laesning/against_all_odds/
-      - title: "Bøger"
-        url: /laesning/boeger/
-      - title: "Davidssamling"
-        url: /laesning/david/
-      - title: "Frihedsmuseet"
-        url: /laesning/frihed/
-      - title: "Museet STORM"
-        url: /laesning/museet_storm/
-      - title: "Salon des Refusés - SMK"
-        url: /laesning/salon_des_refuses/
-      - title: "Uddrag"
-        url: /laesning/uddrag/
-      - title: "Verdensarv Vadehavet"
-        url: /laesning/verdensarv_vadehavet/
+    url: /laesning/laesning/
 
   - title: "Links"
     url: /links/
