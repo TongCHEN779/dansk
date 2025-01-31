@@ -6,16 +6,16 @@
 
 main:
   - title: "Ordforråd og Grammatik"
-    url: /ord_og_gram/main/
+    url: /ord_og_gram/
 
   - title: "Undervisning"
     url: /undervisning/
 
   - title: "Lytte"
-    url: /lytte/main/
+    url: /lytte/
 
   - title: "Læsning"
-    url: /laesning/main/
+    url: /laesning/
 
   - title: "Links"
     url: /links/
