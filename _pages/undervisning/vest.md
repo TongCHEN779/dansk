@@ -48,7 +48,7 @@ Hvad vil det sige at være dansk?
 I dette materiale kommer man omkring mi3.ddelalderen i Vestsjælland. Start med at læse Kampen om magten og brug herefter opgavebogen. I opgavebogen er der også ideer til steder man kan besøge i Vestsjælland, hvor middelalderen stadig er synlig i landskabet. Eleverne kan også lave deres eget spil på side 19 i opgavebogen. Spillepladen eller kortet kan i printe ud nedenfor.
 </span>
 </th>
-<th><a href="https://vestmuseum.dk/wp-content/uploads/2021/08/Kampen-om-magten-l%E2%80%98seh%E2%80%98fte.pdf">link (læsehæfte)</a><br><a href="https://vestmuseum.dk/wp-content/uploads/2021/08/Kampen-om-magten-opgavebog.pdf">link (opgavebog)</a><br><a href="https://vestmuseum.dk/wp-content/uploads/2021/08/Kampen-om-magten-kort.pdf">link (kort)</a></th>
+<th><a href="https://vestmuseum.dk/wp-content/uploads/2021/08/Kampen-om-magten-l%E2%80%98seh%E2%80%98fte.pdf">læsehæfte</a><br><a href="https://vestmuseum.dk/wp-content/uploads/2021/08/Kampen-om-magten-opgavebog.pdf">opgavebog</a><br><a href="https://vestmuseum.dk/wp-content/uploads/2021/08/Kampen-om-magten-kort.pdf">kort</a></th>
 </tr>
 
 <tr>
@@ -70,6 +70,6 @@ I dette hæfte kan I læse om, hvordan det var at gå i skole for 100 år siden.
 Undervisningsmaterialet handler om dansk kolonialisme i Caribien. I materialet gennemgås dansk-vestindisk historie med det formål at få eleverne til at reflektere over, hvordan historie opleves, erindres, bruges og fortælles. Undervisningsmaterialet er bygget op omkring elevopgaver og diskussionsspørgsmål som tager udgangspunkt i historiebrug og lægger op til undersøgelser af historien gennem et bredt kildebegreb, hvor både kunst, museumsgenstande og sociale medier også bliver indgangsvinkel til fortidens betydninger og bidrager til at udvide elevernes historieforståelse.
 </span>
 </th>
-<th><a href="https://vestmuseum.dk/wp-content/uploads/2021/08/VORES-HISTORIER-DK-enkelte_sider_FINAL.pdf">link (dansk)</a><br><a href="https://vestmuseum.dk/wp-content/uploads/2021/08/OUR-STORIES-UK-enkelte_sider_FINAL.pdf">link (engelsk)</a></th>
+<th><a href="https://vestmuseum.dk/wp-content/uploads/2021/08/VORES-HISTORIER-DK-enkelte_sider_FINAL.pdf">link (dk)</a><br><a href="https://vestmuseum.dk/wp-content/uploads/2021/08/OUR-STORIES-UK-enkelte_sider_FINAL.pdf">link (en)</a></th>
 </tr>
 </table>
