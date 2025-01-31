@@ -21,7 +21,7 @@ main:
     url: /links/
 
 ord_og_gram:
-  - title: "Content"
+  - title: "Ordforråd og Grammatik"
     children:
       - title: "Adjektiver"
         url: /ord_og_gram/adj/
@@ -41,7 +41,7 @@ ord_og_gram:
         url: /ord_og_gram/verb/
 
 undervisning:
-  - title: ""
+  - title: "Undervisning"
     url: /undervisning/
     children:
       - title: "Det Kommer (modul 3)"
@@ -60,7 +60,7 @@ undervisning:
         url: /undervisning/pd3/
 
 lytte:
-  - title: ""
+  - title: "Lytte"
     url: /lytte/
     children:
       - title: "Dansk i Ørerne"
@@ -103,7 +103,7 @@ lytte:
         url: /lytte/vores_tid_verden/
 
 laesning:
-  - title: ""
+  - title: "Læsning"
     url: /laesning/
     children:
       - title: "Against All Odds - SMK"

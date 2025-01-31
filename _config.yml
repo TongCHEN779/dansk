@@ -231,10 +231,31 @@ defaults:
   # _ord_og_gram
   - scope:
       path: ""
-      type: pages
+      type: ord_og_gram
     values:
       sidebar:
         nav: "ord_og_gram"
+  # _undervisning
+  - scope:
+      path: ""
+      type: undervisning
+    values:
+      sidebar:
+        nav: "undervisning"
+  # _lytte
+  - scope:
+      path: ""
+      type: lytte
+    values:
+      sidebar:
+        nav: "lytte"
+  # _laesning
+  - scope:
+      path: ""
+      type: laesning
+    values:
+      sidebar:
+        nav: "laesning"
   # _posts
   - scope:
       path: ""
