@@ -39,7 +39,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/2.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Højmiddelalderen ca. 1050-1340 </h1>
 </th>
@@ -47,7 +47,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/3.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Senmiddelalderen 1340-1536 </h1>
 </th>
@@ -55,7 +55,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/4.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Adelsvælden 1536-1660 </h1>
 </th>
@@ -63,7 +63,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/5.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Den ældre enevælde 1660-1784 </h1>
 </th>
@@ -71,7 +71,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/6.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Den yngre enevælde 1784-1848 </h1>
 </th>
@@ -79,7 +79,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/7.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Det unge demokrati 1848-1901 </h1>
 </th>
@@ -87,7 +87,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/8.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Fra systemskifte til besættelse 1901-1940 </h1>
 </th>
@@ -95,7 +95,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/9.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Besættelsestiden 1940-1945 </h1>
 </th>
@@ -103,7 +103,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/10.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Kold krig og velfærdsstat 1945-1973 </h1>
 </th>
@@ -111,7 +111,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/11.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> EF og Krisetider 1973-1989 </h1>
 </th>
@@ -119,7 +119,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/12.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Efter den kolde krig 1989-2008 </h1>
 </th>
@@ -127,7 +127,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/13.jpeg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Færøerne efter freden - Hans Andrias Sølvara </h1>
 </th>
@@ -135,7 +135,7 @@ danmarkshistorien.dk har udgivet 12 e-bøger, der dækker kronologiske perioder 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/14.jpg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Historier om demokrati, tre vinkler på demokratiets etablering i Danmark ca. 1848-1915 - Simon Ege Dahl Kjærsgård </h1>
 <span style="font-weight: normal">
@@ -146,7 +146,7 @@ Tre vinkler på demokratiets etablering i Danmark ca. 1848-1915 er udviklet som 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/15.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Jens-Peter Bondes erindringer, fra EU-modstander til demokratisk reformator - Jens-Peter Bonde </h1>
 <span style="font-weight: normal">
@@ -157,7 +157,7 @@ Jens-Peter Bonde (1948-2021) var en markant dansk europapolitiker. I disse erind
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/16.jpg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Reformationen i Danmark, Lovgivning og samfundsudvikling - Nina Javette Koefoed </h1>
 <span style="font-weight: normal">
@@ -168,7 +168,7 @@ Bogen handler om reformationens indførelse i Danmark og de spor, reformationens
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/17.jpg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Reformationen i Danmark, teologi og kultur - Bo Kristian Holm </h1>
 <span style="font-weight: normal">
@@ -179,7 +179,7 @@ Bogen handler om de teologiske spørgsmål, der satte den lutherske reformation 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/danmarkshistorien/18.jpg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Som jeg nu husker, 46 års arbejde i Udenrigsministeriet - Jens Christensen </h1>
 <span style="font-weight: normal">
