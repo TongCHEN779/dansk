@@ -7,7 +7,7 @@
 main:
   - title: "Ordforråd og Grammatik"
     url: /ord_og_gram/
-    subcategories:
+    children:
       - title: "Adjektiver"
         url: /ord_og_gram/adj/
       - title: "Adverbier"
@@ -27,7 +27,7 @@ main:
 
   - title: "Undervisning"
     url: /undervisning/
-    subcategories:
+    children:
       - title: "Det Kommer (modul 3)"
         url: /undervisning/det_kommer/
       - title: "Det Rykker (modul 4)"
@@ -45,7 +45,7 @@ main:
 
   - title: "Lytte"
     url: /lytte/
-    subcategories:
+    children:
       - title: "Dansk i Ørerne"
         url: /lytte/dansk_i_oererne/
       - title: "Folkerepublikken Kina 75 år"
@@ -87,7 +87,7 @@ main:
 
   - title: "Læsning"
     url: /laesning/
-    subcategories:
+    children:
       - title: "Against All Odds - SMK"
         url: /laesning/against_all_odds/
       - title: "Bøger"
