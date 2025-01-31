@@ -28,7 +28,7 @@ toc: true
 (Alle tekster kan findes [her](https://danmarkshistorien.dk/) og [her](https://frederiksbergmuseerne.dk/da/udstillinger/den-censurerede-udstilling-om-censur/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/frihedsmuseet/1.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/frihedsmuseet/1.jpg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Censur og satire – et censureret udvalg til dansk, historie og samfundsfag </h1>
 <span style="font-weight: normal">
