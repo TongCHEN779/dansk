@@ -231,7 +231,7 @@ defaults:
   # _ord_og_gram
   - scope:
       path: ""
-      type: ord_og_gram
+      type: pages
     values:
       sidebar:
         nav: "ord_og_gram"
