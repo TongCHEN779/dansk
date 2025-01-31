@@ -238,21 +238,21 @@ defaults:
   # _undervisning
   - scope:
       path: ""
-      type: undervisning
+      type: pages
     values:
       sidebar:
         nav: "undervisning"
   # _lytte
   - scope:
       path: ""
-      type: lytte
+      type: pages
     values:
       sidebar:
         nav: "lytte"
   # _laesning
   - scope:
       path: ""
-      type: laesning
+      type: pages
     values:
       sidebar:
         nav: "laesning"
