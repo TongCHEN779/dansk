@@ -237,21 +237,21 @@ defaults:
         nav: "ord_og_gram"
   # _undervisning
   - scope:
-      path: "undervisning"
+      path: "_pages/undervisning"
       type: pages
     values:
       sidebar:
-        nav: "undervisning"
+        nav: "_pages/undervisning"
   # _lytte
   - scope:
-      path: "lytte"
+      path: "_pages/lytte"
       type: pages
     values:
       sidebar:
         nav: "lytte"
   # _laesning
   - scope:
-      path: "laesning"
+      path: "_pages/laesning"
       type: pages
     values:
       sidebar:
