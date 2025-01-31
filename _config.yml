@@ -231,7 +231,7 @@ defaults:
   # _sidebar
   - scope:
       path: ""
-      type: docs
+      type: ord_og_gram
     values:
       sidebar:
         nav: "ord_og_gram"
