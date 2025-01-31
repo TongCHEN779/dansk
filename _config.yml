@@ -230,7 +230,7 @@ collections:
 defaults:
   # _ord_og_gram
   - scope:
-      path: "ord_og_gram"
+      path: "_pages/ord_og_gram"
       type: pages
     values:
       sidebar:
