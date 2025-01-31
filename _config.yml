@@ -228,13 +228,6 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _main
-  - scope:
-      path: ""
-      type: main
-    values:
-      sidebar:
-        nav: "main"
   # _posts
   - scope:
       path: ""

@@ -3,6 +3,11 @@ layout: archive
 title: ""
 permalink: /ord_og_gram/adv/
 author_profile: true
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
+sidebar:
+  nav: "main"
 ---
 
 <h1 style="text-align: center;"> Centraladverbier: S-V-A </h1>
