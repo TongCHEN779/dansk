@@ -27,7 +27,7 @@ ord_og_gram:
         url: /ord_og_gram/adj/
       - title: "Adverbier"
         url: /ord_og_gram/adv/
-      - title: "Faste udtryk"
+      - title: "Faste Udtryk"
         url: /ord_og_gram/fast/
       - title: "Konjunktioner"
         url: /ord_og_gram/konj/
