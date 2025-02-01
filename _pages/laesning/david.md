@@ -27,7 +27,7 @@ toc: true
 
 <h1 style="text-align: center;"> Davidssamling - Museets Stifter og Historie </h1>
 <br>
-(Alle tekster og billeder er kopieret fra [her](https://frederiksbergmuseerne.dk/da/udstillinger/den-censurerede-udstilling-om-censur/).)
+(Alle tekster og billeder er kopieret [herfra](https://frederiksbergmuseerne.dk/da/udstillinger/den-censurerede-udstilling-om-censur/).)
 
 <h3 style="text-align: left;"> C.L. David (1878-1960) </h3>
 

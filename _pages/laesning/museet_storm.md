@@ -26,7 +26,7 @@ author_profile: true
 
 <h1 style="text-align: center;"> Den Censurerede Udstilling om Censur </h1>
 <br>
-(Alle tekster og billeder er kopieret fra [her](https://frederiksbergmuseerne.dk/da/udstillinger/den-censurerede-udstilling-om-censur/).)
+(Alle tekster og billeder er kopieret [herfra](https://frederiksbergmuseerne.dk/da/udstillinger/den-censurerede-udstilling-om-censur/).)
 <br><br>
 En bog, der ikke kan brænde. Et rivejern, som Koranen er blevet revet på. En skabelon af en mandlig brystvorte, der kan bruges til at dække kvindelige brystvorter, så man kan omgå censuren på sociale medier. Ny udstilling på museet STORM sætter fokus på satiriske reaktioner på censur. <br><br>
 Satire er en af de mest censurerede kunstformer. Gennem århundreder har kirker og stater kriminaliseret og fordømt satire, og endnu i dag forsøger adskillelige aktører at kvæle satiren. Det kan fx være terrorister, der truer satirikere, eller sociale medier, der udelukker dem.<br><br>
