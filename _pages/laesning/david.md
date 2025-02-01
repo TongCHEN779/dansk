@@ -105,7 +105,6 @@ Frisen, som er den længste, kendte af sin art fra den islamske verden, er stadi
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/3.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Kobbermønt (fals) </h1>
-
 <span style="font-weight: normal">
 I 630´erne og 640´erne erobrede muslimske hære fra Den Arabiske Halvø store områder fra Det Byzantinske Rige. I disse områder overtog muslimerne bl.a. kontrollen med møntprægningen, men de lancerede ikke en ny valuta. På mønten her er det byzantinske design bevaret inklusiv et lille kors allerøverst. Den eneste ændring er, at bynavnet Tiberias er skrevet på både græsk (tv.) og på arabisk (th.).
 <br><br>
@@ -113,7 +112,6 @@ Denne forsigtige tilgang kan skyldes, at man endnu ikke havde udviklet et islami
 </span>
 <br><br>
 <h1> Sølvmønt (drakme) </h1>
-
 <span style="font-weight: normal">
 I år 651 besejrede de muslimske bære den persiske konge, Yazdigird 3., hvorefter store dele af det nuværende Irsk og Iran blev indlemmet i det islamiske kalifat. Trods kongens fald fortsatte man en tid endnu med at præge mønter med klassiske persiske herskerportrætter med fuldskæg og krone.
 <br><br>
@@ -269,9 +267,27 @@ Panelet er en del af et sæt på fire, hvis samlede tekst hylder profeter. Muham
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/15.png"/></p></th>
 <th style="vertical-align: top;">
 <h1> Dobbeltblad fra en Koran i muhaqqaq-skrift </h1>
-
 <span style="font-weight: normal">
 Teksten på dobbeltbladet er skrevet i muhaqqaq (tydelig), en monumental, men besevenlig skrift, hvis flade nedadgående kurvet sikrer luft om linjerne. Bladet stammer fra en Koran, skabt til den mongolske hersker Oljaytus mausoleum i Iran. Koranen blev i 1637 fremvist for den holstenske diplomat Adam Olearius (1599-1671), og ifølge af de fremviste blade. De opbevaredes først på Gotturp Slot i Slesvig og sidenhen på Det Kgl. Bibliotek i København.<br>
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/16.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Miniaturekoran i rayhani-skrift </h1>
+<span style="font-weight: normal">
+Dette lille manuskript stammer fra en 30-binds Koran i miniatureformat. Teksten er skrevet i skrifttypen rayhani, som kan kendes på sin sorte tynde streg, bogstavøjernes tydelige optegning og de beherskede, nedadgående kurver. 
+<br><br>
+Navnet rayhani kan føres tilbage til kalligrafen Ah ibn Uhayda al-Rayhani (d. 834), der arbejdede ved abbasidekaliffernes hof i Baghdad. Rayhan er samtidig navnet på planten sød basilikum, hvilket har givet anledning til flere poetiske sammenligninger mellem skriftens tynde og elegante streger og den velduftende plantes stængler.
+</span>
+<br><br>
+<h1> Amulet af sten med riqa-skrift </h1>
+<span style="font-weight: normal">
+Teksten på denne amulet er Koranens sura 112, "Den rene tro", der traditionelt er blevet tillagt beskyttende egenskaber. Den er skrevet i en lille, bølgende og tæt arabisk skrift kaldet riqa, som kan kendes på, at mange af ordene smelter sammen. Dette reducerer antallet af penneløft, hvilket gør skriften hurtig at anvende.
+<br><br>
+Navnet riqa betyder egentlig "små papirlapper" og hentyder muligvis til, at skriften blev brugt til korte notater sendt til eller inden for statsadministrationen, herunder de anmodninger, som nogle islamiske herskere tog imod fra deres undersåtter. <br>
 </span>
 </th>
 </tr>
