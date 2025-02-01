@@ -203,7 +203,7 @@ Københavns Kommune skyder næsten en halv milliard kroner i CO2-fangst i kontro
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/29.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/29.jpeg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Ny evaluering: Førstegangsfødende bliver længere på hospitalet, mens politisk løfte om hjemmebesøg halter efter </h1>
 <span style="font-weight: normal">
@@ -214,7 +214,7 @@ Region Sjælland har endnu ikke implementeret retten til hjemmebesøg for nybagt
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/11.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/11.jpeg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Ny 'flyttekasse' skal gøre københavnernes flytning mere bæredygtig </h1>
 <span style="font-weight: normal">
@@ -280,7 +280,7 @@ Flere partier er åbne for at diskutere militære bidrag til USA’s stillehavsf
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/10.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/10.jpeg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Se kortet: Her kan Danmarks nye skove ligge </h1>
 <span style="font-weight: normal">
@@ -291,7 +291,7 @@ Grøn trepart vil rejse masser af ny skov i Danmark. Men det er ikke lige meget,
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/16.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/16.jpeg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Soldater bliver syge, når deres moral kommer under pres: Dårlig samvittighed gnaver stadig i Thomas Walther </h1>
 <span style="font-weight: normal">
@@ -313,7 +313,7 @@ Danskerne bliver ældre, og det koster. Vi er nødt til at spare nogle steder, m
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/28.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/28.jpeg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Syv syge og én død af danske fiskefrikadeller </h1>
 <span style="font-weight: normal">
@@ -324,7 +324,7 @@ Fiskefrikadellerne er blevet tilbagekaldt, men der er meget lille risiko for at 
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/14.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/14.jpeg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Trump rækker ud efter 700 jyske arbejdspladser </h1>
 <span style="font-weight: normal">
@@ -335,7 +335,7 @@ Dele til kampflyet F35 skal ikke længere laves i Danmark men i USA, mener Donal
 </tr>
 
 <tr>
-<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/12.png"/></p></th>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/12.jpeg"/></p></th>
 <th style="vertical-align: top;">
 <h1> Vi er for dårlige til at sortere vores affald: 'Alt det, jeg er i tvivl om, ender i restaffald' </h1>
 <span style="font-weight: normal">
