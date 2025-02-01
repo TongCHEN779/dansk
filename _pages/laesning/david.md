@@ -291,4 +291,78 @@ Navnet riqa betyder egentlig "små papirlapper" og hentyder muligvis til, at skr
 </span>
 </th>
 </tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/17.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Træpanel med riqa- og thuluth-skrift </h1>
+<span style="font-weight: normal">
+Dette træpanel indeholder to lag tekst i to forskellige skrifttyper og størrelser. Det nederste tekstlag er skrevet i den lille og bølgende riqa-skrift og indeholder koranens "Tronvers", der bl.a. beskriver, hvordan Guds trone spænder over både himlen og jorden.
+<br><br>
+Det tekstlag, der ligger højest, er skrevet i en stor og bred thuluth og indeholder to fromme udsagn om Guds magt og størhed. <br>
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/18.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Rosenvandssprinkler af sølvindlagt bronze med figurativ naskh-skrift </h1>
+<span style="font-weight: normal">
+Omkring maven på denne rosenvandssprinkler løber en indskrift, hvis bogstaver afsluttes foroven af menneske- og dyrehoveder. Denne form for levendegjort skrift blev udviklet i Iran og Centralasien i det 12. århundrede og spredte sig derefter vestpå til Irak og Syrien. Skriften kendes primært fra metalkunst, og den ser ud til at være gået af mode omkring år 1400.
+<br><br>
+På trods af ornamentikken kan inskriptionen stadig læses, hvis man fokuseret på håndets nedre halvdel. Her står en række gode ønsker for genstandens ejer: "Ære, fremgang, succes, lykke, velvære, forsynets gunst og langt liv". <br>
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/19.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Skål af lergods med pseudokalligrafi </h1>
+<span style="font-weight: normal">
+Langs siderne af denne skål ses 25 gentagelser af den samme monsterenhed bestående af en opadvendt tak, en krøllet plantestængel og en bred opstreg. Enheden er i virkeligheden en stærkt stiliseret udgave af et arabisk ord, muligvis tukfa (du skal blive tilfreds).
+<br><br>
+Skålen tilhører en særlig type af kalligrafiudsmykket keramik, som fremstilledes i det østlige Iran og Centralasien under dynastiet samaniderne (r. 805-1005). I modsætning keramik med læsbare indskrifter er en skål som denne måske blevet fremstillet til et klientel, der ikke kunne læse, men som alligevel holdt af skriften som dekoration. <br>
+</span>
+</th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/20.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Krukke af lergods med pseudokalligrafi </h1>
+<span style="font-weight: normal">
+I byen Manises nær Valencia fortsatte produktionen af Islamisk inspireret keramik efter at Spanien var kommet under kristent herredømme.
+<br><br>
+På denne krukkes sider ses bl.a. to felter med dekorationer inspireret af arabisk kalligrafi. I det øverste felt er der muligvis tale om ordet al-alivio (godt helbred), der ofte optræder på islamisk keramik i kombination med andre "gode ønsker".
+<br><br>
+Manises-keramik blev eksporteret til bl.a. Holland og England hvor det sikkert var uvæsentligt om indskrifterne kunne læses. Her blev de arabiske bogstaver nok snarere værdsat som del af en bredere islamisk æstetik, der var på mode i det 15. århundredes Europa. <br>
+</span>
+</th>
+</tr>
+</table>
+
+<h1 style="text-align: center;"> II - Den arabiske skrifts udvikling </h1>
+Arabisk skrives fra højre mod venstre. Skriften indeholder kun tegn for konsonanter og lange vokaler, der fortrinsvis skrives sammenkædet. Korte vokaler angives med små hjælpetegn over eller under linjen. Disse principper har ikke ændret sig siden det 8. århundrede, men bogstavernes former har undergået en vidtforgrenet udvikling, der har affødt forskellige skrifttyper.
+<br><br>
+I det 8.-9. århundrede dominerede den kantede kufi-skrift, men fra det 10. århundrede blev udtrykket gradvist rundere. Først opstod der blødere varianter af kufi´en, men snart fulgte en række nye, kursive skrifter med navne som naskh, thuluth og muhaqqaq.
+<br><br>
+Med islams udbredelse vandt den arabiske skrift indpas uden for Den Arabiske Verden, og mødet med andre sprog har også påvirket skriftens udvikling. I det 14.-15. århundredes Iran og Centralasien skabte man f.eks. skrifttypen nastaliq, som primært blev brugt til persisk.
+<br><br>
+Gennem tiderne har skriften også været genstand for fantasifulde eksperimenter inden for bl.a. keramik og metalkunst. Her kombineres de arabiske bogstaver med planteornamentik, eller de forvandles til labyrintiske mønstre eller endda til menneskefigurer. Skriftens kurver er tilmed blevet brugt til at skabe figurative motiver, hvor ord og billede smelter sammen.
+<br>
+
+<table align="center" cellspacing="5" style="text-align: left" width="100%">
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/21.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> Kalligram </h1>
+<span style="font-weight: normal">
+Et kalligram er en komposition af tekst, hvor ordene tilsammen danner et billede, i dette tilfælde af en løve. Teksten, der udgør løvens krop og hoved, er tilegnet Muhammads svigersøn, imam Ali, som foruden Profeten selv er den vigtigste figur i shia-islam.
+<br><br>
+Kunstneren Sulayman har skjult sin signatur i medaljonen nederst til venstre. Han tilhørte formentlig den tyrkiske Bektashi-sufiorden, hvis grundlægger af sine følgere blev betragtet som en reinkarnation af imam Ali. <br>
+</span>
+</th>
+</tr>
 </table>
