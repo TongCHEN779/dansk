@@ -27,6 +27,28 @@ toc: true
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_series/3.webp"/></p></th>
+<th style="vertical-align: top;">
+<h1> De superriges privatfly </h1>
+<span style="font-weight: normal">
+De er Danmarks rigeste, og de ejer nogle af de jetfly, der udleder allermest CO2 pr. passager. Ejerne bag selskaber som Bestseller, Lego og Jysk flyver i egne jetfly, mens deres virksomheder profilerer sig på at arbejde for en bæredygtig fremtid. DR undersøger, hvor flyene flyver hen, og om turen har et forretningsmæssigt formål, når den går til Ibiza, Mallorca eller Maldiverne.
+</span>
+</th>
+<th><a href="https://www.dr.dk/drtv/program/de-superriges-privatfly_479835">link</a></th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_series/2.webp"/></p></th>
+<th style="vertical-align: top;">
+<h1> Den store bagedyst </h1>
+<span style="font-weight: normal">
+Danmarks bedste amatørbagere har gennem flere sæsoner kæmpet om at vinde Den store bagedyst. Bage-niveauet i teltet er højt, og ambitionerne er store.
+</span>
+</th>
+<th><a href="https://www.dr.dk/drtv/saeson/den-store-bagedyst_154254">link</a></th>
+</tr>
+
+<tr>
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_series/1.webp"/></p></th>
 <th style="vertical-align: top;">
 <h1> Jorden kalder: Skal vores pension investeres i olie? </h1>
@@ -35,5 +57,38 @@ PFA Pension har investeringer i et af verdens største energiselskaber, TotalEne
 </span>
 </th>
 <th><a href="https://www.dr.dk/drtv/episode/jorden-kalder_-skal-vores-pension-investeres-i-olie_475206">link</a></th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_series/4.webp"/></p></th>
+<th style="vertical-align: top;">
+<h1> Kvindefængslet </h1>
+<span style="font-weight: normal">
+Kom med ind bag hegnet i Danmarks eneste fængsel for kvinder.
+</span>
+</th>
+<th><a href="https://www.dr.dk/drtv/serie/kvindefaengslet_487476">link</a></th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_series/5.webp"/></p></th>
+<th style="vertical-align: top;">
+<h1> Matador </h1>
+<span style="font-weight: normal">
+Klassikeren over alle danske dramaklassikere.
+</span>
+</th>
+<th><a href="https://www.dr.dk/drtv/serie/matador_130149">link</a></th>
+</tr>
+
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_series/6.webp"/></p></th>
+<th style="vertical-align: top;">
+<h1> Livsens ondskab </h1>
+<span style="font-weight: normal">
+Dansk dramaserie fra 1972. Den forbitrede Emanuel Thomsen - kaldet Thummelumsen - kæmper for at spare penge op, så han kan købe sin fædrene gård tilbage. I en drøm ser han et lotterinummer for sig, som han er sikker på, vil give gevinst. Toldkontrollør Knagsted er nyligt kommet til byen, og da han er kynisk anlagt, omtales han også som "Livsens ondskab". Men han går gerne tur med den gamle konsul Mørch - og han indvilliger i at blive medlem af foreningen De Danske Ædedolke. 
+</span>
+</th>
+<th><a href="https://www.dr.dk/drtv/serie/livsens-ondskab_456851">link</a></th>
 </tr>
 </table>
