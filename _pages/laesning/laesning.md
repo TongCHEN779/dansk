@@ -25,6 +25,7 @@ toc: true
     }
 </style>
 
+(Alle tekster og billeder er kopieret fra [her](https://www.dr.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/dr_news/22.jpeg"/></p></th>
