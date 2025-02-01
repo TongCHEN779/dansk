@@ -342,6 +342,7 @@ Manises-keramik blev eksporteret til bl.a. Holland og England hvor det sikkert v
 </th>
 </tr>
 </table>
+<br>
 
 <h1 style="text-align: center;"> II - Den arabiske skrifts udvikling </h1>
 Arabisk skrives fra højre mod venstre. Skriften indeholder kun tegn for konsonanter og lange vokaler, der fortrinsvis skrives sammenkædet. Korte vokaler angives med små hjælpetegn over eller under linjen. Disse principper har ikke ændret sig siden det 8. århundrede, men bogstavernes former har undergået en vidtforgrenet udvikling, der har affødt forskellige skrifttyper.
@@ -362,6 +363,29 @@ Gennem tiderne har skriften også været genstand for fantasifulde eksperimenter
 Et kalligram er en komposition af tekst, hvor ordene tilsammen danner et billede, i dette tilfælde af en løve. Teksten, der udgør løvens krop og hoved, er tilegnet Muhammads svigersøn, imam Ali, som foruden Profeten selv er den vigtigste figur i shia-islam.
 <br><br>
 Kunstneren Sulayman har skjult sin signatur i medaljonen nederst til venstre. Han tilhørte formentlig den tyrkiske Bektashi-sufiorden, hvis grundlægger af sine følgere blev betragtet som en reinkarnation af imam Ali. <br>
+</span>
+</th>
+</tr>
+</table>
+<br>
+
+<h1 style="text-align: center;"> III - Kalligrafen </h1>
+For kalligrafen er det i høj grad skriftens skønhed, det handler om. Læsbarheden kommer ofte i anden række.
+<br><br>
+Allerede tidligt i den islamiske verden blev den arabiske skrift genstand for kunstnerisk fortolkning. I første omgang skete dette i forbindelse med bygningsudsmykinger, mønter og særligt fornemme Koraner, siden i sammenhæng med brugsgenstande i bred forstand. Kalligrafien blev i udgangspunktet altid skabt med en rørpen, hvorefter de forskønnede tekster overførtes til en bred vifte af materialer.
+<br><br>
+Historisk set var kalligrafens arbejde højt agtet - visse værker var ligefrem samlerobjekter - og store ressourcer blev investeret i fine skriveredskaber. For en stor del af kunstnernes vedkommende var det standard at eje en imponerende penneæske, ofte med en mindre skat af udstyr fremstillet af blandt andet elfenben, kostbare metaller og sjældne sten.
+<br>
+
+<table align="center" cellspacing="5" style="text-align: left" width="100%">
+<tr>
+<th style="vertical-align: top;"><p align="center"><img src="http://tongchen779.github.io/dansk/images/david/22.png"/></p></th>
+<th style="vertical-align: top;">
+<h1> En kalligraf på en terrasse </h1>
+<span style="font-weight: normal">
+Kalligrafen sidder på en pude på en terrasse, omgivet af sit udstyr. I skødet har han et skriveunderlag, hvorpå ligger et stykke papir og en makta, der bruges, når pennen skal tilskæres. I højre hånd holder han en pennekniv og i venstre den nyskårne pen. Foran ham står et blækhus og en kop, og der ligger to arabiske opslagsværker med titlerne skrevet på snittet: Qamus og Sihah.
+<br><br>
+Qamus er det arabiske ord for leksikon. Sihah betyder ægte eller autentiske og bruges gerne om en del af hadith-litteraturen. <br>
 </span>
 </th>
 </tr>
