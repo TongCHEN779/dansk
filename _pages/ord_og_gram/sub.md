@@ -1969,6 +1969,7 @@ search: true
 <td> designerne </td>
 <td> designer </td>
 <td> 2 </td>
+</tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=detektivserie"> en detektivserie </a></td>
 <td>
@@ -6937,7 +6938,6 @@ search: true
 <td> measurement </td>
 <td> 1 </td>
 </tr>
-<td>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=måltid"> måltid </a></td>
 <td>
@@ -7572,6 +7572,7 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> retirement </td>
+</tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=overarm"> en overarm </a></td>
 <td>
@@ -12588,7 +12589,6 @@ search: true
 <td> cohort </td>
 <td> 1 </td>
 </tr>
-<td>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%A5rhundrede"> et århundrede </a></td>
 <td>
@@ -12625,4 +12625,4 @@ search: true
 <td> decade </td>
 <td> 1 </td>
 </tr>
-<!-- </table> -->
+</table>

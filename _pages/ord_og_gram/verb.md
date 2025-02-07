@@ -805,6 +805,7 @@ search: true
 <td> begræns </td>
 <td> to restrict </td>
 <td> 1 </td>
+</tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=begynde"> at begynde </a></td>
 <td>
@@ -1909,6 +1910,7 @@ search: true
 <td> dræb </td>
 <td> to kill </td>
 <td> 2 </td>
+</tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dr%C3%B8mme"> at drømme </a></td>
 <td>
@@ -2426,6 +2428,7 @@ search: true
 <td> flugt </td>
 <td> to escape </td>
 <td> 1 </td>
+</tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=flytte"> at flytte </a></td>
 <td>
@@ -8898,6 +8901,7 @@ search: true
 <td> stem </td>
 <td> to vote </td>
 <td> 3 </td>
+</tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=stifte"> at stifte </a></td>
 <td>
@@ -10444,6 +10448,7 @@ search: true
 <td> understøt </td>
 <td> to support </td>
 <td> 1 </td>
+</tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=unders%C3%B8ge"> at undersøge </a></td>
 <td>
@@ -11081,4 +11086,4 @@ search: true
 <td> to breathe </td>
 <td> 1 </td>
 </tr>
-<!-- </table> -->
+</table>

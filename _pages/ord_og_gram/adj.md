@@ -10,7 +10,30 @@ search: true
         var audioElement = document.getElementById(soundId);
         audioElement.play();
     }
+
+    function searchTable() {
+        let input = document.getElementById("searchInput").value.toLowerCase();
+        let table = document.getElementById("wordTable");
+        let rows = table.getElementsByTagName("tr");
+        let firstMatch = null; // Store first matching row for scrolling
+
+        for (let i = 1; i < rows.length; i++) {
+            let rowText = rows[i].innerText.toLowerCase();
+            if (rowText.includes(input)) {
+                rows[i].style.display = "";
+                if (!firstMatch) firstMatch = rows[i]; // Set first visible row
+            } else {
+                rows[i].style.display = "none";
+            }
+        }
+
+        // Scroll to the first matching row if found
+        if (firstMatch) {
+            firstMatch.scrollIntoView({ behavior: "smooth", block: "center" });
+        }
+    }
 </script>
+
 <style>
     table {
         border-collapse: collapse;
@@ -28,28 +51,6 @@ search: true
         text-align: left;
     }
 </style>
-
-<script>
-    function playSound(soundId) {
-        var audioElement = document.getElementById(soundId);
-        audioElement.play();
-    }
-
-    function searchTable() {
-        let input = document.getElementById("searchInput").value.toLowerCase();
-        let table = document.getElementById("wordTable");
-        let rows = table.getElementsByTagName("tr");
-
-        for (let i = 1; i < rows.length; i++) {
-            let rowText = rows[i].innerText.toLowerCase();
-            if (rowText.includes(input)) {
-                rows[i].style.display = "";
-            } else {
-                rows[i].style.display = "none";
-            }
-        }
-    }
-</script>
 
 <input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchTable()">
 
