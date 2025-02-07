@@ -12,6 +12,29 @@ search: true
     }
 </script>
 <script>
+    function searchTable() {
+        let input = document.getElementById("searchInput").value.toLowerCase();
+        let table = document.getElementById("wordTable");
+        let rows = table.getElementsByTagName("tr");
+        let firstMatch = null;
+
+        for (let i = 1; i < rows.length; i++) {
+            let rowText = rows[i].innerText.toLowerCase();
+            if (rowText.includes(input)) {
+                rows[i].style.display = "";
+                if (!firstMatch) firstMatch = rows[i]; // Save first matching row
+            } else {
+                rows[i].style.display = "table-row"; // Ensure row is not hidden
+            }
+        }
+
+        // Scroll to the first matching row
+        if (firstMatch) {
+            setTimeout(() => {
+                firstMatch.scrollIntoView({ behavior: "smooth", block: "center" });
+            }, 100); // Delay to ensure rendering
+        }
+    }
     // Ensure the DOM is fully loaded before attaching event listeners.
     document.addEventListener("DOMContentLoaded", function() {
         // Listen for the Enter key on the search input.
