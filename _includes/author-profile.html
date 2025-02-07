@@ -11,7 +11,7 @@
     </div>
   {% endif %}
 
-  <div class="author__content">
+  <!-- <div class="author__content">
     <h3 class="author__name p-name" itemprop="name">
       <a class="u-url" rel="me" href="{{ author.home | default: '/' | absolute_url }}" itemprop="url">{{ author.name }}</a>
     </h3>
@@ -20,10 +20,10 @@
         {{ author.bio | markdownify }}
       </div>
     {% endif %}
-  </div>
+  </div> -->
 
-  <div class="author__urls-wrapper">
-    <!-- <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button> -->
+  <!-- <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">{{ site.data.ui-text[site.locale].follow_label | remove: ":" | default: "Follow" }}</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
         <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
@@ -242,5 +242,5 @@
 
       {% include author-profile-custom-links.html %}
     </ul>
-  </div>
+  </div> -->
 </div>
