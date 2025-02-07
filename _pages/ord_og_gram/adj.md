@@ -33,16 +33,6 @@ search: true
             }, 100); // Delay to ensure rendering
         }
     }
-    // Ensure the DOM is fully loaded before attaching event listeners.
-    document.addEventListener("DOMContentLoaded", function() {
-        // Listen for the Enter key on the search input.
-        document.getElementById("searchInput").addEventListener("keydown", function(event) {
-            if (event.key === "Enter") {
-                event.preventDefault();  // Prevent any default behavior.
-                jumpToRow();
-            }
-        });
-    });
     // Function to scroll to the first row that contains the search word.
     function jumpToRow() {
         // Get the search word in lowercase.
@@ -86,9 +76,26 @@ search: true
         padding: 5px;
         width: 100%;
     }
+    .floating-search {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background-color: #ffffff; /* Ensures a solid background */
+        z-index: 1000;           /* Keeps it on top of other elements */
+        padding: 10px;           /* Adds some spacing */
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow */
+    }
+    /* Adjust the content below so it doesn't hide behind the fixed search bar */
+    body {
+        padding-top: 60px; /* Adjust this value based on the height of your search bar */
+    }
 </style>
 
-<input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchTable()">
+<div class="floating-search">
+  <input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchTable()">
+</div>
+<!-- <input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchTable()"> -->
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%" id="wordTable">
 <tr>
