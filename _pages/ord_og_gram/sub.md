@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /ord_og_gram/sub/
+search: true
 ---
 
 <script>

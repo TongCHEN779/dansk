@@ -72,7 +72,7 @@ search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia, google
 lunr:
-  search_within_pages    : true # true, false (default)
+  search_within_pages    : false # true, false (default)
   # files_to_exclude:
   #   - README.md
 algolia:

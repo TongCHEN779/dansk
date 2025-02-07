@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /ord_og_gram/fast/
+search: true
 ---
 
 <h1 style="text-align: center;"> Danske Udtryk </h1>

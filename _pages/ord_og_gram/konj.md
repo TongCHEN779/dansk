@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /ord_og_gram/konj/
+search: true
 ---
 
 <h1 style="text-align: center;"> Hovedsætningskonjunktioner: S-V1-A-V2, K-S-V1-A-V2 </h1>
