@@ -4,7 +4,7 @@ title: ""
 permalink: /undervisning/arbejdermuseet/
 ---
 
-<p align="center"><img src="/images/history_to_go.png"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/history_to_go.png"/></p>
 
 <style>
     table {
@@ -28,7 +28,7 @@ permalink: /undervisning/arbejdermuseet/
 (Alle tekster kan findes [her](https://www.arbejdermuseet.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/1.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/1.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Andre sider af kvinder og tyendes stemmeret </h1>
 <span style="font-weight: normal">
@@ -39,7 +39,7 @@ Materialet er målrettet STX, og sætter fokus på Grundlovsændringen i 1915, h
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/2.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/2.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Børn på arbejde </h1>
 <span style="font-weight: normal">
@@ -50,7 +50,7 @@ Materialet fortæller om børnearbejde i byen efter industraliseringen. Hvordan 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/3.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/3.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Der var engang en historie </h1>
 <span style="font-weight: normal">
@@ -61,7 +61,7 @@ Materialet er målrettet STX og giver eleverne en grundig introduktion til histo
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/4.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/4.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> En familie flytter til byen </h1>
 <span style="font-weight: normal">
@@ -72,7 +72,7 @@ I 1882 flytter det unge ægtepar Karen Marie og Peter Martin Sørensen ind til K
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/5.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/5.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Familiens liv og hverdag år 1900 </h1>
 <span style="font-weight: normal">
@@ -83,7 +83,7 @@ Materialet er oplagt som udgangspunkt for elevernes arbejde med hverdagsliv omkr
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/6.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/6.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Fanget bag åbne døre </h1>
 <span style="font-weight: normal">
@@ -94,7 +94,7 @@ Handler man med mennesker i dag? Svaret er desværre ja. Materialet giver elever
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/7.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/7.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Farlig ungdom </h1>
 <span style="font-weight: normal">
@@ -105,7 +105,7 @@ Materialet sætter fokus på 1950’erne ud fra et ungdomsperspektiv. Begrebet t
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/8.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/8.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Folkets århundrede </h1>
 <span style="font-weight: normal">
@@ -116,7 +116,7 @@ Materialet er oplagt at bruge som gennemgang af den tidlige arbejderbevægelse s
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/9.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/9.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hverdagsliv før og nu </h1>
 <span style="font-weight: normal">
@@ -127,7 +127,7 @@ Formålet med undervisningsmaterialet er at udvikle og styrke elevernes strategi
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/10.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/10.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Industrikultur i danmark 1850-1914 </h1>
 <span style="font-weight: normal">
@@ -138,7 +138,7 @@ Antologien er målrettet undervisning i gymnasiet og andre ungdomsuddannelser me
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/11.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/11.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kanslergadeforliget 1993 </h1>
 <span style="font-weight: normal">
@@ -149,7 +149,7 @@ Materialet giver et indblik i Kanslergadeforliget og perioden omkring forliget u
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/12.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/12.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kold krig og kiksekage </h1>
 <span style="font-weight: normal">
@@ -160,7 +160,7 @@ Arbejderfamiliens hverdag i Danmark fra 1945 og frem til slutningen af 1950’er
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/13.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/13.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kvinders valgret </h1>
 <span style="font-weight: normal">
@@ -171,7 +171,7 @@ Siden 1849 har man diskuteret, hvilke befolkningsgrupper der har været egnede t
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/arbejdermuseet/14.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/arbejdermuseet/14.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Slaget på Fælleden </h1>
 <span style="font-weight: normal">

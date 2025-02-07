@@ -4,7 +4,7 @@ title: ""
 permalink: /lytte/vores_tid_udlaengsel/
 ---
 
-<p align="center"><img src="/images/tid/udlaengsel.jpg"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/tid/udlaengsel.jpg"/></p>
 
 <style>
     table {

@@ -4,7 +4,7 @@ title: ""
 permalink: /undervisning/det_rykker/
 ---
 
-<p align="center"><img src="/images/det_rykker.png" width="500"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/det_rykker.png" width="500"/></p>
 
 <style>
     table {
@@ -44,7 +44,7 @@ Her kan du finde pdf-filer af [Grundbog](/files/det_rykker/grundbog.pdf), og [Ø
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://storage-cdn.alinea.dk/2019-09/ESR8zxU4P7ab-det_rykker_03.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 1, opg 10, Lyt, skriv og gentag i klassen </h1></td>
-<td rowspan="3"><a href="/files/det_rykker/lyd_kap1_10_11_15.pdf">text</a></td>
+<td rowspan="3"><a href="https://tongchen779.github.io/dansk/files/det_rykker/lyd_kap1_10_11_15.pdf">text</a></td>
 </tr>
 
 <tr>
@@ -80,7 +80,7 @@ Her kan du finde pdf-filer af [Grundbog](/files/det_rykker/grundbog.pdf), og [Ø
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://storage-cdn.alinea.dk/2019-10/QxAyo6UvzIgN-det_rykker_10.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 2, opg 15, Lyt, skriv og gentag </h1></td>
-<td rowspan="3"><a href="/files/det_rykker/lyd_kap2_15_18.pdf">text</a></td>
+<td rowspan="3"><a href="https://tongchen779.github.io/dansk/files/det_rykker/lyd_kap2_15_18.pdf">text</a></td>
 </tr>
 
 <tr>
@@ -111,7 +111,7 @@ Her kan du finde pdf-filer af [Grundbog](/files/det_rykker/grundbog.pdf), og [Ø
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://storage-cdn.alinea.dk/2019-10/IQCFkE6shm8U-det_rykker_16.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 3, opg 9, En masse øvere </h1></td>
-<td rowspan="3"><a href="/files/det_rykker/lyd_kap3_9_15.pdf">text</a></td>
+<td rowspan="3"><a href="https://tongchen779.github.io/dansk/files/det_rykker/lyd_kap3_9_15.pdf">text</a></td>
 </tr>
 
 <tr>
@@ -142,7 +142,7 @@ Her kan du finde pdf-filer af [Grundbog](/files/det_rykker/grundbog.pdf), og [Ø
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://storage-cdn.alinea.dk/2019-10/2ETa6OHtTixu-det_rykker_22.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 4, opg 11, Lyt, skriv og gentag </h1></td>
-<td rowspan="3"><a href="/files/det_rykker/lyd_kap4_11_15.pdf">text</a></td>
+<td rowspan="3"><a href="https://tongchen779.github.io/dansk/files/det_rykker/lyd_kap4_11_15.pdf">text</a></td>
 </tr>
 
 <tr>
@@ -168,7 +168,7 @@ Her kan du finde pdf-filer af [Grundbog](/files/det_rykker/grundbog.pdf), og [Ø
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://storage-cdn.alinea.dk/2019-10/1aZmJUZhcmDj-det_rykker_27.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 5, opg 8, Lyt, skriv og gentag </h1></td>
-<td rowspan="3"><a href="/files/det_rykker/lyd_kap5_8_9_11.pdf">text</a></td>
+<td rowspan="3"><a href="https://tongchen779.github.io/dansk/files/det_rykker/lyd_kap5_8_9_11.pdf">text</a></td>
 </tr>
 
 <tr>
@@ -194,7 +194,7 @@ Her kan du finde pdf-filer af [Grundbog](/files/det_rykker/grundbog.pdf), og [Ø
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://storage-cdn.alinea.dk/2019-10/JJtXnjmYo0Sr-det_rykker_32.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 6, opg 4, Jo mere kundekontakt man har, jo mere skal man tænke på det  </h1></td>
-<td rowspan="7"><a href="/files/det_rykker/lyd_kap6_4_8_16.pdf">text</a></td>
+<td rowspan="7"><a href="https://tongchen779.github.io/dansk/files/det_rykker/lyd_kap6_4_8_16.pdf">text</a></td>
 </tr>
 
 <tr>

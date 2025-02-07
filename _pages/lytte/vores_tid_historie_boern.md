@@ -4,7 +4,7 @@ title: ""
 permalink: /lytte/vores_tid_historie_boern/
 ---
 
-<p align="center"><img src="/images/tid/historie_boern.jpg"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/tid/historie_boern.jpg"/></p>
 
 <style>
     table {

@@ -69,7 +69,7 @@ I takt med at de islamiske herskere, kalifferne, erobrede større og større del
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/1.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/1.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Dobbeltblad fra en Koran </h1>
 
@@ -85,7 +85,7 @@ En sådan passage er at finde i sura 43:2-3, som er gengivet i linje 6-8 på dob
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/2.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/2.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Træpanel </h1>
 
@@ -100,7 +100,7 @@ Frisen, som er den længste, kendte af sin art fra den islamske verden, er stadi
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/3.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/3.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kobbermønt (fals) </h1>
 <span style="font-weight: normal">
@@ -119,7 +119,7 @@ Møntens tekster er en blanding af nyt of gammelt. Inskriptionen rundt om portr�
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/4.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/4.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Guldmønt (dinar) </h1>
 
@@ -134,7 +134,7 @@ Disse ændringer var en del af en overordnet reform af kalifatets visuelle sprog
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/5.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/5.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Koranblad </h1>
 
@@ -147,7 +147,7 @@ Begge tekstlag indeholder passager fra Koranens sura 2. skrevet i en tidlig arab
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/6.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/6.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Koranblad i kufi-skrift </h1>
 
@@ -162,7 +162,7 @@ Skriften udstråler proportionalitet og symmetri, og dens opkomst menes at være
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/7.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/7.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Astrolab-kvadrant af messing med kufi-skrift </h1>
 
@@ -177,7 +177,7 @@ I den buede kolonne er kufi-bogstaverne desuden  anvendt som tal, idet hvert af 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/8.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/8.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Træpanel med floral og flettet kufi-skrift </h1>
 
@@ -190,7 +190,7 @@ De tidligste udgaver af floral kufi findes på egyptiske gravsten fra det 9. år
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/9.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/9.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Koran i sini-skrift </h1>
 
@@ -203,7 +203,7 @@ Det samme gør margindekorationerne i denne koransektion, som bl.a. viser små p
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/10.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/10.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> To blade fra en Koran i maghribi-skrift </h1>
 
@@ -216,7 +216,7 @@ Maghribi-skriften opstod i det 10.-11. århundrede som en videreudvikling af den
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/11.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/11.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Skål af lergods med "Ny stil"-skrift </h1>
 
@@ -229,7 +229,7 @@ Teksten er skrevet i en skrifttype, som blev udviklet i der 10. århundrede, og 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/12.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/12.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> To papyrusfragmenter med nasklu-skrift </h1>
 
@@ -240,7 +240,7 @@ De to papyrusfragmenter rummer hverdagsskrift fra den tidlige islamiske periode.
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/13.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/13.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Blad fra et manuskript i naskh-skrift </h1>
 
@@ -251,7 +251,7 @@ De kursive hverdagsskatter blev med tiden mere fortinede, og fra omkring år 100
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/14.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/14.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Træpanel med thuluth-skrift </h1>
 
@@ -262,7 +262,7 @@ Panelet er en del af et sæt på fire, hvis samlede tekst hylder profeter. Muham
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/15.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/15.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Dobbeltblad fra en Koran i muhaqqaq-skrift </h1>
 <span style="font-weight: normal">
@@ -272,7 +272,7 @@ Teksten på dobbeltbladet er skrevet i muhaqqaq (tydelig), en monumental, men be
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/16.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/16.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Miniaturekoran i rayhani-skrift </h1>
 <span style="font-weight: normal">
@@ -291,7 +291,7 @@ Navnet riqa betyder egentlig "små papirlapper" og hentyder muligvis til, at skr
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/17.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/17.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Træpanel med riqa- og thuluth-skrift </h1>
 <span style="font-weight: normal">
@@ -303,7 +303,7 @@ Det tekstlag, der ligger højest, er skrevet i en stor og bred thuluth og indeho
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/18.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/18.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Rosenvandssprinkler af sølvindlagt bronze med figurativ naskh-skrift </h1>
 <span style="font-weight: normal">
@@ -315,7 +315,7 @@ På trods af ornamentikken kan inskriptionen stadig læses, hvis man fokuseret p
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/19.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/19.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Skål af lergods med pseudokalligrafi </h1>
 <span style="font-weight: normal">
@@ -327,7 +327,7 @@ Skålen tilhører en særlig type af kalligrafiudsmykket keramik, som fremstille
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/20.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/20.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Krukke af lergods med pseudokalligrafi </h1>
 <span style="font-weight: normal">
@@ -354,7 +354,7 @@ Gennem tiderne har skriften også været genstand for fantasifulde eksperimenter
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/21.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/21.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kalligram </h1>
 <span style="font-weight: normal">
@@ -377,7 +377,7 @@ Historisk set var kalligrafens arbejde højt agtet - visse værker var ligefrem 
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/22.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/22.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> En kalligraf på en terrasse </h1>
 <span style="font-weight: normal">
@@ -389,7 +389,7 @@ Qamus er det arabiske ord for leksikon. Sihah betyder ægte eller autentiske og 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/23.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/23.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kalligrafisk øvelsesblad (meshk) </h1>
 <span style="font-weight: normal">
@@ -401,7 +401,7 @@ Den viste skrift er en art rhuluth, men der findes også øvelsesblade med andre
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/24.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/24.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Pennekniv af stål, guld, hvalrostand, sølv ,niello og koral </h1>
 <span style="font-weight: normal">
@@ -427,7 +427,7 @@ Penneæsker som denne har skullet rumme skriveredskaber og blæk, men der er ogs
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/25.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/25.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Blækhus af sølv- og kobberindlagt bronze </h1>
 <span style="font-weight: normal">
@@ -441,7 +441,7 @@ Hvad blækket angår, anvendtes i perioden primært to typer: En sød-baseret v�
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/26.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/26.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Koran </h1>
 <span style="font-weight: normal">
@@ -460,7 +460,7 @@ Kolofonen til Koranen fortæller, at den blev bestilt af Fatima, der var barnepi
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/27.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/27.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Digt af Mir Ali Haravi og maleri af Manohar </h1>
 <span style="font-weight: normal">
@@ -478,7 +478,7 @@ Nyd det, nu da det er ankommet!" <br>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/28.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/28.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kande af frittegods </h1>
 <span style="font-weight: normal">
@@ -488,7 +488,7 @@ Omkring oksens mave ses inskriptionen: "Oh gid der var et hvilested..." Verset e
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/29.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/29.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Skål af kobber </h1>
 <span style="font-weight: normal">
@@ -510,7 +510,7 @@ se hvilken den elskede vælger." <br>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/30.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/30.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Flise af frittegods </h1>
 <span style="font-weight: normal">
@@ -520,7 +520,7 @@ Langs flisens stjerneformede kant ses et uddrag af det persiske nationalepos. Sh
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/31.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/31.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Lansehoved af guldindlagt stål </h1>
 <span style="font-weight: normal">
@@ -542,7 +542,7 @@ som Givs spyd under Pashan-slaget." <br>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/32.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/32.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kort sværd (yatagan) af guldoverlagt stål og hvalrostand </h1>
 <span style="font-weight: normal">
@@ -569,7 +569,7 @@ Det er hans hensigt at dræbe mig, så meget står klart."<br>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/33.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/33.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Tekstil af silke </h1>
 <span style="font-weight: normal">
@@ -581,7 +581,7 @@ Det er ikke nemt at læse indskriften i de røde band, men når man får sammens
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/34.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/34.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Fad af frittegods </h1>
 <span style="font-weight: normal">
@@ -599,7 +599,7 @@ Indskriften er tydeligvis relateret til fadets funktion - servering af mad - og 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/35.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/35.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Lampefod af bronze </h1>
 <span style="font-weight: normal">
@@ -617,7 +617,7 @@ for at jeg, når du passerer, må dø under din fodsåler." <br>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/36.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/36.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Bedesten af ler </h1>
 <span style="font-weight: normal">
@@ -629,7 +629,7 @@ Den kunstfærdige indskrift på bedestenens midte er sindrigt udformet, så den 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/37.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/37.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Krukke af frittegods </h1>
 <span style="font-weight: normal">
@@ -639,7 +639,7 @@ Indskriften er blevet tydet som en gentagelse af ordet "kvædefrugter". Den kuns
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/38.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/38.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> To plaketter af guldoverlagt stål </h1>
 <span style="font-weight: normal">
@@ -649,7 +649,7 @@ I koranen omtales Gud med 99 navne, der hver især fremhæver et af hans mange k
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/39.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/39.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Tiggerskål (kashkul) af fortinnet bronze </h1>
 <span style="font-weight: normal">
@@ -667,7 +667,7 @@ takket være dit profetskab, O Muhammad, takket være din betroede magt. O Ali, 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/40.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/40.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Lågkande af sølv indlagt med niello </h1>
 <span style="font-weight: normal">
@@ -677,7 +677,7 @@ I blankt sølv på en bund af sort niello ses på kandens hals en arabisk indskr
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/41.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/41.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Lysestage af kobber </h1>
 <span style="font-weight: normal">
@@ -687,7 +687,7 @@ På lysestagens fod kan man i den gennembrudte udsmykning læse følgende ord: "
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/42.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/42.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kande af frittegods </h1>
 <span style="font-weight: normal">
@@ -699,7 +699,7 @@ Det spinkle frittegods kunne minde om det blå-hvide kinesiske porcelæn, der bl
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/43.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/43.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Æske af elfenben </h1>
 <span style="font-weight: normal">
@@ -714,7 +714,7 @@ Imellem fire springende harer gentages ordet baraka, "velsignelse". Ordet - i fo
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/44.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/44.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Fad af lergods </h1>
 <span style="font-weight: normal">
@@ -724,7 +724,7 @@ Imellem fire springende harer gentages ordet baraka, "velsignelse". Ordet - i fo
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/45.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/45.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Digt af Sultan Ali Mashadi </h1>
 <span style="font-weight: normal">
@@ -757,7 +757,7 @@ Herskernes navne og titler optrådte i tidlig tid ydermere på de såkaldte tira
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/46.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/46.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Flisepanel af frittegods </h1>
 <span style="font-weight: normal">
@@ -769,7 +769,7 @@ Flisepanelet er et typisk eksempel på de fliseudsmykninger med tekst, der optr�
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/47.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/47.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Profeten Muhammad ved Paradisets port </h1>
 <span style="font-weight: normal">
@@ -781,7 +781,7 @@ Indgangen er skildret som en bygning med tre porte kronet af kupler, og på faca
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/48.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/48.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kay Khusraw indtager det dæmonbesatte Bahman Slot </h1>
 <span style="font-weight: normal">
@@ -795,7 +795,7 @@ Under et vindue er et halvt dobbeltvers af Hafiz (d. 1390). "Den portico, der ud
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/49.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/49.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Karim Khan Zand med den osmanniske ambassadør Vehbi Effendi </h1>
 <span style="font-weight: normal">
@@ -807,7 +807,7 @@ Over hovederne på de to personer læses i hvid skrift: "malet af Abu al-Hasan M
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/50.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/50.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Plakette af sølvindlagt messing </h1>
 <span style="font-weight: normal">
@@ -830,7 +830,7 @@ Lampen, der er beregnet til ophængning, har sandsynligvis hængt i den moske me
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/51.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/51.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Tekstil af hør og silke </h1>
 <span style="font-weight: normal">
@@ -846,7 +846,7 @@ Fatimidekaliffen al-Mustansir regerede 1036-1094. <br>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/52.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/52.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Tekstil af bomuld med guld </h1>
 <span style="font-weight: normal">
@@ -858,7 +858,7 @@ Inskriptionerne på de trykte ikat-tiraz´er er ofte ulæselige på grund af skr
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/53.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/53.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Tekstil af silke, guld og dyrelamel </h1>
 <span style="font-weight: normal">
@@ -870,7 +870,7 @@ Tinaz-traditionen indebar normalt, at herskeren uddelte tekstiler med sit eget n
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/54.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/54.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Ypperstepræsten bringer mad til den fængslede vesir Izad Gashasp </h1>
 <span style="font-weight: normal">
@@ -882,7 +882,7 @@ Skildringen her holder fast i tiraz-bånd som del af en klassisk islamisk hoftra
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/55.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/55.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Portræt af sultan Ibrahim Adil Shah 2. af Bijapur </h1>
 <span style="font-weight: normal">
@@ -894,7 +894,7 @@ Det sidste er en reference til profeten Ibrahim (Biblens Abraham), der inden for
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/56.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/56.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Guldmønt (dinar) </h1>
 <span style="font-weight: normal">
@@ -923,7 +923,7 @@ Forsidens tekst i thuluth har et design over fire linjer, hvoraf de midterste er
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/57.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/57.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Møntvægtlod af glas </h1>
 <span style="font-weight: normal">
@@ -946,7 +946,7 @@ Glasstemplerne blev frembragt ved at fastsætte en kump endnu varmt og formbart 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/58.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/58.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Firman udstedt af Uzun Hasan </h1>
 <span style="font-weight: normal">
@@ -962,7 +962,7 @@ Firman´en afsluttes nederst af en i dag ufuldstændig tekst i guld og blå, hvi
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/59.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/59.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Indskriftstavle af sandsten </h1>
 <span style="font-weight: normal">
@@ -972,7 +972,7 @@ Firman´en afsluttes nederst af en i dag ufuldstændig tekst i guld og blå, hvi
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/60.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/60.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hjelm af sølvoverlagt stål </h1>
 <span style="font-weight: normal">
@@ -982,7 +982,7 @@ Teksten på hjelmen er dedikeret til en unavngiven hersker og består af forskel
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/61.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/61.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Dervish-hat af filt </h1>
 <span style="font-weight: normal">
@@ -1002,7 +1002,7 @@ Digtet spiller på dobbelttydigheden i det arabisk/persiske ord taj, som både b
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/62.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/62.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Slaget mellem Kay Khusraw og kongen af Makran </h1>
 <span style="font-weight: normal">
@@ -1014,7 +1014,7 @@ På malerier er standarten prydet af et ord, der er tæt beslægtet med navnet A
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/63.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/63.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Standart (alam) af bronze </h1>
 <span style="font-weight: normal">
@@ -1039,7 +1039,7 @@ Et kunstnernavn kan borge for kvalitet. Det samme kan navnet på en berømt best
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/64.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/64.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Skål af lergods </h1>
 <span style="font-weight: normal">
@@ -1051,7 +1051,7 @@ Også tydningen af indskriften på denne skål rummer udfordringer, og det er uk
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/65.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/65.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hængesmykke af jade </h1>
 <span style="font-weight: normal">
@@ -1063,7 +1063,7 @@ Måske er der tale om en visuel leg - det vanskelige ved at kunne identificere b
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/66.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/66.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Skål af frittegods </h1>
 <span style="font-weight: normal">
@@ -1077,7 +1077,7 @@ Abu Zayd var en af de vigtigste keramikere i Kashan omkring 1200, og de mange in
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/67.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/67.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Dolk af guldindlagt stål og hvalrostand </h1>
 <span style="font-weight: normal">
@@ -1089,7 +1089,7 @@ Den litle kartouche på dolkens ryg rummer påkaldelsen "O Ophøjede" (Gud), men
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/68.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/68.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Matrice af kalksten </h1>
 <span style="font-weight: normal">
@@ -1103,7 +1103,7 @@ På midren af stenen, men retvendt, er der indgraveret: "Dens ejer er Isfarin". 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/69.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/69.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Skrin af sølvindlagt messing </h1>
 <span style="font-weight: normal">
@@ -1115,7 +1115,7 @@ Foruden at Yunus beskrives som kirurg, så kan omtalen af øjensalve tyde på, a
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/70.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/70.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Spinel </h1>
 <span style="font-weight: normal">
@@ -1125,7 +1125,7 @@ Spineller er røde ædelsten, der er lidt blødere end rubiner. Inskriptionerne 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/71.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/71.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Tekstil af silke og metallamel </h1>
 <span style="font-weight: normal">
@@ -1137,7 +1137,7 @@ Helheden er så tig og fver plante så fuld af forskelligartede detaljer, at man
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/72.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/72.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> To flisepaneler af lergods </h1>
 <span style="font-weight: normal">
@@ -1149,7 +1149,7 @@ Udover navnene på henholdsvis flisernes keramiker, deres bestiller og arkitekte
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/73.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/73.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Lysestage af kobber </h1>
 <span style="font-weight: normal">
@@ -1163,7 +1163,7 @@ En waqf er det arabiske ord for en religiøs donation. Ordlyden på lysestagen k
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/74.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/74.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Talismanisk skjorte af bomuld og silke </h1>
 <span style="font-weight: normal">
@@ -1175,7 +1175,7 @@ Skjorter af denne type kendes fra såvel Det Osmanniske Rige som fra Iran og Ind
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/75.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/75.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Gravsten af marmor </h1>
 <span style="font-weight: normal">
@@ -1185,7 +1185,7 @@ Gravstenens forside domineres totalt af skrift. Selv over nichen med den hængen
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/76.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/76.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Amuletrulle af papir </h1>
 <span style="font-weight: normal">
@@ -1197,7 +1197,7 @@ Amuletruller som denne med korte, trykte citater fra Koranen og en gengivelse af
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/77.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/77.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Æggeformet talisman af marmor </h1>
 <span style="font-weight: normal">
@@ -1223,7 +1223,7 @@ Der er formodentligt tale min er vedhæng til en halskæde. Amuletgemmer som det
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/78.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/78.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Dolk (kris) af guld- og diamantindlagt stål og flodhestetand </h1>
 <span style="font-weight: normal">
@@ -1235,7 +1235,7 @@ Koden til indskrifterne er Koranen. Læst i de rigtige grupperinger udgør de ad
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/79.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/79.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Flise af lergods </h1>
 <span style="font-weight: normal">
@@ -1247,7 +1247,7 @@ Begrebet “det onde øje” kendes i hele den islamiske verden og betegner et m
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/80.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/80.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Magisk skål af messing </h1>
 <span style="font-weight: normal">
@@ -1274,7 +1274,7 @@ En mere avanceret gren af skriftens magi relaterer sig til det såkalde abjad-sy
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/81.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/81.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Messehagel af silke, guld og dyrelamel </h1>
 <span style="font-weight: normal">
@@ -1286,7 +1286,7 @@ I Vesten var islamiske tekstiler værdsatte for deres tekniske og æstetiske kva
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/82.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/82.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Frisefragment af fedtsten </h1>
 <span style="font-weight: normal">
@@ -1296,7 +1296,7 @@ På fragmentet ses to delvist overlappende indskrifter udhugget i relief. Den ø
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/83.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/83.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Gravdække af silke </h1>
 <span style="font-weight: normal">
@@ -1308,7 +1308,7 @@ På den gule bund gentages dels en påkaldelse af Ali, dels Koranens sura 110:1 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/84.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/84.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Koranblad af pergament </h1>
 <span style="font-weight: normal">
@@ -1320,7 +1320,7 @@ Koranen, hvorfra denne side stammer, formodes at have været på hele 650 sider,
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/85.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/85.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Dervish-stav af stål </h1>
 <span style="font-weight: normal">
@@ -1330,7 +1330,7 @@ Denne stav eller stok er på en gang en brugsgenstand og et ord. I lodret positi
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/86.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/86.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Sufi-emblem af træ </h1>
 <span style="font-weight: normal">
@@ -1342,7 +1342,7 @@ Ved første øjekast kan det spejlede ord ligne hovedet på en tulipan, men komp
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/87.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/87.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Skål af lergods </h1>
 <span style="font-weight: normal">
@@ -1352,7 +1352,7 @@ Skålens dekoration udgøres af et arabisk ordsprog. Sætningen begynder ved de 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/88.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/88.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Lampe af bronze med emalje </h1>
 <span style="font-weight: normal">
@@ -1364,7 +1364,7 @@ Indskriften rummer flere usædvanlige bogstavsammenføjninger, hvad der kunne in
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/89.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/89.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Lampe af sølvindlagt messing</h1>
 <span style="font-weight: normal">
@@ -1376,7 +1376,7 @@ Nederst langs foden kan man læse ordene: "Ab Gud, lad den mægtigste sultan og 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/90.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/90.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Penneæske af sølvindlagt messing </h1>
 <span style="font-weight: normal">
@@ -1386,7 +1386,7 @@ Selvom en del af sølvindlægningerne i dag er forsvundet, kan man stadig danne 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/91.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/91.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Dolk med greb og skede af forgyldt sølv med emalje </h1>
 <span style="font-weight: normal">
@@ -1398,7 +1398,7 @@ På skedens ene side læses den koncentrerede sura 112, "Den rene tro", med isla
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/92.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/92.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Guldmønt (mohur) </h1>
 <span style="font-weight: normal">
@@ -1410,7 +1410,7 @@ Designmæssigt er møntens forside delt vandret i tre dele med to tværgående b
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/93.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/93.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Flaske af glas med emalje og forgyldning </h1>
 <span style="font-weight: normal">
@@ -1422,7 +1422,7 @@ Emaljeret glas var populært blandt den kobestærke del af middelklassen, fordi 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/david/94.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/david/94.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Miniature fra et eksemplar af Hamla-i Haydari </h1>
 <span style="font-weight: normal">

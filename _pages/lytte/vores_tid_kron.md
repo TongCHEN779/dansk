@@ -4,7 +4,7 @@ title: ""
 permalink: /lytte/vores_tid_kron/
 ---
 
-<p align="center"><img src="/images/tid/kron.jpg"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/tid/kron.jpg"/></p>
 
 <style>
     table {

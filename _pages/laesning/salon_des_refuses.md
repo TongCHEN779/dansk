@@ -60,7 +60,7 @@ I starten af 1960erne flytter hun til Kinsale, Irland hvor hun bor indtil sin d�
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/1.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/1.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Jødisk vittighed </h1>
 <span style="font-weight: normal">
@@ -87,7 +87,7 @@ På et vendeblad som dette ændres motivet, når beskueren vender papiret på ho
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/2.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/2.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Gadescene i København ved År 1800. Piskebåndsjøden Sælger en Knipling til en Ung Pige - Peter Nørgaard Larsen </h1>
 <span style="font-weight: normal">
@@ -101,7 +101,7 @@ Serier som Københavnske klædedragter, Lotterisedlen og En Falden Piges Histori
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/3.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/3.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Overlevelse </h1>
 <span style="font-weight: normal">
@@ -125,7 +125,7 @@ Rachel ankom med sin bror David til Paris i 1924, hvor hun solgte børnetøj på
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/4.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/4.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Skakker Jøde og En Båndjøde - Thomas Lederballe </h1>
 <span style="font-weight: normal">
@@ -137,7 +137,7 @@ Her er der tale om to fremstillinger af jøder. Ordet "skakker" i billedet af Sk
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/5.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/5.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kollaboratøren </h1>
 <span style="font-weight: normal">
@@ -164,7 +164,7 @@ Gennem studier af Rembrandts raderkunst assimilerede Bloch barokkens optagethed 
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/6.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/6.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Den store udrensning </h1>
 <span style="font-weight: normal">
@@ -180,7 +180,7 @@ I efteråret 1948 overværede min far en tale af Golda Meir, der dengang var amb
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/7.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/7.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> En Lille Dreng Forestilles for Præsten - Peter Nørgaard Larsen </h1>
 <span style="font-weight: normal">
@@ -196,7 +196,7 @@ Eftertiden har set på Meyer med større distance og fremhavet det idylliserende
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/8.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/8.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hende, den mærkelig </h1>
 <span style="font-weight: normal">
@@ -233,7 +233,7 @@ Maleriet blev til sidst hentet hjem til museets magasiner, hvor det har været o
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/9.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/9.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kun min far </h1>
 <span style="font-weight: normal">
@@ -266,7 +266,7 @@ Værkerne er en opfordring til hellig krig, korstog, imod jødedommen, som her e
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/10.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/10.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kosteskaft </h1>
 <span style="font-weight: normal">
@@ -284,7 +284,7 @@ Min stav, der består af et kosteskaft, et symbol på vold og traldom, er formet
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/11.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/11.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Frugtbarhed - Thomas Lederballe </h1>
 <span style="font-weight: normal">
@@ -296,7 +296,7 @@ Raderingen vakte anstød ved udstillingen i 1891. Den rudimentære linjestil, so
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/12.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/12.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> En knækket stav </h1>
 <span style="font-weight: normal">
@@ -325,7 +325,7 @@ I 1945 blev Ville Jais-Nielsen hædret med Thorvald Bindesbøll Medaljen og i 19
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/13.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/13.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> En stor mappe </h1>
 <span style="font-weight: normal">
@@ -352,7 +352,7 @@ malerier fra det sidste årti. Dette billede blev et af Ville Jais-Nielsens alle
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/14.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/14.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Nature Morte med Frugtfad - Dorthe Aagesen </h1>
 <span style="font-weight: normal">
@@ -366,7 +366,7 @@ Efter hjemkomsten fortalte Ville Jais-Nielsen i et interview: "Jeg følte det, s
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/15.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/15.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Orkester - Dorthe Aagesen </h1>
 <span style="font-weight: normal">
@@ -378,7 +378,7 @@ Henrik Jais-Nielsen fortæller: "... endnu mens mor levede, arrangerede mine for
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/16.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/16.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Dobbeltportræt - Dorthe Aagesen </h1>
 <span style="font-weight: normal">
@@ -394,7 +394,7 @@ Også motivet med de to piger, der ligner hinanden og skaber et formelt ekko ige
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/17.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/17.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Nature Morte - Dorthe Aagesen </h1>
 <span style="font-weight: normal">
@@ -408,7 +408,7 @@ Opstillingen var et yndet motiv blandt tidens moderne malere: Det var frigjort f
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/18.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/18.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> At konvertere </h1>
 <span style="font-weight: normal">
@@ -437,7 +437,7 @@ Henriques voksede op i indre København i en familie, der var en del af det jød
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/19.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/19.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hvor som helst, jeg turde </h1>
 <span style="font-weight: normal">
@@ -453,7 +453,7 @@ Jeg lejede en lille lejlighed i Lathrop Homes, et arbejderkvarter, som lå melle
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/20.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/20.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Etruskisk Sarkofag i Louvre og Kore med Granatæble, Berlin - Laura Nørholt </h1>
 <span style="font-weight: normal">
@@ -469,7 +469,7 @@ Henriques' skulpturgengivelser blev publiceret i arkæologiske fortegnelser over
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/21.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/21.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Judenhut </h1>
 <span style="font-weight: normal">
@@ -485,7 +485,7 @@ Billederne på gulvet er gengivet i kunsthistorikeren Ulla Haastrups artikel 'J�
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/22.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/22.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Dronning Esther </h1>
 <span style="font-weight: normal">
@@ -512,7 +512,7 @@ Ahasverus, den evige jøde, bliver i folkesagn fra 1200-tallet dømt for ikke at
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/23.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/23.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> En lyserød Post-it </h1>
 <span style="font-weight: normal">
@@ -557,7 +557,7 @@ Mellem 1900 og 1940 var Paris et internationalt centrum, der tiltrak kunstnere f
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/24.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/24.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Stående Kvindelig Model og Siddende Kvindelig Model - Dorthe Aagesen </h1>
 <span style="font-weight: normal">
@@ -569,7 +569,7 @@ Da hun udførte disse tegninger, var Orloff endu i begyndelsen af sin karriere s
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/refuse/25.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/refuse/25.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Blækhus med Fire Kvindefigurer - Peter Nørgaard Larsen </h1>
 <span style="font-weight: normal">

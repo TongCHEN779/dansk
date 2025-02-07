@@ -4,7 +4,7 @@ title: ""
 permalink: /lytte/vores_tid_kaerlighed/
 ---
 
-<p align="center"><img src="/images/tid/kaerlighed.jpg"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/tid/kaerlighed.jpg"/></p>
 
 <style>
     table {

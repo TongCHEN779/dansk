@@ -4,7 +4,7 @@ title: ""
 permalink: /lytte/vores_tid_skelettet/
 ---
 
-<p align="center"><img src="/images/tid/river.jpg"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/tid/river.jpg"/></p>
 
 <style>
     table {

@@ -4,7 +4,7 @@ title: ""
 permalink: /lytte/vores_tid_verden/
 ---
 
-<p align="center"><img src="/images/tid/verden.jpg"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/tid/verden.jpg"/></p>
 
 <style>
     table {

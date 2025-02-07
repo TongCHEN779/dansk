@@ -4,7 +4,7 @@ title: ""
 permalink: /undervisning/frihedsmuseet/
 ---
 
-<p align="center"><img src="/images/frihedsmuseet.jpg"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/frihedsmuseet.jpg"/></p>
 
 <style>
     table {
@@ -28,7 +28,7 @@ permalink: /undervisning/frihedsmuseet/
 (Alle tekster kan findes [her](https://natmus.dk/museer-og-slotte/frihedsmuseet/) og [her](https://frederiksbergmuseerne.dk/da/udstillinger/den-censurerede-udstilling-om-censur/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihedsmuseet/1.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihedsmuseet/1.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Censur og satire – et censureret udvalg til dansk, historie og samfundsfag </h1>
 <span style="font-weight: normal">
@@ -41,7 +41,7 @@ Materialet kan bruges som forberedelse til et besøg i den aktuelle særudstilli
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihedsmuseet/2.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihedsmuseet/2.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> De Hvide Busser, er det din tur </h1>
 <span style="font-weight: normal">
@@ -52,7 +52,7 @@ Om en af de største og mest spektakulære redningsaktioner på europæisk jord 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihedsmuseet/3.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihedsmuseet/3.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> De Hvide Busser, er du med borger </h1>
 <span style="font-weight: normal">
@@ -63,7 +63,7 @@ Om en af de største og mest spektakulære redningsaktioner på europæisk jord 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihedsmuseet/4.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihedsmuseet/4.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Spærretid </h1>
 <span style="font-weight: normal">

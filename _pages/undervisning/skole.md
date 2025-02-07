@@ -4,7 +4,7 @@ title: ""
 permalink: /undervisning/skole/
 ---
 
-<p align="center"><img src="/images/skole.jpg"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/skole.jpg"/></p>
 
 <style>
     table {
@@ -28,13 +28,13 @@ permalink: /undervisning/skole/
 (Alle tekster kan findes [her](https://skolehistorie.au.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/skole/1.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/skole/1.png"/></p></td>
 <td style="vertical-align: top;"><h1> Begyndersange på to akkorder </h1></td>
 <td><a href="https://www.mobilmusik.mogens-soerensen.dk/Begyndersange-paa-to-akkorder.pdf">link</a></td>
 </tr>
 
 <tr>
-<td rowspan="6"><p align="center"><img src="/images/skole/2.png"/></p></td>
+<td rowspan="6"><p align="center"><img src="https://tongchen779.github.io/dansk/images/skole/2.png"/></p></td>
 <td style="vertical-align: top;"><h1> Erindring fra arkiv: Amelung, Fie Hald. Grundskole i Rødovre </h1></td>
 <td><a href="https://skolehistorie.au.dk/fileadmin/skolehistorie/Undervisningsmaterialer/Materialer/2692.pdf">text</a></td>
 </tr>
@@ -65,7 +65,7 @@ permalink: /undervisning/skole/
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/skole/3.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/skole/3.png"/></p></td>
 <td style="vertical-align: top;"><h1> Historien om matematik </h1></td>
 <td><a href="https://dkmat.dk/wp-content/uploads/2014/08/Bogen-til-MatDag2014-34indledende_sider_konkurrencer.pdf">text</a></td>
 </tr>

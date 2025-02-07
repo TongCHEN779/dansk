@@ -4,7 +4,7 @@ title: ""
 permalink: /undervisning/vest/
 ---
 
-<p align="center"><img src="/images/holbaek_havn.jpg"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/holbaek_havn.jpg"/></p>
 
 <style>
     table {
@@ -28,7 +28,7 @@ permalink: /undervisning/vest/
 (Alle tekster kan findes [her](https://vestmuseum.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vest/1.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vest/1.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Det særligt danske? </h1>
 <span style="font-weight: normal">
@@ -41,7 +41,7 @@ Hvad vil det sige at være dansk?
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vest/2.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vest/2.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kampen om magten </h1>
 <span style="font-weight: normal">
@@ -52,7 +52,7 @@ I dette materiale kommer man omkring mi3.ddelalderen i Vestsjælland. Start med 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vest/3.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vest/3.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Skole som i gamle dage </h1>
 <span style="font-weight: normal">
@@ -63,7 +63,7 @@ I dette hæfte kan I læse om, hvordan det var at gå i skole for 100 år siden.
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vest/4.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vest/4.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Vores historier – et undervisningsmateriale om dansk kolonialisme i Vestindien </h1>
 <span style="font-weight: normal">

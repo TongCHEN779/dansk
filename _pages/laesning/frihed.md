@@ -27,7 +27,7 @@ permalink: /laesning/frihed/
 <br>
 (Alle tekster og billeder er kopieret [herfra](https://natmus.dk/museer-og-slotte/frihedsmuseet/).)
 <br>
-<p align="center"><img src="/images/frihed/1.jpg"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/1.jpg"/></p>
 <br>
 Året er 1940. Nazismen ruller hen over Europa. Det neutrale Danmark følger udviklingen i Tyskland tæt. Tyskerne vil have magten over Europa. De har allerede angrebet Polen og er nu i krig med England og Frankrig.
 <br><br>
@@ -40,7 +40,7 @@ Følg danskere som træffer deres livs valg, mens Danmark bliver besat.
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/2.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/2.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Jørgen Kieler (1919-2017) </h1>
 <span style="font-weight: normal">
@@ -61,7 +61,7 @@ Da han er tilbage i Danmark, bliver han medlem af Peter-gruppen, der foretager s
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/3.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/3.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Thorkild Lund-Jensen (1920-1945) </h1>
 <span style="font-weight: normal">
@@ -73,7 +73,7 @@ Hen mod slutningen af besættelsen deltager han som våbeninstruktør i undergru
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/4.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/4.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Karl Christensen (1913-2002) </h1>
 <span style="font-weight: normal">
@@ -85,7 +85,7 @@ Som tidligere spaniensfrivillig bliver han interneret i Horserødlejren. Efter h
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/5.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/5.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Musse Hartig (1915-1996) </h1>
 <span style="font-weight: normal">
@@ -110,7 +110,7 @@ Om aftenen den 8. april er der krisemøde på Christiansborg. Alvoren er til at 
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/6.jpg"/><br><img src="/images/frihed/7.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/6.jpg"/><br><img src="https://tongchen779.github.io/dansk/images/frihed/7.png"/></p></td>
 <td><span style="font-weight: normal">Hvad betyder de forskellige sirenesignaler? Hvornår skal man gå i beskyttelsesrum?</span></td>
 </tr>
 </table>
@@ -126,7 +126,7 @@ Men det koster. Prisen er tilpasning og samarbejde med tyskerne. En pris de fles
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/8.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/8.jpg"/></p></td>
 <td style="vertical-align: top;">
 <span style="font-weight: normal">
 Har du hørt...?
@@ -137,7 +137,7 @@ Hverdagen fortsætter i store træk som før besættelsen. Men rygterne florerer
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/9.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/9.png"/></p></td>
 <td style="vertical-align: top;">
 <span style="font-weight: normal">
 Besættelsen fører til en national stemningsbølge, som bl.a. giver sig udslag i alsang: Offentlige stævner, hvor man sammen aynger fædrelandssange. <br>
@@ -146,7 +146,7 @@ Besættelsen fører til en national stemningsbølge, som bl.a. giver sig udslag 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/10.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/10.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Mørklægning </h1>
 <span style="font-weight: normal">
@@ -156,7 +156,7 @@ Lyset bliver slukket. Vinduer dækket til. Kantsten bliver malet hvide for at un
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/11.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/11.jpg"/></p></td>
 <td style="vertical-align: top;">
 <span style="font-weight: normal">
 I august 1939 indgår Tyskland og Sovjetunionen en ikkeangrebspagt. Nok er de ideologiske fjender, men de er også nationer med stormagtsinteresser. Pagten giver Tyskland ryggen fri til angrebet på Polen, som udløser 2. Verdenskrig og fører til Polens deling mellem Tyskland og Sovjetunionen. Og den giver Sovjetunionen ryggen fri til at angribe Finland i Vinterkrigen 1939-40 og til at indlemme de tre baltiske stater, Estland, Letland og Litauen. Pagten betyder også at lokale kommunister i de tyskbesatte lande indtil videre må afholde sig fra modstand mod deres "naturlige" nazistiske fjende. <br>
@@ -165,7 +165,7 @@ I august 1939 indgår Tyskland og Sovjetunionen en ikkeangrebspagt. Nok er de id
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/12.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/12.png"/></p></td>
 <td style="vertical-align: top;">
 <span style="font-weight: normal">
 Plakat for historiske foredrag, som diskret skal styrke danskheden - og demokratiet - i konkurrencen mod nazismen. <br>
@@ -174,7 +174,7 @@ Plakat for historiske foredrag, som diskret skal styrke danskheden - og demokrat
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/13.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/13.png"/></p></td>
 <td style="vertical-align: top;">
 <span style="font-weight: normal">
 Regeringen forsøger at kontrollere folkestemningen. De mange Dannebrogsflag antyder, at det nærmest er "udansk" at fortælle rygter videre. <br>
@@ -194,7 +194,7 @@ Den danske regering er presset. Den 22. juni angriber Tyskland Sovjetunionen. Sa
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/14.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/14.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Krigssejlere </h1>
 <span style="font-weight: normal">
@@ -212,7 +212,7 @@ Maleri Forfærdelig Måne udført af en dansk krigssejler. Titlen hentyder til, 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/15.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/15.jpg"/></p></td>
 <td style="vertical-align: top;">
 <span style="font-weight: normal">
 - Tyske propagandaplakat, der fremstiller kæmperne på Østfronten som at fælles forsvar for den europæiske civilisation. Danmark er ned i nederste højre hjørne.
@@ -227,7 +227,7 @@ Maleri Forfærdelig Måne udført af en dansk krigssejler. Titlen hentyder til, 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/16.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/16.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> De danske nazister </h1>
 <span style="font-weight: normal">
@@ -247,7 +247,7 @@ Hagekors og armen i vejret til hilsen. Danmark har sit eget nazistparti: Danmark
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/17.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/17.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Tilpasning </h1>
 <span style="font-weight: normal">
@@ -270,7 +270,7 @@ Til gengæld trues roen indefra. Modstanden mod den tyske besættelsesmagt spire
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/18.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/18.jpg"/></p></td>
 <td style="vertical-align: top;">
 <span style="font-weight: normal">
 Det kræver en særlig antenne at fange signalet fra BBC i England. BBC sender nyheder på dansk. Det er ikke ulovligt at lytte til dem. <br>
@@ -279,7 +279,7 @@ Det kræver en særlig antenne at fange signalet fra BBC i England. BBC sender n
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/19.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/19.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Køkkenudfordringer </h1>
 <span style="font-weight: normal">
@@ -297,7 +297,7 @@ Nogle varer er umulige at skaffe. Andre er rationerede. Det sikrer, at all kan f
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/20.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/20.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Klædeskabet </h1>
 <span style="font-weight: normal">
@@ -318,7 +318,7 @@ For kommunisterne er kampen od nazisterne et skridt på vejen. De ønsker en kom
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/21.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/21.jpg"/></p></td>
 <td style="vertical-align: top;">
 <span style="font-weight: normal">
 - Bog udhulet så den kan bruges til udsmugling af film med affotograferede dokumenter.
@@ -337,7 +337,7 @@ For kommunisterne er kampen od nazisterne et skridt på vejen. De ønsker en kom
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/22.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/22.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Efterretningstjeneste </h1>
 <span style="font-weight: normal">
@@ -349,7 +349,7 @@ Tyskerne anerkender Danmark som et selvstændigt land. Derfor har Danmark stadig
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/23.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/23.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> De borgerlige tilløb </h1>
 <span style="font-weight: normal">
@@ -386,7 +386,7 @@ Regeringen er bange for, at tyskerne vil gribe ind. Det kan få alvorlige følge
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/24.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/24.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Uden benzin </h1>
 <span style="font-weight: normal">
@@ -396,7 +396,7 @@ Overfyldte sporvogne og lappede cykeldæk. Det kræver tålmodighed at komme på
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/25.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/25.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Best og Scavenius </h1>
 <span style="font-weight: normal">
@@ -406,7 +406,7 @@ I november 1942 ankommer en ny tysk befuldmægtiget. Efter tysk krav overtager u
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/26.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/26.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Smagen af krig </h1>
 <span style="font-weight: normal">
@@ -422,7 +422,7 @@ Butikkerne er halvtomme. Der er efterhånden mangel på alt. Jern, klude og papi
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/27.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/27.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Gestapo </h1>
 <span style="font-weight: normal">
@@ -434,7 +434,7 @@ Alle midler bliver taget i brug for at bekæmpe den stigende modstand. Det tyske
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/28.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/28.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Likvideringer </h1>
 <span style="font-weight: normal">
@@ -444,7 +444,7 @@ Er det din kollega eller bedste kammerat? Stikkerne er tyskernes øjne og ører,
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/29.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/29.jpg"/></p></td>
 <td style="vertical-align: top;">
 <span style="font-weight: normal">
 Frakke med huller efter skudkamp mellem sabotøren KK og en Gestapomand. Det røde hul er fra KK´s skud, de hvide fra Gestapomandene. <br>
@@ -453,7 +453,7 @@ Frakke med huller efter skudkamp mellem sabotøren KK og en Gestapomand. Det rø
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/30.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/30.jpg"/></p></td>
 <td style="vertical-align: top;">
 <span style="font-weight: normal">
 Meddelelse om tyskernes drab på digteren Kaj Munk, som gengæld for modstandsfolks drab på en nazistisk fiskehandler. <br>
@@ -473,7 +473,7 @@ Modstandskampen rykker ud i gaderne og er synlig.
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/31.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/31.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Redning af jøderne </h1>
 <span style="font-weight: normal">
@@ -487,7 +487,7 @@ Tyskerne slår til mod de danske jøder natten mellem den 1. og 2. oktober. Akti
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/32.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/32.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Gengældelse </h1>
 <span style="font-weight: normal">
@@ -497,7 +497,7 @@ Modstandsbevægelsens sabotagehandlinger bliver gengældt med sprængninger af f
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/33.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/33.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Gengældelse </h1>
 <span style="font-weight: normal">
@@ -507,7 +507,7 @@ Modstandsbevægelsens sabotagehandlinger bliver gengældt med sprængninger af f
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/34.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/34.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Folkestrejken </h1>
 <span style="font-weight: normal">
@@ -517,7 +517,7 @@ Tyskerne indfører udgangsforbud i København. Københavnerne svarer igen med b�
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/35.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/35.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Politiet interneres </h1>
 <span style="font-weight: normal">
@@ -527,7 +527,7 @@ Den politiløse tid skaber usikkerhed. Forretningsdrivende forsøger at sikre si
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/36.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/36.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Folkestrejken </h1>
 <span style="font-weight: normal">
@@ -545,7 +545,7 @@ Midt i den varme sommer indfører tyskerne udgangsforbud. Københavnerne bliver 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/37.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/37.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Jernbanesabotører på arbejde </h1>
 <span style="font-weight: normal">
@@ -555,7 +555,7 @@ Tyskerne er presset på fronterne. De henter tropper i Danmark. Transporterne fo
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/38.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/38.jpg"/></p></td>
 <td style="vertical-align: top;">
 <span style="font-weight: normal">
 Sweater, hat og lygte benyttet af modtagemanden Tage Nielsen, da han bliver dræbt af beskydning fra en tysk natjager. <br>
@@ -564,7 +564,7 @@ Sweater, hat og lygte benyttet af modtagemanden Tage Nielsen, da han bliver dræ
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/39.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/39.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Koncentrationslejre </h1>
 <span style="font-weight: normal">
@@ -576,7 +576,7 @@ En dagligdag præget af sult, kulde og brutalitet. Livet i de tyske kz-lejre er 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/40.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/40.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Faren fra luften </h1>
 <span style="font-weight: normal">
@@ -592,7 +592,7 @@ Lyden af bombefly. Modstandsbevægelsen har bedt de allierede om hjælp. Gestapo
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/41.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/41.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Shellhuset bombes </h1>
 <span style="font-weight: normal">
@@ -602,7 +602,7 @@ Engelske fly angriber Shellhuset, Gestapes hovedkvarter i København. Ved en fej
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/42.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/42.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Den højeste pris </h1>
 <span style="font-weight: normal">
@@ -625,7 +625,7 @@ Modstandskampen rykker ud i gaderne og er synlig.
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/43.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/43.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Opgørets time </h1>
 <span style="font-weight: normal">
@@ -637,7 +637,7 @@ De er klar til kamp. Modstandsbevægelsen har forberedt sig på en slutkamp med 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/44.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/44.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Befrielsen </h1>
 <span style="font-weight: normal">
@@ -649,7 +649,7 @@ Jublen vil ingen ende tage. Befrielsen bliver fejret. Modstandsfolkene bliver hy
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/45.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/45.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Opgørets time </h1>
 <span style="font-weight: normal">
@@ -659,7 +659,7 @@ Knap har frihedsbudskabet lydt før kanskere, som har været i tysk tjeneste, ty
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/46.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/46.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> De allierede ankommer </h1>
 <span style="font-weight: normal">
@@ -669,7 +669,7 @@ Mens resten af Danmark jubler, falder russiske bomber over Bornholm. Den russisk
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/frihed/47.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/frihed/47.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Tilbage til normalen </h1>
 <span style="font-weight: normal">

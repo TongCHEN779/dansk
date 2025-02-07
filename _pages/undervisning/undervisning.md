@@ -26,7 +26,7 @@ permalink: /undervisning/main/
 (Alle tekster og billeder er kopieret [herfra](https://designmuseum.dk/), og den engelske version kan findes [her](/files/design.pdf).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/1.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/1.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hvad hvis dine køleskabsgrøntsager talte bag om din ryg? </h1>
 <span style="font-weight: normal">
@@ -36,7 +36,7 @@ Svampe kommunikerer gennem netværk, der ligner menneskelige neurale nerver. Ind
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/2.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/2.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Er sabotage acceptabelt hvis det bekæmper den næste masseudslettelse? </h1>
 <span style="font-weight: normal">
@@ -46,7 +46,7 @@ Extinction Rebellion er en global miljøbevægelse, der bruger ikke-voldelig civ
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/3.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/3.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hordan vil vi introducere os selv i fremtiden? </h1>
 <span style="font-weight: normal">
@@ -56,7 +56,7 @@ At dele sit pronomen er nu ved at blive en konventionel måde at præsentere sig
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/4.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/4.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Ville du vælge hvordan du ville dø, hvis du kunne? </h1>
 <span style="font-weight: normal">
@@ -66,7 +66,7 @@ Religiøse og kulturelle konstruktioner har i årevis dikteret hvordan døden sk
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/5.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/5.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hvad hvis vores by blev digitalt kopieret ind i metaverset? </h1>
 <span style="font-weight: normal">
@@ -76,7 +76,7 @@ Seoul har annonceret at de vil blive den første større by, der kommer ind i me
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/6.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/6.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kan vi bekæmpe kolonialisme med NFT'er? </h1>
 <span style="font-weight: normal">
@@ -86,7 +86,7 @@ I den lille by Lusanga i Congo opfandt medlemmer af Plantation Workers Art Leagu
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/7.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/7.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Ville du forlade storbyens muligheder for en mere simpel tilværelse? </h1>
 <span style="font-weight: normal">
@@ -96,7 +96,7 @@ Fremkomsten af fjernarbejde, hyperforbindelse og de sociale eftervirkninger af p
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/8.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/8.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Ville du tilføje gamer-kompetencer på dit CV? </h1>
 <span style="font-weight: normal">
@@ -106,7 +106,7 @@ Gaming kræver kompetencer såsom problemløsning, samarbejde og innovativ tænk
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/9.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/9.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Vil du lade en mikrochip overtage dine kropslige funktioner? </h1>
 <span style="font-weight: normal">
@@ -116,7 +116,7 @@ Nano Precision Medical har udviklet en implanterbar mikrochip, der er i stand ti
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/10.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/10.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> I hvor høj grad kan vi forbinde vores kroppe til internettet? </h1>
 <span style="font-weight: normal">
@@ -126,7 +126,7 @@ Udbredelsen af enheder, der forbinder data genereret af den menneskelige krop ac
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/11.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/11.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Ville du bruge din weekend pa at reparere din nabos smartphone? </h1>
 <span style="font-weight: normal">
@@ -136,7 +136,7 @@ Efterhånden som forbrugerne bliver mere bevidste om den programmerede forældel
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/12.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/12.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Vil du leve for evigt? </h1>
 <span style="font-weight: normal">
@@ -146,7 +146,7 @@ Somnium Space er et projekt, der giver folk mulighed for at fa deres bevægelser
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/13.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/13.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Er algoritmer bedre til at bestemme vores seksualitet end vi selv er? </h1>
 <span style="font-weight: normal">
@@ -156,7 +156,7 @@ Nylige undersøgelser har vist, at ved at bruge TikToks algoritmer og adgang til
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/14.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/14.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kan kunstige influencer redefinere skønhedsidealer. </h1>
 <span style="font-weight: normal">
@@ -166,7 +166,7 @@ Lil Miquela er en 19-årig brasiliansk-amerikansk model, musikalsk kunstner og i
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/15.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/15.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Vil dit værelse kunne læse dine følelser? </h1>
 <span style="font-weight: normal">
@@ -176,7 +176,7 @@ Mood Responsive System er et system, der bruger ansigtsgenkendelse og biometrisk
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/16.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/16.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Had hvis venskab og ikke familie var kernen i dit liv? </h1>
 <span style="font-weight: normal">
@@ -186,7 +186,7 @@ Den oprindelige idé om kernefamilien ændrer sig, hvilket giver plads til nye o
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/17.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/17.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hordan ser fremtidens arbejde ud? </h1>
 <span style="font-weight: normal">
@@ -196,7 +196,7 @@ Den næste generation af lønarbejdere menes at omdefinere, had det vil sige at 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/18.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/18.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Vil vi blive sagsøgt af naturen? </h1>
 <span style="font-weight: normal">
@@ -206,7 +206,7 @@ Ideen om, at naturen (økosystemer, skove, dyr, vandløb mv.) skal have juridisk
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/19.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/19.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kan vi omsider løse verdens energiudfordringer? </h1>
 <span style="font-weight: normal">
@@ -216,7 +216,7 @@ Fusionsenergi er basalt set en genskabelse af den proces der giver brændstof ti
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/20.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/20.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hvad hvis din mad blev leveret fra rummet? </h1>
 <span style="font-weight: normal">
@@ -226,7 +226,7 @@ Fusionsenergi er basalt set en genskabelse af den proces der giver brændstof ti
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/21.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/21.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hvilke valg ville du ændre, hvis du havde et CO2-budget? </h1>
 <span style="font-weight: normal">
@@ -236,7 +236,7 @@ Alle vores transaktioner registreres i data, og det samme gør vores CO2-fodaftr
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/22.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/22.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kender du påvirkningen af dit internetforbrug? </h1>
 <span style="font-weight: normal">
@@ -246,7 +246,7 @@ Datalagring og - streaming kraver store mængder elektricitet og strøm, som, af
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/23.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/23.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hvad hvis et feministisk internet kunne skabe et sandt lige internet for alle? </h1>
 <span style="font-weight: normal">
@@ -256,7 +256,7 @@ Mange af samfundets ulige strukturer og processer afspejles i, hvordan internett
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/24.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/24.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hvordan ville din dag se ud i en anden persons sko? </h1>
 <span style="font-weight: normal">
@@ -266,7 +266,7 @@ The Machine To Be Another giver dig mulighed for at fordybe dig i oplevelsen af 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/25.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/25.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Vil gamerene kæmpe i krig? </h1>
 <span style="font-weight: normal">
@@ -276,7 +276,7 @@ Flere gamerene bruger deres færdighed og viden til at drage fordel af mapping m
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/26.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/26.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Oplever du teknologiaversion? </h1>
 <span style="font-weight: normal">
@@ -286,7 +286,7 @@ Efterhånden som teknologien udvikler sig hurtigere end brugere og regler kan f�
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/27.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/27.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Ville det ændre dine vaner at se menneskers realtidspåvirkning på planeten? </h1>
 <span style="font-weight: normal">
@@ -296,7 +296,7 @@ Ny højopløsningssatellitteknologi overvåger miljøet i realtid og giver os et
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/28.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/28.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Vil alle vores møbler få en digital tvilling? </h1>
 <span style="font-weight: normal">
@@ -306,7 +306,7 @@ Som en del af deres cirkulære forretningsmodel leverer det danske møbelfirma S
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/29.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/29.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Stoler du på et kærligt ansigt online? </h1>
 <span style="font-weight: normal">
@@ -316,7 +316,7 @@ Med tiden er falske billeder af mennesker blevet umulige at skelne fra rigtige. 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/30.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/30.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kan dyr besejre maskiner? </h1>
 <span style="font-weight: normal">
@@ -326,7 +326,7 @@ Sikkerhedsstyrker fra Holland har trænet ørne til at nedlægge illegale droner
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/31.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/31.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kan vi designe byer tilpasset alle arter? </h1>
 <span style="font-weight: normal">
@@ -336,7 +336,7 @@ I de kommende år vil byer og bycentre designes med bæredygtighed, inklusion, m
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/32.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/32.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kan en decentraliseret valuta afskaffe fattigdom? </h1>
 <span style="font-weight: normal">
@@ -347,7 +347,7 @@ El Salvador, som har afvist advarslerne om høj risici, volatilitet og modtageli
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/design/33.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/33.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hvilket internet ville du vælge at være en del af? </h1>
 <span style="font-weight: normal">

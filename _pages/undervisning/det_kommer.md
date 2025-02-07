@@ -4,7 +4,7 @@ title: ""
 permalink: /undervisning/det_kommer/
 ---
 
-<p align="center"><img src="/images/det_kommer.webp" width="500"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/det_kommer.webp" width="500"/></p>
 
 <style>
     table {
@@ -54,7 +54,7 @@ Her kan du finde pdf-filer af [Grundbog](/files/det_kommer/grundbog.pdf) med [re
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://storage-cdn.alinea.dk/2019-11/EMgtbiil3Imf-Kap.-1-nr.-18-Og-det-er-faktisk-min-egen-skyld.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 1, opg 18, ... og det er faktisk min skyld </h1></td>
-<td><a href="/files/det_kommer/lyd1_18.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/lyd1_18.pdf">text</a></td>
 </tr>
 
 <tr>
@@ -95,7 +95,7 @@ Her kan du finde pdf-filer af [Grundbog](/files/det_kommer/grundbog.pdf) med [re
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://storage-cdn.alinea.dk/2019-11/O8k8p066JxRJ-13_12_Interview_med_tre_studerende.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 3, opg 12, Interview med studerende </h1></td>
-<td><a href="/files/det_kommer/lyd3_12.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/lyd3_12.pdf">text</a></td>
 </tr>
 
 <tr>
@@ -300,174 +300,174 @@ Her kan du finde pdf-filer af [Grundbog](/files/det_kommer/grundbog.pdf) med [re
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222484427" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 1, nr.14, To småbørnsfamilier med flere sprog  </h1></td>
-<td><a href="/files/det_kommer/video1_14.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video1_14.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222485366?h=ed60f98508" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 1, nr.23, Jeg kan langt færre ord end dem nede i Bosnien </h1></td>
-<td><a href="/files/det_kommer/video1_23.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video1_23.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/223436748" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 1, nr.25, Min egen video </h1></td>
-<td><a href="/files/det_kommer/video1_25.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video1_25.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222491603" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 2, nr.14, Alle danskere er bare supersøde </h1></td>
-<td><a href="/files/det_kommer/video2_14.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video2_14.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222495381" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> Kap. 3, nr.10, Det trives jeg meget bedre med </h1></td>
-<td><a href="/files/det_kommer/video3_10.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video3_10.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222496064" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 3, nr.17, Fred og ro, en nødløsning og en efterladt opvask - Del A </h1></td>
-<td><a href="/files/det_kommer/video3_17a.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video3_17a.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222496729" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 3, nr.17, Fred og ro, en nødløsning og en efterladt opvask - Del B </h1></td>
-<td><a href="/files/det_kommer/video3_17b.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video3_17b.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222495681" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 3, nr.19, To kvarterer </h1></td>
-<td><a href="/files/det_kommer/video3_19.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video3_19.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222497097" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 4, nr.18, Når du tager billeder med din smartphone, hvad bruger du dem så til? </h1></td>
-<td><a href="/files/det_kommer/video4_18.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video4_18.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222497428" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 5, nr.8, Simon om vintersport </h1></td>
-<td><a href="/files/det_kommer/video5_8.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video5_8.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222497599" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 5, nr.16, Det kan godt se lidt voldeligt ud </h1></td>
-<td><a href="/files/det_kommer/video5_16.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video5_16.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222497818" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 5, nr.24, Spark, slag og saltomortaler - Del A </h1></td>
-<td><a href="/files/det_kommer/video5_24a.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video5_24a.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222498203" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 5, nr.24, Spark, slag og saltomortaler - Del B </h1></td>
-<td><a href="/files/det_kommer/video5_24b.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video5_24b.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222498611" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 6, nr.8, Gå-Ud-Gruppen </h1></td>
-<td><a href="/files/det_kommer/video6_8.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video6_8.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222499047" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 6, nr.12, Hvad går det ud på </h1></td>
-<td><a href="/files/det_kommer/video6_12.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video6_12.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222499598" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 7, nr.12, Bang! - lige ind i en glasdør </h1></td>
-<td><a href="/files/det_kommer/video7_12.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video7_12.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222499772" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 7, nr.20, To skadestuehistorier - Del A </h1></td>
-<td><a href="/files/det_kommer/video7_20a.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video7_20a.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222500437" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 7, nr.20, To skadestuehistorier - Del B </h1></td>
-<td><a href="/files/det_kommer/video7_20b.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video7_20b.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222500843" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 8, nr.6, Jeg kan godt prøve at få en afløser, hvis det er </h1></td>
-<td><a href="/files/det_kommer/video8_6.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video8_6.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222501088" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 8, nr.17, Hvad kan gøre dig stresset? </h1></td>
-<td><a href="/files/det_kommer/video8_17.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video8_17.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222501551" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 8, nr.18, Louises kæmpe stak opgaver og Ninas hvide løgne </h1></td>
-<td><a href="/files/det_kommer/video8_18.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video8_18.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222501843" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 9, nr.9, Og de bliver bare ved og ved </h1></td>
-<td><a href="/files/det_kommer/video9_9.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video9_9.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222502236" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 9, nr.13, Er der nogle særlige egenskaber, du beundrer hos andre? </h1></td>
-<td><a href="/files/det_kommer/video9_13.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video9_13.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222502516" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 10, nr.11, Det er en, der hedder Jimmi </h1></td>
-<td><a href="/files/det_kommer/video10_11.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video10_11.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222502721" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 10, nr.12, Hvordan har du egentlig mødt din kæreste - Del A </h1></td>
-<td><a href="/files/det_kommer/video10_12a.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video10_12a.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222502982" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 10, nr.12, Hvordan har du egentlig mødt din kæreste - Del B </h1></td>
-<td><a href="/files/det_kommer/video10_12b.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video10_12b.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222503486" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 11, nr.7, Nej, hvor vildt </h1></td>
-<td><a href="/files/det_kommer/video11_7.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video11_7.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222503659" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 11, nr.14, Den store gevinst - Del A </h1></td>
-<td><a href="/files/det_kommer/video11_14a.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video11_14a.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://player.vimeo.com/video/222503910" frameborder="0" allowfullscreen></iframe> </td>
 <td><h1> kap 11, nr.14, Den store gevinst - Del B </h1></td>
-<td><a href="/files/det_kommer/video11_14b.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/det_kommer/video11_14b.pdf">text</a></td>
 </tr>
 </table>

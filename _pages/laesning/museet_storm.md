@@ -35,7 +35,7 @@ Den censurerede udstilling om censur bygger på omfattende forskning og præsent
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/1.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/1.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Erklæring om menneskets og borgerens rettigheder 1789 </h1>
 <br>
@@ -46,7 +46,7 @@ I den franske menneskerettighedserklæring fra 1789 står der i kap. 11, at "enh
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/2.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/2.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Danmarks Riges Grundlov 1849 </h1>
 <br>
@@ -57,7 +57,7 @@ Inspireret af den franske menneskerettighedserklæring afskaffes forcensuren i d
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/3.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/3.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Pærerne - Anonym 1834 </h1>
 <br>
@@ -68,7 +68,7 @@ I 1831 blev satiretegneren Charles Philipon anklaget for majestætsfornærmelse.
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/4.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/4.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hr. X...? - Andre Gill 1868 </h1>
 <br>
@@ -79,7 +79,7 @@ I 1868 udkom satirebladet L'Eclipse med en melon på forsiden. Det var en "hylde
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/5.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/5.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Tænker-klubben. Også et nyt tysk selskab. - Anonym 1819 </h1>
 <br>
@@ -90,7 +90,7 @@ Satire over de såkaldte Karlsbad-beslutninger, som indskrænkede ytringsfrihede
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/6.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/6.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Den tyske Michel i censurens vold - Johann Richard Seel 1843 </h1>
 <br>
@@ -101,7 +101,7 @@ I midten ses Michel, som personificerer det tyske folk, med en hængelås i mund
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/7.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/7.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> En lukket kæbe til John Bull - Anonym 1795 </h1>
 <br>
@@ -112,7 +112,7 @@ Reaktion på indførelsen af to nye love, der indskrænkede englændernes ytring
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/8.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/8.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> En fribåren englænder! Genstand for verdens beundring!!! Og for omkringliggende nationers misundelse!!!!! </h1>
 <br>
@@ -123,7 +123,7 @@ Satire over englændernes image som frie. De er nok født frie, da der ikke læn
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/9.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/9.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Censurens genopstandelse: 'Og den genopstod på tredjedagen fra de døde' - Grandville 1831 </h1>
 <br>
@@ -134,7 +134,7 @@ Efter revolutionen i Frankrig i 1830 blev forcensuren af satiretegninger afskaff
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/10.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/10.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Censorer - Grandville 1835 </h1>
 <br>
@@ -145,7 +145,7 @@ I 1835 genindførtes forcensuren af satiretegninger i Frankrig. Derfor ser man h
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/11.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/11.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Uden titel - Marco de Angelis 2019 </h1>
 <br>
@@ -156,7 +156,7 @@ I 2019 besluttede New York Times at droppe satiretegninger efter anklager om ant
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/12.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/12.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Rejsebilleder - Heinrich Heine 1827 </h1>
 <br>
@@ -167,7 +167,7 @@ Et af kapitlerne i Heinrich Heines Rejsebilleder er en satire over censuren. Kap
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/13.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/13.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Udflytningen af censuren - Eugene Delacroix 1822 </h1>
 <br>
@@ -178,7 +178,7 @@ I 1822 blev forcensuren for lange tekster ophævet i Frankrig. Det fejres i denn
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/14.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/14.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Skizzer VIII - Anonym 1841 </h1>
 <br>
@@ -189,7 +189,7 @@ Satire over den danske presse. Satirebladet Corsaren gengav datidens danske avis
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/15.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/15.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Jagten på bogstaverne. Scene fra det gamle Frankrigs historie - Anonym 1828 </h1>
 <br>
@@ -200,7 +200,7 @@ I 1828 indskrænkede en ny lov ytringsfriheden i Frankrig. I baggrunden ser man 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/16.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/16.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Den 'gode' presse - Anonym 1847 </h1>
 <br>
@@ -211,7 +211,7 @@ Censuren er her en monstrøs person, hvis hoved er en stor soks med øjne, der o
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/17.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/17.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Censurens triumftog - Wilhelm Marstand 1843 </h1>
 <br>
@@ -222,7 +222,7 @@ Billede på kontrollen med den danske presse under enevælden. Redaktører for d
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/18.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/18.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Goethe hos censoren - Bruno Paul 1903 </h1>
 <br>
@@ -233,7 +233,7 @@ Efter en række forbud imod skuespil i 1890erne og 1900erne opstod der en omfatt
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/19.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/19.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Anastasie - Auguste Roubille 1901 </h1>
 <br>
@@ -244,7 +244,7 @@ I Frankrig gjaldt forcensuren for teatrene helt frem til 1906. Derfor kunne sati
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/20.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/20.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Brev til Monty Python - Monty Python 1974 </h1>
 <br>
@@ -255,7 +255,7 @@ Brev fra filmproducer Mark Forstater til Michael Palin fra satiregruppen Monty P
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/21.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/21.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kodeks for filmproduktion, populært kaldt Hays kodeks 1934 </h1>
 <br>
@@ -266,7 +266,7 @@ Film blev ikke altid censureret af staterne. I Hollywood udformede filmbranchen 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/22.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/22.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Følsomhedsæser - Steven Degryse alias Lectrr 2019 </h1>
 <br>
@@ -277,7 +277,7 @@ Nogle forlag hyrer i dag 'følsomhedslæsere' ti lat gennemgå tekster for vendi
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/23.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/23.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Censur på Facebook - Dario Castillejos 2016 </h1>
 <br>
@@ -288,7 +288,7 @@ Facebook forbyder billeder af nøgenhed og seksuel aktivitet, fordi som Facebook
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/24.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/24.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hippieæbler - Peter Øvig Knudsen 2012 </h1>
 <br>
@@ -299,7 +299,7 @@ Den dokumentariske bog Hippie, om den danske hippie-bevægelse, skrevet af Peter
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/25.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/25.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Acceptabel mandlig brystvorte-skabelon - Micol Hebron 2014 </h1>
 <br>
@@ -310,7 +310,7 @@ Instagram og Facebook forbyder kvindelige brystvorter, men ikke mandlige. Som en
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/26.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/26.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> 5-årsdagen for massakren på Charlie Hebdo - Thomas Thorhauge 2020 </h1>
 <br>
@@ -321,7 +321,7 @@ Fem år efter attentatet på Charlie Hebdo var der ifølge denne tegning svag op
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/27.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/27.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Et ret uoverskueligt projekt - Mikael Wulff & Anders Morgenthaler </h1>
 <br>
@@ -332,7 +332,7 @@ Efter attentatet på Charlie Hebdo tegnede mange satirikere Muhammed på en indi
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/28.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/28.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Han trak/tegnede først </h1>
 <br>
@@ -343,7 +343,7 @@ Efter attentatet på Charlie Hebdo i 2015, reagerede satiretegnere over hele ver
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/29.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/29.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Farel Religiøst minefelt - Jonathan Shapiro alias Zapiro 2006 </h1>
 <br>
@@ -354,7 +354,7 @@ Som en reaktion på den danske Muhammedkrise tegnede Zapiro dette selv portræt,
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/30.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/30.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Formørkelsen og censuren </h1>
 <br>
@@ -365,7 +365,7 @@ Billede på hvordan det er at arbejde som satiriker under censuren. Med bind for
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/31.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/31.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Vælg en! - Alfred le Petit 1872 </h1>
 <br>
@@ -376,7 +376,7 @@ Omgåelse af censuren. I Frankrig blev tekster fritaget for censur længe før t
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/32.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/32.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Je suis Charlie - Bod Katzenelson </h1>
 <br>
@@ -387,7 +387,7 @@ I dag risikerer man livet, hvis man tegner MUhammed. Men endnu har ingen protest
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/33.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/33.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Texansk varmeplan for vinteren - John Cole 2021 </h1>
 <br>
@@ -398,7 +398,7 @@ I USA har mange konservative skolebestyrelser krævet bøger om f.eks. raceuligh
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/34.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/34.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Women, Life, Freedom - Firoozeh Bazrafkan 2023 </h1>
 <br>
@@ -410,7 +410,7 @@ En performance som denne er netop blevet ulovlig efter at der i Danmark er indf�
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/35.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/35.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Forbud imod Tik-Tok - Dave Whamond 2023 </h1>
 <br>
@@ -421,7 +421,7 @@ Mange vestlige lande har forbudt det kinesiske sociale medie Tik Tok på telefon
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/36.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/36.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Provokunstnere 2018 - Philip Ytournel 2015 </h1>
 <br>
@@ -432,7 +432,7 @@ Som en illustration af hvor tam kusnten ville blive ,hvis den rettede sig efter 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/37.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/37.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Men er det sjovt? - Gitte Skov 2021 </h1>
 <br>
@@ -443,7 +443,7 @@ Satire over selvcensur. Efter kritik fra sin hund opfinder tegneren en krænkels
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/38.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/38.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Find forskellene - Joep Bartrams 2019 </h1>
 <br>
@@ -469,7 +469,7 @@ Da Louisiana have modsat sig at vise ofringen, blev museet ersta tet af et samar
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/39.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/39.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Sangen til den døde hest - Bjørn Nørgaard & Lene Adler Petersen </h1>
 <br>
@@ -489,7 +489,7 @@ Uhmm døde hest uhmm døde hest".
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/40.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/40.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Rekvisitter fra Hesteofringen - Bjørn Nørgaard </h1>
 <br>
@@ -504,14 +504,14 @@ Dragterne og korset udgør - sammen med offerredskaberne indsyet i skind og yder
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/41.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/41.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> "Hesten, menneskets hjælper, måtte holde for, for at hjælpe os til forståelsen af det irrationelle i mennesket, som fornuften aldrig har kunnet få bugt med." - Hennig Christiansen </h1>
 </td>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/42.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/42.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Objekter fra Hesteofringen - Bjørn Nørgaard </h1>
 <br>
@@ -526,14 +526,14 @@ Henning Christiansen, som deltog i aktionen på sin violin, fik således de orga
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/43.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/43.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> "Når staten udøver vold og når videnskaben dissekerer bygger de på rationelle begrundelser og objektive metoder. Min ofring og dissektion var irrationelt begrundet, metoden var min handling." - Bjørn Nørgaard </h1>
 </td>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/44.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/44.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> "Hesten blev ofret, den blev ikke bare slagtet på et slagteri så havde ingen såmænd taget sig det nær." - Henning Christiansen </h1>
 </td>
@@ -550,7 +550,7 @@ Politianmeldelsen af Freddies værker og de efterfølgende retssager er et vidne
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/45.jpg"/><br><img src="/images/ms/46.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/45.jpg"/><br><img src="https://tongchen779.github.io/dansk/images/ms/46.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> 1937-38 </h1>
 <br>
@@ -561,7 +561,7 @@ Freddies udstilling "Træk Gaflen ud af Øjet på Sommerfuglen. Sex-surreal", de
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/ms/47.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/ms/47.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> 1961-63 </h1>
 <br>

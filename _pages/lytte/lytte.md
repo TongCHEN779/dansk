@@ -26,7 +26,7 @@ permalink: /lytte/main/
 (Alle tekster og billeder er kopieret [herfra](https://www.dr.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/dr_series/3.webp"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/3.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> De superriges privatfly </h1>
 <span style="font-weight: normal">
@@ -37,7 +37,7 @@ De er Danmarks rigeste, og de ejer nogle af de jetfly, der udleder allermest CO2
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/dr_series/2.webp"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/2.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Den store bagedyst </h1>
 <span style="font-weight: normal">
@@ -48,7 +48,7 @@ Danmarks bedste amatørbagere har gennem flere sæsoner kæmpet om at vinde Den 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/dr_series/1.webp"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/1.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Jorden kalder: Skal vores pension investeres i olie? </h1>
 <span style="font-weight: normal">
@@ -59,7 +59,7 @@ PFA Pension har investeringer i et af verdens største energiselskaber, TotalEne
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/dr_series/4.webp"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/4.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kvindefængslet </h1>
 <span style="font-weight: normal">
@@ -70,7 +70,7 @@ Kom med ind bag hegnet i Danmarks eneste fængsel for kvinder.
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/dr_series/5.webp"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/5.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Matador </h1>
 <span style="font-weight: normal">
@@ -81,7 +81,7 @@ Klassikeren over alle danske dramaklassikere.
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/dr_series/6.webp"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/6.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Livsens ondskab </h1>
 <span style="font-weight: normal">

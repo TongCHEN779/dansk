@@ -50,12 +50,12 @@ UNESCOO har desuden lagt vægt på, at de tre vadehavslande samarbejder om besky
 
 <h1 style="text-align: center;"> Oplev Verdensarv Vadehavet på Fanø </h1>
 10 steder på Fanø er særligt interessante, hvis du vil tæt på Verdensarven. Her på færgen præsenteres de 10 steder, som du kan få et overblik over på kortet.
-<p align="center"><img src="/images/vadehavet/0.png"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/vadehavet/0.png"/></p>
 <br>
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vadehavet/1.png"/><br><img src="/images/vadehavet/2.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vadehavet/1.png"/><br><img src="https://tongchen779.github.io/dansk/images/vadehavet/2.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> 1. Mellem Esbjerg og Fanø - Fra færgen har man overblik </h1>
 <span style="font-weight: normal">
@@ -65,7 +65,7 @@ Færgeturen til Fanø udgør den perfekte introduktion til Vadehavet. Så snart 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vadehavet/3.png"/><br><img src="/images/vadehavet/4.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vadehavet/3.png"/><br><img src="https://tongchen779.github.io/dansk/images/vadehavet/4.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> 2. Næs Søjord - Udsigt over Verdensarven fra kajkanten </h1>
 <span style="font-weight: normal">
@@ -75,7 +75,7 @@ Man behøver ikke bevæge sig langt ud i et ufremkommeligt terræn for at opleve
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vadehavet/5.png"/><br><img src="/images/vadehavet/6.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vadehavet/5.png"/><br><img src="https://tongchen779.github.io/dansk/images/vadehavet/6.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> 3. Nørby Enge - Den bløde bund er levende </h1>
 <span style="font-weight: normal">
@@ -85,7 +85,7 @@ Fra lystbådehavnen i Norby strækker sig en lavvandet bugt mod syd, hvor vandet
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vadehavet/7.png"/><br><img src="/images/vadehavet/8.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vadehavet/7.png"/><br><img src="https://tongchen779.github.io/dansk/images/vadehavet/8.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> 4. Halen og Skideneng - Det ældste Fanø og det yngste </h1>
 <span style="font-weight: normal">
@@ -95,7 +95,7 @@ Det ældste Fanø skal findes på øens østkyst i det område, vi i dag kalder 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vadehavet/9.png"/><br><img src="/images/vadehavet/10.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vadehavet/9.png"/><br><img src="https://tongchen779.github.io/dansk/images/vadehavet/10.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> 5. Fanøs sydspids - Her mødes alle Vadehavets landskaber </h1>
 <span style="font-weight: normal">
@@ -107,7 +107,7 @@ Fra Sønderho kan man vandre rundt om sydspidsen og opleve alle facetter af verd
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vadehavet/11.png"/><br><img src="/images/vadehavet/12.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vadehavet/11.png"/><br><img src="https://tongchen779.github.io/dansk/images/vadehavet/12.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> 6. Hønen - Konstant foranderlighed </h1>
 <span style="font-weight: normal">
@@ -117,7 +117,7 @@ Fra Sønderho kan man vandre rundt om sydspidsen og opleve alle facetter af verd
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vadehavet/13.png"/><br><img src="/images/vadehavet/14.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vadehavet/13.png"/><br><img src="https://tongchen779.github.io/dansk/images/vadehavet/14.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> 7. Galgerev - Vandring på havbunden </h1>
 <span style="font-weight: normal">
@@ -127,7 +127,7 @@ Ved lavvande kan man fra Sønderho Strand vandre ud over vaderne og opleve Vadeh
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vadehavet/15.png"/><br><img src="/images/vadehavet/16.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vadehavet/15.png"/><br><img src="https://tongchen779.github.io/dansk/images/vadehavet/16.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> 8. Klitlavningerne ved Pælebjerg - Levende vådområder mellem høje klitter </h1>
 <span style="font-weight: normal">
@@ -137,7 +137,7 @@ Den høje klit ved navn Pælebjerg er en del af den lange og markante klitrække
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vadehavet/17.png"/><br><img src="/images/vadehavet/18.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vadehavet/17.png"/><br><img src="https://tongchen779.github.io/dansk/images/vadehavet/18.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> 9. Unge Klitter ved Søren Jessens Sand - Vind og sand skaber nye landskaber </h1>
 <span style="font-weight: normal">
@@ -147,7 +147,7 @@ Nord for Fanø Bad kan vi opleve et ganske ungt klitlandskab, opstået i de før
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/vadehavet/19.png"/><br><img src="/images/vadehavet/20.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/vadehavet/19.png"/><br><img src="https://tongchen779.github.io/dansk/images/vadehavet/20.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> 10. Grådybet og Hamborg Dyb - Vadehavets pulsårer </h1>
 <span style="font-weight: normal">

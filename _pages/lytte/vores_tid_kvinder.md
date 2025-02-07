@@ -4,7 +4,7 @@ title: ""
 permalink: /lytte/vores_tid_kvinder/
 ---
 
-<p align="center"><img src="/images/tid/kvinder.png"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/tid/kvinder.png"/></p>
 
 <style>
     table {

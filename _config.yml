@@ -116,7 +116,7 @@ analytics:
 # Site Author
 author:
   name             :
-  avatar           : "/images/young_man.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://tongchen779.github.io/dansk/images/young_man.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         :
   email            :

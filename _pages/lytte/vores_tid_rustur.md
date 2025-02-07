@@ -4,7 +4,7 @@ title: ""
 permalink: /lytte/vores_tid_rustur/
 ---
 
-<p align="center"><img src="/images/tid/rustur.jpg"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/tid/rustur.jpg"/></p>
 
 <style>
     table {

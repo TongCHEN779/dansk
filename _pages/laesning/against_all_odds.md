@@ -35,7 +35,7 @@ Hver generation skaber og omskriver historien. Deter måden, vi gør det på, de
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/1.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/1.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kunstneren Venny Soldan-Brofeldt - Hanna Hirsch-Pauli </h1>
 
@@ -48,7 +48,7 @@ Hirsch beskrev senere den frihed, kvinderne følte, trods de nøjsomme forhold i
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/2.png"/><br><img src="/images/aao/3.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/2.png"/><br><img src="https://tongchen779.github.io/dansk/images/aao/3.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Anna Seekamp, Kunstnerens søster - Bertha Wegmann </h1>
 
@@ -61,7 +61,7 @@ Som en af Danmarks mest efterspurgte portrætmalere dokumenterede Wegmann nation
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/4.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/4.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Interlinked - Ix Shells </h1>
 
@@ -84,7 +84,7 @@ Følg kindernes nomadiske bevægelser mellem deres nordiske hjemlande, Europas s
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/5.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/5.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Valkyrier - Elisabeth Jerichau Baumann </h1>
 
@@ -96,7 +96,7 @@ Maleriet blev udstillet i London i 1871. Jerichau Baumann var polsk, men dansk g
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/6.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/6.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Selvportræt - Amanda Sidwall </h1>
 
@@ -108,7 +108,7 @@ Sidwall blev godt modtaget i sin levetid, også af anmelderne, og solgte værker
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/7.png"/><br><img src="/images/aao/8.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/7.png"/><br><img src="https://tongchen779.github.io/dansk/images/aao/8.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Vinterlandskab - Fanny Churberg </h1>
 
@@ -129,7 +129,7 @@ Mellem 1870 og 1910 voksede migrationen i Europa markant. Frem til 1880 strømme
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/9.png"/><br><img src="/images/aao/10.png"/><br><img src="/images/aao/11.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/9.png"/><br><img src="https://tongchen779.github.io/dansk/images/aao/10.png"/><br><img src="https://tongchen779.github.io/dansk/images/aao/11.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Selvportræt - Eva Bonnier </h1>
 
@@ -141,7 +141,7 @@ Pariserårene i 1880erne betød kunstnerisk udvikling og frihed fra de borgerlig
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/12.png"/><br><img src="/images/aao/13.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/12.png"/><br><img src="https://tongchen779.github.io/dansk/images/aao/13.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Stilleben med løg - Helene Schjerfbeck </h1>
 
@@ -153,7 +153,7 @@ Schjerfbecks evne til at opløse billedfladen i stærke kontraster skaber enest�
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/14.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/14.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Selvportræt - Mina Carlson-Bredberg </h1>
 
@@ -165,7 +165,7 @@ Efter endt uddannelse fortsatte Carlson-Bredberg på skolen i Paris som lærer. 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/15.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/15.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Atelierinteriør i Paris - Eva Bonnier </h1>
 
@@ -186,7 +186,7 @@ Men de nye arbejds- og omgangsformer og frigørelsen af den kvindelige seksualdr
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/16.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/16.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Bondekone fra Normandiet - Asta Nørregaard </h1>
 
@@ -198,7 +198,7 @@ Nørregaard kom tidligt til Paris fra München, studerede og arbejdede der i man
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/17.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/17.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Bretagnepige ordner planter i et drivhus - Anna Petersen </h1>
 
@@ -210,7 +210,7 @@ Vi mangler ofte skriftlige kilder om de historiske kvinder. Her bliver kunsten t
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/18.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/18.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Selvportræt - Julia Beck </h1>
 
@@ -238,7 +238,7 @@ Her var skulpturernes frontale, stiliserede træk, voldsomme farver og mytologis
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/19.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/19.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kore (Akropolis museet inv.nr. 685) - Marie Henriques </h1>
 
@@ -250,7 +250,7 @@ Henriques var af velhavende jødisk slægt og rejste ofte alene. Hun så sig sel
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/20.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/20.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Typhon - Anne Marie Carl-Nielsen </h1>
 
@@ -272,7 +272,7 @@ Kritikerne var ofte fordomsfulde over for både det nye og over for de kvindelig
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/21.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/21.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Ekko - Ellen Thesleff </h1>
 
@@ -284,7 +284,7 @@ Ekko blev vist første gang i 1891 på en udstilling, hvor flere af de kunstnere
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/22.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/22.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> En abonnent på Aftenposten - Oda Krohg </h1>
 
@@ -296,7 +296,7 @@ Krohg var en kontroversiel skikkelse i Kristiania, i dag Oslo, og levede i lange
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/23.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/23.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Stokkavannet - Kitty Lange Kielland </h1>
 
@@ -317,7 +317,7 @@ At undersøge disse forbindelser er at udforske kvindernes ex-centriske slægtsk
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/24.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/24.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Edvard Munch - Asta Nørregaard </h1>
 
@@ -329,7 +329,7 @@ Nørregaards ophold i München og Paris definerede hendes stil, men hun blev ald
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/25.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/25.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Thyra Elisabeth - Ellen Thesleff </h1>
 
@@ -341,7 +341,7 @@ Billedet balancerer mellem uskyld og sanselighed - som en mild Madonna på tærs
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/26.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/26.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Aftenstemning - Henriette Hahn-Brinckmann </h1>
 
@@ -354,7 +354,7 @@ Over denne tekst vises en Lost Pixel - et fragment fra Ix Shells' digitale bearb
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/27.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/27.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Brita Maria (Mussa) Banck, 1830-1906, Husbestyrerinde - Eva Bonnier </h1>
 
@@ -366,7 +366,7 @@ Kroppens mørke silhuet træder frem foran de lyse farvefelter. Der er en fortro
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/28.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/28.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Selvportræt - Ellen Thesleff </h1>
 
@@ -378,7 +378,7 @@ Thesleff dyrkede dans og teater som en del af sit kvindeoprør, og maleriet hand
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/29.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/29.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Fiskeflåden sejler ud. Studie fra Nord-Norge - Anna Boberg </h1>
 
@@ -399,7 +399,7 @@ Filmen præsenterer en dokumentation af dette nytænkende samarbejde, hvor Leeso
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/30.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/30.png"/></p></td>
 <td style="vertical-align: top;">
 <span style="font-weight: normal">
 Chatbotten næste rum er en fortolkning af billedhuggeren Anne Marie Carl-Nielsen. <br><br>
@@ -454,7 +454,7 @@ Skærmene her er struktureret som brugerfladen i programmet Touchdesigner. Progr
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/31.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/31.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Marie Henriques 1866 (Klampenborg)-1944 (Helsingør) </h1>
 
@@ -468,7 +468,7 @@ Kunstforeningens udstillinger, Charlottenborgs Forårsudstilling, Charlottenborg
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/32.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/32.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Anne Marie Carl-Nielsen 1863 (Sønder Stenderup)-1945 (København) </h1>
 
@@ -482,7 +482,7 @@ Charlottenborgs Forårsudstilling, Verdensudstillingen i Paris 1889, hvor hun mo
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/33.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/33.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Anna Petersen 1845 (København)-1910 (København) </h1>
 
@@ -496,7 +496,7 @@ Verdensudstillingen i Paris 1889, Kunstforeningens udstilling 11 kunstnerinder i
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/34.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/34.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Anna Ancher 1859 (Skagen)-1935 (Skagen) </h1>
 
@@ -510,7 +510,7 @@ Charlottenborgs Forårsudstilling, Verdensudstillingen 1889 og får her en sølv
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/35.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/35.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Emilie Mundt 1842 (Sorø)-1922 (Frederiksberg) </h1>
 
@@ -524,7 +524,7 @@ Charlottenborgs Forårsudstilling, Kunstnernes Efterårsudstilling, Kvindelige K
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/36.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/36.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Henriette Hahn-Brinckmann 1862 (København)-1934 (Hamborg) (Hamborg) </h1>
 
@@ -538,7 +538,7 @@ Udstillingen på Charlottenborg i København 1885, Sociéte Nationale des Beaux 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/37.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/37.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Asta Nørregaard 1853 (Oslo)-1933 (Oslo) </h1>
 
@@ -552,7 +552,7 @@ Drammens Kunstforening, Salon de Paris, udstillinger hos Blomqvist auktionshus, 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/38.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/38.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Eva Bonnier 1857 (Stockholm)-1909 (København) </h1>
 
@@ -566,7 +566,7 @@ Svenska Konstnärsförbundets udstillinger, Salon de Paris i 1887, Verdensudstil
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/39.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/39.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Julia Beck 1853 (Stockholm)-1935 (Vaucresson) </h1>
 
@@ -580,7 +580,7 @@ Salon de Paris i 1882, Salon de l'Union des femmes peintres et sculpteurs. Modta
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/40.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/40.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Mina Carlson-Bredberg 1857 (Göteborg)-1943 (Stockholm) </h1>
 
@@ -594,7 +594,7 @@ Salon de Paris, Verdensudstillingen 1889, hvor hun modtager en mention honorable
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/41.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/41.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Anna Cassel 1860 (Varnäs)-1937 (Stockholm) </h1>
 
@@ -608,7 +608,7 @@ Svenska Konstnärsförbundets udstillinger. Cassel indsender værker til World's
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/42.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/42.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hanna Hirsch-Pauli 1864 (Stockholm)-1940 (Solna) </h1>
 
@@ -622,7 +622,7 @@ Kungliga Akademien för de fria konsternas udstillinger, Salon de Paris i 1887, 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/43.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/43.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Amanda Sidwall 1844 (Stockholm)-1892 (Stockholm) </h1>
 
@@ -636,7 +636,7 @@ Salon de Paris, Kungliga Akademien för de fria konsternas udstillinger, Norrlan
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/44.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/44.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Elin Danielson-Gambogi 1861 (Noormarkku)-1919 (Antignano) </h1>
 
@@ -650,7 +650,7 @@ Finska Konstföreningens almene udstillinger og årsudstillinger, Verdensudstill
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/45.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/45.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Helene Schjerfbeck 1862 (Helsinki)-1942 (Saltsjöbaden) </h1>
 
@@ -664,7 +664,7 @@ Finska Konstföreningens årsudstillinger, Salon de Paris, Verdensudstillingen i
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/46.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/46.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Amélie Lundahl 1850 (Oulu)-1914 (Helsinki) </h1>
 
@@ -678,7 +678,7 @@ Finska Konstföreningens udstillinger, Salon de Paris, mindeudstilling i Galleri
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/47.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/47.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Fanny Churberg 1845 (Vaasa)-1892 (Helsinki) </h1>
 
@@ -692,7 +692,7 @@ Finska Konstföreningens udstillinger. Modtager Den Finska Konstföreningens fø
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/48.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/48.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Ellen Thesleff 1869 (Hesinki)-1954 (Helsinki) </h1>
 
@@ -706,7 +706,7 @@ Finska Konstföreningens udstillinger, Höstustillingen, Verdensudstillingen i 1
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/49.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/49.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Anna Boberg 1864 (Stockholm)-1935 (Stockholm) </h1>
 
@@ -720,7 +720,7 @@ Sveriges Allmänna Konstförening, World's Columbian Exposition i 1893, La galé
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/50.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/50.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Oda Krohg 1860 (Åsgårdstrand)-1935 (Oslo) </h1>
 
@@ -734,7 +734,7 @@ Høstutstillingen, udstillinger i Kristiania Kunstforening, Salon des Indépenda
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/51.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/51.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kitty Kielland 1843 (Stavanger)-1914 (Oslo) </h1>
 
@@ -748,7 +748,7 @@ Salon de Paris, Verdensudstillingen i 1889, hvor hun får sølvmedalje, Venedig 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/52.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/52.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Suzette Holten 1863 (København)-1937 (København) </h1>
 
@@ -762,7 +762,7 @@ Den nordiske industri-, Landbrugs- og Kunstudstilling i København 1888, Charlot
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/53.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/53.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Elisabeth Jerichau Baumann 1819 (Warsawa)-1881 (København) </h1>
 
@@ -776,7 +776,7 @@ Kunstakademie Düsseldorf i 1844, Charlottenborgs Forårsudstilling, Kungliga Ak
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="/images/aao/54.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/aao/54.png"/></p></td>
 <td style="vertical-align: top;">
 <h1> Bertha Wegmann 1846 (Soglio)-1926 (København) </h1>
 

@@ -4,7 +4,7 @@ title: ""
 permalink: /lytte/vores_tid_kaffe/
 ---
 
-<p align="center"><img src="/images/tid/kaffe.jpg"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/tid/kaffe.jpg"/></p>
 
 <style>
     table {
