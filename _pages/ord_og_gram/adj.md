@@ -90,7 +90,7 @@ search: true
 
 <input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchTable()">
 
-<table align="center" cellspacing="5" style="text-align: left" width="100%">
+<table align="center" cellspacing="5" style="text-align: left" width="100%" id="wordTable">
 <tr>
 <th> N-form (ental) </th>
 <th> Udtale </th>
