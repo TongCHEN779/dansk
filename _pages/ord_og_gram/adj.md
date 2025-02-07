@@ -29,33 +29,30 @@ search: true
     }
 </style>
 
-<html>
-<head>
-    <title>Searchable Table</title>
-    <script>
-        function searchTable() {
-            let input = document.getElementById("searchInput").value.toLowerCase();
-            let table = document.getElementById("wordTable");
-            let rows = table.getElementsByTagName("tr");
+<script>
+    function playSound(soundId) {
+        var audioElement = document.getElementById(soundId);
+        audioElement.play();
+    }
 
-            for (let i = 1; i < rows.length; i++) { // Start from 1 to skip header
-                let cells = rows[i].getElementsByTagName("td");
-                let found = false;
+    function searchTable() {
+        let input = document.getElementById("searchInput").value.toLowerCase();
+        let table = document.getElementById("wordTable");
+        let rows = table.getElementsByTagName("tr");
 
-                for (let j = 0; j < cells.length; j++) {
-                    if (cells[j].innerText.toLowerCase().includes(input)) {
-                        found = true;
-                        break;
-                    }
-                }
-                rows[i].style.display = found ? "" : "none";
+        for (let i = 1; i < rows.length; i++) {
+            let rowText = rows[i].innerText.toLowerCase();
+            if (rowText.includes(input)) {
+                rows[i].style.display = "";
+            } else {
+                rows[i].style.display = "none";
             }
         }
-    </script>
-</head>
+    }
+</script>
 
-<body>
-<input type="text" id="searchInput" onkeyup="searchTable()" placeholder="Search for a word...">
+<input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchTable()">
+
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th> N-form (ental) </th>
@@ -990,7 +987,6 @@ search: true
 <td> mest folkekær </td>
 <td> popular </td>
 </tr>
-<tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forelsket"><a href="https://ordnet.dk/ddo/ordbog?query=forelsket"> forelsket </a></a></td>
 <td>
@@ -4808,5 +4804,3 @@ search: true
 <td> other </td>
 </tr>
 </table>
-</body>
-</html>
