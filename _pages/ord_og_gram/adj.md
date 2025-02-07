@@ -10,32 +10,37 @@ search: true
         var audioElement = document.getElementById(soundId);
         audioElement.play();
     }
-
-    function searchTable() {
+</script>
+<script>
+    // Ensure the DOM is fully loaded before attaching event listeners.
+    document.addEventListener("DOMContentLoaded", function() {
+        // Listen for the Enter key on the search input.
+        document.getElementById("searchInput").addEventListener("keydown", function(event) {
+            if (event.key === "Enter") {
+                event.preventDefault();  // Prevent any default behavior.
+                jumpToRow();
+            }
+        });
+    });
+    // Function to scroll to the first row that contains the search word.
+    function jumpToRow() {
+        // Get the search word in lowercase.
         let input = document.getElementById("searchInput").value.toLowerCase();
+        // Get the table and its rows.
         let table = document.getElementById("wordTable");
         let rows = table.getElementsByTagName("tr");
-        let firstMatch = null;
-
+        
+        // Loop through each row (skipping the header row).
         for (let i = 1; i < rows.length; i++) {
             let rowText = rows[i].innerText.toLowerCase();
             if (rowText.includes(input)) {
-                rows[i].style.display = "";
-                if (!firstMatch) firstMatch = rows[i]; // Save first matching row
-            } else {
-                rows[i].style.display = "table-row"; // Ensure row is not hidden
+                // Scroll the first matching row into view.
+                rows[i].scrollIntoView({ behavior: "smooth", block: "center" });
+                break; // Stop after scrolling to the first match.
             }
-        }
-
-        // Scroll to the first matching row
-        if (firstMatch) {
-            setTimeout(() => {
-                firstMatch.scrollIntoView({ behavior: "smooth", block: "center" });
-            }, 100); // Delay to ensure rendering
         }
     }
 </script>
-
 
 <style>
     table {
@@ -52,6 +57,13 @@ search: true
         border: 1px solid #dddddd;
         padding: 8px;
         text-align: left;
+    }
+</style>
+<style>
+    input {
+        margin-bottom: 10px;
+        padding: 5px;
+        width: 100%;
     }
 </style>
 
