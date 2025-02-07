@@ -17,7 +17,6 @@ search: true
         let table = document.getElementById("wordTable");
         let rows = table.getElementsByTagName("tr");
         let firstMatch = null;
-
         for (let i = 1; i < rows.length; i++) {
             let rowText = rows[i].innerText.toLowerCase();
             if (rowText.includes(input)) {
@@ -27,7 +26,6 @@ search: true
                 rows[i].style.display = "table-row"; // Ensure row is not hidden
             }
         }
-
         // Scroll to the first matching row
         if (firstMatch) {
             setTimeout(() => {
