@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /laesning/david/
+search: false
 ---
 
 <style>

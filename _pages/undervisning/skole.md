@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /undervisning/skole/
+search: false
 ---
 
 <p align="center"><img src="https://tongchen779.github.io/dansk/images/skole.jpg"/></p>

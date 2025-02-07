@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /laesning/boern/
+search: false
 ---
 
 <style>

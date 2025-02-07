@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /lytte/nytaarstaler/
+search: false
 ---
 
 <style>

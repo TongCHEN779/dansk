@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /undervisning/pd3/
+search: false
 ---
 
 <p align="center"><img src="https://tongchen779.github.io/dansk/images/pd3.png"/></p>

@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /laesning/verdensarv_vadehavet/
+search: false
 ---
 
 <style>

@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /laesning/frihed/
+search: false
 ---
 
 <style>

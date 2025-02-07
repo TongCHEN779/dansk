@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /undervisning/main/
+search: false
 ---
 
 <style>

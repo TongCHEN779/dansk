@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /undervisning/arbejdermuseet/
+search: false
 ---
 
 <p align="center"><img src="https://tongchen779.github.io/dansk/images/history_to_go.png"/></p>

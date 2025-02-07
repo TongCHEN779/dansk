@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /laesning/salon_des_refuses/
+search: false
 ---
 
 <style>

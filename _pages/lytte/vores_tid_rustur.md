@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /lytte/vores_tid_rustur/
+search: false
 ---
 
 <p align="center"><img src="https://tongchen779.github.io/dansk/images/tid/rustur.jpg"/></p>

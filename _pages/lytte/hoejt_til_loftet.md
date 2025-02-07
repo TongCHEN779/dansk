@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /lytte/hoejt_til_loftet/
+search: false
 ---
 
 <p align="center"><img src="https://tongchen779.github.io/dansk/files/htl/htl.png" width="500"/></p>

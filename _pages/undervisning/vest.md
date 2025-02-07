@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /undervisning/vest/
+search: false
 ---
 
 <p align="center"><img src="https://tongchen779.github.io/dansk/images/holbaek_havn.jpg"/></p>

@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /ord_og_gram/main/
+search: false
 ---
 
 <h1 id="adj" style="text-align: center;"> Adjektivernes former </h1>

@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /laesning/uddrag/
+search: false
 ---
 
 <style>
