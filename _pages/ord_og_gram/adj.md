@@ -15,24 +15,27 @@ search: true
         let input = document.getElementById("searchInput").value.toLowerCase();
         let table = document.getElementById("wordTable");
         let rows = table.getElementsByTagName("tr");
-        let firstMatch = null; // Store first matching row for scrolling
+        let firstMatch = null;
 
         for (let i = 1; i < rows.length; i++) {
             let rowText = rows[i].innerText.toLowerCase();
             if (rowText.includes(input)) {
                 rows[i].style.display = "";
-                if (!firstMatch) firstMatch = rows[i]; // Set first visible row
+                if (!firstMatch) firstMatch = rows[i]; // Save first matching row
             } else {
-                rows[i].style.display = "none";
+                rows[i].style.display = "table-row"; // Ensure row is not hidden
             }
         }
 
-        // Scroll to the first matching row if found
+        // Scroll to the first matching row
         if (firstMatch) {
-            firstMatch.scrollIntoView({ behavior: "smooth", block: "center" });
+            setTimeout(() => {
+                firstMatch.scrollIntoView({ behavior: "smooth", block: "center" });
+            }, 100); // Delay to ensure rendering
         }
     }
 </script>
+
 
 <style>
     table {
