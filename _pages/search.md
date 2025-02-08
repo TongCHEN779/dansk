@@ -32,12 +32,9 @@ permalink: /search/
                     //     return { html: row.outerHTML, text: tdText };
                     // });
                     let rowData = rows.map(row => {
-                        // Clone the row to preserve the `audio` elements
-                        let clonedRow = row.cloneNode(true);
-                        return { 
-                            html: clonedRow.outerHTML, 
-                            text: clonedRow.innerText.toLowerCase()  // Ensure text search works correctly
-                        };
+                        let clonedRow = row.cloneNode(true); // Clone the row to keep its structure
+                        let tdText = Array.from(clonedRow.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
+                        return { html: clonedRow.outerHTML, text: tdText };
                     });
                     pageContents[page.name] = { headers, rows: rowData };
                 }
@@ -69,18 +66,9 @@ permalink: /search/
                 let table = section.querySelector("table");
 
                 matchingRows.forEach(rowData => {
-                    let parser = new DOMParser();
-                    let rowDoc = parser.parseFromString(rowData.html, "text/html");
-                    let row = rowDoc.body.firstChild;
-
-                    // Ensure that the audio elements are also appended to the new table
-                    let originalRow = Array.from(document.querySelectorAll("tr")).find(tr => tr.innerHTML === row.innerHTML);
-                    if (originalRow) {
-                        originalRow.querySelectorAll("audio").forEach(audio => {
-                            let newAudio = audio.cloneNode(true);
-                            row.appendChild(newAudio); // Append the cloned audio to the new row
-                        });
-                    }
+                    let tempDiv = document.createElement("div");
+                    tempDiv.innerHTML = rowData.html;
+                    let row = tempDiv.querySelector("tr");
 
                     highlightMatchesInElement(row, input);
                     table.appendChild(row);
@@ -90,7 +78,7 @@ permalink: /search/
             }
         }
 
-        attachAudioEventListeners(); // Reattach audio event listeners
+        attachAudioEventListeners(); // Reattach audio event listeners to ensure they work
     }
 
     function highlightMatchesInElement(element, searchTerm) {
