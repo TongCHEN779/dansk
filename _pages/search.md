@@ -57,9 +57,9 @@ permalink: /search/
 
 <script>
     let pagesToSearch = [
-        { name: "Adjektiver", url: "/ord_og_gram/adj/" },
-        { name: "Verber", url: "/ord_og_gram/verb/" },
-        { name: "Substantiver", url: "/ord_og_gram/sub/" }
+        { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
+        { name: "Verber", url: "/dansk/ord_og_gram/verb/" },
+        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" }
     ];
 
     let pageContents = {};
