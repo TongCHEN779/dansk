@@ -50,41 +50,17 @@ permalink: /search/
 
         for (let page in pageContents) {
             let { headers, rows } = pageContents[page];
-
             let matchingRows = rows.filter(rowHTML => rowHTML.toLowerCase().includes(input));
 
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
-                
-                // Process rows to highlight only text-based content, while keeping the audio elements intact
-                let processedRows = matchingRows.map(rowHTML => {
-                    let tempDiv = document.createElement("div");
-                    tempDiv.innerHTML = rowHTML;
-                    
-                    let cells = tempDiv.querySelectorAll("td, th");
-                    cells.forEach(cell => {
-                        if (!cell.innerHTML.includes("<audio>") && !cell.innerHTML.includes("onclick")) {
-                            cell.innerHTML = highlightMatch(cell.innerHTML, input);
-                        }
-                    });
-
-                    return tempDiv.innerHTML;
-                });
-
                 section.innerHTML = `<h3>${page}</h3>
                                      <table border="1" cellspacing="5" style="width:100%">
                                          <tr>${headers}</tr>
-                                         ${processedRows.join("")}
+                                         ${matchingRows.map(rowHTML => highlightMatch(rowHTML, input)).join("")}
                                      </table>`;
                 resultsContainer.appendChild(section);
             }
-        }
-    }
-
-    function playSound(soundId) {
-        let audioElement = document.getElementById(soundId);
-        if (audioElement) {
-            audioElement.play();
         }
     }
 
