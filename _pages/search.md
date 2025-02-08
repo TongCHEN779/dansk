@@ -70,10 +70,6 @@ permalink: /search/
                 resultsContainer.appendChild(section);
             }
         }
-
-        let textOutput = document.createElement("pre");
-        textOutput.textContent = matchingRows.map(row => row.text).join("\n");
-        resultsContainer.appendChild(textOutput);
         
         attachAudioEventListeners(); // Attach audio event listeners after inserting results
         
@@ -109,11 +105,14 @@ permalink: /search/
 
     function attachAudioEventListeners() {
         document.querySelectorAll("span[data-audio-id]").forEach(span => {
-            span.onclick = function() {
-                let soundId = this.getAttribute("data-audio-id");
-                playSound(soundId);
-            };
+            span.removeEventListener("click", handleAudioClick); // Remove previous listeners to prevent duplication
+            span.addEventListener("click", handleAudioClick);
         });
+    }
+
+    function handleAudioClick(event) {
+        let soundId = event.target.getAttribute("data-audio-id");
+        playSound(soundId);
     }
 
     document.addEventListener("DOMContentLoaded", loadPages);
