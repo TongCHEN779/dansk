@@ -27,7 +27,10 @@ permalink: /search/
                 let rows = table ? Array.from(table.querySelectorAll("tr")).slice(1) : [];
 
                 if (headers && rows.length > 0) {
-                    let rowData = rows.map(row => row.outerHTML); // Store full row HTML
+                    let rowData = rows.map(row => {
+                        let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" "); // Extract text only
+                        return { html: row.outerHTML, text: tdText };
+                    });
                     pageContents[page.name] = { headers, rows: rowData };
                 }
             } catch (error) {
@@ -37,7 +40,7 @@ permalink: /search/
     }
 
     function searchPages() {
-        let input = document.getElementById("searchInput").value.toLowerCase();
+        let input = document.getElementById("searchInput").value.toLowerCase().trim();
         let resultsContainer = document.getElementById("results");
         resultsContainer.innerHTML = "";
 
@@ -45,7 +48,9 @@ permalink: /search/
 
         for (let page in pageContents) {
             let { headers, rows } = pageContents[page];
-            let matchingRows = rows.filter(rowHTML => rowHTML.toLowerCase().includes(input));
+
+            // Filter rows based on td text content, NOT full row HTML
+            let matchingRows = rows.filter(row => row.text.includes(input));
 
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
@@ -56,16 +61,18 @@ permalink: /search/
                 
                 let table = section.querySelector("table");
 
-                matchingRows.forEach(rowHTML => {
+                matchingRows.forEach(rowData => {
                     let row = document.createElement("tr");
-                    row.innerHTML = rowHTML;  // Keep original row structure
-                    highlightMatchesInElement(row, input);  // Apply highlighting without breaking HTML structure
+                    row.innerHTML = rowData.html; // Preserve original row HTML structure
+                    highlightMatchesInElement(row, input); // Apply highlighting properly
                     table.appendChild(row);
                 });
 
                 resultsContainer.appendChild(section);
             }
         }
+
+        attachAudioEventListeners(); // Ensure newly inserted rows have working audio
     }
 
     function highlightMatchesInElement(element, searchTerm) {
@@ -87,11 +94,16 @@ permalink: /search/
         highlightNode(element);
     }
 
-    function playSound(soundId) {
-        let audioElement = document.getElementById(soundId);
-        if (audioElement) {
-            audioElement.play();
-        }
+    function attachAudioEventListeners() {
+        document.querySelectorAll("span[data-audio-id]").forEach(span => {
+            span.onclick = function() {
+                let soundId = this.getAttribute("data-audio-id");
+                let audioElement = document.getElementById(soundId);
+                if (audioElement) {
+                    audioElement.play();
+                }
+            };
+        });
     }
 
     document.addEventListener("DOMContentLoaded", loadPages);
@@ -126,7 +138,7 @@ permalink: /search/
         background-color: yellow;
         font-weight: bold;
     }
-    span[onclick] {
+    span[data-audio-id] {
         cursor: pointer;
         text-decoration: underline;
         color: blue;
