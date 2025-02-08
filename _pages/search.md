@@ -7,8 +7,8 @@ permalink: /search/
 <script>
     let pagesToSearch = [
         { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
-        { name: "Verber", url: "/dansk/ord_og_gram/verb/" },
-        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" }
+        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
+        { name: "Verber", url: "/dansk/ord_og_gram/verb/" }
     ];
 
     let pageContents = {};
@@ -70,6 +70,10 @@ permalink: /search/
                 resultsContainer.appendChild(section);
             }
         }
+
+        let textOutput = document.createElement("pre");
+        textOutput.textContent = matchingRows.map(row => row.text).join("\n");
+        resultsContainer.appendChild(textOutput);
         
         attachAudioEventListeners(); // Attach audio event listeners after inserting results
         
