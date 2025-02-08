@@ -52,6 +52,22 @@ permalink: /search/
     }
 </style> -->
 
+<input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchSite()">
+<table id="searchResultsTable" style="width: 100%; border-collapse: collapse; display: none;">
+    <thead>
+        <tr>
+            <th>N-form (ental)</th>
+            <th>Udtale</th>
+            <th>T-form (ental)</th>
+            <th>E-form (flertal og bestemt form)</th>
+            <th>Komparativ (ental)</th>
+            <th>Superlativ (ental)</th>
+            <th>Engelsk</th>
+        </tr>
+    </thead>
+    <tbody id="searchResults"></tbody>
+</table>
+
 <script>
     let pages = [];
 
@@ -63,25 +79,30 @@ permalink: /search/
     function searchSite() {
         let input = document.getElementById("searchInput").value.toLowerCase();
         let resultsContainer = document.getElementById("searchResults");
+        let resultsTable = document.getElementById("searchResultsTable");
+        
         resultsContainer.innerHTML = ""; // Clear previous results
 
-        if (input.length < 2) return; // Avoid unnecessary searches
+        if (input.length < 2) {
+            resultsTable.style.display = "none"; // Hide table if no search
+            return;
+        }
 
-        let results = pages.filter(page => 
-            page.title.toLowerCase().includes(input) || 
-            page.content.toLowerCase().includes(input)
+        let results = pages.flatMap(page => 
+            page.rows.filter(row => row.toLowerCase().includes(input))
+                .map(row => ({ row: row, url: page.url })) // Keep URL reference
         );
 
-        results.forEach(page => {
-            let listItem = document.createElement("li");
-            let link = document.createElement("a");
-            link.href = page.url;
-            link.textContent = page.title;
-            listItem.appendChild(link);
-            resultsContainer.appendChild(listItem);
+        if (results.length > 0) {
+            resultsTable.style.display = "table"; // Show table if results exist
+        } else {
+            resultsTable.style.display = "none"; // Hide if no results
+        }
+
+        results.forEach(result => {
+            let row = document.createElement("tr");
+            row.innerHTML = `<td colspan="7"><a href="${result.url}">${result.row}</a></td>`;
+            resultsContainer.appendChild(row);
         });
     }
 </script>
-
-<input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchSite()">
-<ul id="searchResults"></ul>
