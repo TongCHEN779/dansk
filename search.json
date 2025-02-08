@@ -3,9 +3,9 @@ layout: null
 permalink: /search.json
 ---
 
-[
-  {% assign selected_pages = site.pages | where_exp: "page", "page.permalink == '/ord_og_gram/adj/' or page.permalink == '/ord_og_gram/sub/' or page.permalink == '/ord_og_gram/verb/'" %}
+{% assign selected_pages = site.pages | where: "permalink", "/ord_og_gram/adj/" | concat: site.pages | where: "permalink", "/ord_og_gram/sub/" %}
 
+[
   {% for page in selected_pages %}
     {
       "title": "{{ page.title | escape }}",
