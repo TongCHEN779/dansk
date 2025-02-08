@@ -94,7 +94,7 @@ permalink: /search/
     }
 
     function playSound(soundId) {
-        var audioElement = document.getElementById(soundId);
+        let audioElement = document.getElementById(soundId);
         if (audioElement) {
             audioElement.play();
         } else {
@@ -104,14 +104,28 @@ permalink: /search/
 
     function attachAudioEventListeners() {
         document.querySelectorAll("span[data-audio-id]").forEach(span => {
-            span.onclick = function() {
+            span.onclick = function () {
                 let soundId = this.getAttribute("data-audio-id");
-                playSound(soundId);
+                let audioElement = document.getElementById(soundId);
+
+                if (!audioElement) {
+                    // If the <audio> element is missing, recreate it and append to the body
+                    audioElement = document.createElement("audio");
+                    audioElement.id = soundId;
+                    audioElement.src = `https://static.ordnet.dk/mp3/11000/${soundId}_1.mp3`;  // Assuming consistent audio URL pattern
+                    audioElement.style.display = "none";
+                    document.body.appendChild(audioElement);
+                }
+
+                audioElement.play();
             };
         });
     }
 
-    document.addEventListener("DOMContentLoaded", loadPages);
+    // Ensure event listeners are reattached after each search
+    document.addEventListener("DOMContentLoaded", () => {
+        loadPages().then(attachAudioEventListeners);
+    });
 </script>
 
 <style>
