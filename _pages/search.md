@@ -36,11 +36,6 @@ permalink: /search/
         }
     }
 
-    function highlightMatch(text, searchTerm) {
-        let regex = new RegExp(`(${searchTerm})`, "gi");
-        return text.replace(regex, `<span class="highlight">$1</span>`);
-    }
-
     function searchPages() {
         let input = document.getElementById("searchInput").value.toLowerCase();
         let resultsContainer = document.getElementById("results");
@@ -57,10 +52,45 @@ permalink: /search/
                 section.innerHTML = `<h3>${page}</h3>
                                      <table border="1" cellspacing="5" style="width:100%">
                                          <tr>${headers}</tr>
-                                         ${matchingRows.map(rowHTML => highlightMatch(rowHTML, input)).join("")}
                                      </table>`;
+                
+                let table = section.querySelector("table");
+
+                matchingRows.forEach(rowHTML => {
+                    let row = document.createElement("tr");
+                    row.innerHTML = rowHTML;  // Keep original row structure
+                    highlightMatchesInElement(row, input);  // Apply highlighting without breaking HTML structure
+                    table.appendChild(row);
+                });
+
                 resultsContainer.appendChild(section);
             }
+        }
+    }
+
+    function highlightMatchesInElement(element, searchTerm) {
+        let regex = new RegExp(`(${searchTerm})`, "gi");
+
+        function highlightNode(node) {
+            if (node.nodeType === 3) { // Text node
+                let matches = node.nodeValue.match(regex);
+                if (matches) {
+                    let span = document.createElement("span");
+                    span.innerHTML = node.nodeValue.replace(regex, `<span class="highlight">$1</span>`);
+                    node.replaceWith(span);
+                }
+            } else {
+                node.childNodes.forEach(highlightNode); // Recursively process child nodes
+            }
+        }
+
+        highlightNode(element);
+    }
+
+    function playSound(soundId) {
+        let audioElement = document.getElementById(soundId);
+        if (audioElement) {
+            audioElement.play();
         }
     }
 
