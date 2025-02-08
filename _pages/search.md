@@ -71,7 +71,10 @@ permalink: /search/
                 let text = await response.text();
                 let parser = new DOMParser();
                 let doc = parser.parseFromString(text, "text/html");
-                pageContents[page.name] = doc.body.innerText.toLowerCase();
+
+                // Extract only table rows (assuming word lists are inside tables)
+                let rows = doc.querySelectorAll("table tr");
+                pageContents[page.name] = Array.from(rows).map(row => row.innerText.toLowerCase());
             } catch (error) {
                 console.error(`Failed to load ${page.url}:`, error);
             }
@@ -86,10 +89,22 @@ permalink: /search/
         if (!input) return;
 
         for (let page in pageContents) {
-            if (pageContents[page].includes(input)) {
-                let resultItem = document.createElement("p");
-                resultItem.innerHTML = `Match found in <a href="${pagesToSearch.find(p => p.name === page).url}" target="_blank">${page}</a>`;
-                resultsContainer.appendChild(resultItem);
+            let matchingRows = pageContents[page].filter(row => row.includes(input));
+
+            if (matchingRows.length > 0) {
+                let section = document.createElement("div");
+                section.innerHTML = `<h3>${page}</h3><table border="1"><tbody></tbody></table>`;
+                let tableBody = section.querySelector("tbody");
+
+                matchingRows.forEach(rowText => {
+                    let rowElement = document.createElement("tr");
+                    let cell = document.createElement("td");
+                    cell.innerText = rowText;
+                    rowElement.appendChild(cell);
+                    tableBody.appendChild(rowElement);
+                });
+
+                resultsContainer.appendChild(section);
             }
         }
     }
@@ -102,6 +117,18 @@ permalink: /search/
         margin-bottom: 10px;
         padding: 5px;
         width: 100%;
+    }
+    h3 {
+        margin-top: 20px;
+        color: #0077cc;
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    td {
+        padding: 8px;
+        border: 1px solid #ddd;
     }
 </style>
 
