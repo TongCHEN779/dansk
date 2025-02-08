@@ -4,7 +4,7 @@ title: ""
 permalink: /search/
 ---
 
-<script>
+<!-- <script>
     function searchTable() {
         let input = document.getElementById("searchInput").value.toLowerCase();
         let table = document.getElementById("wordTable");
@@ -50,6 +50,38 @@ permalink: /search/
         padding: 5px;
         width: 100%;
     }
-</style>
+</style> -->
 
-<input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchTable()">
+<script>
+    let pages = [];
+
+    // Fetch the JSON index when the page loads
+    fetch('/search.json')
+        .then(response => response.json())
+        .then(data => pages = data);
+
+    function searchSite() {
+        let input = document.getElementById("searchInput").value.toLowerCase();
+        let resultsContainer = document.getElementById("searchResults");
+        resultsContainer.innerHTML = ""; // Clear previous results
+
+        if (input.length < 2) return; // Avoid unnecessary searches
+
+        let results = pages.filter(page => 
+            page.title.toLowerCase().includes(input) || 
+            page.content.toLowerCase().includes(input)
+        );
+
+        results.forEach(page => {
+            let listItem = document.createElement("li");
+            let link = document.createElement("a");
+            link.href = page.url;
+            link.textContent = page.title;
+            listItem.appendChild(link);
+            resultsContainer.appendChild(listItem);
+        });
+    }
+</script>
+
+<input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchSite()">
+<ul id="searchResults"></ul>
