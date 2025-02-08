@@ -27,14 +27,9 @@ permalink: /search/
                 let rows = table ? Array.from(table.querySelectorAll("tr")).slice(1) : [];
 
                 if (headers && rows.length > 0) {
-                    // let rowData = rows.map(row => {
-                    //     let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
-                    //     return { html: row.outerHTML, text: tdText };
-                    // });
                     let rowData = rows.map(row => {
-                        let clonedRow = row.cloneNode(true); // Clone the row to keep its structure
-                        let tdText = Array.from(clonedRow.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
-                        return { html: clonedRow.outerHTML, text: tdText };
+                        let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
+                        return { html: row.outerHTML, text: tdText };
                     });
                     pageContents[page.name] = { headers, rows: rowData };
                 }
@@ -59,17 +54,15 @@ permalink: /search/
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
                 section.innerHTML = `<h3>${page}</h3>
-                                    <table border="1" cellspacing="5" style="width:100%">
-                                        <tr>${headers}</tr>
-                                    </table>`;
+                                     <table border="1" cellspacing="5" style="width:100%">
+                                         <tr>${headers}</tr>
+                                     </table>`;
 
                 let table = section.querySelector("table");
 
                 matchingRows.forEach(rowData => {
-                    let tempDiv = document.createElement("div");
-                    tempDiv.innerHTML = rowData.html;
-                    let row = tempDiv.querySelector("tr");
-
+                    let row = document.createElement("tr");
+                    row.innerHTML = rowData.html;
                     highlightMatchesInElement(row, input);
                     table.appendChild(row);
                 });
@@ -77,8 +70,9 @@ permalink: /search/
                 resultsContainer.appendChild(section);
             }
         }
-
-        attachAudioEventListeners(); // Reattach audio event listeners to ensure they work
+        
+        attachAudioEventListeners(); // Attach audio event listeners after inserting results
+        
     }
 
     function highlightMatchesInElement(element, searchTerm) {
