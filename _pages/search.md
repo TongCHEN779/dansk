@@ -27,9 +27,19 @@ permalink: /search/
                 let rows = table ? Array.from(table.querySelectorAll("tr")).slice(1) : [];
 
                 if (headers && rows.length > 0) {
+                    // let rowData = rows.map(row => {
+                    //     let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
+                    //     return { html: row.outerHTML, text: tdText };
+                    // });
                     let rowData = rows.map(row => {
-                        let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
-                        return { html: row.outerHTML, text: tdText };
+                        let tdText = Array.from(row.querySelectorAll("td"))
+                            .map(td => td.innerText.toLowerCase())
+                            .join(" ");
+                        // Ensure <audio> elements are included
+                        let audioElements = Array.from(row.querySelectorAll("audio"))
+                            .map(audio => audio.outerHTML)
+                            .join(""); 
+                        return { html: row.outerHTML + audioElements, text: tdText };
                     });
                     pageContents[page.name] = { headers, rows: rowData };
                 }
@@ -54,9 +64,9 @@ permalink: /search/
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
                 section.innerHTML = `<h3>${page}</h3>
-                                     <table border="1" cellspacing="5" style="width:100%">
-                                         <tr>${headers}</tr>
-                                     </table>`;
+                                    <table border="1" cellspacing="5" style="width:100%">
+                                        <tr>${headers}</tr>
+                                    </table>`;
 
                 let table = section.querySelector("table");
 
@@ -70,9 +80,9 @@ permalink: /search/
                 resultsContainer.appendChild(section);
             }
         }
-        
-        attachAudioEventListeners(); // Attach audio event listeners after inserting results
-        
+
+        // Delay event attachment to ensure all elements are in the DOM
+        setTimeout(attachAudioEventListeners, 100);
     }
 
     function highlightMatchesInElement(element, searchTerm) {
