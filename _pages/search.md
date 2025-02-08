@@ -23,7 +23,7 @@ permalink: /search/
 
                 // Extract table headers and rows
                 let table = doc.querySelector("table");
-                let headers = table ? table.querySelector("tr").outerHTML : null; // Ensure full row HTML
+                let headers = table ? table.querySelector("tr").innerHTML : null;
                 let rows = table ? Array.from(table.querySelectorAll("tr")).slice(1) : [];
 
                 if (headers && rows.length > 0) {
@@ -50,47 +50,17 @@ permalink: /search/
 
         for (let page in pageContents) {
             let { headers, rows } = pageContents[page];
-
             let matchingRows = rows.filter(rowHTML => rowHTML.toLowerCase().includes(input));
 
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
-                let table = document.createElement("table");
-                table.style.width = "100%";
-                table.border = "1";
-                table.cellSpacing = "5";
-
-                // Add table headers first
-                table.innerHTML = headers;
-
-                // Process rows to highlight only text-based content while keeping structure intact
-                matchingRows.forEach(rowHTML => {
-                    let tempDiv = document.createElement("div");
-                    tempDiv.innerHTML = rowHTML;
-
-                    let row = tempDiv.querySelector("tr");
-                    let cells = row.querySelectorAll("td, th");
-
-                    cells.forEach(cell => {
-                        if (!cell.innerHTML.includes("<audio>") && !cell.innerHTML.includes("onclick")) {
-                            cell.innerHTML = highlightMatch(cell.innerHTML, input);
-                        }
-                    });
-
-                    table.appendChild(row); // Append row properly inside table
-                });
-
-                section.innerHTML = `<h3>${page}</h3>`;
-                section.appendChild(table);
+                section.innerHTML = `<h3>${page}</h3>
+                                     <table border="1" cellspacing="5" style="width:100%">
+                                         <tr>${headers}</tr>
+                                         ${matchingRows.map(rowHTML => highlightMatch(rowHTML, input)).join("")}
+                                     </table>`;
                 resultsContainer.appendChild(section);
             }
-        }
-    }
-
-    function playSound(soundId) {
-        let audioElement = document.getElementById(soundId);
-        if (audioElement) {
-            audioElement.play();
         }
     }
 
