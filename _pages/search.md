@@ -23,7 +23,7 @@ permalink: /search/
 
                 // Extract table headers and rows
                 let table = doc.querySelector("table");
-                let headers = table ? table.querySelector("tr").outerHTML : null;
+                let headers = table ? table.querySelector("tr").outerHTML : null; // Ensure full row HTML
                 let rows = table ? Array.from(table.querySelectorAll("tr")).slice(1) : [];
 
                 if (headers && rows.length > 0) {
@@ -60,10 +60,10 @@ permalink: /search/
                 table.border = "1";
                 table.cellSpacing = "5";
 
-                // Add table headers
+                // Add table headers first
                 table.innerHTML = headers;
 
-                // Process rows to highlight only text-based content while keeping the structure intact
+                // Process rows to highlight only text-based content while keeping structure intact
                 matchingRows.forEach(rowHTML => {
                     let tempDiv = document.createElement("div");
                     tempDiv.innerHTML = rowHTML;
