@@ -152,5 +152,3 @@ permalink: /search/
 
 <input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchPages()">
 <div id="results"></div>
-
-
