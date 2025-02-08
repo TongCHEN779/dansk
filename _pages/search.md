@@ -4,57 +4,6 @@ title: ""
 permalink: /search/
 ---
 
-<!-- <script>
-    function searchTable() {
-        let input = document.getElementById("searchInput").value.toLowerCase();
-        let table = document.getElementById("wordTable");
-        let rows = table.getElementsByTagName("tr");
-        let firstMatch = null;
-        for (let i = 1; i < rows.length; i++) {
-            let rowText = rows[i].innerText.toLowerCase();
-            if (rowText.includes(input)) {
-                rows[i].style.display = "";
-                if (!firstMatch) firstMatch = rows[i]; // Save first matching row
-            } else {
-                rows[i].style.display = "table-row"; // Ensure row is not hidden
-            }
-        }
-        // Scroll to the first matching row
-        if (firstMatch) {
-            setTimeout(() => {
-                firstMatch.scrollIntoView({ behavior: "smooth", block: "center" });
-            }, 100); // Delay to ensure rendering
-        }
-    }
-    // Function to scroll to the first row that contains the search word.
-    function jumpToRow() {
-        // Get the search word in lowercase.
-        let input = document.getElementById("searchInput").value.toLowerCase();
-        // Get the table and its rows.
-        let table = document.getElementById("wordTable");
-        let rows = table.getElementsByTagName("tr");
-        // Loop through each row (skipping the header row).
-        for (let i = 1; i < rows.length; i++) {
-            let rowText = rows[i].innerText.toLowerCase();
-            if (rowText.includes(input)) {
-                // Scroll the first matching row into view.
-                rows[i].scrollIntoView({ behavior: "smooth", block: "center" });
-                break; // Stop after scrolling to the first match.
-            }
-        }
-    }
-</script>
-<style>
-    input {
-        margin-bottom: 10px;
-        padding: 5px;
-        width: 100%;
-    }
-</style>
-
-<input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchTable()"> -->
-
-
 <script>
     let pagesToSearch = [
         { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
@@ -101,17 +50,41 @@ permalink: /search/
 
         for (let page in pageContents) {
             let { headers, rows } = pageContents[page];
+
             let matchingRows = rows.filter(rowHTML => rowHTML.toLowerCase().includes(input));
 
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
+                
+                // Process rows to highlight only text-based content, while keeping the audio elements intact
+                let processedRows = matchingRows.map(rowHTML => {
+                    let tempDiv = document.createElement("div");
+                    tempDiv.innerHTML = rowHTML;
+                    
+                    let cells = tempDiv.querySelectorAll("td, th");
+                    cells.forEach(cell => {
+                        if (!cell.innerHTML.includes("<audio>") && !cell.innerHTML.includes("onclick")) {
+                            cell.innerHTML = highlightMatch(cell.innerHTML, input);
+                        }
+                    });
+
+                    return tempDiv.innerHTML;
+                });
+
                 section.innerHTML = `<h3>${page}</h3>
                                      <table border="1" cellspacing="5" style="width:100%">
                                          <tr>${headers}</tr>
-                                         ${matchingRows.map(rowHTML => highlightMatch(rowHTML, input)).join("")}
+                                         ${processedRows.join("")}
                                      </table>`;
                 resultsContainer.appendChild(section);
             }
+        }
+    }
+
+    function playSound(soundId) {
+        let audioElement = document.getElementById(soundId);
+        if (audioElement) {
+            audioElement.play();
         }
     }
 
