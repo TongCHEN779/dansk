@@ -72,20 +72,24 @@ permalink: /search/
                 let parser = new DOMParser();
                 let doc = parser.parseFromString(text, "text/html");
 
-                // Extract table headers
+                // Extract table headers and rows
                 let table = doc.querySelector("table");
-                let headers = table ? table.querySelector("tr") : null;
-                let rows = table ? table.querySelectorAll("tr") : [];
+                let headers = table ? table.querySelector("tr").innerHTML : null;
+                let rows = table ? Array.from(table.querySelectorAll("tr")).slice(1) : [];
 
-                if (headers && rows.length > 1) {
-                    let headersHTML = headers.innerHTML; // Preserve headers
-                    let rowData = Array.from(rows).slice(1).map(row => row.outerHTML); // Store full row HTML
-                    pageContents[page.name] = { headers: headersHTML, rows: rowData };
+                if (headers && rows.length > 0) {
+                    let rowData = rows.map(row => row.outerHTML); // Store full row HTML
+                    pageContents[page.name] = { headers, rows: rowData };
                 }
             } catch (error) {
                 console.error(`Failed to load ${page.url}:`, error);
             }
         }
+    }
+
+    function highlightMatch(text, searchTerm) {
+        let regex = new RegExp(`(${searchTerm})`, "gi");
+        return text.replace(regex, `<span class="highlight">$1</span>`);
     }
 
     function searchPages() {
@@ -104,7 +108,7 @@ permalink: /search/
                 section.innerHTML = `<h3>${page}</h3>
                                      <table border="1" cellspacing="5" style="width:100%">
                                          <tr>${headers}</tr>
-                                         ${matchingRows.join("")}
+                                         ${matchingRows.map(rowHTML => highlightMatch(rowHTML, input)).join("")}
                                      </table>`;
                 resultsContainer.appendChild(section);
             }
@@ -138,6 +142,15 @@ permalink: /search/
         border: 1px solid #ddd;
         padding: 8px;
         text-align: left;
+    }
+    .highlight {
+        background-color: yellow;
+        font-weight: bold;
+    }
+    span[onclick] {
+        cursor: pointer;
+        text-decoration: underline;
+        color: blue;
     }
 </style>
 
