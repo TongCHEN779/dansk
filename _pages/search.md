@@ -62,15 +62,26 @@ permalink: /search/
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
                 section.innerHTML = `<h3>${page}</h3>
-                                     <table border="1" cellspacing="5" style="width:100%">
-                                         <tr>${headers}</tr>
-                                     </table>`;
+                                    <table border="1" cellspacing="5" style="width:100%">
+                                        <tr>${headers}</tr>
+                                    </table>`;
 
                 let table = section.querySelector("table");
 
                 matchingRows.forEach(rowData => {
-                    let row = document.createElement("tr");
-                    row.innerHTML = rowData.html;
+                    let parser = new DOMParser();
+                    let rowDoc = parser.parseFromString(rowData.html, "text/html");
+                    let row = rowDoc.body.firstChild;
+
+                    // Ensure that the audio elements are also appended to the new table
+                    let originalRow = Array.from(document.querySelectorAll("tr")).find(tr => tr.innerHTML === row.innerHTML);
+                    if (originalRow) {
+                        originalRow.querySelectorAll("audio").forEach(audio => {
+                            let newAudio = audio.cloneNode(true);
+                            row.appendChild(newAudio); // Append the cloned audio to the new row
+                        });
+                    }
+
                     highlightMatchesInElement(row, input);
                     table.appendChild(row);
                 });
@@ -78,9 +89,8 @@ permalink: /search/
                 resultsContainer.appendChild(section);
             }
         }
-        
-        attachAudioEventListeners(); // Attach audio event listeners after inserting results
-        
+
+        attachAudioEventListeners(); // Reattach audio event listeners
     }
 
     function highlightMatchesInElement(element, searchTerm) {
