@@ -72,9 +72,16 @@ permalink: /search/
                 let parser = new DOMParser();
                 let doc = parser.parseFromString(text, "text/html");
 
-                // Extract only table rows (assuming word lists are inside tables)
-                let rows = doc.querySelectorAll("table tr");
-                pageContents[page.name] = Array.from(rows).map(row => row.innerText.toLowerCase());
+                // Extract table headers
+                let table = doc.querySelector("table");
+                let headers = table ? table.querySelector("tr") : null;
+                let rows = table ? table.querySelectorAll("tr") : [];
+
+                if (headers && rows.length > 1) {
+                    let headersHTML = headers.innerHTML; // Preserve headers
+                    let rowData = Array.from(rows).slice(1).map(row => row.outerHTML); // Store full row HTML
+                    pageContents[page.name] = { headers: headersHTML, rows: rowData };
+                }
             } catch (error) {
                 console.error(`Failed to load ${page.url}:`, error);
             }
@@ -89,21 +96,16 @@ permalink: /search/
         if (!input) return;
 
         for (let page in pageContents) {
-            let matchingRows = pageContents[page].filter(row => row.includes(input));
+            let { headers, rows } = pageContents[page];
+            let matchingRows = rows.filter(rowHTML => rowHTML.toLowerCase().includes(input));
 
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
-                section.innerHTML = `<h3>${page}</h3><table border="1"><tbody></tbody></table>`;
-                let tableBody = section.querySelector("tbody");
-
-                matchingRows.forEach(rowText => {
-                    let rowElement = document.createElement("tr");
-                    let cell = document.createElement("td");
-                    cell.innerText = rowText;
-                    rowElement.appendChild(cell);
-                    tableBody.appendChild(rowElement);
-                });
-
+                section.innerHTML = `<h3>${page}</h3>
+                                     <table border="1" cellspacing="5" style="width:100%">
+                                         <tr>${headers}</tr>
+                                         ${matchingRows.join("")}
+                                     </table>`;
                 resultsContainer.appendChild(section);
             }
         }
@@ -126,9 +128,16 @@ permalink: /search/
         width: 100%;
         border-collapse: collapse;
     }
-    td {
-        padding: 8px;
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+    tr:nth-child(odd) {
+        background-color: #ffffff;
+    }
+    th, td {
         border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
     }
 </style>
 
