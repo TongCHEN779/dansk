@@ -28,7 +28,7 @@ permalink: /search/
 
                 if (headers && rows.length > 0) {
                     let rowData = rows.map(row => {
-                        let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" "); // Extract text only
+                        let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
                         return { html: row.outerHTML, text: tdText };
                     });
                     pageContents[page.name] = { headers, rows: rowData };
@@ -49,7 +49,6 @@ permalink: /search/
         for (let page in pageContents) {
             let { headers, rows } = pageContents[page];
 
-            // Filter rows based on td text content, NOT full row HTML
             let matchingRows = rows.filter(row => row.text.includes(input));
 
             if (matchingRows.length > 0) {
@@ -58,13 +57,13 @@ permalink: /search/
                                      <table border="1" cellspacing="5" style="width:100%">
                                          <tr>${headers}</tr>
                                      </table>`;
-                
+
                 let table = section.querySelector("table");
 
                 matchingRows.forEach(rowData => {
                     let row = document.createElement("tr");
-                    row.innerHTML = rowData.html; // Preserve original row HTML structure
-                    highlightMatchesInElement(row, input); // Apply highlighting properly
+                    row.innerHTML = rowData.html;
+                    highlightMatchesInElement(row, input);
                     table.appendChild(row);
                 });
 
@@ -72,14 +71,14 @@ permalink: /search/
             }
         }
 
-        attachAudioEventListeners(); // Ensure newly inserted rows have working audio
+        attachAudioEventListeners(); // Attach audio event listeners after inserting results
     }
 
     function highlightMatchesInElement(element, searchTerm) {
         let regex = new RegExp(`(${searchTerm})`, "gi");
 
         function highlightNode(node) {
-            if (node.nodeType === 3) { // Text node
+            if (node.nodeType === 3) {
                 let matches = node.nodeValue.match(regex);
                 if (matches) {
                     let span = document.createElement("span");
@@ -87,21 +86,27 @@ permalink: /search/
                     node.replaceWith(span);
                 }
             } else {
-                node.childNodes.forEach(highlightNode); // Recursively process child nodes
+                node.childNodes.forEach(highlightNode);
             }
         }
 
         highlightNode(element);
     }
 
+    function playSound(soundId) {
+        var audioElement = document.getElementById(soundId);
+        if (audioElement) {
+            audioElement.play();
+        } else {
+            console.error("Audio element not found:", soundId);
+        }
+    }
+
     function attachAudioEventListeners() {
         document.querySelectorAll("span[data-audio-id]").forEach(span => {
             span.onclick = function() {
                 let soundId = this.getAttribute("data-audio-id");
-                let audioElement = document.getElementById(soundId);
-                if (audioElement) {
-                    audioElement.play();
-                }
+                playSound(soundId);
             };
         });
     }
@@ -147,3 +152,5 @@ permalink: /search/
 
 <input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchPages()">
 <div id="results"></div>
+
+
