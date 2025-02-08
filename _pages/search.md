@@ -27,9 +27,17 @@ permalink: /search/
                 let rows = table ? Array.from(table.querySelectorAll("tr")).slice(1) : [];
 
                 if (headers && rows.length > 0) {
+                    // let rowData = rows.map(row => {
+                    //     let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
+                    //     return { html: row.outerHTML, text: tdText };
+                    // });
                     let rowData = rows.map(row => {
-                        let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
-                        return { html: row.outerHTML, text: tdText };
+                        // Clone the row to preserve the `audio` elements
+                        let clonedRow = row.cloneNode(true);
+                        return { 
+                            html: clonedRow.outerHTML, 
+                            text: clonedRow.innerText.toLowerCase()  // Ensure text search works correctly
+                        };
                     });
                     pageContents[page.name] = { headers, rows: rowData };
                 }
@@ -70,8 +78,9 @@ permalink: /search/
                 resultsContainer.appendChild(section);
             }
         }
-
+        
         attachAudioEventListeners(); // Attach audio event listeners after inserting results
+        
     }
 
     function highlightMatchesInElement(element, searchTerm) {
