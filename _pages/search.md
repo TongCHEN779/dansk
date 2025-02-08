@@ -5,51 +5,51 @@ permalink: /search/
 ---
 
 <script>
-    // List of files to search
-    const filesToSearch = [
-        { name: "Adjektiver", url: "/ord_og_gram/adj/" },
-        { name: "Substantiver", url: "/ord_og_gram/sub/" },
-        // Add more files as needed
-    ];
-
-    // Function to fetch content from a file
-    async function fetchContent(url) {
-        const response = await fetch(url);
-        const text = await response.text();
-        return text;
+    function searchTable() {
+        let input = document.getElementById("searchInput").value.toLowerCase();
+        let table = document.getElementById("wordTable");
+        let rows = table.getElementsByTagName("tr");
+        let firstMatch = null;
+        for (let i = 1; i < rows.length; i++) {
+            let rowText = rows[i].innerText.toLowerCase();
+            if (rowText.includes(input)) {
+                rows[i].style.display = "";
+                if (!firstMatch) firstMatch = rows[i]; // Save first matching row
+            } else {
+                rows[i].style.display = "table-row"; // Ensure row is not hidden
+            }
+        }
+        // Scroll to the first matching row
+        if (firstMatch) {
+            setTimeout(() => {
+                firstMatch.scrollIntoView({ behavior: "smooth", block: "center" });
+            }, 100); // Delay to ensure rendering
+        }
     }
-
-    // Function to search through the content
-    async function searchTable() {
-        const input = document.getElementById("searchInput").value.toLowerCase();
-        const resultsContainer = document.getElementById("searchResults");
-        resultsContainer.innerHTML = ""; // Clear previous results
-
-        for (const file of filesToSearch) {
-            const content = await fetchContent(file.url);
-            const lines = content.split('\n');
-
-            lines.forEach((line, index) => {
-                if (line.toLowerCase().includes(input)) {
-                    const resultItem = document.createElement("div");
-                    resultItem.innerHTML = `<strong>${file.name}</strong>: ${line}`;
-                    resultsContainer.appendChild(resultItem);
-                }
-            });
+    // Function to scroll to the first row that contains the search word.
+    function jumpToRow() {
+        // Get the search word in lowercase.
+        let input = document.getElementById("searchInput").value.toLowerCase();
+        // Get the table and its rows.
+        let table = document.getElementById("wordTable");
+        let rows = table.getElementsByTagName("tr");
+        // Loop through each row (skipping the header row).
+        for (let i = 1; i < rows.length; i++) {
+            let rowText = rows[i].innerText.toLowerCase();
+            if (rowText.includes(input)) {
+                // Scroll the first matching row into view.
+                rows[i].scrollIntoView({ behavior: "smooth", block: "center" });
+                break; // Stop after scrolling to the first match.
+            }
         }
     }
 </script>
-
 <style>
     input {
         margin-bottom: 10px;
         padding: 5px;
         width: 100%;
     }
-    #searchResults {
-        margin-top: 20px;
-    }
 </style>
 
 <input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchTable()">
-<div id="searchResults"></div>
