@@ -54,15 +54,19 @@ permalink: /search/
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
                 section.innerHTML = `<h3>${page}</h3>
-                                     <table border="1" cellspacing="5" style="width:100%">
-                                         <tr>${headers}</tr>
-                                     </table>`;
+                                    <table border="1" cellspacing="5" style="width:100%">
+                                        <tr>${headers}</tr>
+                                    </table>`;
 
                 let table = section.querySelector("table");
 
                 matchingRows.forEach(rowData => {
                     let row = document.createElement("tr");
                     row.innerHTML = rowData.html;
+
+                    // Remove any duplicate <audio> elements before inserting
+                    row.querySelectorAll("audio").forEach(audio => audio.remove());
+
                     highlightMatchesInElement(row, input);
                     table.appendChild(row);
                 });
@@ -70,10 +74,10 @@ permalink: /search/
                 resultsContainer.appendChild(section);
             }
         }
-        
-        attachAudioEventListeners(); // Attach audio event listeners after inserting results
-        
+
+        attachAudioEventListeners(); // Rebind click events
     }
+
 
     function highlightMatchesInElement(element, searchTerm) {
         let regex = new RegExp(`(${searchTerm})`, "gi");
@@ -105,14 +109,11 @@ permalink: /search/
 
     function attachAudioEventListeners() {
         document.querySelectorAll("span[data-audio-id]").forEach(span => {
-            span.removeEventListener("click", handleAudioClick); // Remove previous listeners to prevent duplication
-            span.addEventListener("click", handleAudioClick);
+            span.onclick = function() {
+                let soundId = this.getAttribute("data-audio-id");
+                playSound(soundId);
+            };
         });
-    }
-
-    function handleAudioClick(event) {
-        let soundId = event.target.getAttribute("data-audio-id");
-        playSound(soundId);
     }
 
     document.addEventListener("DOMContentLoaded", loadPages);
