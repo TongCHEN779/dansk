@@ -54,15 +54,29 @@ permalink: /search/
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
                 section.innerHTML = `<h3>${page}</h3>
-                                     <table border="1" cellspacing="5" style="width:100%">
-                                         <tr>${headers}</tr>
-                                     </table>`;
+                                    <table border="1" cellspacing="5" style="width:100%">
+                                        <tr>${headers}</tr>
+                                    </table>`;
 
                 let table = section.querySelector("table");
 
                 matchingRows.forEach(rowData => {
                     let row = document.createElement("tr");
                     row.innerHTML = rowData.html;
+
+                    // Keep audio elements inside the row
+                    row.querySelectorAll("span[data-audio-id]").forEach(span => {
+                        let soundId = span.getAttribute("data-audio-id");
+
+                        // Check if the audio element already exists in the row
+                        if (!row.querySelector(`audio[id="${soundId}"]`)) {
+                            let existingAudio = document.getElementById(soundId);
+                            if (existingAudio) {
+                                row.appendChild(existingAudio.cloneNode(true)); // Keep a copy
+                            }
+                        }
+                    });
+
                     highlightMatchesInElement(row, input);
                     table.appendChild(row);
                 });
@@ -71,7 +85,7 @@ permalink: /search/
             }
         }
 
-        attachAudioEventListeners(); // Attach audio event listeners after inserting results
+        attachAudioEventListeners(); // Reattach event listeners after updating results
     }
 
     function highlightMatchesInElement(element, searchTerm) {
@@ -94,7 +108,7 @@ permalink: /search/
     }
 
     function playSound(soundId) {
-        let audioElement = document.getElementById(soundId);
+        var audioElement = document.getElementById(soundId);
         if (audioElement) {
             audioElement.play();
         } else {
@@ -108,24 +122,16 @@ permalink: /search/
                 let soundId = this.getAttribute("data-audio-id");
                 let audioElement = document.getElementById(soundId);
 
-                if (!audioElement) {
-                    // If the <audio> element is missing, recreate it and append to the body
-                    audioElement = document.createElement("audio");
-                    audioElement.id = soundId;
-                    audioElement.src = `https://static.ordnet.dk/mp3/11000/${soundId}_1.mp3`;  // Assuming consistent audio URL pattern
-                    audioElement.style.display = "none";
-                    document.body.appendChild(audioElement);
+                if (audioElement) {
+                    audioElement.play();
+                } else {
+                    console.error("Audio element not found:", soundId);
                 }
-
-                audioElement.play();
             };
         });
     }
 
-    // Ensure event listeners are reattached after each search
-    document.addEventListener("DOMContentLoaded", () => {
-        loadPages().then(attachAudioEventListeners);
-    });
+    document.addEventListener("DOMContentLoaded", loadPages);
 </script>
 
 <style>
