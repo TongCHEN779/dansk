@@ -32,12 +32,12 @@ permalink: /search/
     // This defines the list of pages to search, each containing a name and a URL.
     let pagesToSearch = [
         { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
+        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
+        { name: "Verber", url: "/dansk/ord_og_gram/verb/" },
         { name: "Adverbier", url: "/dansk/ord_og_gram/adv/" },
-        { name: "Faste Udtryk", url: "/dansk/ord_og_gram/fast/" },
         { name: "Konjunktioner", url: "/dansk/ord_og_gram/konj/" },
         { name: "Præpositioner", url: "/dansk/ord_og_gram/præp/" },
-        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
-        { name: "Verber", url: "/dansk/ord_og_gram/verb/" }
+        { name: "Faste Udtryk", url: "/dansk/ord_og_gram/fast/" }
     ];
 
     let pageContents = {};
