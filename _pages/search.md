@@ -45,7 +45,6 @@ permalink: /search/
                 let parser = new DOMParser();
                 let doc = parser.parseFromString(text, "text/html");
 
-                // Extract table headers and rows
                 let table = doc.querySelector("table");
                 let headers = table ? table.querySelector("tr").innerHTML : null;
                 let rows = table ? Array.from(table.querySelectorAll("tr")).slice(1) : [];
@@ -72,8 +71,7 @@ permalink: /search/
 
         for (let page in pageContents) {
             let { headers, rows } = pageContents[page];
-
-            let matchingRows = rows.filter(row => row.text.includes(input)).slice(0, 5);
+            let matchingRows = rows.filter(row => row.text.includes(input)).slice(0, 5); // Limit to 5 rows per page
 
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
@@ -81,32 +79,18 @@ permalink: /search/
                                     <table border="1" cellspacing="5" style="width:100%">
                                         <tr>${headers}</tr>
                                     </table>`;
-
+                
                 let table = section.querySelector("table");
-
                 matchingRows.forEach(rowData => {
                     let row = document.createElement("tr");
                     row.innerHTML = rowData.html;
                     highlightMatchesInElement(row, input);
                     table.appendChild(row);
-
-                    // Ensure audio elements are NOT duplicated
-                    let audioElements = row.querySelectorAll("audio");
-                    audioElements.forEach(audio => {
-                        let existingAudio = document.getElementById(audio.id);
-                        if (!existingAudio) {
-                            document.body.appendChild(audio); // Move it to a common container
-                        } else {
-                            audio.remove(); // Avoid duplicates
-                        }
-                    });
                 });
 
                 resultsContainer.appendChild(section);
             }
         }
-
-        attachAudioEventListeners();
     }
 
     function highlightMatchesInElement(element, searchTerm) {
@@ -128,18 +112,6 @@ permalink: /search/
         highlightNode(element);
     }
 
-    function attachAudioEventListeners() {
-        document.querySelectorAll("span[data-audio-id]").forEach(span => {
-            if (!span.hasAttribute("data-listener")) {
-                span.setAttribute("data-listener", "true");
-                span.addEventListener("click", function () {
-                    let soundId = this.getAttribute("data-audio-id");
-                    playSound(soundId);
-                });
-            }
-        });
-    }
-
     document.addEventListener("DOMContentLoaded", loadPages);
 </script>
 
@@ -153,15 +125,9 @@ permalink: /search/
         margin-top: 20px;
         color: #0077cc;
     }
-    tab
     .highlight {
         background-color: yellow;
         font-weight: bold;
-    }
-    span[data-audio-id] {
-        cursor: pointer;
-        text-decoration: underline;
-        color: blue;
     }
 </style>
 
