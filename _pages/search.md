@@ -44,9 +44,6 @@ permalink: /search/
         let resultsContainer = document.getElementById("results");
         resultsContainer.innerHTML = "";
 
-        // Clear all previous audio elements
-        document.querySelectorAll("audio").forEach(audio => audio.remove());
-
         if (!input) return;
 
         let audioIdsToKeep = new Set(); // Track new audio elements to keep
@@ -84,13 +81,6 @@ permalink: /search/
                 resultsContainer.appendChild(section);
             }
         }
-
-        // Remove old audio elements not in the current search results
-        document.querySelectorAll("audio").forEach(audio => {
-            if (!audioIdsToKeep.has(audio.id)) {
-                audio.remove();
-            }
-        });
 
         attachAudioEventListeners();
     }
