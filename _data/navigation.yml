@@ -15,7 +15,7 @@ main:
   - title: "Links"
     url: /links/
 
-  - title: "<i class='fas fa-search'></i>"
+  - title: "Søg<i class='fas fa-search'></i>"
     url: /search/
 
 ord_og_gram:
