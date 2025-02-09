@@ -86,6 +86,64 @@ permalink: /search/
     }
 
 
+    function searchPages() {
+        let input = document.getElementById("searchInput").value.toLowerCase().trim();
+        let resultsContainer = document.getElementById("results");
+        resultsContainer.innerHTML = "";
+
+        // Clear all previous audio elements
+        document.querySelectorAll("audio").forEach(audio => audio.remove());
+
+        if (!input) return;
+
+        let audioIdsToKeep = new Set(); // Track new audio elements to keep
+
+        for (let page in pageContents) {
+            let { headers, rows } = pageContents[page];
+
+            let matchingRows = rows.filter(row => row.text.includes(input));
+
+            if (matchingRows.length > 0) {
+                let section = document.createElement("div");
+                section.innerHTML = `<h3>${page}</h3>
+                                    <table border="1" cellspacing="5" style="width:100%">
+                                        <tr>${headers}</tr>
+                                    </table>`;
+
+                let table = section.querySelector("table");
+
+                matchingRows.forEach(rowData => {
+                    let row = document.createElement("tr");
+                    row.innerHTML = rowData.html;
+                    highlightMatchesInElement(row, input);
+                    table.appendChild(row);
+
+                    // Collect only relevant audio elements
+                    let audioElements = row.querySelectorAll("audio");
+                    audioElements.forEach(audio => {
+                        if (!document.getElementById(audio.id)) {
+                            document.body.appendChild(audio); // Add only new audio elements
+                        }
+                        audioIdsToKeep.add(audio.id);
+                    });
+                });
+
+                resultsContainer.appendChild(section);
+            }
+        }
+
+        // Remove old audio elements not in the current search results
+        document.querySelectorAll("audio").forEach(audio => {
+            if (!audioIdsToKeep.has(audio.id)) {
+                audio.remove();
+            }
+        });
+
+        attachAudioEventListeners();
+    }
+
+
+
     function highlightMatchesInElement(element, searchTerm) {
         let regex = new RegExp(`(${searchTerm})`, "gi");
 
