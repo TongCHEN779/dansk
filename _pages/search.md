@@ -97,9 +97,7 @@ permalink: /search/
     function playSound(soundId) {
         var audioElement = document.getElementById(soundId);
         if (audioElement) {
-            audioElement.currentTime = 0;
             audioElement.play();
-            setTimeout(() => audioElement.pause(), audioElement.duration * 999)
         } else {
             console.error("Audio element not found:", soundId);
         }
