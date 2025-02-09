@@ -53,10 +53,10 @@ permalink: /search/
 
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
-                section.innerHTML = `<h3>${page}</h3>
-                                    <table border="1" cellspacing="5" style="width:100%">
-                                        <tr>${headers}</tr>
-                                    </table>`;
+                section.innerHTML = <h3>${page}</h3>
+                                     <table border="1" cellspacing="5" style="width:100%">
+                                         <tr>${headers}</tr>
+                                     </table>;
 
                 let table = section.querySelector("table");
 
@@ -65,26 +65,60 @@ permalink: /search/
                     row.innerHTML = rowData.html;
                     highlightMatchesInElement(row, input);
                     table.appendChild(row);
-
-                    // Ensure audio elements are NOT duplicated
-                    let audioElements = row.querySelectorAll("audio");
-                    audioElements.forEach(audio => {
-                        let existingAudio = document.getElementById(audio.id);
-                        if (!existingAudio) {
-                            document.body.appendChild(audio); // Move it to a common container
-                        } else {
-                            audio.remove(); // Avoid duplicates
-                        }
-                    });
                 });
 
                 resultsContainer.appendChild(section);
             }
         }
 
-        attachAudioEventListeners();
+        attachAudioEventListeners(); // Attach audio event listeners after inserting results
     }
 
+    // function searchPages() {
+    //     let input = document.getElementById("searchInput").value.toLowerCase().trim();
+    //     let resultsContainer = document.getElementById("results");
+    //     resultsContainer.innerHTML = "";
+
+    //     if (!input) return;
+
+    //     for (let page in pageContents) {
+    //         let { headers, rows } = pageContents[page];
+
+    //         let matchingRows = rows.filter(row => row.text.includes(input));
+
+    //         if (matchingRows.length > 0) {
+    //             let section = document.createElement("div");
+    //             section.innerHTML = `<h3>${page}</h3>
+    //                                 <table border="1" cellspacing="5" style="width:100%">
+    //                                     <tr>${headers}</tr>
+    //                                 </table>`;
+
+    //             let table = section.querySelector("table");
+
+    //             matchingRows.forEach(rowData => {
+    //                 let row = document.createElement("tr");
+    //                 row.innerHTML = rowData.html;
+    //                 highlightMatchesInElement(row, input);
+    //                 table.appendChild(row);
+
+    //                 // Ensure audio elements are NOT duplicated
+    //                 let audioElements = row.querySelectorAll("audio");
+    //                 audioElements.forEach(audio => {
+    //                     let existingAudio = document.getElementById(audio.id);
+    //                     if (!existingAudio) {
+    //                         document.body.appendChild(audio); // Move it to a common container
+    //                     } else {
+    //                         audio.remove(); // Avoid duplicates
+    //                     }
+    //                 });
+    //             });
+
+    //             resultsContainer.appendChild(section);
+    //         }
+    //     }
+
+    //     attachAudioEventListeners();
+    // }
 
     function highlightMatchesInElement(element, searchTerm) {
         let regex = new RegExp(`(${searchTerm})`, "gi");
@@ -116,16 +150,24 @@ permalink: /search/
 
     function attachAudioEventListeners() {
         document.querySelectorAll("span[data-audio-id]").forEach(span => {
-            if (!span.hasAttribute("data-listener")) {
-                span.setAttribute("data-listener", "true");
-                span.addEventListener("click", function () {
-                    let soundId = this.getAttribute("data-audio-id");
-                    playSound(soundId);
-                });
-            }
+            span.onclick = function() {
+                let soundId = this.getAttribute("data-audio-id");
+                playSound(soundId);
+            };
         });
     }
 
+    // function attachAudioEventListeners() {
+    //     document.querySelectorAll("span[data-audio-id]").forEach(span => {
+    //         if (!span.hasAttribute("data-listener")) {
+    //             span.setAttribute("data-listener", "true");
+    //             span.addEventListener("click", function () {
+    //                 let soundId = this.getAttribute("data-audio-id");
+    //                 playSound(soundId);
+    //             });
+    //         }
+    //     });
+    // }
 
     document.addEventListener("DOMContentLoaded", loadPages);
 </script>
