@@ -51,31 +51,6 @@ permalink: /search/
                 let parser = new DOMParser();
                 let doc = parser.parseFromString(text, "text/html");
 
-                let table = doc.querySelector("table");
-                let headers = table ? table.querySelector("tr").innerHTML : null;
-                let rows = table ? Array.from(table.querySelectorAll("tr")).slice(1) : [];
-
-                if (headers && rows.length > 0) {
-                    let rowData = rows.map(row => {
-                        let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
-                        return { html: row.outerHTML, text: tdText };
-                    });
-                    pageContents[page.name] = { headers, rows: rowData };
-                }
-            } catch (error) {
-                console.error(`Failed to load ${page.url}:`, error);
-            }
-        }
-    }
-
-    async function loadPages() {
-        for (let page of pagesToSearch) {
-            try {
-                let response = await fetch(page.url);
-                let text = await response.text();
-                let parser = new DOMParser();
-                let doc = parser.parseFromString(text, "text/html");
-
                 let tables = Array.from(doc.querySelectorAll("table")); // Get all tables on the page
                 let tableData = [];
 
@@ -103,38 +78,6 @@ permalink: /search/
     }
 
     // Filters the loaded pages based on the search term and displays up to 5 matching rows per page.
-    function searchPages() {
-        let input = document.getElementById("searchInput").value.toLowerCase().trim();
-        let resultsContainer = document.getElementById("results");
-        resultsContainer.innerHTML = "";
-
-        if (!input) return;
-
-        for (let page in pageContents) {
-            let { headers, rows } = pageContents[page];
-            // Limits the displayed search results to the first 5 matching rows per page.
-            let matchingRows = rows.filter(row => row.text.includes(input)).slice(0, 5);
-
-            if (matchingRows.length > 0) {
-                let section = document.createElement("div");
-                section.innerHTML = `<h3>${page}</h3>
-                                    <table border="1" cellspacing="5" style="width:100%">
-                                        <tr>${headers}</tr>
-                                    </table>`;
-                
-                let table = section.querySelector("table");
-                matchingRows.forEach(rowData => {
-                    let row = document.createElement("tr");
-                    row.innerHTML = rowData.html;
-                    highlightMatchesInElement(row, input);
-                    table.appendChild(row);
-                });
-
-                resultsContainer.appendChild(section);
-            }
-        }
-    }
-
     function searchPages() {
         let input = document.getElementById("searchInput").value.toLowerCase().trim();
         let resultsContainer = document.getElementById("results");
