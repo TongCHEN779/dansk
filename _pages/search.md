@@ -73,7 +73,7 @@ permalink: /search/
         for (let page in pageContents) {
             let { headers, rows } = pageContents[page];
 
-            let matchingRows = rows.filter(row => row.text.includes(input));
+            let matchingRows = rows.filter(row => row.text.includes(input)).slice(0, 5);
 
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
