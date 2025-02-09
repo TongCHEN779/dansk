@@ -5,6 +5,30 @@ permalink: /search/
 ---
 
 <script>
+    function playSound(soundId) {
+        var audioElement = document.getElementById(soundId);
+        audioElement.play();
+    }
+</script>
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    tr:nth-child(even) {
+        background-color: #f2f2f2; /* Light gray background for even rows */
+    }
+    tr:nth-child(odd) {
+        background-color: #ffffff; /* White background for odd rows */
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        padding: 8px;
+        text-align: left;
+    }
+</style>
+
+<script>
     let pagesToSearch = [
         { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
         { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
@@ -104,15 +128,6 @@ permalink: /search/
         highlightNode(element);
     }
 
-    function playSound(soundId) {
-        var audioElement = document.getElementById(soundId);
-        if (audioElement) {
-            audioElement.play();
-        } else {
-            console.error("Audio element not found:", soundId);
-        }
-    }
-
     function attachAudioEventListeners() {
         document.querySelectorAll("span[data-audio-id]").forEach(span => {
             if (!span.hasAttribute("data-listener")) {
@@ -138,21 +153,7 @@ permalink: /search/
         margin-top: 20px;
         color: #0077cc;
     }
-    table {
-        width: 100%;
-        border-collapse: collapse;
-    }
-    tr:nth-child(even) {
-        background-color: #f2f2f2;
-    }
-    tr:nth-child(odd) {
-        background-color: #ffffff;
-    }
-    th, td {
-        border: 1px solid #ddd;
-        padding: 8px;
-        text-align: left;
-    }
+    tab
     .highlight {
         background-color: yellow;
         font-weight: bold;
