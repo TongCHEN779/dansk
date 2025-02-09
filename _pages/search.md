@@ -54,15 +54,23 @@ permalink: /search/
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
                 section.innerHTML = `<h3>${page}</h3>
-                                     <table border="1" cellspacing="5" style="width:100%">
-                                         <tr>${headers}</tr>
-                                     </table>`;
+                                    <table border="1" cellspacing="5" style="width:100%">
+                                        <tr>${headers}</tr>
+                                    </table>`;
 
                 let table = section.querySelector("table");
 
                 matchingRows.forEach(rowData => {
                     let row = document.createElement("tr");
                     row.innerHTML = rowData.html;
+
+                    // Ensure audio elements are included in the new row
+                    let audioElements = row.querySelectorAll("audio");
+                    audioElements.forEach(audio => {
+                        let clonedAudio = audio.cloneNode(true);
+                        row.appendChild(clonedAudio);
+                    });
+
                     highlightMatchesInElement(row, input);
                     table.appendChild(row);
                 });
@@ -70,10 +78,10 @@ permalink: /search/
                 resultsContainer.appendChild(section);
             }
         }
-        
-        attachAudioEventListeners(); // Attach audio event listeners after inserting results
-        
+
+        attachAudioEventListeners(); // Reattach event listeners after updating results
     }
+
 
     function highlightMatchesInElement(element, searchTerm) {
         let regex = new RegExp(`(${searchTerm})`, "gi");
@@ -97,33 +105,25 @@ permalink: /search/
     function playSound(soundId) {
         var audioElement = document.getElementById(soundId);
         if (audioElement) {
-            audioElement.play();
+            if (audioElement.readyState >= 2) { // Check if audio is fully loaded
+                audioElement.play();
+            } else {
+                console.warn("Audio not ready yet:", soundId);
+            }
         } else {
             console.error("Audio element not found:", soundId);
         }
     }
 
-    // function attachAudioEventListeners() {
-    //     document.querySelectorAll("span[data-audio-id]").forEach(span => {
-    //         span.onclick = function() {
-    //             let soundId = this.getAttribute("data-audio-id");
-    //             playSound(soundId);
-    //         };
-    //     });
-    // }
 
     function attachAudioEventListeners() {
         document.querySelectorAll("span[data-audio-id]").forEach(span => {
-            if (!span.hasAttribute("data-listener")) {
-                span.setAttribute("data-listener", "true");
-                span.addEventListener("click", function () {
-                    let soundId = this.getAttribute("data-audio-id");
-                    playSound(soundId);
-                });
-            }
+            span.onclick = function() {
+                let soundId = this.getAttribute("data-audio-id");
+                playSound(soundId);
+            };
         });
     }
-
 
     document.addEventListener("DOMContentLoaded", loadPages);
 </script>
