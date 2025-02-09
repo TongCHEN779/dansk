@@ -28,7 +28,7 @@ search: true
 <tr>
 <th> Udtryk </th>
 <th> Engelsk </th>
-<th> Engelsk </th>
+<th> Eksempler </th>
 </tr>
 <tr>
 <td> ad gangen </td>
