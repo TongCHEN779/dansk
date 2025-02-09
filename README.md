@@ -3,7 +3,7 @@ Guide to Tong's Danish Learning Website
 
 This website contains all my Danish notes and materials during my study at [Studieskolen](https://www.studieskolen.dk/). Feel free to use, share, and comment on anything about Danish!
 
-The website contains a homepage and 6 main blocks:
+The website contains a homepage, 5 main blocks and a word search engine:
 
 - Homepage: Danish (former) queen Margrethes' new year talk 2023.
 
@@ -17,6 +17,6 @@ The website contains a homepage and 6 main blocks:
 
 - Block 5: "Links". Useful links about Danish learning, dictionary, news, culture, history, great people, etc.
 
-- Block 6: "Søg". Word search engine for all subpages in block 1 (except "Pronominer").
+- Search engine: Word search engine for all subpages in block 1 (except "Pronominer").
 
 (**Easter eggs**: Do you know who is the man in the portrait? Can you find another information about him somewhere in the website?)
