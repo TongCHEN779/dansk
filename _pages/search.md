@@ -44,9 +44,6 @@ permalink: /search/
         let resultsContainer = document.getElementById("results");
         resultsContainer.innerHTML = "";
 
-        // Remove all previous audio elements from the document
-        document.querySelectorAll("audio").forEach(audio => audio.remove());
-
         if (!input) return;
 
         for (let page in pageContents) {
@@ -69,11 +66,14 @@ permalink: /search/
                     highlightMatchesInElement(row, input);
                     table.appendChild(row);
 
-                    // Move relevant audio elements to the document
+                    // Ensure audio elements are NOT duplicated
                     let audioElements = row.querySelectorAll("audio");
                     audioElements.forEach(audio => {
-                        if (!document.getElementById(audio.id)) {
-                            document.body.appendChild(audio); // Retain only new audio elements
+                        let existingAudio = document.getElementById(audio.id);
+                        if (!existingAudio) {
+                            document.body.appendChild(audio); // Move it to a common container
+                        } else {
+                            audio.remove(); // Avoid duplicates
                         }
                     });
                 });
