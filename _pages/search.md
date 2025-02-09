@@ -68,6 +68,40 @@ permalink: /search/
         }
     }
 
+    async function loadPages() {
+        for (let page of pagesToSearch) {
+            try {
+                let response = await fetch(page.url);
+                let text = await response.text();
+                let parser = new DOMParser();
+                let doc = parser.parseFromString(text, "text/html");
+
+                let tables = Array.from(doc.querySelectorAll("table")); // Get all tables on the page
+                let tableData = [];
+
+                tables.forEach((table, index) => {
+                    let headers = table.querySelector("tr") ? table.querySelector("tr").innerHTML : null;
+                    let rows = Array.from(table.querySelectorAll("tr")).slice(1);
+
+                    if (headers && rows.length > 0) {
+                        let rowData = rows.map(row => {
+                            let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
+                            return { html: row.outerHTML, text: tdText };
+                        });
+
+                        tableData.push({ headers, rows: rowData });
+                    }
+                });
+
+                if (tableData.length > 0) {
+                    pageContents[page.name] = tableData;
+                }
+            } catch (error) {
+                console.error(`Failed to load ${page.url}:`, error);
+            }
+        }
+    }
+
     // Filters the loaded pages based on the search term and displays up to 5 matching rows per page.
     function searchPages() {
         let input = document.getElementById("searchInput").value.toLowerCase().trim();
@@ -100,6 +134,48 @@ permalink: /search/
             }
         }
     }
+
+    function searchPages() {
+        let input = document.getElementById("searchInput").value.toLowerCase().trim();
+        let resultsContainer = document.getElementById("results");
+        resultsContainer.innerHTML = "";
+
+        if (!input) return;
+
+        for (let page in pageContents) {
+            let tableData = pageContents[page];
+
+            let section = document.createElement("div");
+            section.innerHTML = `<h3>${page}</h3>`;
+
+            let found = false;
+
+            tableData.forEach((table, index) => {
+                let { headers, rows } = table;
+                let matchingRows = rows.filter(row => row.text.includes(input)).slice(0, 5);
+
+                if (matchingRows.length > 0) {
+                    found = true;
+                    let tableElement = document.createElement("table");
+                    tableElement.innerHTML = `<tr>${headers}</tr>`;
+
+                    matchingRows.forEach(rowData => {
+                        let row = document.createElement("tr");
+                        row.innerHTML = rowData.html;
+                        highlightMatchesInElement(row, input);
+                        tableElement.appendChild(row);
+                    });
+
+                    section.appendChild(tableElement);
+                }
+            });
+
+            if (found) {
+                resultsContainer.appendChild(section);
+            }
+        }
+    }
+
     // Highlights the searched term in the displayed results by wrapping matched text in a span with a highlight class.
     function highlightMatchesInElement(element, searchTerm) {
         let regex = new RegExp(`(${searchTerm})`, "gi");
@@ -119,6 +195,7 @@ permalink: /search/
 
         highlightNode(element);
     }
+
     // Ensures the page data is loaded when the document is fully loaded.
     document.addEventListener("DOMContentLoaded", loadPages);
 </script>
