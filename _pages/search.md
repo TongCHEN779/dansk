@@ -103,14 +103,27 @@ permalink: /search/
         }
     }
 
+    // function attachAudioEventListeners() {
+    //     document.querySelectorAll("span[data-audio-id]").forEach(span => {
+    //         span.onclick = function() {
+    //             let soundId = this.getAttribute("data-audio-id");
+    //             playSound(soundId);
+    //         };
+    //     });
+    // }
+
     function attachAudioEventListeners() {
         document.querySelectorAll("span[data-audio-id]").forEach(span => {
-            span.onclick = function() {
-                let soundId = this.getAttribute("data-audio-id");
-                playSound(soundId);
-            };
+            if (!span.hasAttribute("data-listener")) {
+                span.setAttribute("data-listener", "true");
+                span.addEventListener("click", function () {
+                    let soundId = this.getAttribute("data-audio-id");
+                    playSound(soundId);
+                });
+            }
         });
     }
+
 
     document.addEventListener("DOMContentLoaded", loadPages);
 </script>
