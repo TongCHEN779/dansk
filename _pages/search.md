@@ -7,8 +7,8 @@ permalink: /search/
 <script>
     let pagesToSearch = [
         { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
-        { name: "Verber", url: "/dansk/ord_og_gram/verb/" },
-        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" }
+        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
+        { name: "Verber", url: "/dansk/ord_og_gram/verb/" }
     ];
 
     let pageContents = {};
@@ -34,7 +34,7 @@ permalink: /search/
                     pageContents[page.name] = { headers, rows: rowData };
                 }
             } catch (error) {
-                console.error(Failed to load ${page.url}:, error);
+                console.error(`Failed to load ${page.url}:`, error);
             }
         }
     }
@@ -53,10 +53,10 @@ permalink: /search/
 
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
-                section.innerHTML = <h3>${page}</h3>
+                section.innerHTML = `<h3>${page}</h3>
                                      <table border="1" cellspacing="5" style="width:100%">
                                          <tr>${headers}</tr>
-                                     </table>;
+                                     </table>`;
 
                 let table = section.querySelector("table");
 
@@ -70,19 +70,20 @@ permalink: /search/
                 resultsContainer.appendChild(section);
             }
         }
-
+        
         attachAudioEventListeners(); // Attach audio event listeners after inserting results
+        
     }
 
     function highlightMatchesInElement(element, searchTerm) {
-        let regex = new RegExp((${searchTerm}), "gi");
+        let regex = new RegExp(`(${searchTerm})`, "gi");
 
         function highlightNode(node) {
             if (node.nodeType === 3) {
                 let matches = node.nodeValue.match(regex);
                 if (matches) {
                     let span = document.createElement("span");
-                    span.innerHTML = node.nodeValue.replace(regex, <span class="highlight">$1</span>);
+                    span.innerHTML = node.nodeValue.replace(regex, `<span class="highlight">$1</span>`);
                     node.replaceWith(span);
                 }
             } else {
