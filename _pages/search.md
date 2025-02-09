@@ -29,14 +29,20 @@ permalink: /search/
 </style>
 
 <script>
+    // This defines the list of pages to search, each containing a name and a URL.
     let pagesToSearch = [
         { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
+        { name: "Adverbier", url: "/dansk/ord_og_gram/adv/" },
+        { name: "Faste Udtryk", url: "/dansk/ord_og_gram/fast/" },
+        { name: "Konjunktioner", url: "/dansk/ord_og_gram/konj/" },
+        { name: "Præpositioner", url: "/dansk/ord_og_gram/præp/" },
         { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
         { name: "Verber", url: "/dansk/ord_og_gram/verb/" }
     ];
 
     let pageContents = {};
 
+    // Fetches the content of the pages asynchronously and extracts table data for searching.
     async function loadPages() {
         for (let page of pagesToSearch) {
             try {
@@ -62,6 +68,7 @@ permalink: /search/
         }
     }
 
+    // Filters the loaded pages based on the search term and displays up to 5 matching rows per page.
     function searchPages() {
         let input = document.getElementById("searchInput").value.toLowerCase().trim();
         let resultsContainer = document.getElementById("results");
@@ -71,7 +78,8 @@ permalink: /search/
 
         for (let page in pageContents) {
             let { headers, rows } = pageContents[page];
-            let matchingRows = rows.filter(row => row.text.includes(input)).slice(0, 5); // Limit to 5 rows per page
+            // Limits the displayed search results to the first 5 matching rows per page.
+            let matchingRows = rows.filter(row => row.text.includes(input)).slice(0, 5);
 
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
@@ -92,7 +100,7 @@ permalink: /search/
             }
         }
     }
-
+    // Highlights the searched term in the displayed results by wrapping matched text in a span with a highlight class.
     function highlightMatchesInElement(element, searchTerm) {
         let regex = new RegExp(`(${searchTerm})`, "gi");
 
@@ -111,7 +119,7 @@ permalink: /search/
 
         highlightNode(element);
     }
-
+    // Ensures the page data is loaded when the document is fully loaded.
     document.addEventListener("DOMContentLoaded", loadPages);
 </script>
 
