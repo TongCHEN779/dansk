@@ -54,9 +54,9 @@ permalink: /search/
             if (matchingRows.length > 0) {
                 let section = document.createElement("div");
                 section.innerHTML = `<h3>${page}</h3>
-                                     <table border="1" cellspacing="5" style="width:100%">
-                                         <tr>${headers}</tr>
-                                     </table>`;
+                                    <table border="1" cellspacing="5" style="width:100%">
+                                        <tr>${headers}</tr>
+                                    </table>`;
 
                 let table = section.querySelector("table");
 
@@ -65,15 +65,26 @@ permalink: /search/
                     row.innerHTML = rowData.html;
                     highlightMatchesInElement(row, input);
                     table.appendChild(row);
+
+                    // Ensure audio elements are NOT duplicated
+                    let audioElements = row.querySelectorAll("audio");
+                    audioElements.forEach(audio => {
+                        let existingAudio = document.getElementById(audio.id);
+                        if (!existingAudio) {
+                            document.body.appendChild(audio); // Move it to a common container
+                        } else {
+                            audio.remove(); // Avoid duplicates
+                        }
+                    });
                 });
 
                 resultsContainer.appendChild(section);
             }
         }
-        
-        attachAudioEventListeners(); // Attach audio event listeners after inserting results
-        
+
+        attachAudioEventListeners();
     }
+
 
     function highlightMatchesInElement(element, searchTerm) {
         let regex = new RegExp(`(${searchTerm})`, "gi");
@@ -105,12 +116,16 @@ permalink: /search/
 
     function attachAudioEventListeners() {
         document.querySelectorAll("span[data-audio-id]").forEach(span => {
-            span.onclick = function() {
-                let soundId = this.getAttribute("data-audio-id");
-                playSound(soundId);
-            };
+            if (!span.hasAttribute("data-listener")) {
+                span.setAttribute("data-listener", "true");
+                span.addEventListener("click", function () {
+                    let soundId = this.getAttribute("data-audio-id");
+                    playSound(soundId);
+                });
+            }
         });
     }
+
 
     document.addEventListener("DOMContentLoaded", loadPages);
 </script>
@@ -151,5 +166,5 @@ permalink: /search/
     }
 </style>
 
-<input type="text" id="searchInput" placeholder="Search for a word..." onkeyup="searchPages()">
+<input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()">
 <div id="results"></div>
