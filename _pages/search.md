@@ -44,9 +44,12 @@ permalink: /search/
         let resultsContainer = document.getElementById("results");
         resultsContainer.innerHTML = "";
 
+        // Clear all previous audio elements
+        document.querySelectorAll("audio").forEach(audio => audio.remove());
+
         if (!input) return;
 
-        let audioIdsToKeep = new Set(); // Track relevant audio IDs
+        let audioIdsToKeep = new Set(); // Track new audio elements to keep
 
         for (let page in pageContents) {
             let { headers, rows } = pageContents[page];
@@ -68,21 +71,13 @@ permalink: /search/
                     highlightMatchesInElement(row, input);
                     table.appendChild(row);
 
-                    // Ensure the correct audio elements are linked
+                    // Collect only relevant audio elements
                     let audioElements = row.querySelectorAll("audio");
                     audioElements.forEach(audio => {
                         if (!document.getElementById(audio.id)) {
-                            document.body.appendChild(audio); // Move only new audio elements
+                            document.body.appendChild(audio); // Add only new audio elements
                         }
                         audioIdsToKeep.add(audio.id);
-                    });
-
-                    // Ensure correct audio link on click
-                    row.querySelectorAll("span[data-audio-id]").forEach(span => {
-                        let soundId = span.getAttribute("data-audio-id");
-                        if (document.getElementById(soundId)) {
-                            span.onclick = () => playSound(soundId);
-                        }
                     });
                 });
 
@@ -90,7 +85,7 @@ permalink: /search/
             }
         }
 
-        // Remove old audio elements that are not in current search results
+        // Remove old audio elements not in the current search results
         document.querySelectorAll("audio").forEach(audio => {
             if (!audioIdsToKeep.has(audio.id)) {
                 audio.remove();
@@ -99,7 +94,6 @@ permalink: /search/
 
         attachAudioEventListeners();
     }
-
 
     function highlightMatchesInElement(element, searchTerm) {
         let regex = new RegExp(`(${searchTerm})`, "gi");
