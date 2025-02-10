@@ -126,6 +126,11 @@ search: true
 <td> Vi skal anmode om, at lønnoten fremover udfyldes korrekt. </td>
 </tr>
 <tr>
+<td> ganske </td>
+<td> very </td>
+<td> Bønnerne fremsiges på arabisk og følges af ganske bestemte bevægelser. </td>
+</tr>
+<tr>
 <td> (også) gerne, hellere, helst </td>
 <td> (also) would like, rather, preferable </td>
 <td> Jeg vil gerne vide hvor langt en sæl kan dykke uden at trække vejret? </td>

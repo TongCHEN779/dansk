@@ -56,6 +56,11 @@ search: true
 <td> Jeg måtte anstrenge mig for at forstå hans russiske. </td>
 </tr>
 <tr>
+<td> ase og mase </td>
+<td> hustle and bustle </td>
+<td> De asede og masede .. men til sidst fik de da kassen bugseret ud gennem baglokalet til bilen i gården. </td>
+</tr>
+<tr>
 <td> beklage sig </td>
 <td> complain </td>
 <td> Mor beklager sig over alt, hvad der kan være at klage over. </td>
@@ -204,6 +209,11 @@ search: true
 <td> få øje på </td>
 <td> spot </td>
 <td> Julie havde fået øje på Liv og vinkede til hende med fortvivlelsen malet i alle træk. </td>
+</tr>
+<tr>
+<td> ganske vist </td>
+<td> admittedly </td>
+<td> At ryge var ganske vist dyrt – men én last skal man have, trøstede hun sig selv. </td>
 </tr>
 <tr>
 <td> give ... videre til / videregive ... til </td>
