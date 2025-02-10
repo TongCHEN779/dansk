@@ -6917,8 +6917,8 @@ search: true
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=m%C3%B8nster"> et mønster </a></td>
 <td>
-<audio id="mønster" src="https://static.ordnet.dk/mp3/11035/11035050_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('mønster');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmønˀsdɐ]</span>
+<audio id="mønster" src="https://static.ordnet.dk/mp3/11035/11035038_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mønster');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmønˀsdʌ]</span>
 </td>
 <td> mønsteret/mønstret </td>
 <td> mønstre </td>
