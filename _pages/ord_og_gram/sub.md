@@ -4479,6 +4479,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indl%C3%A6ring"> en indlæring </a></td>
+<td>
+<audio id="indlæring" src="https://static.ordnet.dk/mp3/11023/11023437_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indlæring');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌlεˀɐ̯eŋ]</span>
+</td>
+<td> indlæringen </td>
+<td> indlæringer </td>
+<td> indlæringerne </td>
+<td> learning </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=indretning"> en indretning </a></td>
 <td>
 <audio id="indretning" src="https://static.ordnet.dk/mp3/11023/11023492_1.mp3" style="display: none;"></audio>
