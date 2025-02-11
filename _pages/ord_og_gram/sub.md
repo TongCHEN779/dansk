@@ -423,6 +423,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ansvar"> et ansvar </a></td>
+<td>
+<audio id="ansvar" src="https://static.ordnet.dk/mp3/11001/11001992_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ansvar');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈanˌsvɑˀ]</span>
+</td>
+<td> ansvaret </td>
+<td> ansvar </td>
+<td> ansvarene </td>
+<td> responsibility </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ans%C3%B8gning"> en ansøgning </a></td>
 <td>
 <audio id="ansøgning" src="https://static.ordnet.dk/mp3/11002/11002018_1.mp3" style="display: none;"></audio>
@@ -951,6 +963,30 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=besked"> en besked </a></td>
+<td>
+<audio id="besked" src="https://static.ordnet.dk/mp3/11004/11004221_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('besked');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈsgeðˀ]</span>
+</td>
+<td> beskeden </td>
+<td> beskeder </td>
+<td> beskederne </td>
+<td> message </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bestemmelse"> en bestemmelse </a></td>
+<td>
+<audio id="bestemmelse" src="https://static.ordnet.dk/mp3/11004/11004304_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bestemmelse');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈsdεmˀəlsə]</span>
+</td>
+<td> bestemmelsen </td>
+<td> bestemmelser </td>
+<td> bestemmelserne </td>
+<td> regulation </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bestyrelse"> en bestyrelse </a></td>
 <td>
 <audio id="bestyrelse" src="https://static.ordnet.dk/mp3/11004/11004336_1.mp3" style="display: none;"></audio>
@@ -1297,6 +1333,18 @@ search: true
 <td> bollerne </td>
 <td> bun </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bondeg%C3%A5rd"> en bondegård </a></td>
+<td>
+<audio id="bondegård" src="https://static.ordnet.dk/mp3/11005/11005710_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bondegård');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbɔnəˌgɒˀ]</span>
+</td>
+<td> bondegården </td>
+<td> bondegårde </td>
+<td> bondegårdene </td>
+<td> farm </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bord"> et bord </a></td>
@@ -2979,6 +3027,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fordom"> en fordom </a></td>
+<td>
+<audio id="fordom" src="https://static.ordnet.dk/mp3/11014/11014341_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fordom');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfɒːˌdʌmˀ]</span>
+</td>
+<td> fordommen </td>
+<td> fordomme </td>
+<td> fordommene </td>
+<td> prejudice </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=foredrag"> et foredrag </a></td>
 <td>
 <audio id="foredrag" src="https://static.ordnet.dk/mp3/11014/11014391_1.mp3" style="display: none;"></audio>
@@ -3277,6 +3337,18 @@ search: true
 <td> fredene </td>
 <td> peace </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fredning"> en fredning </a></td>
+<td>
+<audio id="fredning" src="https://static.ordnet.dk/mp3/11015/11015792_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fredning');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfʁεðneŋ]</span>
+</td>
+<td> fredningen </td>
+<td> fredninger </td>
+<td> fredningerne </td>
+<td> conservation </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=freelancejournalist"> en freelancejournalist </a></td>
@@ -5691,6 +5763,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=krav"> et krav </a></td>
+<td>
+<audio id="krav" src="https://static.ordnet.dk/mp3/11027/11027961_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('krav');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈkʁɑˀw]</span>
+</td>
+<td> kravet </td>
+<td> krav </td>
+<td> kravene </td>
+<td> requirement </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kuglepen"> en kuglepen </a></td>
 <td>
 <audio id="kuglepen" src="https://static.ordnet.dk/mp3/11028/11028437_1.mp3" style="display: none;"></audio>
@@ -7779,6 +7863,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ordlyd"> en ordlyd </a></td>
+<td>
+<audio id="ordlyd" src="https://static.ordnet.dk/mp3/11037/11037933_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ordlyd');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+</td>
+<td> ordlyden </td>
+<td> - </td>
+<td> - </td>
+<td> wording </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=originalsprog"> et originalsprog </a></td>
 <td>
 <audio id="originalsprog" src="https://static.ordnet.dk/mp3/11038/11038008_1.mp3" style="display: none;"></audio>
@@ -9434,6 +9530,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skala"> en skala </a></td>
+<td>
+<audio id="skala" src="https://static.ordnet.dk/mp3/11046/11046264_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skala');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsgæːla]</span>
+</td>
+<td> skalaen </td>
+<td> skalaer </td>
+<td> skalaerne </td>
+<td> scale </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ski"> en ski </a></td>
 <td>
 <audio id="ski" src="https://static.ordnet.dk/mp3/11046/11046463_1.mp3" style="display: none;"></audio>
@@ -10814,6 +10922,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%A6k"> en sæk </a></td>
+<td>
+<audio id="sæk" src="https://static.ordnet.dk/mp3/11052/11052195_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sæk');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsεg]</span>
+</td>
+<td> sækken </td>
+<td> sække </td>
+<td> sækkene </td>
+<td> sack </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=særtilfælde"> et særtilfælde </a></td>
 <td>
 <audio id="særtilfælde" src="https://static.ordnet.dk/mp3/11052/11052261_1.mp3" style="display: none;"></audio>
@@ -11807,6 +11927,18 @@ search: true
 <td> uddannelsessystemer </td>
 <td> uddannelsessystemerne </td>
 <td> education system </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udfordring"> en udfordring </a></td>
+<td>
+<audio id="udfordring" src="https://static.ordnet.dk/mp3/12003/12003809_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udfordring');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌfɒˀdʁεŋ]</span>
+</td>
+<td> udfordringen </td>
+<td> udfordringer </td>
+<td> udfordringerne </td>
+<td> challenge </td>
 <td> 1 </td>
 </tr>
 <tr>

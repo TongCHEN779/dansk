@@ -612,6 +612,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=anstrenge"> at anstrenge </a></td>
+<td>
+<audio id="anstrenge" src="https://static.ordnet.dk/mp3/11001/11001980_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('anstrenge');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌsdʁaŋˀə]</span>
+</td>
+<td> anstrenger </td>
+<td> anstrengte </td>
+<td> har anstrengt </td>
+<td> anstreng </td>
+<td> to exert </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ans%C3%A6tte"> at ansætte </a></td>
 <td>
 <audio id="ansætte" src="https://static.ordnet.dk/mp3/11002/11002006_1.mp3" style="display: none;"></audio>
@@ -1221,6 +1234,19 @@ search: true
 <td> betal </td>
 <td> to pay </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=betone"> at betone </a></td>
+<td>
+<audio id="betone" src="https://static.ordnet.dk/mp3/11004/11004437_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('betone');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈtoˀnə]</span>
+</td>
+<td> betoner </td>
+<td> betonede </td>
+<td> har betonet </td>
+<td> beton </td>
+<td> to emphasize </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=betragte"> at betragte </a></td>
@@ -2833,6 +2859,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forfalde"> at forfalde </a></td>
+<td>
+<audio id="forfalde" src="https://static.ordnet.dk/mp3/11014/11014468_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forfalde');" style="cursor: pointer; text-decoration: underline; color: blue;">[fʌˈfalˀə]</span>
+</td>
+<td> forfalder </td>
+<td> forfaldt </td>
+<td> er forfaldet </td>
+<td> forfald </td>
+<td> to decay </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forfremme"> at forfremme </a></td>
 <td>
 <audio id="forfremme" src="https://static.ordnet.dk/mp3/11014/11014498_1.mp3" style="display: none;"></audio>
@@ -3024,6 +3063,19 @@ search: true
 <td> har forpligtet </td>
 <td> forpligt </td>
 <td> to oblige </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forpurre"> at forpurre </a></td>
+<td>
+<audio id="forpurre" src="https://static.ordnet.dk/mp3/11014/11014971_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forpurre');" style="cursor: pointer; text-decoration: underline; color: blue;">[fʌˈpuɐ̯ˀʌ]</span>
+</td>
+<td> forpurrer </td>
+<td> forpurrede </td>
+<td> har forpurret </td>
+<td> forpurr </td>
+<td> to thwart </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -6290,6 +6342,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nedrive"> at nedrive </a></td>
+<td>
+<audio id="nedrive" src="https://static.ordnet.dk/mp3/11035/11035716_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nedrive');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌʁiˀvə]</span>
+</td>
+<td> nedriver </td>
+<td> nedrev </td>
+<td> har nedrevet </td>
+<td> nedriv </td>
+<td> to demolish </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=neje"> at neje </a></td>
 <td>
 <audio id="neje" src="https://static.ordnet.dk/mp3/11035/11035814_1.mp3" style="display: none;"></audio>
@@ -6652,6 +6717,19 @@ search: true
 <td> opgør </td>
 <td> to settle </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=oph%C3%A6ve"> at ophæve </a></td>
+<td>
+<audio id="ophæve" src="https://static.ordnet.dk/mp3/11037/11037479_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ophæve');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌhεˀvə]</span>
+</td>
+<td> ophæver </td>
+<td> ophævede </td>
+<td> har ophævet </td>
+<td> ophæv </td>
+<td> to repeal </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=opkalde"> at opkalde </a></td>
@@ -8444,7 +8522,7 @@ search: true
 <td> sled </td>
 <td> har slidt </td>
 <td> slid </td>
-<td> to slide </td>
+<td> to wear out </td>
 <td> 3 </td>
 </tr>
 <tr>
@@ -10810,6 +10888,19 @@ search: true
 <td> har vedlagt </td>
 <td> vedlæg </td>
 <td> to include </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vedtage"> at vedtage </a></td>
+<td>
+<audio id="vedtage" src="https://static.ordnet.dk/mp3/12006/12006020_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vedtage');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌtæˀ]</span>
+</td>
+<td> vedtager </td>
+<td> vedtog </td>
+<td> har vedtaget </td>
+<td> vedtag </td>
+<td> to adopt </td>
 <td> 3 </td>
 </tr>
 <tr>

@@ -96,6 +96,11 @@ search: true
 <td> Et par karle bar bagagen ind, kroværten bød velkommen og mutter præsenterede selv værelserne. </td>
 </tr>
 <tr>
+<td> bære præg af </td>
+<td> bear the mark of </td>
+<td> Hans hoved bærer tydeligt præg af mødet med BZ'erne. </td>
+</tr>
+<tr>
 <td> den blå luft </td>
 <td> pure nothingness </td>
 <td> Hvis man har gonoré, er smitten ikke kommet ud af den blå luft. </td>
@@ -596,6 +601,11 @@ search: true
 <td> Dykkere skal passe meget på, når de har været dybt nede i vandet. </td>
 </tr>
 <tr>
+<td> på høje tid </td>
+<td> right time </td>
+<td> Det er på høje tid, at læger og naturhelbredere finder hinanden i et fornuftigt samarbejde. </td>
+</tr>
+<tr>
 <td> på nogens vegne, på vegne af nogen </td>
 <td> on behalf of someone </td>
 <td> En folketingsmand kan handle på vælgernes vegne, på partiets vegne og på folketingsgruppens vegne. </td>
@@ -664,6 +674,11 @@ search: true
 <td> sidde fast </td>
 <td> get stuck </td>
 <td> Hun kunne ikke tænke sig at sidde fast i hverken en sikker stilling eller i et parcelhus. </td>
+</tr>
+<tr>
+<td> slide ned </td>
+<td> wear down </td>
+<td> Når dækmønstret er slidt ned til gummiklodserne, er det på høje tid at købe nye dæk. </td>
 </tr>
 <tr>
 <td> slutte af </td>
