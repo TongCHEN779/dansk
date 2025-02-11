@@ -66,6 +66,11 @@ search: true
 <td> Mor beklager sig over alt, hvad der kan være at klage over. </td>
 </tr>
 <tr>
+<td> bero på </td>
+<td> be based on </td>
+<td> Behandlingen må bero på gensidig tillid, således at patienten ikke føler sin integritet undergravet. </td>
+</tr>
+<tr>
 <td> betale sig </td>
 <td> pay off </td>
 <td> Det kan ikke betale sig at bygge i dagens Danmark. Byggeomkostningerne er høje, fordi arbejdsløn og materialer er dyre. </td>
@@ -104,6 +109,11 @@ search: true
 <td> den blå luft </td>
 <td> pure nothingness </td>
 <td> Hvis man har gonoré, er smitten ikke kommet ud af den blå luft. </td>
+</tr>
+<tr>
+<td> det private erhvervsliv </td>
+<td> the private sector </td>
+<td> Det private erhvervsliv i Vordingborg har gjort et scoop. Det har på få år skaffet unge på bistandshjælp ud på arbejdsmarkedet. </td>
 </tr>
 <tr>
 <td> det skyldes </td>
@@ -266,8 +276,8 @@ search: true
 <td> Lad os få nogle flere folkeafstemninger, det er der i høj grad brug for. </td>
 </tr>
 <tr>
-<td> have det svært, godt, dårligt, dejligt, ... </td>
-<td> feel difficult, good, bad, great, ... </td>
+<td> have det svært, godt, dårligt, dejligt, bedst, ... </td>
+<td> feel difficult, good, bad, great, best, ... </td>
 <td> Hjælp et barn som har det svært i Rwanda, eller i Mexico, Indien og Kenya eller et andet fattigt land. </td>
 </tr>
 <tr>
@@ -706,6 +716,11 @@ search: true
 <td> Selvfølgelig havde jeg sommerfugle i maven, da jeg søgte stillingen – og fik den. </td>
 </tr>
 <tr>
+<td> spærre op </td>
+<td> open </td>
+<td> Den store hund havde spærret gabet op, dens tænder lyste gulhvide i solen. </td>
+</tr>
+<tr>
 <td> stamme fra </td>
 <td> originate from </td>
 <td> Han stammer fra Sønderjylland – har stadig charmerende sproglige reminiscenser derfra. </td>
@@ -831,6 +846,11 @@ search: true
 <td> Han har trukket sig tilbage til et afsides værelse for at pleje et anfald af hovedpine. </td>
 </tr>
 <tr>
+<td> trække/hive stikket ud </td>
+<td> unplug </td>
+<td> Du har brug for at hive stikket ud. Kan du søge orlov eller blive korttids-sygemeldt? </td>
+</tr>
+<tr>
 <td> trække ud </td>
 <td> pull out </td>
 <td> Lige nu, hvor vinteren trækker ud, kan vi bare længes og føle, at nu har det varet længe nok. </td>
@@ -904,6 +924,11 @@ search: true
 <td> være på vej </td>
 <td> on the way </td>
 <td> Hun bar på en kurv med grøntsager og var øjensynligt på vej hjem fra markedet. </td>
+</tr>
+<tr>
+<td> være rystet over </td>
+<td> be upset about </td>
+<td> Jeg er lidt rystet over fremgangsmåden her i aften!. </td>
 </tr>
 <tr>
 <td> være spændt på </td>

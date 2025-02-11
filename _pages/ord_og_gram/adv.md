@@ -31,6 +31,11 @@ search: true
 <th> Eksempler </th>
 </tr>
 <tr>
+<td> afvekslende </td>
+<td> alternately </td>
+<td> Tambourkorpset er den del af vagtparaden, der på turen til Amalienborg spiller afvekslende med musikkorpset. </td>
+</tr>
+<tr>
 <td> (næsten) aldrig </td>
 <td> almost never </td>
 <td> Jeg gør det aldrig mere. </td>
@@ -206,6 +211,11 @@ search: true
 <td> Mange sten nedbrydes indefra af nedsivende vand, der skaber sprækker, som siden får stenen til at knække. </td>
 </tr>
 <tr>
+<td> indendørs </td>
+<td> indoors </td>
+<td> Naturligvis skal man ikke holde sig indendørs, når solen skinner. </td>
+</tr>
+<tr>
 <td> itu </td>
 <td> cracked </td>
 <td> Han river alle jordknolde ind i bedets side og presser dem itu med riven. </td>
@@ -309,6 +319,11 @@ search: true
 <td> tit, ofte </td>
 <td> often </td>
 <td> Det var ærgerligt, at de så tit skændtes. </td>
+</tr>
+<tr>
+<td> udendørs </td>
+<td> outdoors </td>
+<td> Jeg interesserer mig for natur og har det bedst, når jeg er udendørs. </td>
 </tr>
 <tr>
 <td> udenom </td>
