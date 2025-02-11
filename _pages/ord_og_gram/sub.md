@@ -891,6 +891,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=begrundelse"> en begrundelse </a></td>
+<td>
+<audio id="begrundelse" src="https://static.ordnet.dk/mp3/11003/11003876_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('begrundelse');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈgʁɔnˀəlsə]</span>
+</td>
+<td> begrundelsen </td>
+<td> begrundelser </td>
+<td> begrundelserne </td>
+<td> reason </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=begyndelse"> en begyndelse </a></td>
 <td>
 <audio id="begyndelse" src="https://static.ordnet.dk/mp3/11003/11003886_1.mp3" style="display: none;"></audio>
@@ -12183,6 +12195,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=t%C3%A5lmod"> tålmod </a></td>
+<td>
+<audio id="tålmod" src="https://static.ordnet.dk/mp3/12003/12003465_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tålmod');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtʌlˌmoˀð]</span>
+</td>
+<td> tålmodet </td>
+<td> - </td>
+<td> - </td>
+<td> patience </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ubehag"> et ubehag </a></td>
 <td>
 <audio id="ubehag" src="https://static.ordnet.dk/mp3/12003/12003555_1.mp3" style="display: none;"></audio>
@@ -13513,6 +13537,18 @@ search: true
 <td> åerne </td>
 <td> stream </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%A5l"> en ål </a></td>
+<td>
+<audio id="ål" src="https://static.ordnet.dk/mp3/12008/12008480_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ål');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈɔˀl]</span>
+</td>
+<td> ålen </td>
+<td> ål </td>
+<td> ålene </td>
+<td> eel </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%A5r"> et år </a></td>

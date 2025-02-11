@@ -4527,6 +4527,18 @@ search: true
 <td> foggy </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=t%C3%A5lmodig"> tålmodig </a></td>
+<td>
+<audio id="tålmodig" src="https://static.ordnet.dk/mp3/12003/12003466_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tålmodig');" style="cursor: pointer; text-decoration: underline; color: blue;">[tʌlˈmoˀði]</span>
+</td>
+<td> tålmodigt </td>
+<td> tålmodige </td>
+<td> mere tålmodig </td>
+<td> mest tålmodig </td>
+<td> patient </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ubehagelig"> ubehagelig </a></td>
 <td>
 <audio id="ubehagelig" src="https://static.ordnet.dk/mp3/12003/12003556_1.mp3" style="display: none;"></audio>
