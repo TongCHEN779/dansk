@@ -111,6 +111,11 @@ search: true
 <td> Hvis man har gonoré, er smitten ikke kommet ud af den blå luft. </td>
 </tr>
 <tr>
+<td> det hvide ud af øjnene </td>
+<td> expensive </td>
+<td> Huawei har markeret sig stærkt de seneste år med en række prisvenlige mobiler for dem, der gerne vil have smarte funktioner, men ikke ønsker at betale det hvide ud af øjnene. </td>
+</tr>
+<tr>
 <td> det private erhvervsliv </td>
 <td> the private sector </td>
 <td> Det private erhvervsliv i Vordingborg har gjort et scoop. Det har på få år skaffet unge på bistandshjælp ud på arbejdsmarkedet. </td>
