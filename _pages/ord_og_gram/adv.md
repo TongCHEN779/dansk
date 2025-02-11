@@ -316,9 +316,19 @@ search: true
 <td> Nogle havde vi truffet aftale med i forvejen, og andre mødte vi tilfældigt. </td>
 </tr>
 <tr>
+<td> tilovers </td>
+<td> leftovers </td>
+<td> Jeg havde 5 minutter tilovers så jeg satte mig ind i vores opholdsrum og slappede lidt af. </td>
+</tr>
+<tr>
 <td> tit, ofte </td>
 <td> often </td>
 <td> Det var ærgerligt, at de så tit skændtes. </td>
+</tr>
+<tr>
+<td> tværs </td>
+<td> across </td>
+<td> Pernille fra hans klasse kom hurtigt gående tværs over den smalle gade, mens hun vinkede til ham. </td>
 </tr>
 <tr>
 <td> udendørs </td>

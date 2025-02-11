@@ -115,6 +115,11 @@ search: true
 <td> Jeg kommer fra Kina. </td>
 </tr>
 <tr>
+<td rowspan="3"> fremfor/frem for </td>
+<td> rather than </td>
+<td> Når der er dårlige arbejdsforhold på arbejdspladsen, vælger flertallet at gå direkte til chefen fremfor at tale med fagforeningen. </td>
+</tr>
+<tr>
 <td rowspan="2"> før </td>
 <td> before </td>
 <td> Han kom i mål før de andre. </td>

@@ -501,6 +501,11 @@ search: true
 <td> De virksomheder, der er en idé i at ramme, går fri, mens vi andre kommer til at betale. </td>
 </tr>
 <tr>
+<td> kvæge sig </td>
+<td> refresh </td>
+<td> Mikkel skal nok have kvæget sig ved et glas portvin. </td>
+</tr>
+<tr>
 <td> lade op </td>
 <td> recharge </td>
 <td> Så snart der var lejlighed til det, slappede Lisbeth af i sommerhuset i Hornbæk, hvor hun ladede op og fik nye kræfter. </td>
@@ -621,6 +626,11 @@ search: true
 <td> Det er på høje tid, at læger og naturhelbredere finder hinanden i et fornuftigt samarbejde. </td>
 </tr>
 <tr>
+<td> på kryds og tværs </td>
+<td> crisscross </td>
+<td> De mange afmærkede vandrestier .. løber på kryds og tværs i det frugtbare område mellem vinstokke og skovklædte bjerge. </td>
+</tr>
+<tr>
 <td> på nogens vegne, på vegne af nogen </td>
 <td> on behalf of someone </td>
 <td> En folketingsmand kan handle på vælgernes vegne, på partiets vegne og på folketingsgruppens vegne. </td>
@@ -689,6 +699,11 @@ search: true
 <td> sidde fast </td>
 <td> get stuck </td>
 <td> Hun kunne ikke tænke sig at sidde fast i hverken en sikker stilling eller i et parcelhus. </td>
+</tr>
+<tr>
+<td> skridt for skridt </td>
+<td> step by step </td>
+<td> Nu bevægede han sig langsomt fremad, skridt for skridt, følte sig for med fødderne. </td>
 </tr>
 <tr>
 <td> slide ned </td>
