@@ -2670,7 +2670,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=meningsfuld"> meningsfuld </a></td>
 <td>
 <audio id="meningsfuld" src="https://static.ordnet.dk/mp3/11033/11033179_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('meningsfuld');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('meningsfuld');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmeˀneŋsˌfulˀ]</span>
 </td>
 <td> meningsfuldt </td>
 <td> meningsfulde </td>

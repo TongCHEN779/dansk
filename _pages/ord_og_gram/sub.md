@@ -2082,7 +2082,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=deltidsjob"> et deltidsjob </a></td>
 <td>
 <audio id="deltidsjob" src="https://static.ordnet.dk/mp3/50001/50001341_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('deltidsjob');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('deltidsjob');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈdεlˌtiðsˌjɔb]</span>
 </td>
 <td> deltidsjobbet </td>
 <td> deltidsjob </td>
@@ -2526,7 +2526,8 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=enkeltsag"> en enkeltsag </a></td>
 <td>
 <audio id="enkeltsag" src="https://static.ordnet.dk/mp3/53000/53000164_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('enkeltsag');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<audio id="enkeltsag" src="https://static.ordnet.dk/mp3/11011/11011438_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('enkeltsag');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈεŋˌkelsˌsæˀj]</span>
 </td>
 <td> enkeltsagen </td>
 <td> enkeltsager </td>
@@ -2574,7 +2575,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=erhvervsliv"> et erhvervsliv </a></td>
 <td>
 <audio id="erhvervsliv" src="https://static.ordnet.dk/mp3/11011/11011673_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('erhvervsliv');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('erhvervsliv');" style="cursor: pointer; text-decoration: underline; color: blue;">[æɐ̯ˈvæɐ̯ˀwˌsliˀw]</span>
 </td>
 <td> erhvervslivet </td>
 <td> - </td>
@@ -3558,7 +3559,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fuldtidsjob"> et fuldtidsjob </a></td>
 <td>
 <audio id="fuldtidsjob" src="https://static.ordnet.dk/mp3/50002/50002734_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('fuldtidsjob');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('fuldtidsjob');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfultˌtiðsˌjɔb]</span>
 </td>
 <td> fuldtidsjobbet </td>
 <td> fuldtidsjob </td>
@@ -4350,7 +4351,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hjerteanfald"> et hjerteanfald </a></td>
 <td>
 <audio id="hjerteanfald" src="https://static.ordnet.dk/mp3/11020/11020994_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('hjerteanfald');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('hjerteanfald');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈjæɐ̯dəˌanˀfald]</span>
 </td>
 <td> hjerteanfaldet </td>
 <td> hjerteanfald </td>
@@ -4362,7 +4363,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hjerteklap"> en hjerteklap </a></td>
 <td>
 <audio id="hjerteklap" src="https://static.ordnet.dk/mp3/11021/11021012_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('hjerteklap');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('hjerteklap');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈjæɐ̯dəˌklɑb]</span>
 </td>
 <td> hjerteklappen </td>
 <td> hjerteklapper </td>
@@ -8106,7 +8107,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ordlyd"> en ordlyd </a></td>
 <td>
 <audio id="ordlyd" src="https://static.ordnet.dk/mp3/11037/11037933_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('ordlyd');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('ordlyd');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈoˀðˌlyð]</span>
 </td>
 <td> ordlyden </td>
 <td> - </td>
@@ -9845,7 +9846,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skiftehold"> et skiftehold </a></td>
 <td>
 <audio id="skiftehold" src="https://static.ordnet.dk/mp3/11046/11046543_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('skiftehold');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('skiftehold');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsgifdəˌhʌl]</span>
 </td>
 <td> skifteholdet </td>
 <td> skiftehold </td>
@@ -10481,7 +10482,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=spiser%C3%B8r"> et spiserør </a></td>
 <td>
 <audio id="spiserør" src="https://static.ordnet.dk/mp3/11049/11049269_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('spiserør');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('spiserør');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈspiːsəˌʁɶɐ̯ˀ]</span>
 </td>
 <td> spiserøret </td>
 <td> spiserør </td>
@@ -11345,7 +11346,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=talerstol"> en talerstol </a></td>
 <td>
 <audio id="talerstol" src="https://static.ordnet.dk/mp3/12000/12000158_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('talerstol');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('talerstol');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtæˀlɐˌstoˀl]</span>
 </td>
 <td> talerstolen </td>
 <td> talerstole </td>
@@ -11657,7 +11658,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilgang"> en tilgang </a></td>
 <td>
 <audio id="tilgang" src="https://static.ordnet.dk/mp3/12001/12001122_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('tilgang');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('tilgang');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtelˌgɑŋˀ]</span>
 </td>
 <td> tilgangen </td>
 <td> tilgange </td>
@@ -11837,7 +11838,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=trappetrin"> et trappetrin </a></td>
 <td>
 <audio id="trappetrin" src="https://static.ordnet.dk/mp3/12002/12002153_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('trappetrin');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('trappetrin');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtʁɑbəˌtʁin]</span>
 </td>
 <td> trappetrinet, trappetrinnet </td>
 <td> trappetrin </td>
@@ -12389,7 +12390,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=udsyn"> et udsyn </a></td>
 <td>
 <audio id="udsyn" src="https://static.ordnet.dk/mp3/12004/12004214_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('udsyn');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('udsyn');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈuðˌsyn]</span>
 </td>
 <td> udsynet </td>
 <td> - </td>

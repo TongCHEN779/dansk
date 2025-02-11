@@ -1720,7 +1720,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=byforny"> at byforny </a></td>
 <td>
 <audio id="byforny" src="https://static.ordnet.dk/mp3/11006/11006863_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('byforny');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('byforny');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbyfʌˌnyˀ]</span>
 </td>
 <td> byfornyer </td>
 <td> byfornyede </td>
@@ -6449,7 +6449,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=neds%C3%A6tte"> at nedsætte </a></td>
 <td>
 <audio id="nedsætte" src="https://static.ordnet.dk/mp3/11035/11035766_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('nedsætte');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('nedsætte');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈnεdsædə]</span>
 </td>
 <td> nedsætter </td>
 <td> nedsatte </td>
