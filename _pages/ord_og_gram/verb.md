@@ -2469,6 +2469,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fasts%C3%A6tte"> at fastsætte </a></td>
+<td>
+<audio id="fastsætte" src="https://static.ordnet.dk/mp3/11012/11012493_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fastsætte');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfasˌsεdə]</span>
+</td>
+<td> fastsætter </td>
+<td> fastsatte </td>
+<td> har fastsat </td>
+<td> fastsæt </td>
+<td> to set, determine </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fatte"> at fatte </a></td>
 <td>
 <audio id="fatte" src="https://static.ordnet.dk/mp3/11012/11012504_1.mp3" style="display: none;"></audio>
@@ -3677,6 +3690,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=friste"> at friste </a></td>
+<td>
+<audio id="friste" src="https://static.ordnet.dk/mp3/11016/11016128_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('friste');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfʁεsdə]</span>
+</td>
+<td> frister </td>
+<td> fristede </td>
+<td> har fristet </td>
+<td> frist </td>
+<td> to tempt </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fritere"> at fritere </a></td>
 <td>
 <audio id="fritere" src="" style="display: none;"></audio>
@@ -4676,6 +4702,45 @@ search: true
 <td> illustrer </td>
 <td> to illustrate </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=im%C3%B8deg%C3%A5"> at imødegå </a></td>
+<td>
+<audio id="imødegå" src="https://static.ordnet.dk/mp3/11023/11023089_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('imødegå');" style="cursor: pointer; text-decoration: underline; color: blue;">[iˈmøːðəˌgɔˀ]</span>
+</td>
+<td> imødegår </td>
+<td> imødegik </td>
+<td> har imødegået </td>
+<td> imødegå </td>
+<td> to address, counter </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=im%C3%B8dekomme"> at imødekomme </a></td>
+<td>
+<audio id="imødekomme" src="https://static.ordnet.dk/mp3/11023/11023090_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('imødekomme');" style="cursor: pointer; text-decoration: underline; color: blue;">[iˈmøːðəˌkʌmˀə]</span>
+</td>
+<td> imødekommer </td>
+<td> imødekom </td>
+<td> har imødekommet </td>
+<td> imødekom </td>
+<td> to accommodate </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=im%C3%B8dese"> at imødese </a></td>
+<td>
+<audio id="imødese" src="https://static.ordnet.dk/mp3/11023/11023093_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('imødese');" style="cursor: pointer; text-decoration: underline; color: blue;">[iˈmøːðəˌseˀ]</span>
+</td>
+<td> imødeser </td>
+<td> imødeså </td>
+<td> har imødeset </td>
+<td> imødese </td>
+<td> to anticipate </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=inddele"> at inddele </a></td>
@@ -7444,6 +7509,19 @@ search: true
 <td> har peppet </td>
 <td> pep </td>
 <td> to spice up </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=perle"> at perle </a></td>
+<td>
+<audio id="perle" src="https://static.ordnet.dk/mp3/11039/11039435_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('perle');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈpæɐ̯lə]</span>
+</td>
+<td> perler </td>
+<td> perlede </td>
+<td> har perlet </td>
+<td> perl </td>
+<td> to bead </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -11629,6 +11707,19 @@ search: true
 <td> har ønsket </td>
 <td> ønsk </td>
 <td> to wish </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%B8rem%C3%A6rke"> at øremærke </a></td>
+<td>
+<audio id="øremærke" src="https://static.ordnet.dk/mp3/12008/12008347_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('øremærke');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈøːʁəˌmɛɐ̯gə]</span>
+</td>
+<td> øremærker </td>
+<td> øremærkede </td>
+<td> har øremærket </td>
+<td> øremærk </td>
+<td> to earmark </td>
 <td> 1 </td>
 </tr>
 <tr>

@@ -1827,6 +1827,18 @@ search: true
 <td> ugly </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=idyllisk"> idyllisk </a></td>
+<td>
+<audio id="idyllisk" src="https://static.ordnet.dk/mp3/11022/11022839_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('idyllisk');" style="cursor: pointer; text-decoration: underline; color: blue;">[iˈdylˀisg]</span>
+</td>
+<td> idyllisk </td>
+<td> idylliske </td>
+<td> mere idyllisk </td>
+<td> mest idyllisk </td>
+<td> idyllic </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ikonisk"> ikonisk </a></td>
 <td>
 <audio id="ikonisk" src="https://static.ordnet.dk/mp3/11022/11022901_1.mp3" style="display: none;"></audio>
@@ -1849,6 +1861,18 @@ search: true
 <td> mere imponerende </td>
 <td> mest imponerende </td>
 <td> impressive </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=im%C3%B8dekommende"> imødekommende </a></td>
+<td>
+<audio id="imødekommende" src="https://static.ordnet.dk/mp3/11023/11023091_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('imødekommende');" style="cursor: pointer; text-decoration: underline; color: blue;">[iˈmøːðəˌkʌmˀənə]</span>
+</td>
+<td> imødekommende </td>
+<td> imødekommende </td>
+<td> mere imødekommende </td>
+<td> mest imødekommende </td>
+<td> accommodating </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=individuel"> individuel </a></td>
@@ -2629,6 +2653,18 @@ search: true
 <td> mere </td>
 <td> mest </td>
 <td> many </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=maritim"> maritim </a></td>
+<td>
+<audio id="maritim" src="https://static.ordnet.dk/mp3/11032/11032488_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('maritim');" style="cursor: pointer; text-decoration: underline; color: blue;">[mɑiˈtiˀm]</span>
+</td>
+<td> maritimt </td>
+<td> maritime </td>
+<td> mere maritim </td>
+<td> mest maritim </td>
+<td> maritime </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=markant"> markant </a></td>
