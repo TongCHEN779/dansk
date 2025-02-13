@@ -116,6 +116,11 @@ search: true
 <td> Svælget deler sig i luftrøret, som ligger fortil og spiserøret, som ligger bagtil. </td>
 </tr>
 <tr>
+<td> fortsat </td>
+<td> still </td>
+<td> Hun er den dag i dag, i en alder af 90 år, fortsat aktiv med pennen. </td>
+</tr>
+<tr>
 <td> forud </td>
 <td> in advance </td>
 <td> Plads kan ikke reserveres forud. </td>
@@ -557,6 +562,11 @@ search: true
 <td> nu </td>
 <td> now </td>
 <td> Jeg har været væk en tid, men nu er jeg tilbage. </td>
+</tr>
+<tr>
+<td> ombord, om bord </td>
+<td> on board </td>
+<td> En skitse over færgens indretning med anvisning af eventuelle flugtveje burde udleveres til hver passager inden man går eller kører om bord. </td>
 </tr>
 <tr>
 <td> omgående </td>

@@ -36,6 +36,7 @@ permalink: /search/
         { name: "Verber", url: "/dansk/ord_og_gram/verb/" },
         { name: "Adverbier", url: "/dansk/ord_og_gram/adv/" },
         { name: "Konjunktioner", url: "/dansk/ord_og_gram/konj/" },
+        { name: "Pronominer", url: "/dansk/ord_og_gram/pron/" },
         { name: "Præpositioner", url: "/dansk/ord_og_gram/præp/" },
         { name: "Faste Udtryk", url: "/dansk/ord_og_gram/fast/" }
     ];

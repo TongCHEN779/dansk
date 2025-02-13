@@ -891,6 +891,30 @@ search: true
 <td> enthusiastic </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=erhvervsdrivende"> erhvervsdrivende </a></td>
+<td>
+<audio id="erhvervsdrivende" src="https://static.ordnet.dk/mp3/11011/11011646_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('erhvervsdrivende');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌdʁiːvənə]</span>
+</td>
+<td> erhvervsdrivende </td>
+<td> erhvervsdrivende </td>
+<td> mere erhvervsdrivende </td>
+<td> mest erhvervsdrivende </td>
+<td> business owner </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=erhvervsmæssig"> erhvervsmæssig </a></td>
+<td>
+<audio id="erhvervsmæssig" src="https://static.ordnet.dk/mp3/11011/11011677_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('erhvervsmæssig');" style="cursor: pointer; text-decoration: underline; color: blue;">[æɐ̯ˈvæɐ̯ˀwsˌmεˀsi]</span>
+</td>
+<td> erhvervsmæssigt </td>
+<td> erhvervsmæssige </td>
+<td> mere erhvervsmæssig </td>
+<td> mest erhvervsmæssig </td>
+<td> occupational </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=europ%C3%A6isk"> europæisk </a></td>
 <td>
 <audio id="europæisk" src="https://static.ordnet.dk/mp3/11011/11011937_1.mp3" style="display: none;"></audio>
@@ -2799,6 +2823,18 @@ search: true
 <td> strange </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=m%C3%A6ssig"> -mæssig </a></td>
+<td>
+<audio id="mæssig" src="" style="display: none;"></audio>
+<span onclick="playSound('mæssig');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌmεˀsi]</span>
+</td>
+<td> -mæssigt </td>
+<td> -mæssige </td>
+<td> mere -mæssig </td>
+<td> mest -mæssig </td>
+<td> -al, -ry, -ic </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=m%C3%B8rk"> mørk </a></td>
 <td>
 <audio id="mørk" src="https://static.ordnet.dk/mp3/11035/11035067_1.mp3" style="display: none;"></audio>
@@ -3027,6 +3063,18 @@ search: true
 <td> public </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omdiskuteret"> omdiskuteret </a></td>
+<td>
+<audio id="omdiskuteret" src="https://static.ordnet.dk/mp3/11037/11037080_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omdiskuteret');" style="cursor: pointer; text-decoration: underline; color: blue;">[-disguˌteˀʌð]</span>
+</td>
+<td> omdiskuteret </td>
+<td> omdiskuterede </td>
+<td> mere omdiskuteret </td>
+<td> mest omdiskuteret </td>
+<td> controversial </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=omfattende"> omfattende </a></td>
 <td>
 <audio id="omfattende" src="https://static.ordnet.dk/mp3/11037/11037100_1.mp3" style="display: none;"></audio>
@@ -3037,6 +3085,18 @@ search: true
 <td> mere omfattende </td>
 <td> mest omfattende </td>
 <td> extensive </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omt%C3%A6nksom"> omtænksom </a></td>
+<td>
+<audio id="omtænksom" src="https://static.ordnet.dk/mp3/11037/11037264_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omtænksom');" style="cursor: pointer; text-decoration: underline; color: blue;">[ʌmˈtεŋˀˌsʌmˀ]</span>
+</td>
+<td> omtænksomt </td>
+<td> omtænksomme </td>
+<td> mere omtænksom </td>
+<td> mest omtænksom </td>
+<td> considerate </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ond"> ond </a></td>
@@ -3817,6 +3877,18 @@ search: true
 <td> skønnere/mere skøn </td>
 <td> skønnest/mest skøn </td>
 <td> beautiful </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A5nsom"> skånsom </a></td>
+<td>
+<audio id="skånsom" src="https://static.ordnet.dk/mp3/11047/11047530_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skånsom');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsgɔːnˌsʌmˀ]</span>
+</td>
+<td> skånsomt </td>
+<td> skånsomme </td>
+<td> mere skånsom </td>
+<td> mest skånsom </td>
+<td> gentle </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=smart"> smart </a></td>
