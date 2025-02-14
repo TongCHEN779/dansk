@@ -3880,6 +3880,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forvandling"> en forvandling </a></td>
+<td>
+<audio id="forvandling" src="https://static.ordnet.dk/mp3/11015/11015487_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forvandling');" style="cursor: pointer; text-decoration: underline; color: blue;">[fʌˈvanˀleŋ]</span>
+</td>
+<td> forvandlingen </td>
+<td> forvandlinger </td>
+<td> forvandlingerne </td>
+<td> transformation </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=for%C3%A5r"> et forår </a></td>
 <td>
 <audio id="forår" src="https://static.ordnet.dk/mp3/11015/11015579_1.mp3" style="display: none;"></audio>
@@ -4094,6 +4106,18 @@ search: true
 <td> - </td>
 <td> frosty weather </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=frygt"> en frygt </a></td>
+<td>
+<audio id="frygt" src="https://static.ordnet.dk/mp3/11016/11016285_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('frygt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfʁœgd]</span>
+</td>
+<td> frygten </td>
+<td> - </td>
+<td> - </td>
+<td> fear </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fuldtidsjob"> et fuldtidsjob </a></td>
@@ -5308,6 +5332,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%B8jde"> en højde </a></td>
+<td>
+<audio id="højde" src="https://static.ordnet.dk/mp3/11022/11022325_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('højde');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈhʌjˀdə]</span>
+</td>
+<td> højden </td>
+<td> højder </td>
+<td> højderne </td>
+<td> height </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%B8jskole"> en højskole </a></td>
 <td>
 <audio id="højskole" src="https://static.ordnet.dk/mp3/11022/11022409_1.mp3" style="display: none;"></audio>
@@ -5464,6 +5500,29 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indblik"> et indblik </a></td>
+<td>
+<audio id="indblik" src="https://static.ordnet.dk/mp3/11023/11023139_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indblik');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈenˌblik]</span>
+</td>
+<td> indblikket </td>
+<td> indblik </td>
+<td> indblikkene </td>
+<td> insight </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indbliksgene"> indbliksgene </a></td>
+<td>
+<audio id="indbliksgene" src="" style="display: none;"></audio>
+<span onclick="playSound('indbliksgene');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈenˌblikˌɕeːnə]</span>
+</td>
+<td> indbliksgenen </td>
+<td> indbliksgener </td>
+<td> indbliksgenerne </td>
+<td> privacy concern </td>
+<td> 1 </td>
+</tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=indbrud"> et indbrud </a></td>
 <td>
 <audio id="indbrud" src="https://static.ordnet.dk/mp3/11023/11023144_1.mp3" style="display: none;"></audio>
@@ -5474,7 +5533,6 @@ search: true
 <td> indbrudene </td>
 <td> burglary </td>
 <td> 3 </td>
-</tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=indbygger"> en indbygger </a></td>
 <td>
@@ -11343,6 +11401,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skygge"> en skygge </a></td>
+<td>
+<audio id="skygge" src="https://static.ordnet.dk/mp3/11047/11047276_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skygge');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsgygə]</span>
+</td>
+<td> skyggen </td>
+<td> skygger </td>
+<td> skyggerne </td>
+<td> shadow </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A6g"> et skæg </a></td>
 <td>
 <audio id="skæg" src="https://static.ordnet.dk/mp3/11047/11047353_1.mp3" style="display: none;"></audio>
@@ -12567,6 +12637,30 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%A6rpris"> en særpris </a></td>
+<td>
+<audio id="særpris" src="https://static.ordnet.dk/mp3/11052/11052251_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('særpris');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsæɐ̯ˌpʁis]</span>
+</td>
+<td> særprisen </td>
+<td> særpriser </td>
+<td> særpriserne </td>
+<td> special price </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%A6rpr%C3%A6g"> et særpræg </a></td>
+<td>
+<audio id="særpræg" src="https://static.ordnet.dk/mp3/11052/11052252_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('særpræg');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsæɐ̯ˌpʁɛˀj]</span>
+</td>
+<td> særpræget </td>
+<td> særpræg </td>
+<td> særprægene </td>
+<td> characteristic </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=særtilfælde"> et særtilfælde </a></td>
 <td>
 <audio id="særtilfælde" src="https://static.ordnet.dk/mp3/11052/11052261_1.mp3" style="display: none;"></audio>
@@ -12649,6 +12743,18 @@ search: true
 <td> søstrene </td>
 <td> sister </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tab"> et tab </a></td>
+<td>
+<audio id="tab" src="https://static.ordnet.dk/mp3/12000/12000006_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tab');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtæˀb]</span>
+</td>
+<td> tabet </td>
+<td> tab </td>
+<td> tabene </td>
+<td> loss </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tag"> et tag </a></td>
@@ -14748,6 +14854,18 @@ search: true
 <td> værfter </td>
 <td> værfterne </td>
 <td> shipyard </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=v%C3%A6rdi"> en værdi </a></td>
+<td>
+<audio id="værdi" src="https://static.ordnet.dk/mp3/12007/12007493_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('værdi');" style="cursor: pointer; text-decoration: underline; color: blue;">[væɐ̯ˈdiˀ]</span>
+</td>
+<td> værdien </td>
+<td> værdier </td>
+<td> værdierne </td>
+<td> value </td>
 <td> 1 </td>
 </tr>
 <tr>

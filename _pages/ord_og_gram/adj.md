@@ -471,6 +471,18 @@ search: true
 <td> Brazilian </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bred"> bred </a></td>
+<td>
+<audio id="bred" src="https://static.ordnet.dk/mp3/11006/11006360_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bred');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbʁεð]</span>
+</td>
+<td> bredt </td>
+<td> brede </td>
+<td> bredere </td>
+<td> bredest </td>
+<td> wide </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=brugt"> brugt </a></td>
 <td>
 <audio id="brugt" src="https://static.ordnet.dk/mp3/11006/11006340_1.mp3" style="display: none;"></audio>

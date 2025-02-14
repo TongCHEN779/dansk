@@ -1860,6 +1860,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=b%C3%A6ve"> at bæve </a></td>
+<td>
+<audio id="bæve" src="https://static.ordnet.dk/mp3/11007/11007086_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bæve');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbεːvə]</span>
+</td>
+<td> bæver </td>
+<td> bævede </td>
+<td> har bævet </td>
+<td> bæv </td>
+<td> to tremble </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=b%C3%B8je"> at bøje sig </a></td>
 <td>
 <audio id="bøje" src="https://static.ordnet.dk/mp3/11007/11007115_1.mp3" style="display: none;"></audio>
@@ -3791,6 +3804,19 @@ search: true
 <td> har friteret </td>
 <td> friter </td>
 <td> to fry </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=frygte"> at frygte </a></td>
+<td>
+<audio id="frygte" src="https://static.ordnet.dk/mp3/11016/11016286_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('frygte');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfʁœgdə]</span>
+</td>
+<td> frygter </td>
+<td> frygtede </td>
+<td> har frygtet </td>
+<td> frygt </td>
+<td> to fear </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -8901,6 +8927,19 @@ search: true
 <td> skyd </td>
 <td> to shoot </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skygge"> at skygge </a></td>
+<td>
+<audio id="skygge" src="https://static.ordnet.dk/mp3/11047/11047276_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skygge');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsgygə]</span>
+</td>
+<td> skygger </td>
+<td> skyggede </td>
+<td> har skygget </td>
+<td> skyg </td>
+<td> to shadow </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skylde"> at skylde </a></td>
