@@ -126,6 +126,11 @@ search: true
 <td> Fodvorter skyldes en virusinfektion og kan derfor smitte. </td>
 </tr>
 <tr>
+<td> dumme sig </td>
+<td> make mistakes </td>
+<td> Alle lo. Hun blev rød i kinderne og vidste at hun havde dummet sig. </td>
+</tr>
+<tr>
 <td> efterhånden som </td>
 <td> as </td>
 <td> Byen blev mørkere efterhånden som butikkerne lukkede. </td>
@@ -551,6 +556,11 @@ search: true
 <td> Herbert lagde piben fra sig og så alvorligt på mig. </td>
 </tr>
 <tr>
+<td> løbe af stablen </td>
+<td> take place </td>
+<td> Det er netop i dag, at Dansk Flygtningehjælps store og meget omtalte landsindsamling løber af stablen. </td>
+</tr>
+<tr>
 <td> med den samme </td>
 <td> right away </td>
 <td> Der lød et pift henne fra hushjørnet. Jeg vidste med det samme, det var Karoline. </td>
@@ -674,6 +684,11 @@ search: true
 <td> rette sig efter </td>
 <td> comply with </td>
 <td> Faderen var familiens overhoved. Konen skulle være lydig og rette sig efter mandens beslutninger. </td>
+</tr>
+<tr>
+<td> ris og ros </td>
+<td> praise and criticism </td>
+<td> Det handler også om, at der skal være en balance mellem ris og ros. </td>
 </tr>
 <tr>
 <td> samlet set </td>

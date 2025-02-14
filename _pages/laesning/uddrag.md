@@ -29,4 +29,12 @@ Morgenlyset er sart, fint, foranderligt - fuld af farver. Kort til efter jeg fly
 <tr><td><span style="font-weight: normal">
 Præget af fraflytning, høj arbejdsløshed, langsom infrastruktur, en beskidt havn og dårligt vedligeholdte bygninger flere steder i byen.
 </span></td></tr>
+
+<tr><td><span style="font-weight: normal">
+Vi håber, at politikerne vil lytte til vores bekymringer og sikre, at udviklingen sker med respekt for områdets historie og de mennesker, der allerede bor her.
+</span></td></tr>
+
+<tr><td><span style="font-weight: normal">
+Det er vigtigt, at man er et forbillede og forsøger at leve op til, hvad man selv siger.
+</span></td></tr>
 </table>

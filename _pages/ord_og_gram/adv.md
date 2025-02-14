@@ -151,6 +151,11 @@ search: true
 <td> Man kan godt forene god arkitektur med en ordentlig økonomi. </td>
 </tr>
 <tr>
+<td> grangiveligt </td>
+<td> undoubtedly </td>
+<td> Tænk, jeg synes jeg kender dette her sted. Det ligner grangiveligt skoven ved sommerhuset. </td>
+</tr>
+<tr>
 <td> hvoraf </td>
 <td> of which </td>
 <td> Byrådet udpeger et nævn på 13 medlemmer, hvoraf 7 skal repræsentere det lokale foreningsliv. </td>
@@ -294,6 +299,11 @@ search: true
 <td> stort set </td>
 <td> almost </td>
 <td> Sikkerheden og virkningen af de forskellige typer p-piller er stort set ens. </td>
+</tr>
+<tr>
+<td> straks </td>
+<td> immediately </td>
+<td> Klokken 11 ringede det kraftigt på døren, og jeg gik straks ud for at lukke op. </td>
 </tr>
 <tr>
 <td> sædvanligvis </td>
