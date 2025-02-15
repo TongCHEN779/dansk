@@ -206,11 +206,6 @@ search: true
 <td> Hensynet til økonomi og vækst skal ikke gå forud for miljøet. </td>
 </tr>
 <tr>
-<td> frem for, fremfor </td>
-<td> rather than </td>
-<td> Når der er dårlige arbejdsforhold på arbejdspladsen, vælger flertallet at gå direkte til chefen fremfor at tale med fagforeningen. </td>
-</tr>
-<tr>
 <td> før/inden jeg (du, ..) fik set mig (dig, ..) om </td>
 <td> before I (you, ...) knew it </td>
 <td> Inden han havde fået set sig om, havde han drukket tre bajere, selv om han var lige ved at gå. </td>
@@ -686,7 +681,7 @@ search: true
 <td> Faderen var familiens overhoved. Konen skulle være lydig og rette sig efter mandens beslutninger. </td>
 </tr>
 <tr>
-<td> ris og ros </td>
+<td> ris og ros, ros og ris </td>
 <td> praise and criticism </td>
 <td> Det handler også om, at der skal være en balance mellem ris og ros. </td>
 </tr>
@@ -759,6 +754,11 @@ search: true
 <td> stamme fra </td>
 <td> originate from </td>
 <td> Han stammer fra Sønderjylland – har stadig charmerende sproglige reminiscenser derfra. </td>
+</tr>
+<tr>
+<td> stille et spørgsmål, et krav, en betingelse </td>
+<td> ask a question, a demand, a condition </td>
+<td> De ekstroverte har lettere ved at leve op til de krav, der bliver stillet på arbejdsmarkedet og på et studium. </td>
 </tr>
 <tr>
 <td> stort set </td>

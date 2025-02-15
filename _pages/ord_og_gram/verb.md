@@ -118,6 +118,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=afd%C3%A6mpe"> at afdæmpe </a></td>
+<td>
+<audio id="afdæmpe" src="https://static.ordnet.dk/mp3/11000/11000340_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('afdæmpe');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌdεmˀbə]</span>
+</td>
+<td> afdæmper </td>
+<td> afdæmpede </td>
+<td> har afdæmpet </td>
+<td> afdæmp </td>
+<td> to mitigate </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afg%C3%B8re"> at afgøre </a></td>
 <td>
 <audio id="afgøre" src="https://static.ordnet.dk/mp3/11000/11000440_1.mp3" style="display: none;"></audio>
@@ -716,6 +729,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=appellere"> at appellere </a></td>
+<td>
+<audio id="appellere" src="https://static.ordnet.dk/mp3/11002/11002175_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('appellere');" style="cursor: pointer; text-decoration: underline; color: blue;">[ɑbəˈleˀʌ]</span>
+</td>
+<td> appellerer </td>
+<td> appellerede </td>
+<td> har appelleret </td>
+<td> appeller </td>
+<td> to appeal </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=arbejde"> at arbejde </a></td>
 <td>
 <audio id="arbejde" src="https://static.ordnet.dk/mp3/11002/11002240_1.mp3" style="display: none;"></audio>
@@ -844,6 +870,19 @@ search: true
 <td> bedøv </td>
 <td> to anaesthetize </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=befinde"> at befinde sig </a></td>
+<td>
+<audio id="befinde" src="https://static.ordnet.dk/mp3/11003/11003786_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('befinde');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈfenˀə]</span>
+</td>
+<td> befinder sig </td>
+<td> befandt sig </td>
+<td> har befundet sig </td>
+<td> befind </td>
+<td> to be located </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=befordre"> at befordre </a></td>
@@ -2146,6 +2185,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dr%C3%A6ne"> at dræne </a></td>
+<td>
+<audio id="dræne" src="https://static.ordnet.dk/mp3/11009/11009819_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dræne');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈdʁεːnə]</span>
+</td>
+<td> dræner </td>
+<td> drænede </td>
+<td> har drænet </td>
+<td> dræn </td>
+<td> to drain </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dr%C3%B8mme"> at drømme </a></td>
 <td>
 <audio id="drømme" src="https://static.ordnet.dk/mp3/11009/11009831_1.mp3" style="display: none;"></audio>
@@ -2961,6 +3013,19 @@ search: true
 <td> - </td>
 <td> to tolerate </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fordybe"> at fordybe </a></td>
+<td>
+<audio id="fordybe" src="https://static.ordnet.dk/mp3/11014/11014361_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fordybe');" style="cursor: pointer; text-decoration: underline; color: blue;">[fʌˈdyˀbə]</span>
+</td>
+<td> fordyber </td>
+<td> fordybede </td>
+<td> har fordybet </td>
+<td> fordyb </td>
+<td> to immerse </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ford%C3%B8mme"> at fordømme </a></td>
@@ -5064,7 +5129,7 @@ search: true
 <td> indgik </td>
 <td> har indgået </td>
 <td> indgå </td>
-<td> to enter </td>
+<td> to include </td>
 <td> 3 </td>
 </tr>
 <tr>
@@ -5455,6 +5520,19 @@ search: true
 <td> har kastet </td>
 <td> kast </td>
 <td> to throw </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kede"> at kede </a></td>
+<td>
+<audio id="kede" src="https://static.ordnet.dk/mp3/11025/11025713_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kede');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈkeːðə]</span>
+</td>
+<td> keder </td>
+<td> kedede </td>
+<td> har kedet </td>
+<td> ked </td>
+<td> to bore </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -6170,6 +6248,19 @@ search: true
 <td> har leveret </td>
 <td> lever </td>
 <td> to deliver </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ligestille"> at ligestille </a></td>
+<td>
+<audio id="ligestille" src="https://static.ordnet.dk/mp3/11030/11030413_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ligestille');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈliːəˌsdelˀə]</span>
+</td>
+<td> ligestiller </td>
+<td> ligestillede </td>
+<td> har ligestillet </td>
+<td> ligestil </td>
+<td> to equalize </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -7224,6 +7315,19 @@ search: true
 <td> opdel </td>
 <td> to divide </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opdrage"> at opdrage </a></td>
+<td>
+<audio id="opdrage" src="https://static.ordnet.dk/mp3/11037/11037364_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opdrage');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʌbˌdʁɑˀwə]</span>
+</td>
+<td> opdrager </td>
+<td> opdragede/opdrog </td>
+<td> har opdraget </td>
+<td> opdrag </td>
+<td> to educate </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=operere"> at operere </a></td>
@@ -9316,6 +9420,19 @@ search: true
 <td> har skævet </td>
 <td> skæv </td>
 <td> to squint </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A5ne"> at skåne </a></td>
+<td>
+<audio id="skåne" src="https://static.ordnet.dk/mp3/11047/11047522_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skåne');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsgɔːnə]</span>
+</td>
+<td> skåner </td>
+<td> skånede </td>
+<td> har skånet </td>
+<td> skån </td>
+<td> to spare </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -11784,7 +11901,7 @@ search: true
 <td> vandrede </td>
 <td> har vandret </td>
 <td> vandr </td>
-<td> to hike </td>
+<td> to hike, wander </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -11992,7 +12109,7 @@ search: true
 <td> virkede </td>
 <td> har virket </td>
 <td> virk </td>
-<td> to work/operate </td>
+<td> to seem </td>
 <td> 1 </td>
 </tr>
 <tr>
