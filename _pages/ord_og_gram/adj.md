@@ -1791,6 +1791,18 @@ search: true
 <td> golden </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=g%C3%A6stfri"> gæstfri </a></td>
+<td>
+<audio id="gæstfri" src="https://static.ordnet.dk/mp3/11019/11019401_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gæstfri');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈgεsdˌfʁiˀ]</span>
+</td>
+<td> gæstfrit </td>
+<td> gæstfrie </td>
+<td> mere gæstfri </td>
+<td> mest gæstfri </td>
+<td> hospitable </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=halv"> halv </a></td>
 <td>
 <audio id="halv" src="https://static.ordnet.dk/mp3/11019/11019627_1.mp3" style="display: none;"></audio>
@@ -1969,6 +1981,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> native </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hjertelig"> hjertelig </a></td>
+<td>
+<audio id="hjertelig" src="https://static.ordnet.dk/mp3/11021/11021020_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hjertelig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈjæɐ̯dəli]</span>
+</td>
+<td> hjerteligt </td>
+<td> hjertelige </td>
+<td> mere hjertelig </td>
+<td> mest hjertelig </td>
+<td> cordial </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=humanit%C3%A6r"> humanitær </a></td>

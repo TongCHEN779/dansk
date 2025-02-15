@@ -26,7 +26,7 @@ search: false
     }
 </style>
 <br>
-Her kan du finde pdf-filer af [Grundbog](/files/hoejt_til_loftet/grundbog.pdf) med [rettenøgle](/files/hoejt_til_loftet/grundbog_rettenoegle.pdf), og [supplerende læsetekster](/files/hoejt_til_loftet/laesetekster.pdf).
+Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/grundbog.pdf) med [rettenøgle](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/grundbog_rettenoegle.pdf), og [supplerende læsetekster](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/laesetekster.pdf).
 <br><br>
 
 <h1 style="text-align: center;"> Lyd </h1>

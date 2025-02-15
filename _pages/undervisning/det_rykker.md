@@ -26,7 +26,7 @@ search: false
     }
 </style>
 <br>
-Her kan du finde pdf-filer af [Grundbog](/files/det_rykker/grundbog.pdf), og [Øvebog](/files/det_rykker/oevebog.pdf) med [rettenøgle](/files/det_rykker/oevebog_rettenoegle.pdf), og [supplerende læsetekster](/files/det_rykker/laesetekster.pdf). Man kan også finde en alternativ lærebog til modul 4 ([Grundbog](/files/paeredansk_grundbog.pdf), [Lærervejledning](/files/paeredansk_laerervejledning.pdf)).
+Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/files/det_rykker/grundbog.pdf), og [Øvebog](https://tongchen779.github.io/dansk/files/det_rykker/oevebog.pdf) med [rettenøgle](https://tongchen779.github.io/dansk/files/det_rykker/oevebog_rettenoegle.pdf), og [supplerende læsetekster](https://tongchen779.github.io/dansk/files/det_rykker/laesetekster.pdf). Man kan også finde en alternativ lærebog til modul 4 ([Grundbog](https://tongchen779.github.io/dansk/files/paeredansk_grundbog.pdf), [Lærervejledning](https://tongchen779.github.io/dansk/files/paeredansk_laerervejledning.pdf)).
 <br><br>
 
 <h1 style="text-align: center;"> Lyd </h1>
