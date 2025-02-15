@@ -256,6 +256,11 @@ search: true
 <td> Vi skulle stå med samlede ben, med vægten lagt på hælene og se ligeud. </td>
 </tr>
 <tr>
+<td> netop </td>
+<td> just </td>
+<td> Sten Byriel har netop sunget Figaro i Wien, og skal gøre det igen efter sommerferien. </td>
+</tr>
+<tr>
 <td> nærmest </td>
 <td> almost </td>
 <td> Det er nærmest hinsides vores kontrol. </td>

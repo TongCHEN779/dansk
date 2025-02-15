@@ -36,6 +36,11 @@ search: true
 <td> Huset er lejet for et år ad gangen. </td>
 </tr>
 <tr>
+<td> affinde </td>
+<td> put up with </td>
+<td> Enten må man affinde sig med en ledighed omkring 300.000 eller også må arbejderbevægelsens mærkesager igennem. </td>
+</tr>
+<tr>
 <td> afhænge af </td>
 <td> depend on </td>
 <td> Hvor meget alkohol et menneske kan tåle afhænger af leverens sundhedstilstand og personens legemsvægt. </td>
@@ -206,6 +211,11 @@ search: true
 <td> Hensynet til økonomi og vækst skal ikke gå forud for miljøet. </td>
 </tr>
 <tr>
+<td> fra oven </td>
+<td> from above </td>
+<td> Fly med specialudstyr fotograferer kommunen fra oven. </td>
+</tr>
+<tr>
 <td> før/inden jeg (du, ..) fik set mig (dig, ..) om </td>
 <td> before I (you, ...) knew it </td>
 <td> Inden han havde fået set sig om, havde han drukket tre bajere, selv om han var lige ved at gå. </td>
@@ -294,6 +304,11 @@ search: true
 <td> have i tankerne </td>
 <td> keep in mind </td>
 <td> Han sagde, at banken ikke i øjeblikket har en rentestigning i tankerne. </td>
+</tr>
+<tr>
+<td> have/tage jahat/ja-hat/nejhat/nej-hatten på </td>
+<td> be positive/negative </td>
+<td> De går ind i "det kreative rum", hvor vi beder dem om at tage jahatten på og tage det seriøst, når en kammerat har en ide. </td>
 </tr>
 <tr>
 <td> have let ved </td>
@@ -461,6 +476,11 @@ search: true
 <td> I tilknytning til nogle af krisecentrene er der .. etableret selvhjælpsgrupper, kvinderådgivninger, aktivitetscentre m.v. </td>
 </tr>
 <tr>
+<td> i to (tre, fire, ...) tempi </td>
+<td> in two (three, four, ..) times </td>
+<td> Vil man selv behandle sit træ, skal det foregå i to tempi og med to slags beskyttelser. </td>
+</tr>
+<tr>
 <td> i træk </td>
 <td> in a row </td>
 <td> Nationalbanken blev for anden dag i træk tvunget til at støtte den svækkede danske krone. </td>
@@ -604,6 +624,11 @@ search: true
 <td> og så videre / osv </td>
 <td> and so on </td>
 <td> Jeg ævlede op om, hvad nu og hvis, og så videre, men hun tyssede blot på mig. </td>
+</tr>
+<tr>
+<td> opføre sig </td>
+<td> behave </td>
+<td> Dagen var begyndt godt. Børnene havde opført sig så eksemplarisk, at det var utroligt. </td>
 </tr>
 <tr>
 <td> opkalde/navngive efter </td>
