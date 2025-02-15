@@ -147,6 +147,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=afl%C3%B8b"> et afløb </a></td>
+<td>
+<audio id="afløb" src="https://static.ordnet.dk/mp3/11000/11000556_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('afløb');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈɑwˌløˀb]</span>
+</td>
+<td> afløbet </td>
+<td> afløb </td>
+<td> afløbene </td>
+<td> drain </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afpresning"> en afpresning </a></td>
 <td>
 <audio id="afpresning" src="https://static.ordnet.dk/mp3/11000/11000602_1.mp3" style="display: none;"></audio>
@@ -7756,6 +7768,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=legeme"> et legeme </a></td>
+<td>
+<audio id="legeme" src="https://static.ordnet.dk/mp3/11030/11030067_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('legeme');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈlεjəmə]</span>
+</td>
+<td> legemet </td>
+<td> legemer </td>
+<td> legemerne </td>
+<td> body </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=legeplads"> en legeplads </a></td>
 <td>
 <audio id="legeplads" src="https://static.ordnet.dk/mp3/11030/11030086_1.mp3" style="display: none;"></audio>
@@ -10705,6 +10729,18 @@ search: true
 <td> posthusene </td>
 <td> post office </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pragmatik"> en pragmatik </a></td>
+<td>
+<audio id="pragmatik" src="https://static.ordnet.dk/mp3/11040/11040667_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('pragmatik');" style="cursor: pointer; text-decoration: underline; color: blue;">[pʁɑwmaˈtig]</span>
+</td>
+<td> pragmatikken </td>
+<td> - </td>
+<td> - </td>
+<td> pragmatics </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=praktik"> en praktik </a></td>
@@ -13755,6 +13791,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=svulmelegeme"> et svulmelegeme </a></td>
+<td>
+<audio id="svulmelegeme" src="https://static.ordnet.dk/mp3/11051/11051787_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('svulmelegeme');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsvulməˌleˀjəmə]</span>
+</td>
+<td> svulmelegemet </td>
+<td> svulmelegemer </td>
+<td> svulmelegemerne </td>
+<td> erectile tissue </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sv%C3%B8mmehal"> en svømmehal </a></td>
 <td>
 <audio id="svømmehal" src="https://static.ordnet.dk/mp3/11051/11051852_1.mp3" style="display: none;"></audio>
@@ -13861,6 +13909,30 @@ search: true
 <td> symfoniorkestrene </td>
 <td> symphony orchestra </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%A6d"> sæd </a></td>
+<td>
+<audio id="sæd" src="https://static.ordnet.dk/mp3/11052/11052163_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sæd');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsεˀð]</span>
+</td>
+<td> sæden </td>
+<td> - </td>
+<td> - </td>
+<td> sperm </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sædafgang"> en sædafgang </a></td>
+<td>
+<audio id="sædafgang" src="https://static.ordnet.dk/mp3/11052/11052165_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sædafgang');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsεˀðˌɑwˀgɑŋ]</span>
+</td>
+<td> sædafgangen </td>
+<td> sædafgange </td>
+<td> sædafgangene </td>
+<td> ejaculation </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%A6k"> en sæk </a></td>

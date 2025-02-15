@@ -104,7 +104,28 @@ Her kan du finde pdf-filer af [Grundbog](/files/hoejt_til_loftet/grundbog.pdf) m
 
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side45_3.mp3"></audio></td>
-<td style="vertical-align: top;"><h1> kap 2, side 45, Krydstogttrafik </h1></td>
+<td style="vertical-align: top;">
+<details>
+<summary>
+<h1> kap 2, side 45, Krydstogttrafik </h1>
+</summary>
+<span style="font-weight: normal">
+En relativt ny form for trafik til søs er de mange krydstogtskibe. Det er blevet en meget populær ferieform at sejle rundt på krydstogtskibe. Skibene sejler om natten og lægger til i forskellige byer hver morgen, så man kan gå ud og se en ny by hver dag.
+<br><br>
+På den måde kan man se en masse nye steder uden at have besvær med at skulle rejse rundt med sin bagage og selv finde en rundt med bil, tog eller fly. Krydstogtskibe har alle dage været som en slags flydende luksushotel og i gamle dage var det kun de rige der kunne tage på krydstogt I dag er der mange flere der har råd til det, selvom det stadig er en relativt dyr rejseform og især på de store krydstogtskibe er der også meget luksus som restauranter med store buffeter med god mad, barer, casino og natklub med optræden, swimming pool, fitnessrum med mere. Man betaler for en kahyt et bestemt antal dage og bestemmer selv hvor man vil starte og slutte sin tur.
+<br><br>
+Østersøen er blevet meget populær til krydstogter, fordi man kan sejle til så mange forskellige lande inden for relativt korte afstande. De fleste starter rundrejsen i København, hvor skibene ligger op til tre dage mod én dag i hver af de andre byer.
+<br><br>
+Fra København sejler skibene til f.eks. Gdansk, Stockholm, Helsinki, St. Petersburg, Tallinn og Riga. Krydstogttrafikken er nærmest vokset eksplosivt de senere år. Sæsonen strækker sig fra april til oktober. I 2016 kom der 67 skibe til København med samlet over 700.000 passagerer, og man regner med, at tallet vil stige kraftigt. Før lagde de til ved lange linje, men nu er der bygget en krydstogterminal i Nordhavnen, hvorfra passagererne så kører videre ind til centrum med bus eller taxi. Det giver en masse arbejdspladser i sæsonen, både på selve skibene og i land. For eksempel bliver der ansat mange til at hjælpe passagererne fra lufthavnen videre til havnen.
+<br><br>
+Krydstogterne giver også store indtægter, fordi passagererne generelt bruger mange penge, mens de er på land. Det giver et ordentligt ryg ind i byerne, når skibene ligger til i havnene. De største af skibene har omkring 4.000 passagerer med.
+<br><br>
+Man kan mærke, når der pludselig kommer mange tusind ekstra turister i byen, især i de mindre byer. Skagen, Aarhus og Rønne har haft krydstogsskibe på besøg i mange år, men nu er der kommet endnu flere danske byer til.
+<br><br>
+Det kræver bare, at de har meget store havne, hvor de kæmpe store skibe kan ligge til, og det er ikke alle byer, der har det.
+</span>
+</details> 
+</td>
 </tr>
 
 <tr>

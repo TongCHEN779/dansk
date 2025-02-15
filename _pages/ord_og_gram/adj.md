@@ -1299,6 +1299,18 @@ search: true
 <td> changeable </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forbeholden"> forbeholden </a></td>
+<td>
+<audio id="forbeholden" src="https://static.ordnet.dk/mp3/11014/11014221_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forbeholden');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfɒːbeˌhʌlˀən]</span>
+</td>
+<td> forbeholdent </td>
+<td> forbeholdne </td>
+<td> mere forbeholden </td>
+<td> mest forbeholden </td>
+<td> cautious </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forelsket"><a href="https://ordnet.dk/ddo/ordbog?query=forelsket"> forelsket </a></a></td>
 <td>
 <audio id="forelsket" src="https://static.ordnet.dk/mp3/11014/11014420_1.mp3" style="display: none;"></audio>
@@ -2883,6 +2895,18 @@ search: true
 <td> small </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lavpraktisk"> lavpraktisk </a></td>
+<td>
+<audio id="lavpraktisk" src="https://static.ordnet.dk/mp3/45001/45001281_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lavpraktisk');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈlɑwˌpʁɑgdisk]</span>
+</td>
+<td> lavpraktisk </td>
+<td> lavpraktiske </td>
+<td> mere lavpraktisk </td>
+<td> mest lavpraktisk </td>
+<td> practical </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=lydl%C3%B8s"> lydløs </a></td>
 <td>
 <audio id="lydløs" src="https://static.ordnet.dk/mp3/11031/11031311_1.mp3" style="display: none;"></audio>
@@ -3733,6 +3757,18 @@ search: true
 <td> mere positiv </td>
 <td> mest positiv </td>
 <td> positive </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pragmatisk"> pragmatisk </a></td>
+<td>
+<audio id="pragmatisk" src="https://static.ordnet.dk/mp3/11040/11040669_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('pragmatisk');" style="cursor: pointer; text-decoration: underline; color: blue;">[pʁɑwˈmæˀtisg]</span>
+</td>
+<td> pragmatisk </td>
+<td> pragmatiske </td>
+<td> mere pragmatisk </td>
+<td> mest pragmatisk </td>
+<td> pragmatic </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=praktisk"> praktisk </a></td>
@@ -5485,6 +5521,18 @@ search: true
 <td> mere ufarlig </td>
 <td> mest ufarlig </td>
 <td> harmless </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=uforbeholden"> uforbeholden </a></td>
+<td>
+<audio id="uforbeholden" src="https://static.ordnet.dk/mp3/12004/12004368_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('uforbeholden');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈuˌfɒːbeˌhʌlˀən]</span>
+</td>
+<td> uforbeholden </td>
+<td> uforbeholdne </td>
+<td> mere uforbeholden </td>
+<td> mest uforbeholden </td>
+<td> unconditional </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=uforudsigelig"> uforudsigelig </a></td>

@@ -7395,6 +7395,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=oms%C3%A6tte"> at omsætte </a></td>
+<td>
+<audio id="omsætte" src="https://static.ordnet.dk/mp3/11037/11037255_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omsætte');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʌmˌsεdə]</span>
+</td>
+<td> omsætter </td>
+<td> omsatte </td>
+<td> har omsat </td>
+<td> omsæt </td>
+<td> to convert </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=omtale"> at omtale </a></td>
 <td>
 <audio id="omtale" src="" style="display: none;"></audio>
@@ -10564,6 +10577,19 @@ search: true
 <td> sved </td>
 <td> to sweat </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=svulme"> at svulme </a></td>
+<td>
+<audio id="svulme" src="https://static.ordnet.dk/mp3/11051/11051786_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('svulme');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsvulmə]</span>
+</td>
+<td> svulmer </td>
+<td> svulmede </td>
+<td> har svulmet </td>
+<td> svulm </td>
+<td> to swell </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sv%C3%B8mme"> at svømme </a></td>
