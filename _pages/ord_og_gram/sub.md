@@ -4708,7 +4708,7 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=fr%C3%B8"> et frø </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=fr%C3%B8,2&query=fr%C3%B8"> et frø </a></td>
 <td>
 <audio id="frø2" src="https://static.ordnet.dk/mp3/11016/11016316_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('frø2');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfʁœˀ]</span>
@@ -12005,7 +12005,7 @@ search: true
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ris"> et ris </a></td>
 <td>
-<audio id="ris" src="https://static.ordnet.dk/mp3/11043/11043433_1.mp3" style="display: none;"></audio>
+<audio id="ris" src="https://ordnet.dk/ddo/ordbog?select=ris,2&query=ris" style="display: none;"></audio>
 <span onclick="playSound('ris');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʁiˀs]</span>
 </td>
 <td> riset </td>
@@ -12137,7 +12137,7 @@ search: true
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ros"> et ros </a></td>
 <td>
-<audio id="ros2" src="https://static.ordnet.dk/mp3/11043/11043634_1.mp3" style="display: none;"></audio>
+<audio id="ros2" src="https://ordnet.dk/ddo/ordbog?select=ros,2&query=ros" style="display: none;"></audio>
 <span onclick="playSound('ros2');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʁʌs]</span>
 </td>
 <td> rosset </td>
