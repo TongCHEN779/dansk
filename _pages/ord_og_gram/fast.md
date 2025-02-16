@@ -116,6 +116,11 @@ search: true
 <td> Hvis man har gonoré, er smitten ikke kommet ud af den blå luft. </td>
 </tr>
 <tr>
+<td> den onde </td>
+<td> the evil </td>
+<td> Overlevede de forhørene beviste det deres skyld, for hvem kunne have hjulpet dem undtagen den onde? </td>
+</tr>
+<tr>
 <td> det hvide ud af øjnene </td>
 <td> expensive </td>
 <td> Huawei har markeret sig stærkt de seneste år med en række prisvenlige mobiler for dem, der gerne vil have smarte funktioner, men ikke ønsker at betale det hvide ud af øjnene. </td>
@@ -384,6 +389,11 @@ search: true
 <td> i forhold til </td>
 <td> in relation to, compared to </td>
 <td> Kirken, der var kølig og mørk i forhold til det klare majsolskin udenfor, var .. helt tom. </td>
+</tr>
+<tr>
+<td> i form </td>
+<td> in shape </td>
+<td> Paula .. holder sig i form med daglig gymnastik. </td>
 </tr>
 <tr>
 <td> i forvejen </td>

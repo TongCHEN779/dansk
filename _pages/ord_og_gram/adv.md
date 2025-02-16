@@ -41,6 +41,11 @@ search: true
 <td> Jeg gør det aldrig mere. </td>
 </tr>
 <tr>
+<td> allevegne, alle vegne </td>
+<td> everywhere </td>
+<td> De ledte efter hende alle vegne. Under sengen, bag ved sofaen og inde i fars og mors soveværelse. </td>
+</tr>
+<tr>
 <td> allerede </td>
 <td> already </td>
 <td> Manden var allerede kommet ind i bilen, da bilens tyverialarm gik i gang. </td>
@@ -276,7 +281,7 @@ search: true
 <td> Stræderne ligger stille hen, og også husene virker tomme og ubeboede. </td>
 </tr>
 <tr>
-<td> omtrent, omkring </td>
+<td> omtrent, omkring, rundt om </td>
 <td> about, around </td>
 <td> Omtrent 50 procent af dem, som arbejder i kunstig belysning, klager over hovedpine og ondt i øjnene. </td>
 </tr>

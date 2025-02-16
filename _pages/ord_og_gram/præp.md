@@ -115,7 +115,7 @@ search: true
 <td> Jeg kommer fra Kina. </td>
 </tr>
 <tr>
-<td rowspan="3"> fremfor/frem for </td>
+<td> fremfor/frem for </td>
 <td> rather than </td>
 <td> Når der er dårlige arbejdsforhold på arbejdspladsen, vælger flertallet at gå direkte til chefen fremfor at tale med fagforeningen. </td>
 </tr>
@@ -182,6 +182,11 @@ search: true
 </tr>
 <tr>
 <td> Beths far var ifølge rygtet stukket til Antarktis. </td>
+</tr>
+<tr>
+<td> indenfor/inden for </td>
+<td> within </td>
+<td> Regionaltaksten gælder inden for en radius på omkring 50 kilometer. </td>
 </tr>
 <tr>
 <td> (ikke så) langt fra </td>
