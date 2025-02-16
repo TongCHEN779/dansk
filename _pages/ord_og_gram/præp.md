@@ -219,7 +219,7 @@ search: true
 <td> Minnesota ligger midt i Amerika, lige syd for den canadiske grænse. </td>
 </tr>
 <tr>
-<td> nedenfor </td>
+<td> nedenfor, neden for </td>
 <td> below </td>
 <td> Øverst oppe ligger kirken omkranset af en gammel kirkegård og lige nedenfor ligger kirkepladsen. </td>
 </tr>
