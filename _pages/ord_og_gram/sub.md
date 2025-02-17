@@ -1299,6 +1299,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=beliggenhed"> en beliggenhed </a></td>
+<td>
+<audio id="beliggenhed" src="https://static.ordnet.dk/mp3/11004/11004010_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('beliggenhed');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈlegənˌheðˀ]</span>
+</td>
+<td> beliggenheden </td>
+<td> beliggenheder </td>
+<td> beliggenhederne </td>
+<td> location </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=beløb"> et beløb </a></td>
 <td>
 <audio id="beløb" src="https://static.ordnet.dk/mp3/11004/11004031_1.mp3" style="display: none;"></audio>
@@ -4708,7 +4720,7 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?select=fr%C3%B8,2&query=fr%C3%B8"> et frø </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=fr%C3%B8,2&amp;query=fr%C3%B8"> et frø </a></td>
 <td>
 <audio id="frø2" src="https://static.ordnet.dk/mp3/11016/11016316_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('frø2');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfʁœˀ]</span>
@@ -12003,9 +12015,9 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=ris"> et ris </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=ris,2&amp;query=ris"> et ris </a></td>
 <td>
-<audio id="ris" src="https://ordnet.dk/ddo/ordbog?select=ris,2&query=ris" style="display: none;"></audio>
+<audio id="ris" src="https://static.ordnet.dk/mp3/11043/11043433_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('ris');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʁiˀs]</span>
 </td>
 <td> riset </td>
@@ -12135,9 +12147,9 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=ros"> et ros </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=ros,2&amp;query=ros"> et ros </a></td>
 <td>
-<audio id="ros2" src="https://ordnet.dk/ddo/ordbog?select=ros,2&query=ros" style="display: none;"></audio>
+<audio id="ros2" src="https://static.ordnet.dk/mp3/11043/11043634_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('ros2');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʁʌs]</span>
 </td>
 <td> rosset </td>

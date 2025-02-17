@@ -186,6 +186,11 @@ search: true
 <td> Så fandt Lisbeth en bold frem, og de begyndte at spille. </td>
 </tr>
 <tr>
+<td> finde rundt </td>
+<td> find the way around </td>
+<td> Det er nemt at finde rundt i Barcelona, som har en glimrende undergrundsbane. </td>
+</tr>
+<tr>
 <td> finde ud af </td>
 <td> figure out </td>
 <td> Susanne fandt ud af, at hendes kondi ikke var nær så god, som hun troede. </td>

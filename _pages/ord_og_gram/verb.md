@@ -1145,6 +1145,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=beligge"> at beligge </a></td>
+<td>
+<audio id="beligge" src="https://static.ordnet.dk/mp3/11004/11004008_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('beligge');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈlegə]</span>
+</td>
+<td> beligger </td>
+<td> belå </td>
+<td> har beligget </td>
+<td> belig </td>
+<td> to be situated </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=belyse"> at belyse </a></td>
 <td>
 <audio id="belyse" src="https://static.ordnet.dk/mp3/11004/11004017_1.mp3" style="display: none;"></audio>
