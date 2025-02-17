@@ -639,6 +639,18 @@ search: true
 <td> sustainable </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=børnerig"> børnerig </a></td>
+<td>
+<audio id="børnerig" src="https://static.ordnet.dk/mp3/11007/11007210_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('børnerig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbɶɐ̯nəˌʁiˀ]</span>
+</td>
+<td> børnerigt </td>
+<td> børnerige </td>
+<td> børnerigere </td>
+<td> børnerigest </td>
+<td> having many children </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=central"> central </a></td>
 <td>
 <audio id="central" src="https://static.ordnet.dk/mp3/11007/11007553_1.mp3" style="display: none;"></audio>
@@ -1011,6 +1023,18 @@ search: true
 <td> single </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=enlig"> enlig </a></td>
+<td>
+<audio id="enlig" src="https://static.ordnet.dk/mp3/11011/11011479_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('enlig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈeːnli]</span>
+</td>
+<td> enligt </td>
+<td> enlige </td>
+<td> mere enlig </td>
+<td> mest enlig </td>
+<td> single </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=enorm"> enorm </a></td>
 <td>
 <audio id="enorm" src="https://static.ordnet.dk/mp3/11011/11011488_1.mp3" style="display: none;"></audio>
@@ -1021,6 +1045,18 @@ search: true
 <td> mere enorm </td>
 <td> mest enorm </td>
 <td> enormous </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ens"> ens </a></td>
+<td>
+<audio id="ens" src="https://static.ordnet.dk/mp3/11011/11011493_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ens');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈeˀns]</span>
+</td>
+<td> ens </td>
+<td> ens </td>
+<td> mere ens </td>
+<td> mest ens </td>
+<td> identical </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ensformig"> ensformig </a></td>
@@ -1575,6 +1611,18 @@ search: true
 <td> full </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fuldkommen"> fuldkommen </a></td>
+<td>
+<audio id="fuldkommen" src="https://static.ordnet.dk/mp3/11016/11016419_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fuldkommen');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfulˈkʌmˀən]</span>
+</td>
+<td> fuldkomment </td>
+<td> fuldkomne </td>
+<td> mere fuldkommen </td>
+<td> mest fuldkommen </td>
+<td> complete </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fysisk"> fysisk </a></td>
 <td>
 <audio id="fysisk" src="https://static.ordnet.dk/mp3/11016/11016612_1.mp3" style="display: none;"></audio>
@@ -1609,6 +1657,30 @@ search: true
 <td> mere færøsk </td>
 <td> mest færøsk </td>
 <td> Faroese </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=få"> få </a></td>
+<td>
+<audio id="få" src="https://static.ordnet.dk/mp3/11016/11016966_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('få');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfɔˀ]</span>
+</td>
+<td> få </td>
+<td> få </td>
+<td> færre </td>
+<td> færrest </td>
+<td> few </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=førerløs"> førerløs </a></td>
+<td>
+<audio id="førerløs" src="https://static.ordnet.dk/mp3/53000/53000800_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('førerløs');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈføːʌˌløˀs]</span>
+</td>
+<td> førerløst </td>
+<td> førerløse </td>
+<td> mere førerløs </td>
+<td> mest førerløs </td>
+<td> driverless </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=f%C3%B8rste"> første </a></td>

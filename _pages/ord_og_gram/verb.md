@@ -2924,6 +2924,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=flygte"> at flygte </a></td>
+<td>
+<audio id="flygte" src="https://static.ordnet.dk/mp3/11013/11013758_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('flygte');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfløgdə]</span>
+</td>
+<td> flygter </td>
+<td> flygtede </td>
+<td> er flygtet </td>
+<td> flygt </td>
+<td> to flee </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=flytte"> at flytte </a></td>
 <td>
 <audio id="flytte" src="https://static.ordnet.dk/mp3/11013/11013781_1.mp3" style="display: none;"></audio>
@@ -6340,6 +6353,19 @@ search: true
 <td> le </td>
 <td> to smile </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lease"> at lease </a></td>
+<td>
+<audio id="lease" src="https://static.ordnet.dk/mp3/11029/11029975_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lease');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈliːsə]</span>
+</td>
+<td> leaser </td>
+<td> leasede </td>
+<td> har leaset </td>
+<td> leas </td>
+<td> to lease </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=lede"> at lede </a></td>
@@ -9771,6 +9797,19 @@ search: true
 <td> har slidt </td>
 <td> slid </td>
 <td> to wear out </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=slippe"> at slippe </a></td>
+<td>
+<audio id="slippe" src="https://static.ordnet.dk/mp3/11047/11047748_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slippe');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈslebə]</span>
+</td>
+<td> slipper </td>
+<td> slap </td>
+<td> har sluppet </td>
+<td> slip </td>
+<td> to let go, avoid </td>
 <td> 3 </td>
 </tr>
 <tr>

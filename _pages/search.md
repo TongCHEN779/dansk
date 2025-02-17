@@ -96,7 +96,7 @@ permalink: /search/
 
             tableData.forEach((table, index) => {
                 let { headers, rows } = table;
-                let matchingRows = rows.filter(row => row.text.includes(input)).slice(0, 5);
+                let matchingRows = rows.filter(row => row.text.includes(input)).slice(0, 10);
 
                 if (matchingRows.length > 0) {
                     found = true;
