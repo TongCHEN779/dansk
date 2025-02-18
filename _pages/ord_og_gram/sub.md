@@ -291,6 +291,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=agtp%C3%A5givenhed"> en agtpågivenhed </a></td>
+<td>
+<audio id="agtpågivenhed" src="https://static.ordnet.dk/mp3/11000/11000984_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('agtpågivenhed');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈɑgdpʌˌgiˀvənˌheðˀ]</span>
+</td>
+<td> agtpågivenheden </td>
+<td> agtpågivenheder </td>
+<td> agtpågivenhederne </td>
+<td> vigilance </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=aktie"> en aktie </a></td>
 <td>
 <audio id="aktie" src="https://static.ordnet.dk/mp3/11001/11001079_1.mp3" style="display: none;"></audio>
@@ -1719,6 +1731,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bilist"> en bilist </a></td>
+<td>
+<audio id="bilist" src="https://static.ordnet.dk/mp3/11004/11004662_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bilist');" style="cursor: pointer; text-decoration: underline; color: blue;">[biˈlisd]</span>
+</td>
+<td> bilisten </td>
+<td> bilister </td>
+<td> bilisterne </td>
+<td> driver </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=billede"> et billede </a></td>
 <td>
 <audio id="billede" src="https://static.ordnet.dk/mp3/11004/11004678_1.mp3" style="display: none;"></audio>
@@ -1813,6 +1837,18 @@ search: true
 <td> bladene </td>
 <td> leaf </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=blik"> et blik </a></td>
+<td>
+<audio id="blik" src="https://static.ordnet.dk/mp3/11005/11005099_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('blik');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbleg]</span>
+</td>
+<td> blikket </td>
+<td> blikke </td>
+<td> blikkene </td>
+<td> glance/look </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=blomsterhandler"> en blomsterhandler </a></td>
@@ -2679,6 +2715,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=cyklist"> en cyklist </a></td>
+<td>
+<audio id="cyklist" src="https://static.ordnet.dk/mp3/11008/11008152_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('cyklist');" style="cursor: pointer; text-decoration: underline; color: blue;">[sygˈlisd]</span>
+</td>
+<td> cyklisten </td>
+<td> cyklister </td>
+<td> cyklisterne </td>
+<td> cyclist </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dag"> en dag </a></td>
 <td>
 <audio id="dag" src="https://static.ordnet.dk/mp3/11008/11008205_1.mp3" style="display: none;"></audio>
@@ -3349,6 +3397,18 @@ search: true
 <td> enkeltsager </td>
 <td> enkeltsagerne </td>
 <td> individual case </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ensretning"> en ensretning </a></td>
+<td>
+<audio id="ensretning" src="https://static.ordnet.dk/mp3/11011/11011516_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ensretning');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈeːnˌsʁadneŋ]</span>
+</td>
+<td> ensretningen </td>
+<td> ensretninger </td>
+<td> ensretningerne </td>
+<td> one-way system </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -4105,6 +4165,30 @@ search: true
 <td> fodgængere </td>
 <td> fodgængerne </td>
 <td> pedestrian </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fodg%C3%A6ngerfelt"> et fodgængerfelt </a></td>
+<td>
+<audio id="fodgængerfelt" src="https://static.ordnet.dk/mp3/11013/11013954_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fodgængerfelt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfoðgεŋʌ-]</span>
+</td>
+<td> fodgængerfeltet </td>
+<td> fodgængerfelter </td>
+<td> fodgængerfelterne </td>
+<td> pedestrian crossing </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fodg%C3%A6ngerovergang"> en fodgængerovergang </a></td>
+<td>
+<audio id="fodgængerovergang" src="https://static.ordnet.dk/mp3/11013/11013955_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fodgængerovergang');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfoðgεŋʌ-]</span>
+</td>
+<td> fodgængerovergangen </td>
+<td> fodgængerovergange </td>
+<td> fodgængerovergangene </td>
+<td> pedestrian crossing </td>
 <td> 2 </td>
 </tr>
 <tr>
@@ -5932,6 +6016,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=horn"> et horn </a></td>
+<td>
+<audio id="horn" src="https://static.ordnet.dk/mp3/11021/11021284_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('horn');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈhoɐ̯ˀn]</span>
+</td>
+<td> hornet </td>
+<td> horn </td>
+<td> hornene </td>
+<td> horn </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hospital"> et hospital </a></td>
 <td>
 <audio id="hospital" src="https://static.ordnet.dk/mp3/11021/11021316_1.mp3" style="display: none;"></audio>
@@ -7300,6 +7396,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=klokke"> en klokke </a></td>
+<td>
+<audio id="klokke" src="https://static.ordnet.dk/mp3/11026/11026384_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('klokke');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈklʌgə]</span>
+</td>
+<td> klokken </td>
+<td> klokker </td>
+<td> klokkerne </td>
+<td> bell/clock </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=klub"> en klub </a></td>
 <td>
 <audio id="klub" src="https://static.ordnet.dk/mp3/11026/11026440_1.mp3" style="display: none;"></audio>
@@ -8197,6 +8305,42 @@ search: true
 <td> kørebaner </td>
 <td> kørebanerne </td>
 <td> lane </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=k%C3%B8ret%C3%B8j"> et køretøj </a></td>
+<td>
+<audio id="køretøj" src="https://static.ordnet.dk/mp3/11029/11029346_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('køretøj');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌtʌj]</span>
+</td>
+<td> køretøjet </td>
+<td> køretøjer </td>
+<td> køretøjerne </td>
+<td> vehicle </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lad"> et lad </a></td>
+<td>
+<audio id="lad" src="https://static.ordnet.dk/mp3/11029/11029407_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lad');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈlað]</span>
+</td>
+<td> ladet </td>
+<td> lad </td>
+<td> ladene </td>
+<td> cargo bed </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ladcykel"> en ladcykel </a></td>
+<td>
+<audio id="ladcykel" src="https://static.ordnet.dk/mp3/11029/11029409_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ladcykel');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈlað-]</span>
+</td>
+<td> ladcyklen </td>
+<td> ladcykler </td>
+<td> ladcyklerne </td>
+<td> cargo bike </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -16380,6 +16524,18 @@ search: true
 <td> udrensninger </td>
 <td> udrensningerne </td>
 <td> cleansing </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udrykning"> en udrykning </a></td>
+<td>
+<audio id="udrykning" src="https://static.ordnet.dk/mp3/12004/12004062_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udrykning');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈuðˌʁœgneŋ]</span>
+</td>
+<td> udrykningen </td>
+<td> udrykninger </td>
+<td> udrykningerne </td>
+<td> emergency response </td>
 <td> 1 </td>
 </tr>
 <tr>

@@ -351,6 +351,11 @@ search: true
 <td> Vi skulle hilse dig fra Casper, de spørger efter dig henne i tennisklubben. </td>
 </tr>
 <tr>
+<td> holde inde </td>
+<td> stop </td>
+<td> Stedfar bad ham om at holde inde med sit fuldemandsævl. </td>
+</tr>
+<tr>
 <td> holde op </td>
 <td> stop </td>
 <td> Regnen er holdt op, og han kigger ud på solens gule lys. </td>
@@ -729,6 +734,11 @@ search: true
 <td> ris og ros, ros og ris </td>
 <td> praise and criticism </td>
 <td> Det handler også om, at der skal være en balance mellem ris og ros. </td>
+</tr>
+<tr>
+<td> række op </td>
+<td> raise up </td>
+<td> Moses rakte sin hånd op mod himlen, og der blev et dybt mørke over hele Egypten i tre dage. </td>
 </tr>
 <tr>
 <td> samlet set </td>

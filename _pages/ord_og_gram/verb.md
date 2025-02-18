@@ -7681,7 +7681,7 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=opf%C3%B8re"> at opføre sig </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opf%C3%B8re"> at opføre </a></td>
 <td>
 <audio id="opføre" src="https://static.ordnet.dk/mp3/11037/11037430_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('opføre');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌføˀʌ]</span>
@@ -8121,6 +8121,19 @@ search: true
 <td> overrask </td>
 <td> to surprise </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=overse"> at overse </a></td>
+<td>
+<audio id="overse" src="https://static.ordnet.dk/mp3/11038/11038445_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('overse');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈɒwʌˌseˀ]</span>
+</td>
+<td> overser </td>
+<td> overså </td>
+<td> har overset </td>
+<td> overse </td>
+<td> to overlook </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=overskride"> at overskride </a></td>

@@ -2259,6 +2259,18 @@ search: true
 <td> high-lying </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%A5ndholdt"> håndholdt </a></td>
+<td>
+<audio id="håndholdt" src="https://static.ordnet.dk/mp3/11022/11022585_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('håndholdt');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌhʌlˀd]</span>
+</td>
+<td> håndholdt </td>
+<td> håndholdte </td>
+<td> mere håndholdt </td>
+<td> mest håndholdt </td>
+<td> handheld </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%A5ndv%C3%A6rksm%C3%A6ssig"> håndværksmæssig </a></td>
 <td>
 <audio id="håndværksmæssig" src="https://static.ordnet.dk/mp3/51004/51004000_1.mp3" style="display: none;"></audio>
@@ -2341,6 +2353,18 @@ search: true
 <td> mere imødekommende </td>
 <td> mest imødekommende </td>
 <td> accommodating </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indelukket"> indelukket </a></td>
+<td>
+<audio id="indelukket" src="https://static.ordnet.dk/mp3/11023/11023191_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indelukket');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌlɔgəð]</span>
+</td>
+<td> indelukket </td>
+<td> indelukkede </td>
+<td> mere indelukket </td>
+<td> mest indelukket </td>
+<td> stuffy </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=individuel"> individuel </a></td>
@@ -3024,6 +3048,18 @@ search: true
 <td> ligeglade </td>
 <td> mere ligeglad </td>
 <td> mest ligeglad </td>
+<td> indifferent </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ligegyldig"> ligegyldig </a></td>
+<td>
+<audio id="ligegyldig" src="https://static.ordnet.dk/mp3/11030/11030396_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ligegyldig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈliːəˌgylˀdi]</span>
+</td>
+<td> ligegyldigt </td>
+<td> ligegyldige </td>
+<td> mere ligegyldig </td>
+<td> mest ligegyldig </td>
 <td> indifferent </td>
 </tr>
 <tr>
@@ -4323,6 +4359,18 @@ search: true
 <td> rustic </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=r%C3%A5dden"> rådden </a></td>
+<td>
+<audio id="rådden" src="https://static.ordnet.dk/mp3/11044/11044280_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rådden');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʁʌðən]</span>
+</td>
+<td> råddent </td>
+<td> rådne </td>
+<td> mere rådden </td>
+<td> mest rådden </td>
+<td> rotten </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=r%C3%B8d"> rød </a></td>
 <td>
 <audio id="rød" src="https://static.ordnet.dk/mp3/11044/11044102_1.mp3" style="display: none;"></audio>
@@ -5293,6 +5341,18 @@ search: true
 <td> mere tjekket </td>
 <td> mest tjekket </td>
 <td> checked </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tjep"> tjep </a></td>
+<td>
+<audio id="tjep" src="https://static.ordnet.dk/mp3/12001/12001565_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tjep');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtjεb]</span>
+</td>
+<td> tjept </td>
+<td> tjeppe </td>
+<td> tjeppere </td>
+<td> tjeppest </td>
+<td> quick </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tom"> tom </a></td>
