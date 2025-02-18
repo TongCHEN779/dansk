@@ -4791,6 +4791,18 @@ search: true
 <td> stylish </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=stille"> stille </a></td>
+<td>
+<audio id="stille" src="https://static.ordnet.dk/mp3/11050/11050312_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('stille');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsdelə]</span>
+</td>
+<td> stille </td>
+<td> stille </td>
+<td> mere stille </td>
+<td> mest stille </td>
+<td> quiet </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=stillesiddende"> stillesiddende </a></td>
 <td>
 <audio id="stillesiddende" src="https://static.ordnet.dk/mp3/11050/11050324_1.mp3" style="display: none;"></audio>

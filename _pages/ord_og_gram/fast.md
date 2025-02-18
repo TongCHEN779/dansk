@@ -666,6 +666,11 @@ search: true
 <td> Dykkere skal passe meget på, når de har været dybt nede i vandet. </td>
 </tr>
 <tr>
+<td> pisk og gulerod </td>
+<td> penalty and reward </td>
+<td> SU-systemet har med reformen fra 1996 fundet et niveau mht. økonomi og balance mellem pisk og gulerod. </td>
+</tr>
+<tr>
 <td> på høje tid </td>
 <td> right time </td>
 <td> Det er på høje tid, at læger og naturhelbredere finder hinanden i et fornuftigt samarbejde. </td>

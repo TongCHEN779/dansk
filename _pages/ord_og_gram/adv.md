@@ -755,6 +755,11 @@ search: true
 <td> I den ugentlige "karakterbog", som AIM udgiver for DRs og TV 2's programlægning, har TV 2 i det sidste års tid taget alle stikkene hjem. </td>
 </tr>
 <tr>
+<td> engang </td>
+<td> once upon a time </td>
+<td> Der var engang en ung pige, der gik ud i verden for at søge sin lykke. </td>
+</tr>
+<tr>
 <td> for nylig </td>
 <td> recently </td>
 <td> Jeg har for nylig tilbragt en måned i Nigeria, hvor jeg studerede landets musik. </td>

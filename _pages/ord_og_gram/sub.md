@@ -5236,6 +5236,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=graffiti"> en graffiti </a></td>
+<td>
+<audio id="graffiti" src="https://static.ordnet.dk/mp3/11018/11018450_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('graffiti');" style="cursor: pointer; text-decoration: underline; color: blue;">[gʁɑˈfidi]</span>
+</td>
+<td> graffitien </td>
+<td> graffiti/graffitier </td>
+<td> graffitiene/graffitierne </td>
+<td> graffiti </td>
+<td> 2/1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=grafiker"> en grafiker </a></td>
 <td>
 <audio id="grafiker" src="https://static.ordnet.dk/mp3/11018/11018453_1.mp3" style="display: none;"></audio>
@@ -5366,6 +5378,18 @@ search: true
 <td> guitarerne </td>
 <td> guitar </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gulerod"> en gulerod </a></td>
+<td>
+<audio id="gulerod" src="https://static.ordnet.dk/mp3/11019/11019197_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gulerod');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈguləˌʁoˀð]</span>
+</td>
+<td> guleroden </td>
+<td> gulerødder </td>
+<td> gulerødderne </td>
+<td> carrot </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gut"> en gut </a></td>
@@ -9304,6 +9328,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=mobilitet"> mobilitet </a></td>
+<td>
+<audio id="mobilitet" src="https://static.ordnet.dk/mp3/11033/11033989_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mobilitet');" style="cursor: pointer; text-decoration: underline; color: blue;">[mobiliˈteˀd]</span>
+</td>
+<td> mobiliteten </td>
+<td> - </td>
+<td> - </td>
+<td> mobility </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=mobiltelefon"> en mobiltelefon </a></td>
 <td>
 <audio id="mobiltelefon" src="https://static.ordnet.dk/mp3/11033/11033992_1.mp3" style="display: none;"></audio>
@@ -11149,6 +11185,18 @@ search: true
 <td> pillerne </td>
 <td> pill </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pisk"> en pisk </a></td>
+<td>
+<audio id="pisk" src="https://static.ordnet.dk/mp3/11039/11039833_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('pisk');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈpisg]</span>
+</td>
+<td> pisken </td>
+<td> piske </td>
+<td> piskene </td>
+<td> whip </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=pizza"> en pizza </a></td>
@@ -16548,6 +16596,18 @@ search: true
 <td> ulemper </td>
 <td> ulemperne </td>
 <td> disadvantage </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ulykke"> en ulykke </a></td>
+<td>
+<audio id="ulykke" src="https://static.ordnet.dk/mp3/12004/12004630_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ulykke');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈuˌløgə]</span>
+</td>
+<td> ulykken </td>
+<td> ulykker </td>
+<td> ulykkerne </td>
+<td> accident </td>
 <td> 1 </td>
 </tr>
 <tr>
