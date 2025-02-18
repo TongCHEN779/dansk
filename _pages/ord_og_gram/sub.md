@@ -4120,6 +4120,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=foranstaltning"> en foranstaltning </a></td>
+<td>
+<audio id="foranstaltning" src="https://static.ordnet.dk/mp3/11014/11014193_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('foranstaltning');" style="cursor: pointer; text-decoration: underline; color: blue;">[fʌanˈsdalˀdneŋ]</span>
+</td>
+<td> foranstaltningen </td>
+<td> foranstaltninger </td>
+<td> foranstaltningerne </td>
+<td> measure </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forbillede"> et forbillede </a></td>
 <td>
 <audio id="forbillede" src="https://static.ordnet.dk/mp3/11014/11014237_1.mp3" style="display: none;"></audio>
