@@ -3080,6 +3080,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forbig%C3%A5"> at forbigå </a></td>
+<td>
+<audio id="forbigå" src="https://static.ordnet.dk/mp3/11014/11014235_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forbigå');" style="cursor: pointer; text-decoration: underline; color: blue;">[fʌˈbiˌgɔˀ]</span>
+</td>
+<td> forbigår </td>
+<td> forbigik </td>
+<td> har forbigået </td>
+<td> forbigå </td>
+<td> to bypass </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forbinde"> at forbinde </a></td>
 <td>
 <audio id="forbinde" src="https://static.ordnet.dk/mp3/11014/11014239_1.mp3" style="display: none;"></audio>
@@ -4299,6 +4312,19 @@ search: true
 <td> gab </td>
 <td> to yawn </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gemme"> at gemme </a></td>
+<td>
+<audio id="gemme" src="https://static.ordnet.dk/mp3/11017/11017431_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gemme');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈgεmə]</span>
+</td>
+<td> gemmer </td>
+<td> gemte </td>
+<td> har gemt </td>
+<td> gem </td>
+<td> to hide </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=genanvende"> at genanvende </a></td>

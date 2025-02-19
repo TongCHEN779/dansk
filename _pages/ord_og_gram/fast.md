@@ -236,6 +236,11 @@ search: true
 <td> Politikerne på Christiansborg fører sig frem, som om de alene ejede landet, og vi andre ikke eksisterede. </td>
 </tr>
 <tr>
+<td> få det til </td>
+<td> make it to </td>
+<td> Han talte flaskerne og fik det til niogtredive. </td>
+</tr>
+<tr>
 <td> få lov til </td>
 <td> be allowed to </td>
 <td> Hun får lov til at gå på toilettet, eskorteret af en kvindelig betjent. </td>
@@ -254,6 +259,11 @@ search: true
 <td> ganske vist </td>
 <td> admittedly </td>
 <td> At ryge var ganske vist dyrt – men én last skal man have, trøstede hun sig selv. </td>
+</tr>
+<tr>
+<td> gemme ... væk/bort/(af vejen) </td>
+<td> hide ... away/out of the way </td>
+<td> Egentlig var udsendelsen bedst tjent med at blive forbigået i tavshed, gemt væk og glemt for altid. </td>
 </tr>
 <tr>
 <td> give ... videre til / videregive ... til </td>

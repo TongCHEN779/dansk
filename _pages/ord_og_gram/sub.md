@@ -15315,6 +15315,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tavshed"> en tavshed </a></td>
+<td>
+<audio id="tavshed" src="https://static.ordnet.dk/mp3/12000/12000400_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tavshed');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtɑwsˌheðˀ]</span>
+</td>
+<td> tavsheden </td>
+<td> - </td>
+<td> - </td>
+<td> silence </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=taxa"> en taxa </a></td>
 <td>
 <audio id="taxa" src="https://static.ordnet.dk/mp3/12000/12000402_1.mp3" style="display: none;"></audio>
@@ -16560,6 +16572,18 @@ search: true
 <td> udseender </td>
 <td> udseenderne </td>
 <td> appearance </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udsendelse"> en udsendelse </a></td>
+<td>
+<audio id="udsendelse" src="https://static.ordnet.dk/mp3/12004/12004087_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udsendelse');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈuðˌsεnˀəlsə]</span>
+</td>
+<td> udsendelsen </td>
+<td> udsendelser </td>
+<td> udsendelserne </td>
+<td> broadcast </td>
 <td> 1 </td>
 </tr>
 <tr>
