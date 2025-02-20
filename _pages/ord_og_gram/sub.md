@@ -15951,6 +15951,30 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=trone"> en trone </a></td>
+<td>
+<audio id="trone" src="https://static.ordnet.dk/mp3/12002/12002493_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('trone');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtʁoːnə]</span>
+</td>
+<td> tronen </td>
+<td> troner </td>
+<td> tronerne </td>
+<td> throne </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tronskifte"> et tronskifte </a></td>
+<td>
+<audio id="tronskifte" src="https://static.ordnet.dk/mp3/12002/12002499_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tronskifte');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtʁoːn-]</span>
+</td>
+<td> tronskiftet </td>
+<td> tronskifter </td>
+<td> tronskifterne </td>
+<td> change of throne </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=trusse"> en trusse </a></td>
 <td>
 <audio id="trusse" src="https://static.ordnet.dk/mp3/12002/12002551_1.mp3" style="display: none;"></audio>
@@ -16464,6 +16488,30 @@ search: true
 <td> udgifter </td>
 <td> udgifterne </td>
 <td> expense </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udkant"> en udkant </a></td>
+<td>
+<audio id="udkant" src="https://static.ordnet.dk/mp3/12003/12003888_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udkant');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈuðˌkanˀd]</span>
+</td>
+<td> udkanten </td>
+<td> udkanter </td>
+<td> udkanterne </td>
+<td> outskirts </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udkantsdanmark"> udkantsdanmark </a></td>
+<td>
+<audio id="udkantsdanmark" src="https://static.ordnet.dk/mp3/41000/41000305_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udkantsdanmark');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈuðˌkantsˌdanmɑʁk]</span>
+</td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> peripheral Denmark </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -16981,6 +17029,30 @@ search: true
 <td> - </td>
 <td> water </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vandkant"> en vandkant </a></td>
+<td>
+<audio id="vandkant" src="https://static.ordnet.dk/mp3/12005/12005677_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vandkant');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈvanˌkant]</span>
+</td>
+<td> vandkanten </td>
+<td> vandkanter </td>
+<td> vandkanterne </td>
+<td> water's edge </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vandkantsdanmark"> vandkantsdanmark </a></td>
+<td>
+<audio id="vandkantsdanmark" src="" style="display: none;"></audio>
+<span onclick="playSound('vandkantsdanmark');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌdanmɑg]</span>
+</td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> coastal Denmark </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vandløb"> et vandløb </a></td>
