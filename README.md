@@ -22,6 +22,8 @@ The website contains a homepage, 5 main blocks and a word search engine:
 (**Easter eggs**: Do you know who is the man in the portrait? Can you find another information about him somewhere in the website?)
 
 ### Tips for Whisy
+Remember to pull updates before any modification:
+>git pull
 
 Command for adding words: 
 >python ordnet.py --path {file_name} -n {word}
