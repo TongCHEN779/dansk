@@ -20,3 +20,13 @@ The website contains a homepage, 5 main blocks and a word search engine:
 - Search engine: Word search engine for all subpages in block 1 (except "Pronominer").
 
 (**Easter eggs**: Do you know who is the man in the portrait? Can you find another information about him somewhere in the website?)
+
+### Tips for Whisy
+
+Command for adding words: 
+>python ordnet.py --path {file_name} -n {word}
+
+Command for synchronizing:
+>git add --all;
+>git commit -m 'updates';
+>git push
