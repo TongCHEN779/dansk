@@ -8708,6 +8708,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=redde"> at redde </a></td>
+<td>
+<audio id="redde" src="https://static.ordnet.dk/mp3/11042/11042355_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('redde');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʁεðə]</span>
+</td>
+<td> redder </td>
+<td> reddede </td>
+<td> har reddet </td>
+<td> red </td>
+<td> to save, rescue </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=rede"> at rede </a></td>
 <td>
 <audio id="rede" src="https://static.ordnet.dk/mp3/11042/11042357_1.mp3" style="display: none;"></audio>
