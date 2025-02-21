@@ -3434,6 +3434,18 @@ search: true
 <td> meaningful </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=middelbar"> middelbar </a></td>
+<td>
+<audio id="middelbar" src="https://static.ordnet.dk/mp3/11033/11033447_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('middelbar');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmiðˀəlˌbɑˀ]</span>
+</td>
+<td> middelbart </td>
+<td> middelbare </td>
+<td> mere middelbar </td>
+<td> mest middelbar </td>
+<td> intermediate </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=midlertidig"> midlertidig </a></td>
 <td>
 <audio id="midlertidig" src="https://static.ordnet.dk/mp3/11033/11033467_1.mp3" style="display: none;"></audio>
@@ -6096,6 +6108,18 @@ search: true
 <td> mere ulækker </td>
 <td> mest ulækker </td>
 <td> disgusting </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=umiddelbar"> umiddelbar </a></td>
+<td>
+<audio id="umiddelbar" src="https://static.ordnet.dk/mp3/12004/12004660_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('umiddelbar');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈuˌmiðˀəlˌbɑˀ]</span>
+</td>
+<td> umiddelbart </td>
+<td> umiddelbare </td>
+<td> mere umiddelbar </td>
+<td> mest umiddelbar </td>
+<td> immediate </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=umoralsk"> umoralsk </a></td>
