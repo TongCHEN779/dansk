@@ -1647,6 +1647,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bevilling"> en bevilling </a></td>
+<td>
+<audio id="bevilling" src="https://static.ordnet.dk/mp3/11004/11004508_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bevilling');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈvilˀeŋ]</span>
+</td>
+<td> bevillingen </td>
+<td> bevillinger </td>
+<td> bevillingerne </td>
+<td> grant </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bev%C3%A6gelse"> en bevægelse </a></td>
 <td>
 <audio id="bevægelse" src="https://static.ordnet.dk/mp3/11004/11004532_1.mp3" style="display: none;"></audio>
