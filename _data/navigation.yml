@@ -1,0 +1,145 @@
+# main links
+main:
+  - title: "Ordforråd og Grammatik"
+    url: /ord_og_gram/main/
+
+  - title: "Undervisning"
+    url: /undervisning/main/
+
+  - title: "Lytte"
+    url: /lytte/main/
+
+  - title: "Læsning"
+    url: /laesning/main/
+
+  - title: "Links"
+    url: /links/
+
+  - title: "<i class='fas fa-search'></i>"
+    url: /search/
+
+ord_og_gram:
+  - title: "Ordforråd og Grammatik"
+    children:
+      - title: "Adjektiver"
+        url: /ord_og_gram/adj/
+      - title: "Adverbier"
+        url: /ord_og_gram/adv/
+      - title: "Faste Udtryk"
+        url: /ord_og_gram/fast/
+      - title: "Konjunktioner"
+        url: /ord_og_gram/konj/
+      - title: "Pronominer"
+        url: /ord_og_gram/pron/
+      - title: "Præpositioner"
+        url: /ord_og_gram/præp/
+      - title: "Substantiver"
+        url: /ord_og_gram/sub/
+      - title: "Verber"
+        url: /ord_og_gram/verb/
+
+undervisning:
+  - title: "Undervisning"
+    children:
+      - title: "Arbejdermuseet"
+        url: /undervisning/arbejdermuseet/
+      - title: "Danmarkshistorien"
+        url: /undervisning/danmarkshistorien/
+      - title: "Det Kommer (modul 3)"
+        url: /undervisning/det_kommer/
+      - title: "Det Rykker (modul 4)"
+        url: /undervisning/det_rykker/
+      - title: "Frihedsmuseet & STORM"
+        url: /undervisning/frihedsmuseet/
+      - title: "Højt til Loftet (modul 5)"
+        url: /undervisning/hoejt_til_loftet/
+      - title: "Museum Vestsjælland"
+        url: /undervisning/vest/
+      - title: "Prøve i Dansk 3"
+        url: /undervisning/pd3/
+      - title: "Skole Historie"
+        url: /undervisning/skole/
+
+lytte:
+  - title: "Lytte"
+    children:
+      - title: "Dansk i Ørerne"
+        url: /lytte/dansk_i_oererne/
+      - title: "Folkerepublikken Kina 75 år"
+        url: /lytte/kina_75_aar/
+      - title: "Højt til Loftet"
+        url: /lytte/hoejt_til_loftet/
+      - title: "Nytårstaler"
+        url: /lytte/nytaarstaler/
+      - title: "Sangen"
+        url: /lytte/sangen/
+      - title: "Vores Tid - Alletiders Fest"
+        url: /lytte/vores_tid_fest/
+      - title: "Vores Tid - Besat på Bornholm"
+        url: /lytte/vores_tid_bornholm/
+      - title: "Vores Tid - Danmarks historie for børn"
+        url: /lytte/vores_tid_historie_boern/
+      - title: "Vores Tid - Danskere, der ændrede historien"
+        url: /lytte/vores_tid_danskere/
+      - title: "Vores Tid - Den dybe tallerken"
+        url: /lytte/vores_tid_tal/
+      - title: "Vores Tid - Den perfekte by"
+        url: /lytte/vores_tid_by/
+      - title: "Vores Tid - Dyt I Danmarkshistorien"
+        url: /lytte/vores_tid_dyt/
+      - title: "Vores Tid - Forfængelighedens århundrede"
+        url: /lytte/vores_tid_forfaengeligheden/
+      - title: "Vores Tid - KoreaKontoret"
+        url: /lytte/vores_tid_korea/
+      - title: "Vores Tid - Kronborgs hemmeligheder"
+        url: /lytte/vores_tid_kron/
+      - title: "Vores Tid - Kurs mod nord"
+        url: /lytte/vores_tid_kurs/
+      - title: "Vores Tid - Kærlighedshistorie"
+        url: /lytte/vores_tid_kaerlighed/
+      - title: "Vores Tid - Made in America"
+        url: /lytte/vores_tid_america/
+      - title: "Vores Tid - Magtens Kvinder"
+        url: /lytte/vores_tid_kvinder/
+      - title: "Vores Tid - Ritts Kaffeklub"
+        url: /lytte/vores_tid_kaffe/
+      - title: "Vores Tid - Rustur"
+        url: /lytte/vores_tid_rustur/
+      - title: "Vores Tid - Skelettet fra Fall River"
+        url: /lytte/vores_tid_skelettet/
+      - title: "Vores Tid - Stormflod"
+        url: /lytte/vores_tid_storm/
+      - title: "Vores Tid - Tekla"
+        url: /lytte/vores_tid_tekla/
+      - title: "Vores Tid - Udlængsel"
+        url: /lytte/vores_tid_udlaengsel/
+      - title: "Vores Tid - Vandrebogen"
+        url: /lytte/vores_tid_vand/
+      - title: "Vores Tid - Verdens Værste År"
+        url: /lytte/vores_tid_verden/
+
+laesning:
+  - title: "Læsning"
+    children:
+      - title: "Af Møns historie - F. Bojsen"
+        url: /laesning/moens/
+      - title: "Against All Odds - SMK"
+        url: /laesning/against_all_odds/
+      - title: "Bøger"
+        url: /laesning/boeger/
+      - title: "Børnenes Bogsamling"
+        url: /laesning/boern/
+      - title: "Davidssamling"
+        url: /laesning/david/
+      - title: "Frihedsmuseet"
+        url: /laesning/frihed/
+      - title: "Mennesker"
+        url: /laesning/mennesker/
+      - title: "Museet STORM"
+        url: /laesning/museet_storm/
+      - title: "Salon des Refusés - SMK"
+        url: /laesning/salon_des_refuses/
+      - title: "Uddrag"
+        url: /laesning/uddrag/
+      - title: "Verdensarv Vadehavet"
+        url: /laesning/verdensarv_vadehavet/
