@@ -26,7 +26,7 @@ Remember to pull updates before any modification:
 >git pull
 
 Command for adding words: 
->python ordnet.py --path {file_name} -n {word}
+>cd _pages/ord_og_gram/; python ordnet.py --path {file_name} -n {word}
 
 Command for synchronizing:
 >git add --all;
