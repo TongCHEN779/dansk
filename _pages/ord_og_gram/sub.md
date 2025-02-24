@@ -13314,7 +13314,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sideeffekt"> en sideeffekt </a></td>
 <td>
 <audio id="sideeffekt" src="https://static.ordnet.dk/mp3/11045/11045834_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('sideeffekt');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('sideeffekt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsiːðəˌefεgd]</span>
 </td>
 <td> sideeffekten </td>
 <td> sideeffekter </td>
