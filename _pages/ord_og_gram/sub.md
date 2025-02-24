@@ -11535,6 +11535,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=plade"> en plade </a></td>
+<td>
+<audio id="plade" src="https://static.ordnet.dk/mp3/11039/11039923_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('plade');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈplæːðə]</span>
+</td>
+<td> pladen </td>
+<td> plader </td>
+<td> pladerne </td>
+<td> plate </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=plads"> en plads </a></td>
 <td>
 <audio id="plads1" src="https://static.ordnet.dk/mp3/11039/11039945_1.mp3" style="display: none;"></audio>
