@@ -195,6 +195,18 @@ search: true
 <td> ambitious </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ambivalent"> ambivalent </a></td>
+<td>
+<audio id="ambivalent" src="https://static.ordnet.dk/mp3/11001/11001513_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ambivalent');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈɑmbivaˌlεnˀd]</span>
+</td>
+<td> ambivalent </td>
+<td> ambivalente </td>
+<td> mere ambivalent </td>
+<td> mest ambivalent </td>
+<td> ambivalent </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=amerikansk"> amerikansk </a></td>
 <td>
 <audio id="amerikansk" src="https://static.ordnet.dk/mp3/11001/11001532_1.mp3" style="display: none;"></audio>
@@ -3026,6 +3038,18 @@ search: true
 <td> knowledgeable </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=k%C3%A6mpestor"> kæmpestor </a></td>
+<td>
+<audio id="kæmpestor" src="https://static.ordnet.dk/mp3/11029/11029079_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kæmpestor');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈkεmbəˈsdoˀɐ̯]</span>
+</td>
+<td> kæmpestort </td>
+<td> kæmpestore </td>
+<td> mere kæmpestor </td>
+<td> mest kæmpestor </td>
+<td> gigantic </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=k%C3%A6rlig"> kærlig </a></td>
 <td>
 <audio id="kærlig" src="https://static.ordnet.dk/mp3/11029/11029102_1.mp3" style="display: none;"></audio>
@@ -3888,6 +3912,18 @@ search: true
 <td> mere omtænksom </td>
 <td> mest omtænksom </td>
 <td> considerate </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omvendt"> omvendt </a></td>
+<td>
+<audio id="omvendt" src="https://static.ordnet.dk/mp3/11037/11037272_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omvendt');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌvεnˀd]</span>
+</td>
+<td> omvendt </td>
+<td> omvendte </td>
+<td> mere omvendt </td>
+<td> mest omvendt </td>
+<td> reversed </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ond"> ond </a></td>

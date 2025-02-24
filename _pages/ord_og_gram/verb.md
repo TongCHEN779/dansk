@@ -6108,6 +6108,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kondensere"> at kondensere </a></td>
+<td>
+<audio id="kondensere" src="https://static.ordnet.dk/mp3/11027/11027221_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kondensere');" style="cursor: pointer; text-decoration: underline; color: blue;">[kʌndənˈseˀʌ]</span>
+</td>
+<td> kondenserer </td>
+<td> kondenserede </td>
+<td> har kondenseret </td>
+<td> kondenser </td>
+<td> to condense </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=konfiskere"> at konfiskere </a></td>
 <td>
 <audio id="konfiskere" src="https://static.ordnet.dk/mp3/11027/11027272_1.mp3" style="display: none;"></audio>

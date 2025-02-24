@@ -2607,6 +2607,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=chikane"> en chikane </a></td>
+<td>
+<audio id="chikane" src="https://static.ordnet.dk/mp3/11007/11007726_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('chikane');" style="cursor: pointer; text-decoration: underline; color: blue;">[ɕiˈkæːnə]</span>
+</td>
+<td> chikanen </td>
+<td> chikaner </td>
+<td> chikanerne </td>
+<td> harassment </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=chokolade"> en chokolade </a></td>
 <td>
 <audio id="chokolade" src="https://static.ordnet.dk/mp3/11007/11007752_1.mp3" style="display: none;"></audio>
@@ -3408,6 +3420,18 @@ search: true
 <td> eksplosioner </td>
 <td> eksplosionerne </td>
 <td> explosion </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=elv%C3%A6rk"> et elværk </a></td>
+<td>
+<audio id="elværk" src="https://static.ordnet.dk/mp3/11011/11011184_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('elværk');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈεl-]</span>
+</td>
+<td> elværket </td>
+<td> elværker </td>
+<td> elværkerne </td>
+<td> power plant </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -4838,6 +4862,18 @@ search: true
 <td> fremtiderne </td>
 <td> future </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fremskridt"> et fremskridt </a></td>
+<td>
+<audio id="fremskridt" src="https://static.ordnet.dk/mp3/11015/11015941_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fremskridt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfʁamˌsgʁid]</span>
+</td>
+<td> fremskridtet </td>
+<td> - </td>
+<td> fremskridtene </td>
+<td> progress </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=frist"> en frist </a></td>
@@ -9652,6 +9688,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=modsætning"> en modsætning </a></td>
+<td>
+<audio id="modsætning" src="https://static.ordnet.dk/mp3/11034/11034151_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('modsætning');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmoðˌsεdneŋ]</span>
+</td>
+<td> modsætningen </td>
+<td> modsætninger </td>
+<td> modsætningerne </td>
+<td> contrast </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=modstand"> en modstand </a></td>
 <td>
 <audio id="modstand" src="https://static.ordnet.dk/mp3/11034/11034125_1.mp3" style="display: none;"></audio>
@@ -10465,6 +10513,18 @@ search: true
 <td> oceaner </td>
 <td> oceanerne </td>
 <td> ocean </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=oliefyr"> et oliefyr </a></td>
+<td>
+<audio id="oliefyr" src="https://static.ordnet.dk/mp3/11036/11036991_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('oliefyr');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌfyɐ̯ˀ]</span>
+</td>
+<td> oliefyret </td>
+<td> oliefyr </td>
+<td> oliefyrene </td>
+<td> oil burner </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -13248,6 +13308,18 @@ search: true
 <td> sider </td>
 <td> siderne </td>
 <td> page </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sideeffekt"> en sideeffekt </a></td>
+<td>
+<audio id="sideeffekt" src="https://static.ordnet.dk/mp3/11045/11045834_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sideeffekt');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+</td>
+<td> sideeffekten </td>
+<td> sideeffekter </td>
+<td> sideeffekterne </td>
+<td> side effect </td>
 <td> 1 </td>
 </tr>
 <tr>
