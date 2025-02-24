@@ -11043,6 +11043,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=overflade"> en overflade </a></td>
+<td>
+<audio id="overflade" src="https://static.ordnet.dk/mp3/11038/11038259_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('overflade');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈɒwʌˌflæˀðə]</span>
+</td>
+<td> overfladen </td>
+<td> overflader </td>
+<td> overfladerne </td>
+<td> surface </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=overgang"> en overgang </a></td>
 <td>
 <audio id="overgang" src="https://static.ordnet.dk/mp3/11038/11038291_1.mp3" style="display: none;"></audio>
