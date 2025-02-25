@@ -18,6 +18,9 @@ main:
   - title: "<i class='fas fa-search'></i>"
     url: /search/
 
+  - title: "<i class='glyphicon glyphicon-flash'></i>"
+    url: /flash/
+
 ord_og_gram:
   - title: "Ordforråd og Grammatik"
     children:
