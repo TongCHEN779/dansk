@@ -5275,7 +5275,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gangbro"> en gangbro </a></td>
 <td>
 <audio id="gangbro" src="https://static.ordnet.dk/mp3/11017/11017189_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('gangbro');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('gangbro');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈgɑŋˌbʁoˀ]</span>
 </td>
 <td> gangbroen </td>
 <td> gangbroer </td>
@@ -13266,7 +13266,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=selvforsyning"> en selvforsyning </a></td>
 <td>
 <audio id="selvforsyning" src="https://static.ordnet.dk/mp3/40003/40003894_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('selvforsyning');" style="cursor: pointer; text-decoration: underline; color: blue;"></span>
+<span onclick="playSound('selvforsyning');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsεlˌfʌˌsyˀneŋ]</span>
 </td>
 <td> selvforsyningen </td>
 <td> - </td>
