@@ -4,7 +4,6 @@ title: ""
 permalink: /flash/
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -46,29 +45,56 @@ permalink: /flash/
     <button onclick="showAnswer()">Bingo</button>
 
     <script>
-        const words = [
-            { danish: "en selvforsyning", link: "https://ordnet.dk/ddo/ordbog?query=selvforsyning", pronunciation: "[ˈsεlˌfʌˌsyˀneŋ]", sound: "https://static.ordnet.dk/mp3/40003/40003894_1.mp3", english: "self-sufficiency" },
-            { danish: "et hus", link: "https://ordnet.dk/ddo/ordbog?query=hus", pronunciation: "[huːs]", sound: "https://static.ordnet.dk/mp3/sample.mp3", english: "house" }
-            // Add more words as needed
-        ];
+        let words = [];
+
+        async function loadWords() {
+            const files = ["adj.md", "sub.md", "verb.md"];
+            let allRows = [];
+            for (const file of files) {
+                const response = await fetch(file);
+                const text = await response.text();
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(text, "text/html");
+                const rows = doc.querySelectorAll("tr");
+                rows.forEach(row => {
+                    const cells = row.querySelectorAll("td");
+                    if (cells.length >= 3) {
+                        allRows.push({
+                            danish: cells[0].innerHTML,
+                            pronunciation: cells[1].innerHTML,
+                            english: cells[cells.length - 1].innerText.trim()
+                        });
+                    }
+                });
+            }
+            words = allRows;
+        }
 
         let currentWord = null;
-        let showDanish = true;
+        let displayOption = "";
 
-        function generateFlashCard() {
+        async function generateFlashCard() {
+            if (words.length === 0) {
+                await loadWords();
+            }
             currentWord = words[Math.floor(Math.random() * words.length)];
-            showDanish = Math.random() < 0.5;
-            document.getElementById("question").innerHTML = showDanish 
-                ? `<a href="${currentWord.link}" target="_blank">${currentWord.danish}</a>`
-                : currentWord.english;
+            const options = ["danish", "pronunciation", "english"];
+            displayOption = options[Math.floor(Math.random() * options.length)];
+            document.getElementById("question").innerHTML = currentWord[displayOption];
             document.getElementById("answer").value = "";
         }
 
         function showAnswer() {
             if (!currentWord) return;
-            document.getElementById("question").innerHTML += showDanish 
-                ? ` → ${currentWord.english}` 
-                : ` → <a href="${currentWord.link}" target="_blank">${currentWord.danish}</a>`;
+            let answer;
+            if (displayOption === "danish") {
+                answer = `Pronunciation: ${currentWord.pronunciation} → English: ${currentWord.english}`;
+            } else if (displayOption === "pronunciation") {
+                answer = `Danish: ${currentWord.danish} → English: ${currentWord.english}`;
+            } else {
+                answer = `Danish: ${currentWord.danish} → Pronunciation: ${currentWord.pronunciation}`;
+            }
+            document.getElementById("question").innerHTML += "<br>" + answer;
         }
     </script>
 </body>

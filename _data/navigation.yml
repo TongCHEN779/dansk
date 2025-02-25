@@ -18,7 +18,7 @@ main:
   - title: "<i class='fas fa-search'></i>"
     url: /search/
 
-  - title: "<i class='glyphicon glyphicon-flash'></i>"
+  - title: "<i class='fa fa-flash'></i>"
     url: /flash/
 
 ord_og_gram:
