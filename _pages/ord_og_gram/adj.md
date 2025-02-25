@@ -6482,6 +6482,18 @@ search: true
 <td> genuine </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vedvarende"> vedvarende </a></td>
+<td>
+<audio id="vedvarende" src="https://static.ordnet.dk/mp3/12006/12006024_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vedvarende');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌvɑˀɑnə]</span>
+</td>
+<td> - </td>
+<td> - </td>
+<td> mere vedvarende </td>
+<td> mest vedvarende </td>
+<td> persistent </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=velegnet"> velegnet </a></td>
 <td>
 <audio id="velegnet" src="https://static.ordnet.dk/mp3/12006/12006174_1.mp3" style="display: none;"></audio>
@@ -6528,6 +6540,18 @@ search: true
 <td> mere velholdt </td>
 <td> mest velholdt </td>
 <td> well-kept </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vellykket"> vellykket </a></td>
+<td>
+<audio id="vellykket" src="https://static.ordnet.dk/mp3/12006/12006223_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vellykket');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌløgəð]</span>
+</td>
+<td> vellykket </td>
+<td> vellykkede </td>
+<td> mere vellykket </td>
+<td> mest vellykket </td>
+<td> successful </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vell%C3%B8nnet"> vellønnet </a></td>

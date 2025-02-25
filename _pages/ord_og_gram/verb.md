@@ -8006,6 +8006,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opstå"> at opstå </a></td>
+<td>
+<audio id="opstå" src="https://static.ordnet.dk/mp3/11037/11037769_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opstå');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʌbˌsdɔˀ]</span>
+</td>
+<td> opstår </td>
+<td> opstod </td>
+<td> er opstået </td>
+<td> opstå </td>
+<td> to arise </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=opsummere"> at opsummere </a></td>
 <td>
 <audio id="opsummere" src="https://static.ordnet.dk/mp3/11037/11037772_1.mp3" style="display: none;"></audio>
@@ -8938,7 +8951,7 @@ search: true
 <td> rejste </td>
 <td> har/er rejst </td>
 <td> rejs </td>
-<td> to travel </td>
+<td> to travel, raise </td>
 <td> 2 </td>
 </tr>
 <tr>
@@ -11019,6 +11032,19 @@ search: true
 <td> sved </td>
 <td> to sweat </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=svine"> at svine </a></td>
+<td>
+<audio id="svine" src="https://static.ordnet.dk/mp3/11051/11051715_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('svine');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsviːnə]</span>
+</td>
+<td> sviner </td>
+<td> svinede </td>
+<td> har svinet </td>
+<td> svin </td>
+<td> to mess up </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=svulme"> at svulme </a></td>
