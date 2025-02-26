@@ -134,6 +134,10 @@ permalink: /flash/
 
         function showAnswer() {
             if (!currentWord) return;
+
+            // Preserve the user's input
+            let userAnswer = document.getElementById("answer").value;
+
             // Display all details
             document.getElementById("question").innerHTML = `
                 <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Dansk}</div>
@@ -141,6 +145,9 @@ permalink: /flash/
                 <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Engelsk}</div>
                 <input type="text" id="answer" placeholder="Type your answer">
             `;
+
+            // Restore the user's input
+            document.getElementById("answer").value = userAnswer;
         }
 
         function playSound(soundId) {
