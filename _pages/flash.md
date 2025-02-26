@@ -100,11 +100,11 @@ permalink: /flash/
             if (!currentWord) return;
             let answer;
             if (displayOption === "Danish") {
-                answer = `Pronunciation: ${currentWord.pronunciation} → English: ${currentWord.english}`;
+                answer = `Pronunciation: ${currentWord.pronunciation} <br> English: ${currentWord.english}`;
             } else if (displayOption === "Pronunciation") {
-                answer = `Danish: ${currentWord.danish} → English: ${currentWord.english}`;
+                answer = `Danish: ${currentWord.danish} <br> English: ${currentWord.english}`;
             } else {
-                answer = `Danish: ${currentWord.danish} → Pronunciation: ${currentWord.pronunciation}`;
+                answer = `Danish: ${currentWord.danish} <br> Pronunciation: ${currentWord.pronunciation}`;
             }
             document.getElementById("question").innerHTML += "<br>" + answer;
         }
