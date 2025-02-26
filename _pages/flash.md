@@ -125,9 +125,9 @@ permalink: /flash/
 
             // Reset all content to blank
             document.getElementById("question").innerHTML = `
-                <div><strong>Danish:</strong> ${displayOption === "Danish" ? currentWord.Danish : ""}</div>
-                <div><strong>Pronunciation:</strong> ${displayOption === "Pronunciation" ? currentWord.Pronunciation : ""}</div>
-                <div><strong>English:</strong> ${displayOption === "English" ? currentWord.English : ""}</div>
+                <div><strong>Danish:            </strong> ${displayOption === "Danish" ? currentWord.Danish : ""}</div>
+                <div><strong>Pronunciation:     </strong> ${displayOption === "Pronunciation" ? currentWord.Pronunciation : ""}</div>
+                <div><strong>English:           </strong> ${displayOption === "English" ? currentWord.English : ""}</div>
             `;
             document.getElementById("answer").value = "";
         }
@@ -136,9 +136,9 @@ permalink: /flash/
             if (!currentWord) return;
             // Display all details
             document.getElementById("question").innerHTML = `
-                <div><strong>Danish:</strong> ${currentWord.Danish}</div>
-                <div><strong>Pronunciation:</strong> ${currentWord.Pronunciation}</div>
-                <div><strong>English:</strong> ${currentWord.English}</div>
+                <div><strong>Danish:            </strong> ${currentWord.Danish}</div>
+                <div><strong>Pronunciation:     </strong> ${currentWord.Pronunciation}</div>
+                <div><strong>English:           </strong> ${currentWord.English}</div>
             `;
         }
 
