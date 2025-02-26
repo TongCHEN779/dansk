@@ -137,7 +137,7 @@ permalink: /flash/
             // Display all details
             document.getElementById("question").innerHTML = `
                 <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Dansk}</div>
-                <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Udtale}</div>
+                <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Udtale}</div>
                 <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Engelsk}</div>
             `;
         }
