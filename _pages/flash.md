@@ -108,6 +108,13 @@ permalink: /flash/
             }
             document.getElementById("question").innerHTML += "<br>" + answer;
         }
+
+        function playSound(soundId) {
+            var audioElement = document.getElementById(soundId);
+            if (audioElement) {
+                audioElement.play();
+            }
+        }
     </script>
 </body>
 </html>
