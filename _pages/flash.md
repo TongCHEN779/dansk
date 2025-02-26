@@ -46,26 +46,39 @@ permalink: /flash/
 
     <script>
         let words = [];
+        let pagesToSearch = [
+            { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
+            { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
+            { name: "Verber", url: "/dansk/ord_og_gram/verb/" },
+            { name: "Adverbier", url: "/dansk/ord_og_gram/adv/" },
+            { name: "Konjunktioner", url: "/dansk/ord_og_gram/konj/" },
+            { name: "Pronominer", url: "/dansk/ord_og_gram/pron/" },
+            { name: "Præpositioner", url: "/dansk/ord_og_gram/præp/" },
+            { name: "Faste Udtryk", url: "/dansk/ord_og_gram/fast/" }
+        ];
 
         async function loadWords() {
-            const files = ["adj.md", "sub.md", "verb.md"];
             let allRows = [];
-            for (const file of files) {
-                const response = await fetch(file);
-                const text = await response.text();
-                const parser = new DOMParser();
-                const doc = parser.parseFromString(text, "text/html");
-                const rows = doc.querySelectorAll("tr");
-                rows.forEach(row => {
-                    const cells = row.querySelectorAll("td");
-                    if (cells.length >= 3) {
-                        allRows.push({
-                            danish: cells[0].innerHTML,
-                            pronunciation: cells[1].innerHTML,
-                            english: cells[cells.length - 1].innerText.trim()
-                        });
-                    }
-                });
+            for (const page of pagesToSearch) {
+                try {
+                    const response = await fetch(page.url);
+                    const text = await response.text();
+                    const parser = new DOMParser();
+                    const doc = parser.parseFromString(text, "text/html");
+                    const rows = doc.querySelectorAll("tr");
+                    rows.forEach(row => {
+                        const cells = row.querySelectorAll("td");
+                        if (cells.length >= 3) {
+                            allRows.push({
+                                danish: cells[0].innerHTML,
+                                pronunciation: cells[1].innerHTML,
+                                english: cells[cells.length - 1].innerText.trim()
+                            });
+                        }
+                    });
+                } catch (error) {
+                    console.error(`Failed to load ${page.url}:`, error);
+                }
             }
             words = allRows;
         }
