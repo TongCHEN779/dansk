@@ -27,7 +27,7 @@ permalink: /flash/
             align-items: center;
         }
         .flashcard div {
-            width: 80%; /* Makes each section take up most of the card */
+            width: 100%; /* Makes each section take up most of the card */
             text-align: left;
             margin-bottom: 10px; /* Adds space between the sections */
             display: flex;
