@@ -20,7 +20,7 @@ permalink: /flash/
             padding: 20px;
             border: 2px solid black;
             width: 1000px;
-            height: 200px;
+            height: 250px;
             display: flex;
             flex-direction: column;
             justify-content: center;
