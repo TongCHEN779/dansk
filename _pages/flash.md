@@ -109,13 +109,6 @@ permalink: /flash/
             document.getElementById("question").innerHTML += "<br>" + answer;
         }
 
-        function playSound(soundId) {
-            var audioElement = document.getElementById(soundId);
-            if (audioElement) {
-                audioElement.play();
-            }
-        }
-
         async function generateFlashCard() {
             if (words.length === 0) {
                 await loadWords();
@@ -124,24 +117,30 @@ permalink: /flash/
             const options = ["Danish", "Pronunciation", "English"];
             displayOption = options[Math.floor(Math.random() * options.length)];
 
-            // Reset all content to blank and display the names
-            document.getElementById("question").innerHTML = "Danish, Pronunciation, and English";
-
-            document.getElementById("danish-content").innerHTML = "";
-            document.getElementById("pronunciation-content").innerHTML = "";
-            document.getElementById("english-content").innerHTML = "";
-
-            // Display the randomly selected content
-            document.getElementById(`${displayOption.toLowerCase()}-content`).innerHTML = currentWord[displayOption];
-
+            // Reset all content to blank
+            document.getElementById("question").innerHTML = `
+                <div><strong>Danish:</strong> ${displayOption === "Danish" ? currentWord.Danish : ""}</div>
+                <div><strong>Pronunciation:</strong> ${displayOption === "Pronunciation" ? currentWord.Pronunciation : ""}</div>
+                <div><strong>English:</strong> ${displayOption === "English" ? currentWord.English : ""}</div>
+            `;
             document.getElementById("answer").value = "";
         }
 
         function showAnswer() {
             if (!currentWord) return;
-            document.getElementById("danish-content").innerHTML = currentWord.Danish;
-            document.getElementById("pronunciation-content").innerHTML = currentWord.Pronunciation;
-            document.getElementById("english-content").innerHTML = currentWord.English;
+            // Display all details
+            document.getElementById("question").innerHTML = `
+                <div><strong>Danish:</strong> ${currentWord.Danish}</div>
+                <div><strong>Pronunciation:</strong> ${currentWord.Pronunciation}</div>
+                <div><strong>English:</strong> ${currentWord.English}</div>
+            `;
+        }
+
+        function playSound(soundId) {
+            var audioElement = document.getElementById(soundId);
+            if (audioElement) {
+                audioElement.play();
+            }
         }
     </script>
 </body>
