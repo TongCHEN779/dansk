@@ -115,6 +115,34 @@ permalink: /flash/
                 audioElement.play();
             }
         }
+
+        async function generateFlashCard() {
+            if (words.length === 0) {
+                await loadWords();
+            }
+            currentWord = words[Math.floor(Math.random() * words.length)];
+            const options = ["Danish", "Pronunciation", "English"];
+            displayOption = options[Math.floor(Math.random() * options.length)];
+
+            // Reset all content to blank and display the names
+            document.getElementById("question").innerHTML = "Danish, Pronunciation, and English";
+
+            document.getElementById("danish-content").innerHTML = "";
+            document.getElementById("pronunciation-content").innerHTML = "";
+            document.getElementById("english-content").innerHTML = "";
+
+            // Display the randomly selected content
+            document.getElementById(`${displayOption.toLowerCase()}-content`).innerHTML = currentWord[displayOption];
+
+            document.getElementById("answer").value = "";
+        }
+
+        function showAnswer() {
+            if (!currentWord) return;
+            document.getElementById("danish-content").innerHTML = currentWord.Danish;
+            document.getElementById("pronunciation-content").innerHTML = currentWord.Pronunciation;
+            document.getElementById("english-content").innerHTML = currentWord.English;
+        }
     </script>
 </body>
 </html>
