@@ -36,7 +36,7 @@ permalink: /flash/
             margin-top: 10px;
             text-align: center;
             display: block;
-            width: 80%;
+            width: 100%;
         }
         button {
             margin-top: 10px;
