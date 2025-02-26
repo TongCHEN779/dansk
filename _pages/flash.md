@@ -125,8 +125,8 @@ permalink: /flash/
 
             // Reset all content to blank
             document.getElementById("question").innerHTML = `
-                <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Dansk" ? currentWord.Dansk : ""}</div>
-                <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Udtale" ? currentWord.Udtale : ""}</div>
+                <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Dansk" ? currentWord.Dansk : ""}</div>
+                <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Udtale" ? currentWord.Udtale : ""}</div>
                 <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Engelsk" ? currentWord.Engelsk : ""}</div>
             `;
             document.getElementById("answer").value = "";
@@ -136,8 +136,8 @@ permalink: /flash/
             if (!currentWord) return;
             // Display all details
             document.getElementById("question").innerHTML = `
-                <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Dansk}</div>
-                <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Udtale}</div>
+                <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Dansk}</div>
+                <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Udtale}</div>
                 <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Engelsk}</div>
             `;
         }
