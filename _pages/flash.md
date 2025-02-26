@@ -19,7 +19,7 @@ permalink: /flash/
             margin: 20px auto;
             padding: 20px;
             border: 2px solid black;
-            width: 300px;
+            width: 1000px;
             height: 150px;
             display: flex;
             flex-direction: column;
@@ -28,6 +28,9 @@ permalink: /flash/
         }
         input {
             margin-top: 10px;
+            text-align: center;
+            display: block;
+            width: 80%;
         }
         button {
             margin-top: 10px;
@@ -49,12 +52,7 @@ permalink: /flash/
         let pagesToSearch = [
             { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
             { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
-            { name: "Verber", url: "/dansk/ord_og_gram/verb/" },
-            { name: "Adverbier", url: "/dansk/ord_og_gram/adv/" },
-            { name: "Konjunktioner", url: "/dansk/ord_og_gram/konj/" },
-            { name: "Pronominer", url: "/dansk/ord_og_gram/pron/" },
-            { name: "Præpositioner", url: "/dansk/ord_og_gram/præp/" },
-            { name: "Faste Udtryk", url: "/dansk/ord_og_gram/fast/" }
+            { name: "Verber", url: "/dansk/ord_og_gram/verb/" }
         ];
 
         async function loadWords() {
@@ -69,10 +67,11 @@ permalink: /flash/
                     rows.forEach(row => {
                         const cells = row.querySelectorAll("td");
                         if (cells.length >= 3) {
+                            let englishIndex = (page.name === "Substantiver" || page.name === "Verber") ? cells.length - 2 : cells.length - 1;
                             allRows.push({
                                 danish: cells[0].innerHTML,
                                 pronunciation: cells[1].innerHTML,
-                                english: cells[cells.length - 1].innerText.trim()
+                                english: cells[englishIndex].innerText.trim()
                             });
                         }
                     });
