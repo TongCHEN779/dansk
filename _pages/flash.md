@@ -26,6 +26,11 @@ permalink: /flash/
             justify-content: center;
             align-items: center;
         }
+        .flashcard div {
+            width: 80%; /* Makes each section take up most of the card */
+            text-align: left;
+            margin-bottom: 10px; /* Adds space between the sections */
+        }
         input {
             margin-top: 10px;
             text-align: center;
