@@ -936,6 +936,11 @@ search: true
 <td> Han kunne ikke engang tage sig sammen til at gå ned til åen for at fiske. </td>
 </tr>
 <tr>
+<td> tage springet </td>
+<td> take the leap </td>
+<td> To kendte og modige danskere lod sig lokke af Copenhagen Bungee Jump Centre til at tage de første spring i går fra den lille kurv i 50 meters højde. </td>
+</tr>
+<tr>
 <td> tage stilling til </td>
 <td> take a decision on </td>
 <td> Politikerne skal tage endelig stilling til loven om Ørestaden, når Folketinget samles ordinært efter sommerferien. </td>

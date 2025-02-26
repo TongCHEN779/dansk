@@ -3518,6 +3518,18 @@ search: true
 <td> modern </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=modig"> modig </a></td>
+<td>
+<audio id="modig" src="https://static.ordnet.dk/mp3/11034/11034097_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('modig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmoːði]</span>
+</td>
+<td> modigt </td>
+<td> modige </td>
+<td> modigere </td>
+<td> modigst </td>
+<td> brave </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=modsat"> modsat </a></td>
 <td>
 <audio id="modsat" src="https://static.ordnet.dk/mp3/11034/11034116_1.mp3" style="display: none;"></audio>
@@ -4802,6 +4814,18 @@ search: true
 <td> rare </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skadelig"> skadelig </a></td>
+<td>
+<audio id="skadelig" src="https://static.ordnet.dk/mp3/11046/11046232_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skadelig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsgæːðəli]</span>
+</td>
+<td> skadeligt </td>
+<td> skadelige </td>
+<td> mere skadelig </td>
+<td> mest skadelig </td>
+<td> harmful </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skaldet"> skaldet </a></td>
 <td>
 <audio id="skaldet" src="https://static.ordnet.dk/mp3/11046/11046270_1.mp3" style="display: none;"></audio>
@@ -4884,6 +4908,18 @@ search: true
 <td> mere skånsom </td>
 <td> mest skånsom </td>
 <td> gentle </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=slem,2&amp;query=slem"> slem </a></td>
+<td>
+<audio id="slem" src="https://static.ordnet.dk/mp3/11047/11047669_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slem');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈslεmˀ]</span>
+</td>
+<td> slemt </td>
+<td> slemme </td>
+<td> værre/slemmere </td>
+<td> værst/slemmest </td>
+<td> bad </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=smart"> smart </a></td>
@@ -5112,6 +5148,18 @@ search: true
 <td> større </td>
 <td> størst </td>
 <td> big </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=strategisk"> strategisk </a></td>
+<td>
+<audio id="strategisk" src="https://static.ordnet.dk/mp3/11050/11050695_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('strategisk');" style="cursor: pointer; text-decoration: underline; color: blue;">[sdʁɑˈteˀgisg]</span>
+</td>
+<td> strategisk </td>
+<td> strategiske </td>
+<td> mere strategisk </td>
+<td> mest strategisk </td>
+<td> strategic </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=streng"> streng </a></td>
@@ -6588,6 +6636,18 @@ search: true
 <td> vestligere </td>
 <td> vestligst </td>
 <td> western </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vidtstrakt"> vidtstrakt </a></td>
+<td>
+<audio id="vidtstrakt" src="https://static.ordnet.dk/mp3/12006/12006658_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vidtstrakt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈvidˌsdʁɑgd]</span>
+</td>
+<td> vidtstrakt </td>
+<td> vidtstrakte </td>
+<td> mere vidtstrakt </td>
+<td> mest vidtstrakt </td>
+<td> extensive </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vigtig"> vigtig </a></td>

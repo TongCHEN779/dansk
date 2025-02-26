@@ -2573,6 +2573,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=engagere"> at engagere </a></td>
+<td>
+<audio id="engagere" src="https://static.ordnet.dk/mp3/11011/11011407_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('engagere');" style="cursor: pointer; text-decoration: underline; color: blue;">[ɑŋgaˈɕeˀʌ]</span>
+</td>
+<td> engagerer </td>
+<td> engagerede </td>
+<td> har engageret </td>
+<td> engager </td>
+<td> to engage </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ensarte"> at ensarte </a></td>
 <td>
 <audio id="ensarte" src="https://static.ordnet.dk/mp3/11011/11011494_1.mp3" style="display: none;"></audio>
@@ -7668,6 +7681,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omskole"> at omskole </a></td>
+<td>
+<audio id="omskole" src="https://static.ordnet.dk/mp3/11037/11037212_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omskole');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌsgoˀlə]</span>
+</td>
+<td> omskoler </td>
+<td> omskolede </td>
+<td> har omskolet </td>
+<td> omskol </td>
+<td> to retrain </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=omstille"> at omstille </a></td>
 <td>
 <audio id="omstille" src="https://static.ordnet.dk/mp3/11037/11037231_1.mp3" style="display: none;"></audio>
@@ -10021,7 +10047,7 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=slippe"> at slippe </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=slippe,2&amp;query=slippe"> at slippe </a></td>
 <td>
 <audio id="slippe" src="https://static.ordnet.dk/mp3/11047/11047748_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('slippe');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈslebə]</span>
@@ -10826,7 +10852,7 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=stråle"> at stråle </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=str%C3%A5le,2&query=str%C3%A5le"> at stråle </a></td>
 <td>
 <audio id="stråle" src="https://static.ordnet.dk/mp3/11050/11050912_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('stråle');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsdʁɔːlə]</span>
@@ -12201,6 +12227,19 @@ search: true
 <td> har udregnet </td>
 <td> udregn </td>
 <td> to calculate </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udrette"> at udrette </a></td>
+<td>
+<audio id="udrette" src="https://static.ordnet.dk/mp3/12004/12004049_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udrette');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌʁadə]</span>
+</td>
+<td> udretter </td>
+<td> udrettede </td>
+<td> har udrettet </td>
+<td> udret </td>
+<td> to accomplish </td>
 <td> 1 </td>
 </tr>
 <tr>

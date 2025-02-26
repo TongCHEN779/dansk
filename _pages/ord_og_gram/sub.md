@@ -6844,6 +6844,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indsamling"> en indsamling </a></td>
+<td>
+<audio id="indsamling" src="https://static.ordnet.dk/mp3/11023/11023504_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indsamling');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌsɑmˀleŋ]</span>
+</td>
+<td> indsamlingen </td>
+<td> indsamlinger </td>
+<td> indsamlingerne </td>
+<td> collection </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=indsats"> en indsats </a></td>
 <td>
 <audio id="indsats" src="https://static.ordnet.dk/mp3/11023/11023506_1.mp3" style="display: none;"></audio>
@@ -7924,7 +7936,7 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=konservatorie"> et konservatorie </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=konservatorie"> et konservatorium/konservatorie </a></td>
 <td>
 <audio id="konservatorie" src="https://static.ordnet.dk/mp3/11027/11027379_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('konservatorie');" style="cursor: pointer; text-decoration: underline; color: blue;">[kʌnsæɐ̯vaˈtoˀɐ̯iɔm]</span>
@@ -8308,6 +8320,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kvalitet"> en kvalitet </a></td>
+<td>
+<audio id="kvalitet" src="https://static.ordnet.dk/mp3/11028/11028808_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kvalitet');" style="cursor: pointer; text-decoration: underline; color: blue;">[kvaliˈteˀd]</span>
+</td>
+<td> kvaliteten </td>
+<td> kvaliteter </td>
+<td> kvaliteterne </td>
+<td> quality </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kvalme"> kvalme </a></td>
 <td>
 <audio id="kvalme" src="https://static.ordnet.dk/mp3/11028/11028817_1.mp3" style="display: none;"></audio>
@@ -8318,6 +8342,18 @@ search: true
 <td> - </td>
 <td> nausea </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kvantitet"> en kvantitet </a></td>
+<td>
+<audio id="kvantitet" src="https://static.ordnet.dk/mp3/11028/11028828_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kvantitet');" style="cursor: pointer; text-decoration: underline; color: blue;">[kvantiˈteˀd]</span>
+</td>
+<td> kvantiteten </td>
+<td> kvantiteter </td>
+<td> kvantiteterne </td>
+<td> quantity </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kvarter"> et kvarter </a></td>
@@ -9352,6 +9388,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=mast"> en mast </a></td>
+<td>
+<audio id="mast" src="https://static.ordnet.dk/mp3/11032/11032679_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mast');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmasd]</span>
+</td>
+<td> masten </td>
+<td> master </td>
+<td> masterne </td>
+<td> mast </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=matematik"> matematik </a></td>
 <td>
 <audio id="matematik" src="https://static.ordnet.dk/mp3/11032/11032703_1.mp3" style="display: none;"></audio>
@@ -9458,6 +9506,18 @@ search: true
 <td> medlemmerne </td>
 <td> member </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=medtrafikant"> en medtrafikant </a></td>
+<td>
+<audio id="medtrafikant" src="" style="display: none;"></audio>
+<span onclick="playSound('medtrafikant');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmεðtʁɑfiˌkɑnd]</span>
+</td>
+<td> medtrafikanten </td>
+<td> medtrafikanter </td>
+<td> medtrafikanterne </td>
+<td> fellow road user </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=melding"> et melding </a></td>
@@ -14787,6 +14847,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=stilhed"> en stilhed </a></td>
+<td>
+<audio id="stilhed" src="https://static.ordnet.dk/mp3/11050/11050299_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('stilhed');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsdelˌheðˀ]</span>
+</td>
+<td> stilheden </td>
+<td> - </td>
+<td> - </td>
+<td> silence </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=stillads"> et stillads </a></td>
 <td>
 <audio id="stillads" src="https://static.ordnet.dk/mp3/11050/11050310_1.mp3" style="display: none;"></audio>
@@ -14931,6 +15003,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=strategi"> en strategi </a></td>
+<td>
+<audio id="strategi" src="https://static.ordnet.dk/mp3/11050/11050694_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('strategi');" style="cursor: pointer; text-decoration: underline; color: blue;">[sdʁɑdəˈgiˀ]</span>
+</td>
+<td> strategien </td>
+<td> strategier </td>
+<td> strategierne </td>
+<td> strategy </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=streg"> en streg </a></td>
 <td>
 <audio id="streg" src="https://static.ordnet.dk/mp3/11050/11050706_1.mp3" style="display: none;"></audio>
@@ -14952,6 +15036,18 @@ search: true
 <td> strækninger </td>
 <td> strækningerne </td>
 <td> stretch </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=str%C3%A5ling"> en stråling </a></td>
+<td>
+<audio id="stråling" src="https://static.ordnet.dk/mp3/11050/11050924_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('stråling');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsdʁɔːleŋ]</span>
+</td>
+<td> strålingen </td>
+<td> strålinger </td>
+<td> strålingerne </td>
+<td> radiation </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -15567,6 +15663,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tagr%C3%B8r"> et tagrør </a></td>
+<td>
+<audio id="tagrør" src="https://static.ordnet.dk/mp3/12000/12000063_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tagrør');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtɑwˌʁɶɐ̯ˀ]</span>
+</td>
+<td> tagrøret </td>
+<td> tagrør </td>
+<td> tagrørene </td>
+<td> reed </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tagterrasse"> en tagterrasse </a></td>
 <td>
 <audio id="tagterrasse" src="https://static.ordnet.dk/mp3/12000/12000069_1.mp3" style="display: none;"></audio>
@@ -15807,6 +15915,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=telefonmast"> en telefonmast </a></td>
+<td>
+<audio id="telefonmast" src="https://static.ordnet.dk/mp3/50009/50009720_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('telefonmast');" style="cursor: pointer; text-decoration: underline; color: blue;">[teləˈfoˀnˌmast]</span>
+</td>
+<td> telefonmasten </td>
+<td> telefonmaster </td>
+<td> telefonmasterne </td>
+<td> telephone pole </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=telefonnummer"> et telefonnummer </a></td>
 <td>
 <audio id="telefonnummer" src="https://static.ordnet.dk/mp3/12000/12000582_1.mp3" style="display: none;"></audio>
@@ -15876,6 +15996,18 @@ search: true
 <td> terrasser </td>
 <td> terrasserne </td>
 <td> terrace </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=terr%C3%A6n"> et terræn </a></td>
+<td>
+<audio id="terræn" src="https://static.ordnet.dk/mp3/12000/12000811_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('terræn');" style="cursor: pointer; text-decoration: underline; color: blue;">[taˈʁaŋ]</span>
+</td>
+<td> terrænet </td>
+<td> terræner </td>
+<td> terrænerne </td>
+<td> terrain </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -18180,6 +18312,30 @@ search: true
 <td> værfter </td>
 <td> værfterne </td>
 <td> shipyard </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=v%C3%A6rn"> et værn </a></td>
+<td>
+<audio id="værn" src="https://static.ordnet.dk/mp3/12007/12007549_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('værn');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈvæɐ̯ˀn]</span>
+</td>
+<td> værnet </td>
+<td> værn </td>
+<td> værnene </td>
+<td> defense </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=v%C3%A6rnepligt"> en værnepligt </a></td>
+<td>
+<audio id="værnepligt" src="https://static.ordnet.dk/mp3/12007/12007554_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('værnepligt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈvæɐ̯nə-]</span>
+</td>
+<td> værnepligten </td>
+<td> - </td>
+<td> - </td>
+<td> conscription </td>
 <td> 1 </td>
 </tr>
 <tr>
