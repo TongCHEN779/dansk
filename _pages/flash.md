@@ -67,11 +67,11 @@ permalink: /flash/
                     rows.forEach(row => {
                         const cells = row.querySelectorAll("td");
                         if (cells.length >= 3) {
-                            let englishIndex = (page.name === "Substantiver" || page.name === "Verber") ? cells.length - 2 : cells.length - 1;
+                            let EnglishIndex = (page.name === "Substantiver" || page.name === "Verber") ? cells.length - 2 : cells.length - 1;
                             allRows.push({
-                                danish: cells[0].innerHTML,
-                                pronunciation: cells[1].innerHTML,
-                                english: cells[englishIndex].innerText.trim()
+                                Danish: cells[0].innerHTML,
+                                Pronunciation: cells[1].innerHTML,
+                                English: cells[englishIndex].innerText.trim()
                             });
                         }
                     });
@@ -100,11 +100,11 @@ permalink: /flash/
             if (!currentWord) return;
             let answer;
             if (displayOption === "Danish") {
-                answer = `Pronunciation: ${currentWord.pronunciation} <br> English: ${currentWord.english}`;
+                answer = `Pronunciation: ${currentWord.Pronunciation} <br> English: ${currentWord.English}`;
             } else if (displayOption === "Pronunciation") {
-                answer = `Danish: ${currentWord.danish} <br> English: ${currentWord.english}`;
+                answer = `Danish: ${currentWord.Danish} <br> English: ${currentWord.English}`;
             } else {
-                answer = `Danish: ${currentWord.danish} <br> Pronunciation: ${currentWord.pronunciation}`;
+                answer = `Danish: ${currentWord.Danish} <br> Pronunciation: ${currentWord.Pronunciation}`;
             }
             document.getElementById("question").innerHTML += "<br>" + answer;
         }
