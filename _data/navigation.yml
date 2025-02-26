@@ -15,10 +15,10 @@ main:
   - title: "Links"
     url: /links/
 
-  - title: "Search <i class='fas fa-search'></i>"
+  - title: "<i class='fas fa-search'></i>"
     url: /search/
 
-  - title: "Flash Card <i class='fas fa-bolt'></i>"
+  - title: "<i class='fas fa-bolt'></i>"
     url: /flash/
 
 ord_og_gram:

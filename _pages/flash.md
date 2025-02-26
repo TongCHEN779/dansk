@@ -48,7 +48,7 @@ permalink: /flash/
 <body>
     <button onclick="generateFlashCard()">Flash</button>
     <div class="flashcard">
-        <p id="question">Click "Flash" to start</p>
+        <p id="question">Klik på »Flash« for at starte</p>
     </div>
     <button onclick="showAnswer()">Bingo</button>
 

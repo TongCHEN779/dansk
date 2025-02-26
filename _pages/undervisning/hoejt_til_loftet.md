@@ -35,13 +35,13 @@ Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/fil
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side6.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 1, side 6, Som nat og dag </h1></td>
-<td><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_som_nat_og_dag.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_6.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side9.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 1, side 9, Emil om at være introvert </h1></td>
-<td><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_emil_om_at_vaere_introvert.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_9.pdf">text</a></td>
 </tr>
 
 <tr>
@@ -52,13 +52,13 @@ Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/fil
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side12.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 1, side 12, Olivia om at være enebarn </h1></td>
-<td><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_olivia_om_at_vaere_enebarn.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_12.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side14_1.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 1, side 14, Minidialog - Søskende </h1></td>
-<td rowspan="2"><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_minidialog.pdf">text</a></td>
+<td rowspan="2"><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_14.pdf">text</a></td>
 </tr>
 
 <tr>
@@ -89,7 +89,7 @@ Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/fil
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side34.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 2, side 34, Line om at være pendler </h1></td>
-<td><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_line_om_at_vaere_pendler.pdf">text</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_34.pdf">text</a></td>
 </tr>
 
 <tr>
@@ -232,6 +232,7 @@ Så sejlerne tjekker ofte vejremeldingerne, og de kan blive tvunget til at vende
 <tr>
 <td style="vertical-align: top;"><audio controls src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side74.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 4, side 74, Så skal vi stemme igen </h1></td>
+<td><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_74.pdf">text</a></td>
 </tr>
 
 <tr>
@@ -245,18 +246,20 @@ Så sejlerne tjekker ofte vejremeldingerne, og de kan blive tvunget til at vende
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><audio controls src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side88_2.mp3"></audio></td>
+<td style="vertical-align: top;"><h1> kap 4, side 88, Minidialog - Sofavælger </h1></td>
+<td rowspan="2"><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_88.pdf">text</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><audio controls src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side88_1.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 4, side 88, Minidialog - Langt ude </h1></td>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><audio controls src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side88_2.mp3"></audio></td>
-<td style="vertical-align: top;"><h1> kap 4, side 88, Minidialog - Sofavælger </h1></td>
-</tr>
-
-<tr>
 <td style="vertical-align: top;"><audio controls src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side90.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 4, side 90, Mina om sit forhold til politik </h1></td>
+<td><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_90.pdf">text</a></td>
 </tr>
 
 <tr>
