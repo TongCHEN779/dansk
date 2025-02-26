@@ -92,22 +92,14 @@ permalink: /flash/
             currentWord = words[Math.floor(Math.random() * words.length)];
             const options = ["danish", "pronunciation", "english"];
             displayOption = options[Math.floor(Math.random() * options.length)];
-            document.getElementById("question").innerHTML = currentWord[displayOption];
+            document.getElementById("question").innerHTML = `${displayOption.charAt(0).toUpperCase() + displayOption.slice(1)}: ${currentWord[displayOption]}`;
             document.getElementById("answer").value = "";
         }
 
         function showAnswer() {
             if (!currentWord) return;
-            let answer;
-            if (displayOption === "danish") {
-                answer = `Pronunciation: ${currentWord.pronunciation} → English: ${currentWord.english}`;
-            } else if (displayOption === "pronunciation") {
-                answer = `Danish: ${currentWord.danish} → English: ${currentWord.english}`;
-            } else {
-                answer = `Danish: ${currentWord.danish} → Pronunciation: ${currentWord.pronunciation}`;
-            }
+            let answer = `Danish: ${currentWord.danish}<br>Pronunciation: ${currentWord.pronunciation}<br>English: ${currentWord.english}`;
             document.getElementById("question").innerHTML += "<br>" + answer;
         }
-    </script>
 </body>
 </html>
