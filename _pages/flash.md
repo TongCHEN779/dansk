@@ -71,7 +71,7 @@ permalink: /flash/
                             allRows.push({
                                 Danish: cells[0].innerHTML,
                                 Pronunciation: cells[1].innerHTML,
-                                English: cells[englishIndex].innerText.trim()
+                                English: cells[EnglishIndex].innerText.trim()
                             });
                         }
                     });
