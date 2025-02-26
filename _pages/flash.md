@@ -49,7 +49,6 @@ permalink: /flash/
     <button onclick="generateFlashCard()">Flash</button>
     <div class="flashcard">
         <p id="question">Click "Flash" to start</p>
-        <input type="text" id="answer" placeholder="Type your answer">
     </div>
     <button onclick="showAnswer()">Bingo</button>
 
@@ -128,6 +127,7 @@ permalink: /flash/
                 <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Dansk" ? currentWord.Dansk : ""}</div>
                 <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Udtale" ? currentWord.Udtale : ""}</div>
                 <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Engelsk" ? currentWord.Engelsk : ""}</div>
+                <input type="text" id="answer" placeholder="Type your answer">
             `;
             document.getElementById("answer").value = "";
         }
@@ -139,6 +139,7 @@ permalink: /flash/
                 <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Dansk}</div>
                 <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Udtale}</div>
                 <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Engelsk}</div>
+                <input type="text" id="answer" placeholder="Type your answer">
             `;
         }
 
