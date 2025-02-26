@@ -18,7 +18,7 @@ permalink: /flash/
         .flashcard {
             margin: 20px auto;
             padding: 20px;
-            border: 2px solid black;
+            border: 2px solid grey;
             width:100%;
             height: 250px;
             display: flex;
