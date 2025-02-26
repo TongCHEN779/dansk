@@ -73,11 +73,11 @@ permalink: /flash/
                     rows.forEach(row => {
                         const cells = row.querySelectorAll("td");
                         if (cells.length >= 3) {
-                            let EnglishIndex = (page.name === "Substantiver" || page.name === "Verber") ? cells.length - 2 : cells.length - 1;
+                            let EngelskIndex = (page.name === "Substantiver" || page.name === "Verber") ? cells.length - 2 : cells.length - 1;
                             allRows.push({
-                                Danish: cells[0].innerHTML,
-                                Pronunciation: cells[1].innerHTML,
-                                English: cells[EnglishIndex].innerText.trim()
+                                Dansk: cells[0].innerHTML,
+                                Udtale: cells[1].innerHTML,
+                                Engelsk: cells[EngelskIndex].innerText.trim()
                             });
                         }
                     });
@@ -96,7 +96,7 @@ permalink: /flash/
                 await loadWords();
             }
             currentWord = words[Math.floor(Math.random() * words.length)];
-            const options = ["Danish", "Pronunciation", "English"];
+            const options = ["Dansk", "Udtale", "Engelsk"];
             displayOption = options[Math.floor(Math.random() * options.length)];
             document.getElementById("question").innerHTML = `${displayOption}: ${currentWord[displayOption]}`;
             document.getElementById("answer").value = "";
@@ -105,12 +105,12 @@ permalink: /flash/
         function showAnswer() {
             if (!currentWord) return;
             let answer;
-            if (displayOption === "Danish") {
-                answer = `Pronunciation: ${currentWord.Pronunciation} <br> English: ${currentWord.English}`;
-            } else if (displayOption === "Pronunciation") {
-                answer = `Danish: ${currentWord.Danish} <br> English: ${currentWord.English}`;
+            if (displayOption === "Dansk") {
+                answer = `Udtale: ${currentWord.Udtale} <br> Engelsk: ${currentWord.Engelsk}`;
+            } else if (displayOption === "Udtale") {
+                answer = `Dansk: ${currentWord.Dansk} <br> Engelsk: ${currentWord.Engelsk}`;
             } else {
-                answer = `Danish: ${currentWord.Danish} <br> Pronunciation: ${currentWord.Pronunciation}`;
+                answer = `Dansk: ${currentWord.Dansk} <br> Udtale: ${currentWord.Udtale}`;
             }
             document.getElementById("question").innerHTML += "<br>" + answer;
         }
@@ -120,14 +120,14 @@ permalink: /flash/
                 await loadWords();
             }
             currentWord = words[Math.floor(Math.random() * words.length)];
-            const options = ["Danish", "Pronunciation", "English"];
+            const options = ["Dansk", "Udtale", "Engelsk"];
             displayOption = options[Math.floor(Math.random() * options.length)];
 
             // Reset all content to blank
             document.getElementById("question").innerHTML = `
-                <div><strong>Danish:            </strong> ${displayOption === "Danish" ? currentWord.Danish : ""}</div>
-                <div><strong>Pronunciation:     </strong> ${displayOption === "Pronunciation" ? currentWord.Pronunciation : ""}</div>
-                <div><strong>English:           </strong> ${displayOption === "English" ? currentWord.English : ""}</div>
+                <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Dansk" ? currentWord.Dansk : ""}</div>
+                <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Udtale" ? currentWord.Udtale : ""}</div>
+                <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Engelsk" ? currentWord.Engelsk : ""}</div>
             `;
             document.getElementById("answer").value = "";
         }
@@ -136,9 +136,9 @@ permalink: /flash/
             if (!currentWord) return;
             // Display all details
             document.getElementById("question").innerHTML = `
-                <div><strong>Danish:            </strong> ${currentWord.Danish}</div>
-                <div><strong>Pronunciation:     </strong> ${currentWord.Pronunciation}</div>
-                <div><strong>English:           </strong> ${currentWord.English}</div>
+                <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Dansk}</div>
+                <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Udtale}</div>
+                <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Engelsk}</div>
             `;
         }
 
