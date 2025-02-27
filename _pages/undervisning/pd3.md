@@ -131,7 +131,7 @@ search: false
 <tr>
 <td>2010 maj-juni</td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201005_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201005_mdt_censor.pdf">mundtlig-censor</a></td>
-<td>læse1-tekst, <a href="https://tongchen779.github.io/dansk/files/pd3/201005_laes2_tekst.pdf">læse2-tekst</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/201005_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201005_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201005_laes1_opgave.pdf">læse1-opgave</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201005_laes2_opgave.pdf">læse2-opgave</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201005_skr.pdf">skriftlig</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201005_ret.pdf">rettenøgler</a></td>
@@ -140,7 +140,7 @@ search: false
 <tr>
 <td>2010 nov-dec</td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201011_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201011_mdt_censor.pdf">mundtlig-censor</a></td>
-<td>læse1-tekst, <a href="https://tongchen779.github.io/dansk/files/pd3/201011_laes2_tekst.pdf">læse2-tekst</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/201011_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201011_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201011_laes1_opgave.pdf">læse1-opgave</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201011_laes2_opgave.pdf">læse2-opgave</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201011_skr.pdf">skriftlig</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201011_ret.pdf">rettenøgler</a></td>
@@ -158,8 +158,8 @@ search: false
 <tr>
 <td>2011 nov-dec</td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201111_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201111_mdt_censor.pdf">mundtlig-censor</a></td>
-<td>læse1-tekst, <a href="https://tongchen779.github.io/dansk/files/pd3/201111_laes2_tekst.pdf">læse2-tekst</a></td>
-<td>læse1-opgave, <a href="https://tongchen779.github.io/dansk/files/pd3/201111_laes2_opgave.pdf">læse2-opgave</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/201111_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201111_laes2_tekst.pdf">læse2-tekst</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/201111_laes1_opgave.pdf">læse1-opgave</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201111_laes2_opgave.pdf">læse2-opgave</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201111_skr.pdf">skriftlig</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201111_ret.pdf">rettenøgler</a></td>
 </tr>
@@ -167,7 +167,7 @@ search: false
 <tr>
 <td>2012 maj-juni</td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201205_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201205_mdt_censor.pdf">mundtlig-censor</a></td>
-<td>læse1-tekst, <a href="https://tongchen779.github.io/dansk/files/pd3/201205_laes2_tekst.pdf">læse2-tekst</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/201205_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201205_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201205_laes1_opgave.pdf">læse1-opgave</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201205_laes2_opgave.pdf">læse2-opgave</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201205_skr.pdf">skriftlig</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201205_ret.pdf">rettenøgler</a></td>
@@ -185,7 +185,7 @@ search: false
 <tr>
 <td>2013 maj-juni</td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201305_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201305_mdt_censor.pdf">mundtlig-censor</a></td>
-<td>læse1-tekst, <a href="https://tongchen779.github.io/dansk/files/pd3/201305_laes2_tekst.pdf">læse2-tekst</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/201305_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201305_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201305_laes1_opgave.pdf">læse1-opgave</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201305_laes2_opgave.pdf">læse2-opgave</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201305_skr.pdf">skriftlig</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201305_ret.pdf">rettenøgler</a></td>
@@ -194,7 +194,7 @@ search: false
 <tr>
 <td>2013 nov-dec</td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201311_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201311_mdt_censor.pdf">mundtlig-censor</a></td>
-<td>læse1-tekst, <a href="https://tongchen779.github.io/dansk/files/pd3/201311_laes2_tekst.pdf">læse2-tekst</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/201311_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201311_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201311_laes1_opgave.pdf">læse1-opgave</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201311_laes2_opgave.pdf">læse2-opgave</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201311_skr.pdf">skriftlig</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201311_ret.pdf">rettenøgler</a></td>
@@ -212,7 +212,7 @@ search: false
 <tr>
 <td>2014 nov-dec</td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201411_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201411_mdt_censor.pdf">mundtlig-censor</a></td>
-<td>læse1-tekst, <a href="https://tongchen779.github.io/dansk/files/pd3/201411_laes2_tekst.pdf">læse2-tekst</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/201411_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201411_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201411_laes1_opgave.pdf">læse1-opgave</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201411_laes2_opgave.pdf">læse2-opgave</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201411_skr.pdf">skriftlig</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201411_ret.pdf">rettenøgler</a></td>
@@ -229,7 +229,7 @@ search: false
 
 <tr>
 <td>2015 nov-dec</td>
-<td><a href="https://tongchen779.github.io/dansk/files/pd3/201511_mdt.pdf">mundtlig</a>, mundtlig-censor</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/201511_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201511_mdt_censor.pdf">mundtlig-censor</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201511_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201511_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201511_laes1_opgave.pdf">læse1-opgave</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201511_laes2_opgave.pdf">læse2-opgave</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201511_skr.pdf">skriftlig</a></td>
