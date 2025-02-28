@@ -11415,6 +11415,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=palle"> en palle </a></td>
+<td>
+<audio id="palle" src="https://static.ordnet.dk/mp3/11038/11038660_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('palle');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈpalə]</span>
+</td>
+<td> pallen </td>
+<td> paller </td>
+<td> pallerne </td>
+<td> pallet </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=pande"> en pande </a></td>
 <td>
 <audio id="pande" src="https://static.ordnet.dk/mp3/11038/11038702_1.mp3" style="display: none;"></audio>
