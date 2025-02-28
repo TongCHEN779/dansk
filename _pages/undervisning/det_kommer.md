@@ -5,7 +5,7 @@ permalink: /undervisning/det_kommer/
 search: false
 ---
 
-<p align="center"><img src="https://tongchen779.github.io/dansk/images/det_kommer.webp" width="500"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/det_kommer.png" width="500"/></p>
 
 <style>
     table {
