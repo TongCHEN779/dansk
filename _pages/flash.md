@@ -5,6 +5,10 @@ permalink: /flash/
 ---
 
 <style>
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+    }
     .flashcard {
         margin: 20px auto;
         padding: 20px;
