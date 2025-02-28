@@ -46,7 +46,7 @@ Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/fil
 
 <tr>
 <td style="vertical-align: top;"><audio controls preload="none" src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side11.mp3"></audio></td>
-<td style="vertical-align: top;"><h1> kap 1, side 11, Udtale: Svære ord </h1></td>
+<td style="vertical-align: top;"><h1> kap 1, side 11, Udtale af Svære ord </h1></td>
 <td></td>
 </tr>
 
