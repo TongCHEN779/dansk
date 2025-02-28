@@ -29,31 +29,31 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://natmus.dk/vorestid/podcast-vandrebogen/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"> <audio controls src="https://api.spreaker.com/v2/episodes/53868505/ondemand.mp3"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://api.spreaker.com/v2/episodes/53868505/ondemand.mp3"></audio> </td>
 <td><h1> 1 - 1960'erne: Græsenke, dåseananas og ønskestillingen </h1></td>
 <td><a href="https://natmus.dk/fileadmin/user_upload/Editor/natmus/Vores_Tid/Transskriptioner/Vandrebogen/E1_VANDREBOGEN.pdf">text</a></td>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls src="https://api.spreaker.com/v2/episodes/53869585/ondemand.mp3"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://api.spreaker.com/v2/episodes/53869585/ondemand.mp3"></audio> </td>
 <td><h1> 2 - 1960’erne: Byggefeber, kørekort og pigtrådsmusik </h1></td>
 <td><a href="https://natmus.dk/fileadmin/user_upload/Editor/natmus/Vores_Tid/Transskriptioner/Vandrebogen/E2_VANDREBOGEN.pdf">text</a></td>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls src="https://api.spreaker.com/v2/episodes/53869604/ondemand.mp3"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://api.spreaker.com/v2/episodes/53869604/ondemand.mp3"></audio> </td>
 <td><h1> 3 - 1970’erne: Efternøler, høstfest og farserede peberfrugter </h1></td>
 <td><a href="https://natmus.dk/fileadmin/user_upload/Editor/natmus/Vores_Tid/Transskriptioner/Vandrebogen/E3_VANDREBOGEN.pdf">text</a></td>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls src="https://api.spreaker.com/v2/episodes/53869621/ondemand.mp3"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://api.spreaker.com/v2/episodes/53869621/ondemand.mp3"></audio> </td>
 <td><h1> 4 - 1980-90’erne: Kartoffelkur, kondi og sangskjulere </h1></td>
 <td><a href="https://natmus.dk/fileadmin/user_upload/Editor/natmus/Vores_Tid/Transskriptioner/Vandrebogen/E4_VANDREBOGEN.pdf">text</a></td>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls src="https://api.spreaker.com/v2/episodes/53869633/ondemand.mp3"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://api.spreaker.com/v2/episodes/53869633/ondemand.mp3"></audio> </td>
 <td><h1> 5 - 2000-10’erne: Ligusterhæk, enker og billiardklubben </h1></td>
 <td><a href="https://natmus.dk/fileadmin/user_upload/Editor/natmus/Vores_Tid/Transskriptioner/Vandrebogen/E5_VANDREBOGEN.pdf">text</a></td>
 </tr>
