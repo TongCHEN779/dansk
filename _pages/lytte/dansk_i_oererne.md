@@ -27,6 +27,34 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode85.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 85 - Vikinger </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. Mange forbinder Danmark med vikinger, men der er også en del myter og misforståelser om de danske vikinger. Derfor vil jeg gøre dig klogere på den rigtige historie om vikingerne i denne episode. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, downloade episoden, finde ordlister samt lytte til niveau 2-udgaven af episoden, hvor jeg taler i almindeligt tempo.
+<br><br>
+Vikingerne var mennesker fra Skandinavien, som levede for over 1000 år siden i vikingetiden. Vikingetiden i Danmark varede cirka fra år 800 til år 1050. Selvom mange forbinder vikinger med krigere og plyndring, var de fleste faktisk bønder, der levede fredeligt. Vikingerne dyrkede jorden, holdt dyr og byggede deres egne huse. Samtidig var de dygtige håndværkere, som lavede smykker og byggede skibe. Men vikingerne var også opdagelsesrejsende og handelsfolk. De sejlede på togter til både nærliggende og fjerne lande. Nogle gange handlede de fredeligt med de folk, de mødte. Andre gange plyndrede de og tog fanger, som de gjorde til slaver, kaldet trælle. De fleste forbinder nok især vikingerne med dem der plyndrede og voldtog.
+<br><br>
+Et togt er en rejse, som vikingerne tog på for at handle, erobre land eller plyndre. De første togter var små, ofte kun med få skibe. Vikingerne var dygtige til at angribe hurtigt og overraske deres modstandere. Derfor lykkedes de første togter ofte. Senere blev togterne større og mere organiserede. Med deres skibe nåede vikingerne til mange steder, bl.a. England, Frankrig, Rusland og Island. Nogle kom endda helt til Amerika. De danske vikinger erobrede store dele af England, og mange byer der har stadig danske navne, som Grimsby og Derby.
+<br><br>
+Vikingerne byggede de bedste skibe i deres tid. Deres mest kendte skibe var langskibene, som både havde sejl og årer. De var flade i bunden, så de kunne sejle op af lave floder, og sejlet kunne tages ned, så de kunne snige sig tæt på kysterne uden at blive opdaget. Der var plads til mange mænd om bord. Nogle skibe kunne have op til 80 mand. Skibene var ikke kun vigtige for vikingerne, fordi de gjorde det muligt at rejse langt. De havde også stor betydning for vikingernes kultur. Nogle højtstående vikinger blev endda begravet i skibe sammen med deres ejendele.
+<br><br>
+Samfundet i vikingetiden var opdelt i tre grupper: trælle, karle og jarler. Trællene var slaver, som blev brugt til hårdt arbejde. De blev ofte taget til fange under togter og solgt videre eller sat i arbejde hos vikingerne. Karlene var frie bønder, som ejede deres egne gårde. De arbejdede i marken, tog sig af dyrene og byggede redskaber og huse. Jarlerne var samfundets ledere og de rigeste. De ejede store gårde og havde mange trælle til at gøre arbejdet for dem.
+<br><br>
+Selvom mange forestiller sig vikingerne som beskidte og vilde, gik de faktisk meget op i deres udseende. Arkæologer har bl.a. fundet mange kamme, som vikingerne brugte til at holde sig rene. En anden misforståelse er, at vikingerne bar hjelme med horn. Der er aldrig fundet hjelme med horn, og det ville have været upraktisk i kamp. Dette billede af vikingerne er noget, som opstod mange hundrede år senere.
+<br><br>
+Vikingernes tid sluttede, da kristendommen blev udbredt i Skandinavien, og samfundet ændrede sig. Men vikingernes bedrifter og kultur lever videre i dag, både i arkæologiske fund og i den måde, de bliver husket i bøger, film og tv-serier. Et godt eksempel er den meget populære tv-serie ”Vikings” med 6 sæsoner.
+<br><br>
+Det var alt for denne episode. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode84.wav"></audio> </td>
 <td> 
 <details>
