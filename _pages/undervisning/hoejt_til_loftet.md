@@ -47,6 +47,7 @@ Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/fil
 <tr>
 <td style="vertical-align: top;"><audio controls preload="none" src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side11.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 1, side 11, Udtale: Svære ord </h1></td>
+<td></td>
 </tr>
 
 <tr>
@@ -86,6 +87,7 @@ Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/fil
 <tr>
 <td style="vertical-align: top;"><audio controls preload="none" src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side30.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 2, side 30, Udtale af svære ord </h1></td>
+<td></td>
 </tr>
 
 <tr>
@@ -144,11 +146,13 @@ Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/fil
 <tr>
 <td style="vertical-align: top;"><audio controls preload="none" src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side66_1.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 3, side 66, Overvægt </h1></td>
+<td><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_66.pdf">text</a></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"><audio controls preload="none" src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side66_2.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 3, side 66, Udtale af svære ord </h1></td>
+<td></td>
 </tr>
 
 <tr>
@@ -166,11 +170,14 @@ Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/fil
 <tr>
 <td style="vertical-align: top;"><audio controls preload="none" src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side78.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 4, side 78, Udtale af svære ord </h1></td>
+<td></td>
+<td></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"><audio controls preload="none" src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side80.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 4, side 80, Bjarnu om politik på Færøerne </h1></td>
+<td><a href="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/lyd_80.pdf">text</a></td>
 </tr>
 
 <tr>
@@ -193,11 +200,13 @@ Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/fil
 <tr>
 <td style="vertical-align: top;"><audio controls preload="none" src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side96_1.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 4, side 96, Udtale - Rundede vokaler </h1></td>
+<td></td>
 </tr>
 
 <tr>
 <td style="vertical-align: top;"><audio controls preload="none" src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side96_2.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 4, side 96, Udtale - Urundede vokaler </h1></td>
+<td></td>
 </tr>
 
 <tr>
@@ -220,6 +229,7 @@ Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/fil
 <tr>
 <td style="vertical-align: top;"><audio controls preload="none" src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side114.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 5, side 114, Udtale af svære ord </h1></td>
+<td></td>
 </tr>
 
 <tr>
