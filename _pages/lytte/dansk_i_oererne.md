@@ -27,7 +27,7 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode85.wav"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode85.wav"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -55,7 +55,7 @@ Det var alt for denne episode. Tak fordi du lyttede med!
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode84.wav"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode84.wav"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -107,7 +107,7 @@ Det var alt for denne episode. Tak fordi du lyttede med!
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode83.wav"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode83.wav"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -135,7 +135,7 @@ Samlet set er vindkraft en afgørende energiressource for fremtiden, og Vestas h
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode82.wav"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode82.wav"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -177,7 +177,7 @@ Det var alt for denne episode. Tak fordi du lyttede med!
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/413/81-guldhornene.mp3"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/413/81-guldhornene.mp3"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -203,7 +203,7 @@ Det var alt for denne episode. Tak fordi du lyttede med.
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/407/80-kejserens-nye-klaeder.mp3"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/407/80-kejserens-nye-klaeder.mp3"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -235,7 +235,7 @@ Det var alt for denne episode. Eventyret handler om at turde gå mod strømmen o
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/402/79-operahuset-i-koebenhavn.mp3"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/402/79-operahuset-i-koebenhavn.mp3"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -269,7 +269,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Operahuset. F
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/397/78-dansk-cykelkultur.mp3"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/397/78-dansk-cykelkultur.mp3"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -303,7 +303,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på den danske cy
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/392/77-de-olympiske-lege.mp3"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/392/77-de-olympiske-lege.mp3"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -339,7 +339,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på OL, og har ha
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/387/76-christiania.mp3"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/387/76-christiania.mp3"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -375,7 +375,7 @@ Det var alt for denne episode. Tak fordi du lyttede med!
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/381/75-sabbataar.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/381/75-sabbataar.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -407,7 +407,7 @@ Alt i alt ser sabbatåret altså ud til at have en positiv effekt på de unge da
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/376/74-folkemoedet-paa-bornholm.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/376/74-folkemoedet-paa-bornholm.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -435,7 +435,7 @@ Det var alt for denne episode. Hvis du har lyst til at høre mere om Bornholm, s
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/371/73-studentertiden-i-danmark.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/371/73-studentertiden-i-danmark.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -465,7 +465,7 @@ Det var alt for denne episode. Husk at smile til studenterne eller ønske dem ti
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/366/72-melodi-grand-prix.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/366/72-melodi-grand-prix.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -493,7 +493,7 @@ Det er som sagt Danmarks Radio, der afholder Melodi Grand Prix. Jeg fortæller m
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/360/71-boersen.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/360/71-boersen.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -519,7 +519,7 @@ Det var alt for denne episode. Tak fordi du lyttede med!
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/356/70-vaernepligt.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/356/70-vaernepligt.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -557,7 +557,7 @@ Jeg må hellere slutte af med en lille ”disclaimer”. Jeg har selv aftjent v�
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/351/69-sommertid-og-vintertid.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/351/69-sommertid-og-vintertid.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -585,7 +585,7 @@ Udover at vi snart skifter til sommertid, så er det også snart påske. I episo
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/345/68-kaeledyr-i-danmark.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/345/68-kaeledyr-i-danmark.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -617,7 +617,7 @@ Det var alt for denne episode. Jeg håber du er blevet lidt klogere på danskern
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/339/67-fagforeninger.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/339/67-fagforeninger.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -651,7 +651,7 @@ Hvis du er interesseret i denne del af Danmarkshistorien, så vil jeg anbefale a
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/332/66-de-vestindiske-oeer.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/332/66-de-vestindiske-oeer.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -681,7 +681,7 @@ Danmark har faktisk også haft kolonier i både Indien og Afrika, men det kan je
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/327/65-kronprinsesse-mary.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/327/65-kronprinsesse-mary.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -711,7 +711,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på vores kommend
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/323/64-christiansborg.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/323/64-christiansborg.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -743,7 +743,7 @@ Hvis du vil vide mere om Christiansborg Slot, så som åbningstider, aktiviteter
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/318/63-eventyret-om-den-lille-pige-med-svovlstikkerne.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/318/63-eventyret-om-den-lille-pige-med-svovlstikkerne.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -771,7 +771,7 @@ Det var alt for denne episode. Tak fordi du lyttede med!
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/314/62-dansk-verdensarv.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/314/62-dansk-verdensarv.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -807,7 +807,7 @@ Det var alt for denne episode. Nu nærmer julen sig, og derfor vil jeg lige gør
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/310/61-elefantordenen.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/310/61-elefantordenen.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -835,7 +835,7 @@ Det var alt for denne episode! Den 10. november er det Mortensaften i Danmark. D
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/306/60-historien-om-kvinders-stemmeret-i-danmark.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/306/60-historien-om-kvinders-stemmeret-i-danmark.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -861,7 +861,7 @@ Det var alt for denne episode. Hvis du synes denne episode var spændende, vil j
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/301/59-fjernvarme.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/301/59-fjernvarme.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -881,7 +881,7 @@ Der findes flere end 100 små fjernvarmevirksomheder, som alle sammen er tilknyt
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/297/58-flaskepant.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/297/58-flaskepant.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -907,7 +907,7 @@ Pantordningen virker rigtig godt. I år 2022 blev hele 92% af alt pantemballage 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/293/57-ungdomshuset.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/293/57-ungdomshuset.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -937,7 +937,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Ungdomshuset 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/289/56-danske-tennisstjerner.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/289/56-danske-tennisstjerner.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -967,7 +967,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på nogle af de m
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/285/55-kronprins-frederik.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/285/55-kronprins-frederik.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -995,7 +995,7 @@ Det var alt for denne episode! I denne episode fortæller jeg både om Kongehuse
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/281/54-sankthans.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/281/54-sankthans.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1021,7 +1021,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på sankthansafte
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/277/53-konfirmation.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/277/53-konfirmation.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1055,7 +1055,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på hvad en konfi
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/273/52-tivoli.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/273/52-tivoli.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1085,7 +1085,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Tivoli, og m�
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/269/51-kartoflen.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/269/51-kartoflen.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1109,7 +1109,7 @@ Det var alt for denne episode. Jeg håber du blev klogere på kartoflen, og mås
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/266/50-eventyret-om-klods-hans.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/266/50-eventyret-om-klods-hans.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1137,7 +1137,7 @@ Så kom Klods-Hans ind til kongedatteren. Og han kom faktisk ikke gående ind, m
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/262/49-danmark-norge.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/262/49-danmark-norge.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1163,7 +1163,7 @@ Det var alt for denne episode. Jeg håber du er blevet lidt klogere på Danmarks
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/258/48-hus-forbi-og-hjemloese-i-danmark.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/258/48-hus-forbi-og-hjemloese-i-danmark.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1187,7 +1187,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på emnet, og må
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/255/47-tour-de-france.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/255/47-tour-de-france.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1213,7 +1213,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Tour de Franc
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/249/46-store-bededag.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/249/46-store-bededag.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1235,7 +1235,7 @@ Nu må vi se hvor det ender. Uanset hvad, så kan danskerne holde fri til store 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/246/45-den-lille-havfrue.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/246/45-den-lille-havfrue.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1263,7 +1263,7 @@ Det var alt for denne episode. Tak fordi du lyttede med!
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/242/44-danske-nobelprismodtagere.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/242/44-danske-nobelprismodtagere.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1305,7 +1305,7 @@ Det var alt for denne episode. Jeg håber du er blevet lidt klogere på de dansk
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/238/43-skiferie.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/238/43-skiferie.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1329,7 +1329,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på danskernes re
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/234/42-mette-frederiksen-danmarks-statsminister.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/234/42-mette-frederiksen-danmarks-statsminister.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1357,7 +1357,7 @@ Det var alt for denne episode. Jeg håber du er blevet lidt klogere på Danmarks
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/229/41-juleaftenstraditioner.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/229/41-juleaftenstraditioner.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1385,7 +1385,7 @@ Ofte slutter man aftenen af med kaffe, konfekt, chokolade og med at nyde hinande
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/226/40-danske-navne.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/226/40-danske-navne.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1413,7 +1413,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på danske navne.
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/222/39-danske-juletraditioner.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/222/39-danske-juletraditioner.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1443,7 +1443,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på de danske jul
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/217/38-forsinket-grundet-tekniske-problemer.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/217/38-forsinket-grundet-tekniske-problemer.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1473,7 +1473,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Danmarks dron
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/214/37-danmarks-radio.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/214/37-danmarks-radio.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1499,7 +1499,7 @@ Det var alt for denne episode. Du kan støtte podcasten på www.buymeacoff.ee/da
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/210/36-mortensaften.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/210/36-mortensaften.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1521,7 +1521,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på mortensaften.
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/203/35-d-danmark-vandt-em-i-fodbold-i-1992.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/203/35-d-danmark-vandt-em-i-fodbold-i-1992.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1549,7 +1549,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Danmarks stø
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/198/34-genforeningen-i-1920.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/198/34-genforeningen-i-1920.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1577,7 +1577,7 @@ Det var alt for denne episode. Du kan støtte podcasten på www.buymeacoff.ee/da
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/195/33-dansk-bagvaerk-og-kagetraditioner.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/195/33-dansk-bagvaerk-og-kagetraditioner.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1607,7 +1607,7 @@ I dag er der bagerafdelinger i mange større supermarkeder, og desværre er der 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/192/32-efteraarsferie.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/192/32-efteraarsferie.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1631,7 +1631,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på efterårsferi
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/188/31-bornholm.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/188/31-bornholm.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1661,7 +1661,7 @@ Det var alt for denne episode. Jeg håber at du er blevet klogere på solskinsø
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/185/30-danske-bryllupstraditioner.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/185/30-danske-bryllupstraditioner.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1693,7 +1693,7 @@ Det var alt for denne episode. Husk, at du kan støtte podcasten på www.buymeac
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/182/29-faeroeerne.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/182/29-faeroeerne.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1727,7 +1727,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Færøerne, o
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/180/28-carlsberg.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/180/28-carlsberg.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1757,7 +1757,7 @@ Det var alt for denne episode. Du kan støtte podcasten på www.buymeacoff.ee/da
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/177/27-odense.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/177/27-odense.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1787,7 +1787,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Odense. Du ka
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/175/26-lego.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/175/26-lego.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1811,7 +1811,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på virksomheden 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/172/25-sommerhus.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/172/25-sommerhus.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1841,7 +1841,7 @@ Det var alt for denne episode. Nu holder podcasten 3 ugers sommerferie, så næs
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/169/24-musikfestival.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/169/24-musikfestival.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1871,7 +1871,7 @@ Det var alt for denne episode. Hvis du er glad for at lytte til podcasten, er du
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/166/23-su.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/166/23-su.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1899,7 +1899,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på det danske SU
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/164/22-atomkraft-i-danmark.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/164/22-atomkraft-i-danmark.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1931,7 +1931,7 @@ Teknologien udvikler sig hurtigt, og selvom danskerne historisk set har været m
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/161/21-efterskole.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/161/21-efterskole.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1959,7 +1959,7 @@ Der kan være mange årsager til, at man vælger at tage på efterskole. De fles
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/158/20-den-danske-grundlov-og-grundlovsdag.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/158/20-den-danske-grundlov-og-grundlovsdag.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -1997,7 +1997,7 @@ Det var alt for denne episode. Du kan støtte podcasten på www.buymeacoff.ee/da
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/153/19-danmark-i-eu.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/153/19-danmark-i-eu.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2036,7 +2036,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Danmarks forh
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/151/18-aalborg.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/151/18-aalborg.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2059,7 +2059,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Danmarks fjer
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/148/17-lakrids.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/148/17-lakrids.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2079,7 +2079,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på lakrids. De f
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/144/16-borgerforslag.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/144/16-borgerforslag.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2102,7 +2102,7 @@ Det var alt for denne episode! I beskrivelsen til denne episode, har jeg lagt et
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/141/15-1-maj-i-danmark.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/141/15-1-maj-i-danmark.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2123,7 +2123,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på hvordan man m
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/139/14-storebaeltsbroen.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/139/14-storebaeltsbroen.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2144,7 +2144,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Storebæltsbr
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/136/13-paaske-i-danmark.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/136/13-paaske-i-danmark.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2173,7 +2173,7 @@ Det var alt for denne episode. Jeg håber du nyder påskeferien og er blevet klo
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/124/12-novo-nordisk.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/124/12-novo-nordisk.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2195,7 +2195,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på Danmarks næs
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/121/11-danskernes-sundhed.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/121/11-danskernes-sundhed.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2218,7 +2218,7 @@ Det var alt for denne episode! Husk at du kan støtte podcasten på www.buymeaco
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/119/10-haandbold.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/119/10-haandbold.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2241,7 +2241,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på den populære
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/116/det-danske-forsvar.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/116/det-danske-forsvar.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2268,7 +2268,7 @@ Det var alt for denne episode! Jeg håber du er blevet klogere på det danske fo
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/114/8-det-danske-skolesystem.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/114/8-det-danske-skolesystem.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2295,7 +2295,7 @@ Det var alt for denne episode. Jeg håber du har fået et bedre overblik over de
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/111/7-dannebrog.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/111/7-dannebrog.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2317,7 +2317,7 @@ Det var alt for denne episode! Jeg håber du er blevet klogere på Dannebrogs hi
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/107/6-fastelavn-i-danmark.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/107/6-fastelavn-i-danmark.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2342,7 +2342,7 @@ Det var alt for denne episode. Jeg håber du er blevet klogere på de danske fas
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/104/5-aarhus.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/104/5-aarhus.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2365,7 +2365,7 @@ Det var alt for denne episode. Jeg håber du blev klogere på Danmarks næststø
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/102/4-overblik-over-dansk-politik-hoejrefloejen.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/102/4-overblik-over-dansk-politik-hoejrefloejen.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2386,7 +2386,7 @@ Kristendemokraterne blev stiftet i 1970 og har en enkelt plads i Folketinget. De
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/92/3-overblik-over-dansk-politik-venstrefloejen.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/92/3-overblik-over-dansk-politik-venstrefloejen.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2411,7 +2411,7 @@ Det var alt for denne episode! Jeg håber at episoden har gjort dig klogere på 
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/36/blabla.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/36/blabla.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
@@ -2445,7 +2445,7 @@ Det var alt for denne episode! Jeg håber at du er blevet klogere på Danmarks h
 </tr>
 
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="auto" src="https://danskioererne.dk/podcast-player/39/eksempel-paa-podcast.mp4"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/podcast-player/39/eksempel-paa-podcast.mp4"></audio> </td>
 <td> 
 <details>
 <summary>
