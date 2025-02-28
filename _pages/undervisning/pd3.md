@@ -18,6 +18,9 @@ search: false
         text-align: left;
     }
 </style>
+<br>
+Her kan du finde pdf-filer af [At Skrive](https://tongchen779.github.io/dansk/files/pd3/at_skrive.pdf) med [lærervejledning](https://tongchen779.github.io/dansk/files/pd3/at_skrive_laerervejledning.pdf), [Bliv Klar](https://tongchen779.github.io/dansk/files/pd3/bliv_klar.pdf) med [rettenøgle](https://tongchen779.github.io/dansk/files/pd3/bliv_klar_rettenoegle.pdf).
+<br><br>
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>

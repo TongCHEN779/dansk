@@ -26,7 +26,7 @@ search: false
     }
 </style>
 <br>
-Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/grundbog.pdf) med [lærervejledning](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/laerervejledning.pdf) og [rettenøgle](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/grundbog_rettenoegle.pdf), og [supplerende læsetekster](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/laesetekster.pdf).
+Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/grundbog.pdf) med [lærervejledning](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/laerervejledning.pdf), [rettenøgle](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/grundbog_rettenoegle.pdf) og [supplerende læsetekster](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/laesetekster.pdf).
 <br><br>
 
 <h1 style="text-align: center;"> Lyd </h1>
@@ -170,7 +170,6 @@ Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/fil
 <tr>
 <td style="vertical-align: top;"><audio controls preload="none" src="https://tongchen779.github.io/dansk/files/hoejt_til_loftet/side78.mp3"></audio></td>
 <td style="vertical-align: top;"><h1> kap 4, side 78, Udtale af svære ord </h1></td>
-<td></td>
 <td></td>
 </tr>
 
