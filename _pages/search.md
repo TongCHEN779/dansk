@@ -10,6 +10,7 @@ permalink: /search/
         audioElement.play();
     }
 </script>
+
 <style>
     table {
         border-collapse: collapse;
