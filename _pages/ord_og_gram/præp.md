@@ -366,7 +366,7 @@ search: true
 </tr>
 <tr>
 <td rowspan="2"> undtagen </td>
-<td> except </td>
+<td rowspan="2"> except </td>
 <td> Børneforestillingerne finder sted dagligt kl. 11 undtagen lørdage. </td>
 </tr>
 <tr>
