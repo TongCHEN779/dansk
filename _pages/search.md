@@ -33,16 +33,6 @@ permalink: /search/
         background-color: yellow;
         font-weight: bold;
     }
-    .checkbox-container {
-        display: flex;
-        justify-content: center;
-        gap: 30px;
-    }
-    .checkbox-container label {
-        display: flex;
-        align-items: center;
-        gap: 5px;
-    }
 </style>
 
 <script>
@@ -51,20 +41,19 @@ permalink: /search/
         audioElement.play();
     }
     // This defines the list of pages to search, each containing a name and a URL.
-    let allPages = [
-        { name: "adj.", url: "/dansk/ord_og_gram/adj/", id: "adj" },
-        { name: "sub.", url: "/dansk/ord_og_gram/sub/", id: "sub" },
-        { name: "verb.", url: "/dansk/ord_og_gram/verb/", id: "verb" },
-        { name: "adv.", url: "/dansk/ord_og_gram/adv/", id: "adv" },
-        { name: "konj.", url: "/dansk/ord_og_gram/konj/", id: "konj" },
-        { name: "pron.", url: "/dansk/ord_og_gram/pron/", id: "pron" },
-        { name: "præp.", url: "/dansk/ord_og_gram/præp/", id: "præp" },
-        { name: "udtryk", url: "/dansk/ord_og_gram/fast/", id: "fast" }
+    let pagesToSearch = [
+        { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
+        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
+        { name: "Verber", url: "/dansk/ord_og_gram/verb/" },
+        { name: "Adverbier", url: "/dansk/ord_og_gram/adv/" },
+        { name: "Konjunktioner", url: "/dansk/ord_og_gram/konj/" },
+        { name: "Pronominer", url: "/dansk/ord_og_gram/pron/" },
+        { name: "Præpositioner", url: "/dansk/ord_og_gram/præp/" },
+        { name: "Faste Udtryk", url: "/dansk/ord_og_gram/fast/" }
     ];
     let pageContents = {};
     // Fetches the content of the pages asynchronously and extracts table data for searching.
     async function loadPages() {
-        let pagesToSearch = allPages.filter(page => document.getElementById(page.id).checked);
         for (let page of pagesToSearch) {
             try {
                 let response = await fetch(page.url);
@@ -94,7 +83,6 @@ permalink: /search/
     }
     // Filters the loaded pages based on the search term and displays up to 5 matching rows per page.
     function searchPages() {
-        // await loadPages();
         let input = document.getElementById("searchInput").value.toLowerCase().trim();
         let resultsContainer = document.getElementById("results");
         resultsContainer.innerHTML = "";
@@ -145,17 +133,6 @@ permalink: /search/
     // Ensures the page data is loaded when the document is fully loaded.
     document.addEventListener("DOMContentLoaded", loadPages);
 </script>
-
-<div class="checkbox-container">
-<label><input type="checkbox" id="adj" checked> adj. </label>
-<label><input type="checkbox" id="sub" checked> sub. </label>
-<label><input type="checkbox" id="verb" checked> verb. </label>
-<label><input type="checkbox" id="adv" checked> adv. </label>
-<label><input type="checkbox" id="konj" checked> konj. </label>
-<label><input type="checkbox" id="pron" checked> pron. </label>
-<label><input type="checkbox" id="præp" checked> præp. </label>
-<label><input type="checkbox" id="fast" checked> udtryk </label>
-</div>
 
 <input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()">
 <div id="results"></div>
