@@ -19,7 +19,7 @@ search: false
     }
 </style>
 <br>
-Her kan du finde pdf-filer af [At Skrive](https://tongchen779.github.io/dansk/files/pd3/at_skrive.pdf) med [lærervejledning](https://tongchen779.github.io/dansk/files/pd3/at_skrive_laerervejledning.pdf), [Bliv Klar](https://tongchen779.github.io/dansk/files/pd3/bliv_klar.pdf) med [lærervejledning](https://tongchen779.github.io/dansk/files/pd3/bliv_klar_laerervejledning.pdf).
+Her kan du finde pdf-filer af [At Skrive](https://tongchen779.github.io/dansk/files/pd3/at_skrive.pdf) med [lærervejledning](https://tongchen779.github.io/dansk/files/pd3/at_skrive_laerervejledning.pdf), [Bliv Klar](https://tongchen779.github.io/dansk/files/pd3/bliv_klar.pdf) med [lærervejledning](https://tongchen779.github.io/dansk/files/pd3/bliv_klar_laerervejledning.pdf). Man kan også finde ordlister ([verber](https://tongchen779.github.io/dansk/files/ordlist_verber.pdf), [substantiver](https://tongchen779.github.io/dansk/files/ordlist_substantiver.pdf), [adjektiver](https://tongchen779.github.io/dansk/files/ordlist_adjektiver.pdf), [adverbier og konjunktioner](https://tongchen779.github.io/dansk/files/ordlist_adverbier_konjunktioner.pdf)) lærebog til modul 4 ([Grundbog](https://tongchen779.github.io/dansk/files/paeredansk_grundbog.pdf) med [lærervejledning](https://tongchen779.github.io/dansk/files/paeredansk_laerervejledning.pdf)).
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>

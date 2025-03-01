@@ -131,6 +131,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=afgive"> at afgive </a></td>
+<td>
+<audio id="afgive" src="https://static.ordnet.dk/mp3/11000/11000423_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('afgive');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌgiˀ]</span>
+</td>
+<td> afgiver </td>
+<td> afgav </td>
+<td> har afgivet </td>
+<td> afgiv </td>
+<td> to submit </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afg%C3%B8re"> at afgøre </a></td>
 <td>
 <audio id="afgøre" src="https://static.ordnet.dk/mp3/11000/11000440_1.mp3" style="display: none;"></audio>
@@ -482,6 +495,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=aftage"> at aftage </a></td>
+<td>
+<audio id="aftage" src="https://static.ordnet.dk/mp3/11000/11000804_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('aftage');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈɑwˌtæˀ]</span>
+</td>
+<td> aftager </td>
+<td> aftog </td>
+<td> har aftaget </td>
+<td> aftag </td>
+<td> to decrease </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=aftale"> at aftale </a></td>
 <td>
 <audio id="aftale" src="" style="display: none;"></audio>
@@ -557,6 +583,19 @@ search: true
 <td> har ammet </td>
 <td> amm </td>
 <td> to breastfeed </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=analysere"> at analysere </a></td>
+<td>
+<audio id="analysere" src="https://static.ordnet.dk/mp3/11001/11001633_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('analysere');" style="cursor: pointer; text-decoration: underline; color: blue;">[analyˈseˀʌ]</span>
+</td>
+<td> analyserer </td>
+<td> analyserede </td>
+<td> har analyseret </td>
+<td> analyser </td>
+<td> to analyze </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -830,6 +869,19 @@ search: true
 <td> har badet </td>
 <td> bad </td>
 <td> go bathing </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bagatellisere"> at bagatellisere </a></td>
+<td>
+<audio id="bagatellisere" src="https://static.ordnet.dk/mp3/11003/11003082_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bagatellisere');" style="cursor: pointer; text-decoration: underline; color: blue;">[bɑgatεliˈseˀʌ]</span>
+</td>
+<td> bagatelliserer </td>
+<td> bagatelliserede </td>
+<td> har bagatelliseret </td>
+<td> bagatellisér </td>
+<td> to trivialize </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -10852,7 +10904,7 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?select=str%C3%A5le,2&query=str%C3%A5le"> at stråle </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=str%C3%A5le,2&amp;query=str%C3%A5le"> at stråle </a></td>
 <td>
 <audio id="stråle" src="https://static.ordnet.dk/mp3/11050/11050912_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('stråle');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsdʁɔːlə]</span>
