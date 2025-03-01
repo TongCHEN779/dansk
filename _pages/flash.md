@@ -56,7 +56,6 @@ permalink: /flash/
         { name: "Substantiver", url: "/dansk/ord_og_gram/sub/", id: "sub" },
         { name: "Verber", url: "/dansk/ord_og_gram/verb/", id: "verb" }
     ];
-
     async function loadWords() {
         let allRows = [];
         let pagesToSearch = allPages.filter(page => document.getElementById(page.id).checked);
@@ -84,10 +83,8 @@ permalink: /flash/
         }
         words = allRows;
     }
-
     let currentWord = null;
     let displayOption = "";
-
     async function generateFlashCard() {
         await loadWords();
         if (words.length === 0) {
@@ -106,7 +103,6 @@ permalink: /flash/
         `;
         document.getElementById("answer").value = "";
     }
-
     function showAnswer() {
         if (!currentWord) return;
         // Preserve the user's input
@@ -122,7 +118,6 @@ permalink: /flash/
         // Restore the user's input
         document.getElementById("answer").value = userAnswer;
     }
-
     function playSound(soundId) {
         var audioElement = document.getElementById(soundId);
         if (audioElement) {

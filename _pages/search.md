@@ -4,13 +4,6 @@ title: ""
 permalink: /search/
 ---
 
-<script>
-    function playSound(soundId) {
-        var audioElement = document.getElementById(soundId);
-        audioElement.play();
-    }
-</script>
-
 <style>
     table {
         border-collapse: collapse;
@@ -27,25 +20,51 @@ permalink: /search/
         padding: 8px;
         text-align: left;
     }
+    input {
+        margin-bottom: 10px;
+        padding: 5px;
+        width: 100%;
+    }
+    h3 {
+        margin-top: 20px;
+        color: #0077cc;
+    }
+    .highlight {
+        background-color: yellow;
+        font-weight: bold;
+    }
+    .checkbox-container {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    .checkbox-container label {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
 </style>
 
 <script>
+    function playSound(soundId) {
+        var audioElement = document.getElementById(soundId);
+        audioElement.play();
+    }
     // This defines the list of pages to search, each containing a name and a URL.
-    let pagesToSearch = [
-        { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
-        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
-        { name: "Verber", url: "/dansk/ord_og_gram/verb/" },
-        { name: "Adverbier", url: "/dansk/ord_og_gram/adv/" },
-        { name: "Konjunktioner", url: "/dansk/ord_og_gram/konj/" },
-        { name: "Pronominer", url: "/dansk/ord_og_gram/pron/" },
-        { name: "Præpositioner", url: "/dansk/ord_og_gram/præp/" },
-        { name: "Faste Udtryk", url: "/dansk/ord_og_gram/fast/" }
+    let allPages = [
+        { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/", id: "adj" },
+        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/", id: "sub" },
+        { name: "Verber", url: "/dansk/ord_og_gram/verb/", id: "verb" },
+        { name: "Adverbier", url: "/dansk/ord_og_gram/adv/", id: "adv" },
+        { name: "Konjunktioner", url: "/dansk/ord_og_gram/konj/", id: "konj" },
+        { name: "Pronominer", url: "/dansk/ord_og_gram/pron/", id: "pron" },
+        { name: "Præpositioner", url: "/dansk/ord_og_gram/præp/", id: "præp" },
+        { name: "Faste Udtryk", url: "/dansk/ord_og_gram/fast/", id: "fast" }
     ];
-
     let pageContents = {};
-
     // Fetches the content of the pages asynchronously and extracts table data for searching.
     async function loadPages() {
+        let pagesToSearch = allPages.filter(page => document.getElementById(page.id).checked);
         for (let page of pagesToSearch) {
             try {
                 let response = await fetch(page.url);
@@ -78,53 +97,41 @@ permalink: /search/
             }
         }
     }
-
     // Filters the loaded pages based on the search term and displays up to 5 matching rows per page.
     function searchPages() {
         let input = document.getElementById("searchInput").value.toLowerCase().trim();
         let resultsContainer = document.getElementById("results");
         resultsContainer.innerHTML = "";
-
         if (!input) return;
-
         for (let page in pageContents) {
             let tableData = pageContents[page];
-
             let section = document.createElement("div");
             section.innerHTML = `<h3>${page}</h3>`;
-
             let found = false;
-
             tableData.forEach((table, index) => {
                 let { headers, rows } = table;
                 let matchingRows = rows.filter(row => row.text.includes(input)).slice(0, 10);
-
                 if (matchingRows.length > 0) {
                     found = true;
                     let tableElement = document.createElement("table");
                     tableElement.innerHTML = `<tr>${headers}</tr>`;
-
                     matchingRows.forEach(rowData => {
                         let row = document.createElement("tr");
                         row.innerHTML = rowData.html;
                         highlightMatchesInElement(row, input);
                         tableElement.appendChild(row);
                     });
-
                     section.appendChild(tableElement);
                 }
             });
-
             if (found) {
                 resultsContainer.appendChild(section);
             }
         }
     }
-
     // Highlights the searched term in the displayed results by wrapping matched text in a span with a highlight class.
     function highlightMatchesInElement(element, searchTerm) {
         let regex = new RegExp(`(${searchTerm})`, "gi");
-
         function highlightNode(node) {
             if (node.nodeType === 3) {
                 let matches = node.nodeValue.match(regex);
@@ -137,29 +144,21 @@ permalink: /search/
                 node.childNodes.forEach(highlightNode);
             }
         }
-
         highlightNode(element);
     }
-
     // Ensures the page data is loaded when the document is fully loaded.
     document.addEventListener("DOMContentLoaded", loadPages);
 </script>
 
-<style>
-    input {
-        margin-bottom: 10px;
-        padding: 5px;
-        width: 100%;
-    }
-    h3 {
-        margin-top: 20px;
-        color: #0077cc;
-    }
-    .highlight {
-        background-color: yellow;
-        font-weight: bold;
-    }
-</style>
-
+<div class="checkbox-container">
+<label><input type="checkbox" id="adj" checked> adj. </label>
+<label><input type="checkbox" id="sub" checked> sb. </label>
+<label><input type="checkbox" id="verb" checked> vb. </label>
+<label><input type="checkbox" id="adv" checked> adv. </label>
+<label><input type="checkbox" id="konj" checked> konj. </label>
+<label><input type="checkbox" id="pron" checked> pron. </label>
+<label><input type="checkbox" id="Præp" checked> præp. </label>
+<label><input type="checkbox" id="fast" checked> udtryk</label>
+</div>
 <input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()">
 <div id="results"></div>
