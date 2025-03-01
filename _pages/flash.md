@@ -37,6 +37,16 @@ permalink: /flash/
         padding: 10px;
         cursor: pointer;
     }
+    .checkbox-container {
+        display: flex;
+        justify-content: center;
+        gap: 50px;
+    }
+    .checkbox-container label {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+    }
 </style>
 
 <script>
@@ -127,6 +137,13 @@ permalink: /flash/
         }
     }
 </script>
+
+<div class="checkbox-container">
+<label><input type="checkbox" id="adj" checked> Adjectives</label>
+<label><input type="checkbox" id="sub" checked> Nouns</label>
+<label><input type="checkbox" id="verb" checked> Verbs</label>
+</div>
+<br>
 
 <button onclick="generateFlashCard()">Flash</button>
 <div class="flashcard">
