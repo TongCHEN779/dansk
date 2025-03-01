@@ -13947,7 +13947,7 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=-"> - </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=shorts"> - </a></td>
 <td>
 <audio id="shorts" src="https://static.ordnet.dk/mp3/11045/11045795_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('shorts');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈɕɒːds]</span>
