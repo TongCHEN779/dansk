@@ -75,6 +75,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=advarsel"> en advarsel </a></td>
+<td>
+<audio id="advarsel" src="https://static.ordnet.dk/mp3/11000/11000242_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('advarsel');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈaðˌvɑːsəl]</span>
+</td>
+<td> advarslen </td>
+<td> advarsler </td>
+<td> advarslerne </td>
+<td> warning </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=advokat"> en advokat </a></td>
 <td>
 <audio id="advokat" src="https://static.ordnet.dk/mp3/11000/11000257_1.mp3" style="display: none;"></audio>
@@ -408,6 +420,18 @@ search: true
 <td> altaner </td>
 <td> altanerne </td>
 <td> balcony </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=alternativ"> et alternativ </a></td>
+<td>
+<audio id="alternativ" src="https://static.ordnet.dk/mp3/11001/11001432_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('alternativ');" style="cursor: pointer; text-decoration: underline; color: blue;">[alˈtæɐ̯naˌtiwˀ]</span>
+</td>
+<td> alternativet </td>
+<td> alternativer </td>
+<td> alternativerne </td>
+<td> alternative </td>
 <td> 1 </td>
 </tr>
 <tr>

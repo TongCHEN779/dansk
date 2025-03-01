@@ -5,7 +5,7 @@ permalink: /undervisning/det_rykker/
 search: false
 ---
 
-<p align="center"><img src="https://tongchen779.github.io/dansk/images/det_rykker.png" width="500"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/det_rykker.png"/></p>
 
 <style>
     table {
