@@ -41,14 +41,20 @@ permalink: /flash/
 
 <script>
     let words = [];
-    let pagesToSearch = [
-        { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
-        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
-        { name: "Verber", url: "/dansk/ord_og_gram/verb/" }
+    // let pagesToSearch = [
+    //     { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
+    //     { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
+    //     { name: "Verber", url: "/dansk/ord_og_gram/verb/" }
+    // ];
+    const allPages = [
+        { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/", id: "adj" },
+        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/", id: "sub" },
+        { name: "Verber", url: "/dansk/ord_og_gram/verb/", id: "verb" }
     ];
 
     async function loadWords() {
         let allRows = [];
+        const pagesToSearch = allPages.filter(page => document.getElementById(page.id).checked);
         for (const page of pagesToSearch) {
             try {
                 const response = await fetch(page.url);
@@ -81,34 +87,13 @@ permalink: /flash/
         if (words.length === 0) {
             await loadWords();
         }
-        currentWord = words[Math.floor(Math.random() * words.length)];
-        const options = ["Dansk", "Udtale", "Engelsk"];
-        displayOption = options[Math.floor(Math.random() * options.length)];
-        document.getElementById("question").innerHTML = `${displayOption}: ${currentWord[displayOption]}`;
-        document.getElementById("answer").value = "";
-    }
-
-    function showAnswer() {
-        if (!currentWord) return;
-        let answer;
-        if (displayOption === "Dansk") {
-            answer = `Udtale: ${currentWord.Udtale} <br> Engelsk: ${currentWord.Engelsk}`;
-        } else if (displayOption === "Udtale") {
-            answer = `Dansk: ${currentWord.Dansk} <br> Engelsk: ${currentWord.Engelsk}`;
-        } else {
-            answer = `Dansk: ${currentWord.Dansk} <br> Udtale: ${currentWord.Udtale}`;
-        }
-        document.getElementById("question").innerHTML += "<br>" + answer;
-    }
-
-    async function generateFlashCard() {
         if (words.length === 0) {
-            await loadWords();
+            document.getElementById("question").innerHTML = "No words available. Check category selection!";
+            return;
         }
         currentWord = words[Math.floor(Math.random() * words.length)];
         const options = ["Dansk", "Udtale", "Engelsk"];
         displayOption = options[Math.floor(Math.random() * options.length)];
-
         // Reset all content to blank
         document.getElementById("question").innerHTML = `
             <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Dansk" ? currentWord.Dansk : ""}</div>
@@ -121,10 +106,8 @@ permalink: /flash/
 
     function showAnswer() {
         if (!currentWord) return;
-
         // Preserve the user's input
         let userAnswer = document.getElementById("answer").value;
-
         // Display all details
         document.getElementById("question").innerHTML = `
             <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Dansk}</div>
