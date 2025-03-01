@@ -51,12 +51,7 @@ permalink: /flash/
 
 <script>
     let words = [];
-    // let pagesToSearch = [
-    //     { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
-    //     { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
-    //     { name: "Verber", url: "/dansk/ord_og_gram/verb/" }
-    // ];
-    const allPages = [
+    let allPages = [
         { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/", id: "adj" },
         { name: "Substantiver", url: "/dansk/ord_og_gram/sub/", id: "sub" },
         { name: "Verber", url: "/dansk/ord_og_gram/verb/", id: "verb" }
@@ -64,7 +59,7 @@ permalink: /flash/
 
     async function loadWords() {
         let allRows = [];
-        const pagesToSearch = allPages.filter(page => document.getElementById(page.id).checked);
+        let pagesToSearch = allPages.filter(page => document.getElementById(page.id).checked);
         for (const page of pagesToSearch) {
             try {
                 const response = await fetch(page.url);
@@ -94,9 +89,7 @@ permalink: /flash/
     let displayOption = "";
 
     async function generateFlashCard() {
-        if (words.length === 0) {
-            await loadWords();
-        }
+        await loadWords();
         if (words.length === 0) {
             document.getElementById("question").innerHTML = "No words available. Check category selection!";
             return;
@@ -139,11 +132,10 @@ permalink: /flash/
 </script>
 
 <div class="checkbox-container">
-<label><input type="checkbox" id="adj" checked> Adjectives</label>
-<label><input type="checkbox" id="sub" checked> Nouns</label>
-<label><input type="checkbox" id="verb" checked> Verbs</label>
+<label><input type="checkbox" id="adj" checked> Adjektiver</label>
+<label><input type="checkbox" id="sub" checked> Substantiver</label>
+<label><input type="checkbox" id="verb" checked> Verber</label>
 </div>
-<br>
 
 <button onclick="generateFlashCard()">Flash</button>
 <div class="flashcard">
