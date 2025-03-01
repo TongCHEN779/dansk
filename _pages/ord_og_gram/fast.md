@@ -471,6 +471,11 @@ search: true
 <td> Flere politifolk blev i hast sendt til adressen i Jelling, men i mellemtiden var manden forsvundet. </td>
 </tr>
 <tr>
+<td> i modsat fald </td>
+<td> otherwise </td>
+<td> Hvis du ikke kan komme, så sig det til mig i morgen på hospitalet – i modsat fald regner jeg med, at du kommer. </td>
+</tr>
+<tr>
 <td> i nærheden af </td>
 <td> near </td>
 <td> Der holdt en lys bil i nærheden af deres hus. </td>
@@ -616,6 +621,11 @@ search: true
 <td> Det er netop i dag, at Dansk Flygtningehjælps store og meget omtalte landsindsamling løber af stablen. </td>
 </tr>
 <tr>
+<td> med andre ord </td>
+<td> in other words </td>
+<td> Passiver trækkes fra aktiver. Med andre ord gæld trækkes fra formue. </td>
+</tr>
+<tr>
 <td> med den samme </td>
 <td> right away </td>
 <td> Der lød et pift henne fra hushjørnet. Jeg vidste med det samme, det var Karoline. </td>
@@ -654,6 +664,16 @@ search: true
 <td> modsætte sig </td>
 <td> refuse </td>
 <td> Hendes katolske forældre modsatte sig, at hun skulle begraves sammen med en drikfældig italiensk jøde. </td>
+</tr>
+<tr>
+<td> muligvis </td>
+<td> possibly </td>
+<td> De høje danske afgifter ved import af brugte biler er muligvis i strid med Rom-traktaten. </td>
+</tr>
+<tr>
+<td> nemlig </td>
+<td> namely, precisely </td>
+<td> Hans J. Wegner står bag en af dansk møbeldesigns største succeser, nemlig Y-stolen, der trods sine 40 år stadig er meget efterspurgt. </td>
 </tr>
 <tr>
 <td> nå/komme frem til </td>
@@ -821,6 +841,11 @@ search: true
 <td> Da først ideen var sået, slog den hurtigt rod og blev til konkrete planer. </td>
 </tr>
 <tr>
+<td> som nævnt </td>
+<td> as (earlier) mentioned </td>
+<td> Det er som nævnt tilladt og kan oven i købet i visse tilfælde begrundes pædagogisk. </td>
+</tr>
+<tr>
 <td> sommerfugle i maven </td>
 <td> nervousness </td>
 <td> Selvfølgelig havde jeg sommerfugle i maven, da jeg søgte stillingen – og fik den. </td>
@@ -844,6 +869,16 @@ search: true
 <td> spærre ude </td>
 <td> block out </td>
 <td> Hun proppede ørerne fulde af tørret græs for at spærre lydene ude. </td>
+</tr>
+<tr>
+<td> stadig </td>
+<td> still </td>
+<td> I dag bor May på et plejehjem, mens Marjorie stadig klarer sig selv i sin egen lille lejlighed. </td>
+</tr>
+<tr>
+<td> stadigvæk, stadig væk </td>
+<td> still </td>
+<td> Vi ser da stadigvæk hinanden især om sommeren når vi spiller fodbold. </td>
 </tr>
 <tr>
 <td> stamme fra </td>

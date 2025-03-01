@@ -323,13 +323,18 @@ search: true
 <td> Trods trætheden kan jeg ikke falde i søvn. </td>
 </tr>
 <tr>
+<td> trods alt </td>
+<td> after all </td>
+<td> Selv om Mai-Britt bruger en del tid på sport, fylder det trods alt ikke hele hendes liv. </td>
+</tr>
+<tr>
 <td> tæt på </td>
 <td> close to </td>
 <td> Vel kom man tæt på hinanden, men sit inderste krængede man aldrig ud. </td>
 </tr>
 <tr>
-<td> uanset </td>
-<td> no matter </td>
+<td> uanset (om) </td>
+<td> no matter (if) </td>
 <td> Uanset, hvad du har hørt, så er det stærkt overdrevet. </td>
 </tr>
 <tr>
@@ -358,6 +363,19 @@ search: true
 <tr>
 <td> less than </td>
 <td> Under 50% af befolkningen ejer en bil. </td>
+</tr>
+<tr>
+<td rowspan="2"> undtagen </td>
+<td> except </td>
+<td> Børneforestillingerne finder sted dagligt kl. 11 undtagen lørdage. </td>
+</tr>
+<tr>
+<td> Alle børnene fik erstatning efter ulykken undtagen Frans han fik en krans. </td>
+</tr>
+<tr>
+<td> undtagen hvis </td>
+<td> unless </td>
+<td> Undtagen hvis man også selv befinder sig udstrakt og i jordhøjde. </td>
 </tr>
 <tr>
 <td rowspan="2"> ved </td>

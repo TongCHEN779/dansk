@@ -204,4 +204,9 @@ search: true
 <td> as ... as possible </td>
 <td> Oversættelserne vil fremkomme så hurtigt som muligt. </td>
 </tr>
+<tr>
+<td> undtagen </td>
+<td> unless </td>
+<td> Her bider sygdom ikke undtagen det er Vorherres vilje. </td>
+</tr>
 </table>

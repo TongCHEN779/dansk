@@ -231,6 +231,11 @@ search: true
 <td> Naturligvis skal man ikke holde sig indendørs, når solen skinner. </td>
 </tr>
 <tr>
+<td> især </td>
+<td> especially </td>
+<td> Han interesserede sig for biler, især de gamle amerikanske. </td>
+</tr>
+<tr>
 <td> itu </td>
 <td> cracked </td>
 <td> Han river alle jordknolde ind i bedets side og presser dem itu med riven. </td>
@@ -449,6 +454,16 @@ search: true
 <td> I 1871 kom jernbanen til Brønderslev, som dengang var en stor landsby med omkring 1.100 indbyggere. </td>
 </tr>
 <tr>
+<td> derefter </td>
+<td> thereafter </td>
+<td> Hun blev først ligbleg, derefter meget rød i ansigtet. </td>
+</tr>
+<tr>
+<td> derfor </td>
+<td> therefore </td>
+<td> Jeg vidste ikke, hvor Lilly boede og kunne derfor ikke kontakte hende. </td>
+</tr>
+<tr>
 <td> derigennem </td>
 <td> thereby </td>
 <td> Adriana er en god praktiserende katolik, der skrifter og derigennem får lettet sin samvittighed. </td>
@@ -494,9 +509,19 @@ search: true
 <td> Min bror har efterhånden fået lige så mange børn, som vi selv var derhjemme. </td>
 </tr>
 <tr>
+<td> eksempelvis </td>
+<td> for example </td>
+<td> Lejlighederne holder en usædvanlig høj standard; eksempelvis er alle gulve belagt med brede brædder. </td>
+</tr>
+<tr>
 <td> ellers </td>
 <td> otherwise </td>
 <td> Vi var nødt til at skære et sted, ellers var hele programmet blevet for langt. </td>
+</tr>
+<tr>
+<td> endelig </td>
+<td> finally </td>
+<td> Den eneste lyd der hørtes var skramlen af stole, indtil alle endelig havde fået sig sat. </td>
 </tr>
 <tr>
 <td> endvidere </td>
@@ -539,6 +564,16 @@ search: true
 <td> Gulvet er iskoldt, men heldigvis har han beholdt strømperne på. </td>
 </tr>
 <tr>
+<td> herefter </td>
+<td> hereafter </td>
+<td> Læg husblasen i koldt vand. Smelt den herefter over vandbad. </td>
+</tr>
+<tr>
+<td> hermed </td>
+<td> consequently </td>
+<td> Såfremt vedtægterne giver de øvrige andelshavere forkøbsret til andelen, er køberen ved modtagelsen af vedtægterne gjort bekendt hermed. </td>
+</tr>
+<tr>
 <td> herunder </td>
 <td> including </td>
 <td> En del plastictyper er farlige, herunder skumplast. </td>
@@ -560,7 +595,7 @@ search: true
 </tr>
 <tr>
 <td> ligeledes </td>
-<td> likewise </td>
+<td> likewise, similarly </td>
 <td> Skræl æblerne og hak dem groft. Hak ligeledes løgene groft. </td>
 </tr>
 <tr>
@@ -625,7 +660,7 @@ search: true
 </tr>
 <tr>
 <td> således </td>
-<td> thus </td>
+<td> so, thus, in this way </td>
 <td> Skattesystemet er lagt om, således at de store indkomster slipper billigere. </td>
 </tr>
 <tr>
