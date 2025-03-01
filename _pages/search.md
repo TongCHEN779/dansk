@@ -93,8 +93,8 @@ permalink: /search/
         }
     }
     // Filters the loaded pages based on the search term and displays up to 5 matching rows per page.
-    async function searchPages() {
-        await loadPages();
+    function searchPages() {
+        // await loadPages();
         let input = document.getElementById("searchInput").value.toLowerCase().trim();
         let resultsContainer = document.getElementById("results");
         resultsContainer.innerHTML = "";
