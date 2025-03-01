@@ -36,7 +36,7 @@ permalink: /search/
     .checkbox-container {
         display: flex;
         justify-content: center;
-        gap: 20px;
+        gap: 30px;
     }
     .checkbox-container label {
         display: flex;
@@ -93,7 +93,7 @@ permalink: /search/
         }
     }
     // Filters the loaded pages based on the search term and displays up to 5 matching rows per page.
-    function searchPages() {
+    async function searchPages() {
         await loadPages();
         let input = document.getElementById("searchInput").value.toLowerCase().trim();
         let resultsContainer = document.getElementById("results");
