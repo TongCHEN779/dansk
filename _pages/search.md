@@ -36,7 +36,7 @@ permalink: /search/
     .checkbox-container {
         display: flex;
         justify-content: center;
-        gap: 10px;
+        gap: 20px;
     }
     .checkbox-container label {
         display: flex;
@@ -52,14 +52,14 @@ permalink: /search/
     }
     // This defines the list of pages to search, each containing a name and a URL.
     let allPages = [
-        { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/", id: "adj" },
-        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/", id: "sub" },
-        { name: "Verber", url: "/dansk/ord_og_gram/verb/", id: "verb" },
-        { name: "Adverbier", url: "/dansk/ord_og_gram/adv/", id: "adv" },
-        { name: "Konjunktioner", url: "/dansk/ord_og_gram/konj/", id: "konj" },
-        { name: "Pronominer", url: "/dansk/ord_og_gram/pron/", id: "pron" },
-        { name: "Præpositioner", url: "/dansk/ord_og_gram/præp/", id: "præp" },
-        { name: "Faste Udtryk", url: "/dansk/ord_og_gram/fast/", id: "fast" }
+        { name: "adj.", url: "/dansk/ord_og_gram/adj/", id: "adj" },
+        { name: "sub.", url: "/dansk/ord_og_gram/sub/", id: "sub" },
+        { name: "verb.", url: "/dansk/ord_og_gram/verb/", id: "verb" },
+        { name: "adv.", url: "/dansk/ord_og_gram/adv/", id: "adv" },
+        { name: "konj.", url: "/dansk/ord_og_gram/konj/", id: "konj" },
+        { name: "pron.", url: "/dansk/ord_og_gram/pron/", id: "pron" },
+        { name: "præp.", url: "/dansk/ord_og_gram/præp/", id: "præp" },
+        { name: "udtryk", url: "/dansk/ord_og_gram/fast/", id: "fast" }
     ];
     let pageContents = {};
     // Fetches the content of the pages asynchronously and extracts table data for searching.
@@ -71,24 +71,19 @@ permalink: /search/
                 let text = await response.text();
                 let parser = new DOMParser();
                 let doc = parser.parseFromString(text, "text/html");
-
                 let tables = Array.from(doc.querySelectorAll("table")); // Get all tables on the page
                 let tableData = [];
-
                 tables.forEach((table, index) => {
                     let headers = table.querySelector("tr") ? table.querySelector("tr").innerHTML : null;
                     let rows = Array.from(table.querySelectorAll("tr")).slice(1);
-
                     if (headers && rows.length > 0) {
                         let rowData = rows.map(row => {
                             let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
                             return { html: row.outerHTML, text: tdText };
                         });
-
                         tableData.push({ headers, rows: rowData });
                     }
                 });
-
                 if (tableData.length > 0) {
                     pageContents[page.name] = tableData;
                 }
@@ -99,6 +94,7 @@ permalink: /search/
     }
     // Filters the loaded pages based on the search term and displays up to 5 matching rows per page.
     function searchPages() {
+        await loadPages();
         let input = document.getElementById("searchInput").value.toLowerCase().trim();
         let resultsContainer = document.getElementById("results");
         resultsContainer.innerHTML = "";
@@ -152,13 +148,14 @@ permalink: /search/
 
 <div class="checkbox-container">
 <label><input type="checkbox" id="adj" checked> adj. </label>
-<label><input type="checkbox" id="sub" checked> sb. </label>
-<label><input type="checkbox" id="verb" checked> vb. </label>
+<label><input type="checkbox" id="sub" checked> sub. </label>
+<label><input type="checkbox" id="verb" checked> verb. </label>
 <label><input type="checkbox" id="adv" checked> adv. </label>
 <label><input type="checkbox" id="konj" checked> konj. </label>
 <label><input type="checkbox" id="pron" checked> pron. </label>
-<label><input type="checkbox" id="Præp" checked> præp. </label>
-<label><input type="checkbox" id="fast" checked> udtryk</label>
+<label><input type="checkbox" id="præp" checked> præp. </label>
+<label><input type="checkbox" id="fast" checked> udtryk </label>
 </div>
+
 <input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()">
 <div id="results"></div>

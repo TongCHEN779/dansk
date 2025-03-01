@@ -88,7 +88,7 @@ permalink: /flash/
     async function generateFlashCard() {
         await loadWords();
         if (words.length === 0) {
-            document.getElementById("question").innerHTML = "No words available. Check category selection!";
+            document.getElementById("question").innerHTML = "Ingen ord tilgængelige, tjek valg af kategori!";
             return;
         }
         currentWord = words[Math.floor(Math.random() * words.length)];
@@ -127,9 +127,9 @@ permalink: /flash/
 </script>
 
 <div class="checkbox-container">
-<label><input type="checkbox" id="adj" checked> Adjektiver</label>
-<label><input type="checkbox" id="sub" checked> Substantiver</label>
-<label><input type="checkbox" id="verb" checked> Verber</label>
+<label><input type="checkbox" id="adj" checked> Adjektiver </label>
+<label><input type="checkbox" id="sub" checked> Substantiver </label>
+<label><input type="checkbox" id="verb" checked> Verber </label>
 </div>
 
 <button onclick="generateFlashCard()">Flash</button>
