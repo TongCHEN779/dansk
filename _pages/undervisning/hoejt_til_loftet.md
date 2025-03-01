@@ -5,7 +5,7 @@ permalink: /undervisning/hoejt_til_loftet/
 search: false
 ---
 
-<p align="center"><img src="https://tongchen779.github.io/dansk/images/hoejt_til_loftet.jpeg" width="500"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/hoejt_til_loftet.jpeg"/></p>
 
 <style>
     table {
