@@ -36,7 +36,7 @@ permalink: /search/
     .checkbox-container {
         display: flex;
         justify-content: center;
-        gap: 50px;
+        gap: 10px;
     }
     .checkbox-container label {
         display: flex;
@@ -64,7 +64,8 @@ permalink: /search/
     let pageContents = {};
     // Fetches the content of the pages asynchronously and extracts table data for searching.
     async function loadPages() {
-        for (let page of pagesToSearch) {
+        let selectedPages = pagesToSearch.filter(page => document.getElementById(page.id).checked);
+        for (let page of selectedPages) {
             try {
                 let response = await fetch(page.url);
                 let text = await response.text();
@@ -100,7 +101,7 @@ permalink: /search/
         let resultsContainer = document.getElementById("results");
         resultsContainer.innerHTML = "";
         if (!input) return;
-        let selectedPages = pagesToSearch.filter(page => document.getElementById(page.id).checked);
+        // let selectedPages = pagesToSearch.filter(page => document.getElementById(page.id).checked);
         for (let page of selectedPages) {
             let tableData = pageContents[page.name];
             if (!tableData) continue;
