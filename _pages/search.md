@@ -101,7 +101,7 @@ permalink: /search/
         let resultsContainer = document.getElementById("results");
         resultsContainer.innerHTML = "";
         if (!input) return;
-        // let selectedPages = pagesToSearch.filter(page => document.getElementById(page.id).checked);
+        let selectedPages = pagesToSearch.filter(page => document.getElementById(page.id).checked);
         for (let page of selectedPages) {
             let tableData = pageContents[page.name];
             if (!tableData) continue;
