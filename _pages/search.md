@@ -42,14 +42,14 @@ permalink: /search/
     }
     // This defines the list of pages to search, each containing a name and a URL.
     let pagesToSearch = [
-        { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/" },
-        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/" },
-        { name: "Verber", url: "/dansk/ord_og_gram/verb/" },
-        { name: "Adverbier", url: "/dansk/ord_og_gram/adv/" },
-        { name: "Konjunktioner", url: "/dansk/ord_og_gram/konj/" },
-        { name: "Pronominer", url: "/dansk/ord_og_gram/pron/" },
-        { name: "Præpositioner", url: "/dansk/ord_og_gram/præp/" },
-        { name: "Faste Udtryk", url: "/dansk/ord_og_gram/fast/" }
+        { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/", id: "adj" },
+        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/", id: "sub" },
+        { name: "Verber", url: "/dansk/ord_og_gram/verb/", id: "verb" },
+        { name: "Adverbier", url: "/dansk/ord_og_gram/adv/", id: "adv" },
+        { name: "Konjunktioner", url: "/dansk/ord_og_gram/konj/", id: "konj" },
+        { name: "Pronominer", url: "/dansk/ord_og_gram/pron/", id: "pron" },
+        { name: "Præpositioner", url: "/dansk/ord_og_gram/præp/", id: "præp" },
+        { name: "Faste Udtryk", url: "/dansk/ord_og_gram/fast/", id: "fast" }
     ];
     let pageContents = {};
     // Fetches the content of the pages asynchronously and extracts table data for searching.
@@ -87,7 +87,8 @@ permalink: /search/
         let resultsContainer = document.getElementById("results");
         resultsContainer.innerHTML = "";
         if (!input) return;
-        for (let page in pageContents) {
+        let selectedPages = pagesToSearch.filter(page => document.getElementById(page.id).checked);
+        for (let page in selectedPages) {
             let tableData = pageContents[page];
             let section = document.createElement("div");
             section.innerHTML = `<h3>${page}</h3>`;
@@ -133,6 +134,17 @@ permalink: /search/
     // Ensures the page data is loaded when the document is fully loaded.
     document.addEventListener("DOMContentLoaded", loadPages);
 </script>
+
+<div class="checkbox-container">
+    <label><input type="checkbox" id="adj" checked> Adjectives</label>
+    <label><input type="checkbox" id="sub" checked> Nouns</label>
+    <label><input type="checkbox" id="verb" checked> Verbs</label>
+    <label><input type="checkbox" id="adv" checked> Adverbs</label>
+    <label><input type="checkbox" id="konj" checked> Conjunctions</label>
+    <label><input type="checkbox" id="pron" checked> Pronouns</label>
+    <label><input type="checkbox" id="præp" checked> Prepositions</label>
+    <label><input type="checkbox" id="fast" checked> Fixed Expressions</label>
+</div>
 
 <input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()">
 <div id="results"></div>
