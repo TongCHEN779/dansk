@@ -627,6 +627,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=arbejdsgiver"> en arbejdsgiver </a></td>
+<td>
+<audio id="arbejdsgiver" src="https://static.ordnet.dk/mp3/11002/11002288_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('arbejdsgiver');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈɑːbɑjds-]</span>
+</td>
+<td> arbejdsgiveren </td>
+<td> arbejdsgivere </td>
+<td> arbejdsgiverne </td>
+<td> employer </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ardejdsopgave"> en ardejdsopgave </a></td>
 <td>
 <audio id="arbejdsopgave" src="https://static.ordnet.dk/mp3/11002/11002354_1.mp3" style="display: none;"></audio>
