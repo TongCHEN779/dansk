@@ -36,7 +36,7 @@ permalink: /search/
     .checkbox-container {
         display: flex;
         justify-content: center;
-        gap: 10px;
+        gap: 5px;
     }
     .checkbox-container label {
         display: flex;
@@ -143,17 +143,6 @@ permalink: /search/
         }
         highlightNode(element);
     }
-    // Ensures the page data is loaded when the document is fully loaded.
-    // document.addEventListener("DOMContentLoaded", loadPages);
-    // document.querySelectorAll(".checkbox-container input").forEach(checkbox => {
-    //     checkbox.addEventListener("change", async () => {
-    //         await loadPages();  // Reload data when checkboxes change
-    //         searchPages();      // Then update the search results
-    //     });
-    // });
-    // document.querySelectorAll('.checkbox-container input[type="checkbox"]').forEach(checkbox => {
-    //     checkbox.addEventListener('change', searchPages);
-    // });
     document.addEventListener("DOMContentLoaded", async () => {
         await loadPages();  // Load data once when the page first loads
         document.querySelectorAll('.checkbox-container input[type="checkbox"]').forEach(checkbox => {
@@ -166,14 +155,14 @@ permalink: /search/
 </script>
 
 <div class="checkbox-container">
-    <label><input type="checkbox" id="adj" checked> Adj. </label>
-    <label><input type="checkbox" id="sub" checked> Sb. </label>
-    <label><input type="checkbox" id="verb" checked> Vb. </label>
-    <label><input type="checkbox" id="adv" checked> Adv. </label>
-    <label><input type="checkbox" id="konj" checked> Konj. </label>
-    <label><input type="checkbox" id="pron" checked> Pron. </label>
-    <label><input type="checkbox" id="præp" checked> Præp. </label>
-    <label><input type="checkbox" id="fast" checked> Eks. </label>
+    <label><input type="checkbox" id="adj" checked> adj </label>
+    <label><input type="checkbox" id="sub" checked> sb </label>
+    <label><input type="checkbox" id="verb" checked> vb </label>
+    <label><input type="checkbox" id="adv" checked> adv </label>
+    <label><input type="checkbox" id="konj" checked> konj </label>
+    <label><input type="checkbox" id="pron" checked> pron </label>
+    <label><input type="checkbox" id="præp" checked> præp </label>
+    <label><input type="checkbox" id="fast" checked> eks </label>
 </div>
 
 <input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()">
