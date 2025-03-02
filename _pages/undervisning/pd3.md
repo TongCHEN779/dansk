@@ -340,9 +340,9 @@ Her kan du finde pdf-filer af [At Skrive](https://tongchen779.github.io/dansk/fi
 <tr>
 <td>2021 vinter</td>
 <td>mundtlig, mundt-censor</td>
-<td>læse1-tekst, <a href="https://tongchen779.github.io/dansk/files/pd3/202111_laes2_tekst.pdf">læse2-tekst</a></td>
-<td>læse1-opg, <a href="https://tongchen779.github.io/dansk/files/pd3/202111_laes2_opgave.pdf">læse2-opg</a></td>
-<td>skriftlig</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202111_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202111_laes2_tekst.pdf">læse2-tekst</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202111_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202111_laes2_opgave.pdf">læse2-opg</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202111_skr.pdf">skriftlig</a></td>
 <td>rettenøgler</td>
 </tr>
 

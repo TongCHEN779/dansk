@@ -99,7 +99,7 @@ permalink: /search/
         if (!input) return;
         let selectedPages = pagesToSearch.filter(page => document.getElementById(page.id).checked);
         for (let page of selectedPages) {
-            let tableData = pageContents[page];
+            let tableData = pageContents[page.name];
             if (!tableData) continue;
             let section = document.createElement("div");
             section.innerHTML = `<h3>${page}</h3>`;
