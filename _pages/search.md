@@ -94,7 +94,8 @@ permalink: /search/
     // Ensures the page data is loaded when the document is fully loaded.
     document.addEventListener("DOMContentLoaded", loadPages);
     // Filters the loaded pages based on the search term and displays up to 5 matching rows per page.
-    function searchPages() {
+    async function searchPages() {
+        await loadPages();
         let input = document.getElementById("searchInput").value.toLowerCase().trim();
         let resultsContainer = document.getElementById("results");
         resultsContainer.innerHTML = "";
@@ -127,14 +128,6 @@ permalink: /search/
             }
         }
     }
-    // Run searchPages() whenever a checkbox is checked/unchecked
-    document.addEventListener("DOMContentLoaded", () => {
-        loadPages().then(() => {
-            document.querySelectorAll(".checkbox-container input").forEach(checkbox => {
-                checkbox.addEventListener("change", searchPages);
-            });
-        });
-    });
     // Highlights the searched term in the displayed results by wrapping matched text in a span with a highlight class.
     function highlightMatchesInElement(element, searchTerm) {
         let regex = new RegExp(`(${searchTerm})`, "gi");

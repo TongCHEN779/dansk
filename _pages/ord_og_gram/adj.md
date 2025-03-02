@@ -42,7 +42,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=adskillig"> adskillig </a></td>
 <td>
 <audio id="adskillig" src="https://static.ordnet.dk/mp3/11000/11000230_1.mp3" style="display: none;"></audio>
-<button onclick="playSound('adskillig');" style="cursor: pointer; text-decoration: underline; color: blue;">[aðˈsgelˀi]</button>
+<span onclick="playSound('adskillig');" style="cursor: pointer; text-decoration: underline; color: blue;">[aðˈsgelˀi]</span>
 </td>
 <td> adskilligt </td>
 <td> adskillige </td>
