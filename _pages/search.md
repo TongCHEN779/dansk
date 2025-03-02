@@ -63,34 +63,34 @@ permalink: /search/
     ];
     let pageContents = {};
     // Fetches the content of the pages asynchronously and extracts table data for searching.
-    // async function loadPages() {
-    //     for (let page of pagesToSearch) {
-    //         try {
-    //             let response = await fetch(page.url);
-    //             let text = await response.text();
-    //             let parser = new DOMParser();
-    //             let doc = parser.parseFromString(text, "text/html");
-    //             let tables = Array.from(doc.querySelectorAll("table")); // Get all tables on the page
-    //             let tableData = [];
-    //             tables.forEach((table, index) => {
-    //                 let headers = table.querySelector("tr") ? table.querySelector("tr").innerHTML : null;
-    //                 let rows = Array.from(table.querySelectorAll("tr")).slice(1);
-    //                 if (headers && rows.length > 0) {
-    //                     let rowData = rows.map(row => {
-    //                         let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
-    //                         return { html: row.outerHTML, text: tdText };
-    //                     });
-    //                     tableData.push({ headers, rows: rowData });
-    //                 }
-    //             });
-    //             if (tableData.length > 0) {
-    //                 pageContents[page.name] = tableData;
-    //             }
-    //         } catch (error) {
-    //             console.error(`Failed to load ${page.url}:`, error);
-    //         }
-    //     }
-    // }
+    async function loadPages() {
+        for (let page of pagesToSearch) {
+            try {
+                let response = await fetch(page.url);
+                let text = await response.text();
+                let parser = new DOMParser();
+                let doc = parser.parseFromString(text, "text/html");
+                let tables = Array.from(doc.querySelectorAll("table")); // Get all tables on the page
+                let tableData = [];
+                tables.forEach((table, index) => {
+                    let headers = table.querySelector("tr") ? table.querySelector("tr").innerHTML : null;
+                    let rows = Array.from(table.querySelectorAll("tr")).slice(1);
+                    if (headers && rows.length > 0) {
+                        let rowData = rows.map(row => {
+                            let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
+                            return { html: row.outerHTML, text: tdText };
+                        });
+                        tableData.push({ headers, rows: rowData });
+                    }
+                });
+                if (tableData.length > 0) {
+                    pageContents[page.name] = tableData;
+                }
+            } catch (error) {
+                console.error(`Failed to load ${page.url}:`, error);
+            }
+        }
+    }
     // Filters the loaded pages based on the search term and displays up to 5 matching rows per page.
     function searchPages() {
         let input = document.getElementById("searchInput").value.toLowerCase().trim();
@@ -143,7 +143,7 @@ permalink: /search/
         highlightNode(element);
     }
     // Ensures the page data is loaded when the document is fully loaded.
-    // document.addEventListener("DOMContentLoaded", loadPages);
+    document.addEventListener("DOMContentLoaded", loadPages);
 </script>
 
 <div class="checkbox-container">
