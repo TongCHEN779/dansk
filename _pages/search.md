@@ -99,7 +99,7 @@ permalink: /search/
         if (!input) return;
         let selectedPages = pagesToSearch.filter(page => document.getElementById(page.id).checked);
         for (let page of selectedPages) {
-            let tableData = pageContents[page.name];
+            let tableData = pageContents[page];
             if (!tableData) continue;
             let section = document.createElement("div");
             section.innerHTML = `<h3>${page}</h3>`;
@@ -147,14 +147,14 @@ permalink: /search/
 </script>
 
 <div class="checkbox-container">
-    <label><input type="checkbox" id="adj" checked> Adjectives</label>
-    <label><input type="checkbox" id="sub" checked> Nouns</label>
-    <label><input type="checkbox" id="verb" checked> Verbs</label>
-    <label><input type="checkbox" id="adv" checked> Adverbs</label>
-    <label><input type="checkbox" id="konj" checked> Conjunctions</label>
-    <label><input type="checkbox" id="pron" checked> Pronouns</label>
-    <label><input type="checkbox" id="præp" checked> Prepositions</label>
-    <label><input type="checkbox" id="fast" checked> Fixed Expressions</label>
+    <label><input type="checkbox" id="adj" checked> Adj</label>
+    <label><input type="checkbox" id="sub" checked> Sub</label>
+    <label><input type="checkbox" id="verb" checked> Verb</label>
+    <label><input type="checkbox" id="adv" checked> Adv</label>
+    <label><input type="checkbox" id="konj" checked> Konj</label>
+    <label><input type="checkbox" id="pron" checked> Pron</label>
+    <label><input type="checkbox" id="præp" checked> Præp</label>
+    <label><input type="checkbox" id="fast" checked> Udtryk</label>
 </div>
 
 <input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()">
