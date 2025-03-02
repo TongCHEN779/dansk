@@ -92,14 +92,6 @@ permalink: /search/
             }
         }
     }
-    // Ensures the page data is loaded when the document is fully loaded.
-    document.addEventListener("DOMContentLoaded", loadPages);
-    document.querySelectorAll(".checkbox-container input").forEach(checkbox => {
-        checkbox.addEventListener("change", async () => {
-            await loadPages();  // Reload data when checkboxes change
-            searchPages();      // Then update the search results
-        });
-    });
     // Filters the loaded pages based on the search term and displays up to 5 matching rows per page.
     async function searchPages() {
         let input = document.getElementById("searchInput").value.toLowerCase().trim();
@@ -151,6 +143,17 @@ permalink: /search/
         }
         highlightNode(element);
     }
+    // Ensures the page data is loaded when the document is fully loaded.
+    document.addEventListener("DOMContentLoaded", loadPages);
+    // document.querySelectorAll(".checkbox-container input").forEach(checkbox => {
+    //     checkbox.addEventListener("change", async () => {
+    //         await loadPages();  // Reload data when checkboxes change
+    //         searchPages();      // Then update the search results
+    //     });
+    // });
+    document.querySelectorAll('.checkbox-container input[type="checkbox"]').forEach(checkbox => {
+        checkbox.addEventListener('change', searchPages);
+    });
 </script>
 
 <div class="checkbox-container">
