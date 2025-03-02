@@ -88,8 +88,9 @@ permalink: /search/
         resultsContainer.innerHTML = "";
         if (!input) return;
         let selectedPages = pagesToSearch.filter(page => document.getElementById(page.id).checked);
-        for (let page in selectedPages) {
-            let tableData = pageContents[page];
+        for (let page of selectedPages) {
+            let tableData = pageContents[page.name];
+            if (!tableData) continue;
             let section = document.createElement("div");
             section.innerHTML = `<h3>${page}</h3>`;
             let found = false;
