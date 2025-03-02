@@ -9423,6 +9423,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=revidere"> at revidere </a></td>
+<td>
+<audio id="revidere" src="https://static.ordnet.dk/mp3/11043/11043226_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('revidere');" style="cursor: pointer; text-decoration: underline; color: blue;">[ʁεviˈdeˀʌ]</span>
+</td>
+<td> reviderer </td>
+<td> reviderede </td>
+<td> har revideret </td>
+<td> revider </td>
+<td> to revise </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ride"> at ride </a></td>
 <td>
 <audio id="ride" src="https://static.ordnet.dk/mp3/11043/11043296_1.mp3" style="display: none;"></audio>

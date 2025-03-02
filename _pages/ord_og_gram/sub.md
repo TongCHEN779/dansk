@@ -14511,6 +14511,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A6vhed"> en skævhed </a></td>
+<td>
+<audio id="skævhed" src="https://static.ordnet.dk/mp3/11047/11047451_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skævhed');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsgεwˌheðˀ]</span>
+</td>
+<td> skævheden </td>
+<td> skævheder </td>
+<td> skævhederne </td>
+<td> bias </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=slags"> en slags </a></td>
 <td>
 <audio id="slags" src="https://static.ordnet.dk/mp3/11047/11047572_1.mp3" style="display: none;"></audio>

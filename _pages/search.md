@@ -36,7 +36,7 @@ permalink: /search/
     .checkbox-container {
         display: flex;
         justify-content: center;
-        gap: 5px;
+        gap: 20px;
     }
     .checkbox-container label {
         display: flex;
@@ -155,14 +155,14 @@ permalink: /search/
 </script>
 
 <div class="checkbox-container">
-    <label><input type="checkbox" id="adj" checked> adj </label>
-    <label><input type="checkbox" id="sub" checked> sb </label>
-    <label><input type="checkbox" id="verb" checked> vb </label>
-    <label><input type="checkbox" id="adv" checked> adv </label>
-    <label><input type="checkbox" id="konj" checked> konj </label>
-    <label><input type="checkbox" id="pron" checked> pron </label>
-    <label><input type="checkbox" id="præp" checked> præp </label>
-    <label><input type="checkbox" id="fast" checked> eks </label>
+    <label><input type="checkbox" id="adj" checked> Adj. </label>
+    <label><input type="checkbox" id="sub" checked> Sub. </label>
+    <label><input type="checkbox" id="verb" checked> Verb. </label>
+    <label><input type="checkbox" id="adv" checked> Adv. </label>
+    <label><input type="checkbox" id="konj" checked> Konj. </label>
+    <label><input type="checkbox" id="pron" checked> Pron. </label>
+    <label><input type="checkbox" id="præp" checked> Præp. </label>
+    <label><input type="checkbox" id="fast" checked> Udtryk </label>
 </div>
 
 <input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()">
