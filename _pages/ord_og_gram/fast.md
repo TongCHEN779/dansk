@@ -36,6 +36,11 @@ search: true
 <td> Huset er lejet for et år ad gangen. </td>
 </tr>
 <tr>
+<td> aber dabei </td>
+<td> aberration </td>
+<td> Et lille aber dabei ved udflytningen af debatten var dog, at kun tre journalister dukkede op til det ellers stort anlagte pressemøde. </td>
+</tr>
+<tr>
 <td> affinde </td>
 <td> put up with </td>
 <td> Enten må man affinde sig med en ledighed omkring 300.000 eller også må arbejderbevægelsens mærkesager igennem. </td>

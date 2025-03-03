@@ -37,4 +37,8 @@ Vi håber, at politikerne vil lytte til vores bekymringer og sikre, at udvikling
 <tr><td><span style="font-weight: normal">
 Det er vigtigt, at man er et forbillede og forsøger at leve op til, hvad man selv siger.
 </span></td></tr>
+
+<tr><td><span style="font-weight: normal">
+Mandagen i den første uge stod på læsning af alle tekster. Jeg synes bestemt at årets tema, nemlig håb, er repræsenteret og smukt hyllet ind i både alvor og gak.
+</span></td></tr>
 </table>

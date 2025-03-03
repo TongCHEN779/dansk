@@ -1695,6 +1695,18 @@ search: true
 <td> outdated </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fredelig"> fredelig </a></td>
+<td>
+<audio id="fredelig" src="https://static.ordnet.dk/mp3/11015/11015779_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fredelig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfʁεːðəli]</span>
+</td>
+<td> fredeligt </td>
+<td> fredelige </td>
+<td> fredeligere </td>
+<td> fredeligst </td>
+<td> peaceful </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fremmed"> fremmed </a></td>
 <td>
 <audio id="fremmed" src="https://static.ordnet.dk/mp3/11015/11015900_1.mp3" style="display: none;"></audio>
@@ -2197,6 +2209,18 @@ search: true
 <td> mere harmløs </td>
 <td> mest harmløs </td>
 <td> harmless </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hastig"> hastig </a></td>
+<td>
+<audio id="hastig" src="https://static.ordnet.dk/mp3/11019/11019996_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hastig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈhasdi]</span>
+</td>
+<td> hastigt </td>
+<td> hastige </td>
+<td> mere hastig </td>
+<td> mest hastig </td>
+<td> hasty </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hedengangen"> hedengangen </a></td>
@@ -3350,6 +3374,18 @@ search: true
 <td> indifferent </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ligesindet"> ligesindet </a></td>
+<td>
+<audio id="ligesindet" src="https://static.ordnet.dk/mp3/11030/11030409_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ligesindet');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌsenˀəð]</span>
+</td>
+<td> ligesindet </td>
+<td> ligesindede </td>
+<td> mere ligesindet </td>
+<td> mest ligesindet </td>
+<td> like-minded </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ligetil"> ligetil </a></td>
 <td>
 <audio id="ligetil" src="https://static.ordnet.dk/mp3/11030/11030421_1.mp3" style="display: none;"></audio>
@@ -4166,6 +4202,18 @@ search: true
 <td> evil </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ophedet"> ophedet </a></td>
+<td>
+<audio id="ophedet" src="https://static.ordnet.dk/mp3/11037/11037453_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ophedet');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌheˀðəd]</span>
+</td>
+<td> ophedet </td>
+<td> ophedede </td>
+<td> mere ophedet </td>
+<td> mest ophedet </td>
+<td> heated </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=oplagt"> oplagt </a></td>
 <td>
 <audio id="oplagt" src="https://static.ordnet.dk/mp3/11037/11037536_1.mp3" style="display: none;"></audio>
@@ -4862,6 +4910,18 @@ search: true
 <td> rustic </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=r%C3%A5,3&amp;query=r%C3%A5"> rå </a></td>
+<td>
+<audio id="rå" src="https://static.ordnet.dk/mp3/11044/11044268_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rå');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʁɔˀ]</span>
+</td>
+<td> råt </td>
+<td> rå </td>
+<td> råere </td>
+<td> råest </td>
+<td> raw </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=r%C3%A5dden"> rådden </a></td>
 <td>
 <audio id="rådden" src="https://static.ordnet.dk/mp3/11044/11044280_1.mp3" style="display: none;"></audio>
@@ -5040,6 +5100,18 @@ search: true
 <td> senere </td>
 <td> senest </td>
 <td> late </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sentimental"> sentimental </a></td>
+<td>
+<audio id="sentimental" src="https://static.ordnet.dk/mp3/11045/11045612_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sentimental');" style="cursor: pointer; text-decoration: underline; color: blue;">[sεntimənˈtæˀl]</span>
+</td>
+<td> sentimentalt </td>
+<td> sentimentale </td>
+<td> mere sentimental </td>
+<td> mest sentimental </td>
+<td> sentimental </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=servicebetonet"> servicebetonet </a></td>
@@ -7092,6 +7164,18 @@ search: true
 <td> mere vellønnet </td>
 <td> mest vellønnet </td>
 <td> well-paid </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vemodig"> vemodig </a></td>
+<td>
+<audio id="vemodig" src="https://static.ordnet.dk/mp3/12006/12006291_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vemodig');" style="cursor: pointer; text-decoration: underline; color: blue;">[veˈmoˀði]</span>
+</td>
+<td> vemodigt </td>
+<td> vemodige </td>
+<td> mere vemodig </td>
+<td> mest vemodig </td>
+<td> melancholy </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=venstre"> venstre </a></td>
