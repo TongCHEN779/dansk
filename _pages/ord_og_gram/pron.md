@@ -147,4 +147,11 @@ search: false
 <td> - </td>
 <td> - </td>
 </tr>
+<tr>
+<td> den, denne </td>
+<td> det, dette </td>
+<td> de, disse </td>
+<td> - </td>
+<td> - </td>
+</tr>
 </table>

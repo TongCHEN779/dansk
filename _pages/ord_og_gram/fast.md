@@ -416,6 +416,11 @@ search: true
 <td> Lejligheden var ikke særlig stor, men den var i det mindste selvstændig og med egen indgang. </td>
 </tr>
 <tr>
+<td> i dølgsmål </td>
+<td> in secret </td>
+<td> Hvorfor skal et så betydningsfuldt anliggende afgøres i dølgsmål uden åben og fri kvalificeret debat? </td>
+</tr>
+<tr>
 <td> i etaper </td>
 <td> in stages </td>
 <td> Den nye vold blev bygget i to etaper, først syd for porten dernæst nord for. </td>
@@ -849,6 +854,11 @@ search: true
 <td> slå rod </td>
 <td> take root </td>
 <td> Da først ideen var sået, slog den hurtigt rod og blev til konkrete planer. </td>
+</tr>
+<tr>
+<td> slå sig til tåls </td>
+<td> accept, tolerate </td>
+<td> Hun slog sig til tåls med, at patienten ville falde til ro uden medicin. </td>
 </tr>
 <tr>
 <td> som nævnt </td>

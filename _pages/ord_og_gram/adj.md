@@ -39,6 +39,18 @@ search: true
 <th> Engelsk </th>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=adelig"> adelig </a></td>
+<td>
+<audio id="adelig" src="https://static.ordnet.dk/mp3/11000/11000161_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('adelig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈæˀðəli]</span>
+</td>
+<td> adeligt </td>
+<td> adelige </td>
+<td> mere adelig </td>
+<td> mest adelig </td>
+<td> noble </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=adskillig"> adskillig </a></td>
 <td>
 <audio id="adskillig" src="https://static.ordnet.dk/mp3/11000/11000230_1.mp3" style="display: none;"></audio>
@@ -169,6 +181,18 @@ search: true
 <td> mere almen </td>
 <td> mest almen </td>
 <td> general </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=almengyldig"> almengyldig </a></td>
+<td>
+<audio id="almengyldig" src="https://static.ordnet.dk/mp3/11001/11001373_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('almengyldig');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌgylˀdi]</span>
+</td>
+<td> almengyldigt </td>
+<td> almengyldige </td>
+<td> mere almengyldig </td>
+<td> mest almengyldig </td>
+<td> universal </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=almindelig"> almindelig </a></td>
@@ -505,6 +529,18 @@ search: true
 <td> mere berettiget </td>
 <td> mest berettiget </td>
 <td> justified </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=berygtet"> berygtet </a></td>
+<td>
+<audio id="berygtet" src="https://static.ordnet.dk/mp3/11004/11004180_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('berygtet');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈʁœgdəð]</span>
+</td>
+<td> berygtet </td>
+<td> berygtede </td>
+<td> mere berygtet </td>
+<td> mest berygtet </td>
+<td> notorious </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ber%C3%B8mt"> berømt </a></td>
@@ -891,6 +927,18 @@ search: true
 <td> lazy </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dr%C3%A6gtig"> drægtig </a></td>
+<td>
+<audio id="drægtig" src="https://static.ordnet.dk/mp3/11009/11009817_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('drægtig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈdʁagdi]</span>
+</td>
+<td> drægtigt </td>
+<td> drægtige </td>
+<td> mere drægtig </td>
+<td> mest drægtig </td>
+<td> pregnant </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=duelig"> duelig </a></td>
 <td>
 <audio id="duelig" src="https://static.ordnet.dk/mp3/11009/11009891_1.mp3" style="display: none;"></audio>
@@ -1107,6 +1155,18 @@ search: true
 <td> miserable </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=enarmet"> enarmet </a></td>
+<td>
+<audio id="enarmet" src="https://static.ordnet.dk/mp3/11011/11011271_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('enarmet');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈeːnˌɑˀməð]</span>
+</td>
+<td> enarmet </td>
+<td> enarmede </td>
+<td> mere enarmet </td>
+<td> mest enarmet </td>
+<td> one-armed </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=engelsk"> engelsk </a></td>
 <td>
 <audio id="engelsk" src="https://static.ordnet.dk/mp3/11011/11011418_1.mp3" style="display: none;"></audio>
@@ -1237,6 +1297,18 @@ search: true
 <td> mere entusiastisk </td>
 <td> mest entusiastisk </td>
 <td> enthusiastic </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=epokeg%C3%B8rende"> epokegørende </a></td>
+<td>
+<audio id="epokegørende" src="https://static.ordnet.dk/mp3/11011/11011599_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('epokegørende');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌgɶˀʌnə]</span>
+</td>
+<td> epokegørende </td>
+<td> epokegørende </td>
+<td> mere epokegørende </td>
+<td> mest epokegørende </td>
+<td> epoch-making </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=erfaren"> erfaren </a></td>
@@ -1933,6 +2005,18 @@ search: true
 <td> færre </td>
 <td> færrest </td>
 <td> few </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=f%C3%B8lelsesm%C3%A6ssig"> følelsesmæssig </a></td>
+<td>
+<audio id="følelsesmæssig" src="https://static.ordnet.dk/mp3/11016/11016834_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('følelsesmæssig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈføːləlsəsˌmεˀsi]</span>
+</td>
+<td> følelsesmæssigt </td>
+<td> følelsesmæssige </td>
+<td> mere følelsesmæssig </td>
+<td> mest følelsesmæssig </td>
+<td> emotional </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=førerløs"> førerløs </a></td>
@@ -3710,6 +3794,18 @@ search: true
 <td> many </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=mange%C3%A5rig"> mangeårig </a></td>
+<td>
+<audio id="mangeårig" src="https://static.ordnet.dk/mp3/11032/11032356_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mangeårig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmɑŋəˌɒˀi]</span>
+</td>
+<td> mangeårigt </td>
+<td> mangeårige </td>
+<td> mere mangeårig </td>
+<td> mest mangeårig </td>
+<td> long-standing </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=maritim"> maritim </a></td>
 <td>
 <audio id="maritim" src="https://static.ordnet.dk/mp3/11032/11032488_1.mp3" style="display: none;"></audio>
@@ -4010,6 +4106,18 @@ search: true
 <td> narcissistic </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nederdr%C3%A6gtig"> nederdrægtig </a></td>
+<td>
+<audio id="nederdrægtig" src="https://static.ordnet.dk/mp3/11035/11035653_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nederdrægtig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈneðʌˈdʁagdi]</span>
+</td>
+<td> nederdrægtigt </td>
+<td> nederdrægtige </td>
+<td> mere nederdrægtig </td>
+<td> mest nederdrægtig </td>
+<td> malicious </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=negativ"> negativ </a></td>
 <td>
 <audio id="negativ" src="https://static.ordnet.dk/mp3/11035/11035786_1.mp3" style="display: none;"></audio>
@@ -4200,6 +4308,30 @@ search: true
 <td> mere nøgen </td>
 <td> mest nøgen </td>
 <td> naked </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nøgtern"> nøgtern </a></td>
+<td>
+<audio id="nøgtern" src="https://static.ordnet.dk/mp3/11036/11036697_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nøgtern');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈnøgdʌn]</span>
+</td>
+<td> nøgternt </td>
+<td> nøgterne </td>
+<td> mere nøgtern </td>
+<td> mest nøgtern </td>
+<td> sober </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=n%C3%B8jagtig"> nøjagtig </a></td>
+<td>
+<audio id="nøjagtig" src="" style="display: none;"></audio>
+<span onclick="playSound('nøjagtig');" style="cursor: pointer; text-decoration: underline; color: blue;">[nʌjˈɑgdi]</span>
+</td>
+<td> nøjagtigt </td>
+<td> nøjagtige </td>
+<td> mere nøjagtig </td>
+<td> mest nøjagtig </td>
+<td> precise </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=n%C3%B8rdet"> nørdet </a></td>
@@ -4466,6 +4598,18 @@ search: true
 <td> aforementioned </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=overbevist"> overbevist </a></td>
+<td>
+<audio id="overbevist" src="https://static.ordnet.dk/mp3/11038/11038204_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('overbevist');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈɒwʌbeˌviˀsd]</span>
+</td>
+<td> overbevist </td>
+<td> overbeviste </td>
+<td> mere overbevist </td>
+<td> mest overbevist </td>
+<td> convinced </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=overensstemmende"> overensstemmende </a></td>
 <td>
 <audio id="overensstemmende" src="" style="display: none;"></audio>
@@ -4608,6 +4752,18 @@ search: true
 <td> platere/mere plat </td>
 <td> platest/mest plat </td>
 <td> flat </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=poetisk"> poetisk </a></td>
+<td>
+<audio id="poetisk" src="https://static.ordnet.dk/mp3/11040/11040253_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('poetisk');" style="cursor: pointer; text-decoration: underline; color: blue;">[poˈeˀtisg]</span>
+</td>
+<td> poetisk </td>
+<td> poetiske </td>
+<td> mere poetisk </td>
+<td> mest poetisk </td>
+<td> poetic </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=politisk"> politisk </a></td>
@@ -5618,6 +5774,18 @@ search: true
 <td> crispy </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sp%C3%A6d"> spæd </a></td>
+<td>
+<audio id="spæd" src="https://static.ordnet.dk/mp3/11049/11049569_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('spæd');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsbεˀð]</span>
+</td>
+<td> spædt </td>
+<td> spæde </td>
+<td> spædere </td>
+<td> spædest </td>
+<td> infant </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sp%C3%A6ndende"> spændende </a></td>
 <td>
 <audio id="spændende" src="https://static.ordnet.dk/mp3/11049/11049593_1.mp3" style="display: none;"></audio>
@@ -6074,6 +6242,18 @@ search: true
 <td> so-called </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%A5rbar"> sårbar </a></td>
+<td>
+<audio id="sårbar" src="https://static.ordnet.dk/mp3/11052/11052555_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sårbar');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsɒːˌbɑˀ]</span>
+</td>
+<td> sårbart </td>
+<td> sårbare </td>
+<td> mere sårbar </td>
+<td> mest sårbar </td>
+<td> vulnerable </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%B8d"> sød </a></td>
 <td>
 <audio id="sød" src="https://static.ordnet.dk/mp3/11052/11052301_1.mp3" style="display: none;"></audio>
@@ -6110,6 +6290,18 @@ search: true
 <td> taboo </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=taknemmelig"> taknemmelig/taknemlig </a></td>
+<td>
+<audio id="taknemmelig" src="https://static.ordnet.dk/mp3/12000/12000099_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('taknemmelig');" style="cursor: pointer; text-decoration: underline; color: blue;">[tɑgˈnεmˀəli]</span>
+</td>
+<td> taknemmeligt </td>
+<td> taknemmelige </td>
+<td> taknemmeligere </td>
+<td> taknemmeligst </td>
+<td> grateful </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tavs"> tavs </a></td>
 <td>
 <audio id="tavs" src="https://static.ordnet.dk/mp3/12000/12000399_1.mp3" style="display: none;"></audio>
@@ -6132,6 +6324,18 @@ search: true
 <td> mere teknisk </td>
 <td> mest teknisk </td>
 <td> technical </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=teoretisk"> teoretisk </a></td>
+<td>
+<audio id="teoretisk" src="https://static.ordnet.dk/mp3/12000/12000729_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('teoretisk');" style="cursor: pointer; text-decoration: underline; color: blue;">[teoˈʁεˀdisg]</span>
+</td>
+<td> teoretisk </td>
+<td> teoretiske </td>
+<td> mere teoretisk </td>
+<td> mest teoretisk </td>
+<td> theoretical </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ternet"> ternet </a></td>
@@ -6650,6 +6854,18 @@ search: true
 <td> outgoing </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=uddannelsesm%C3%A6ssig"> uddannelsesmæssig </a></td>
+<td>
+<audio id="uddannelsesmæssig" src="https://static.ordnet.dk/mp3/12003/12003691_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('uddannelsesmæssig');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌmεˀsi]</span>
+</td>
+<td> uddannelsesmæssigt </td>
+<td> uddannelsesmæssige </td>
+<td> mere uddannelsesmæssig </td>
+<td> mest uddannelsesmæssig </td>
+<td> educational </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=udd%C3%B8d"> uddød </a></td>
 <td>
 <audio id="uddød" src="https://static.ordnet.dk/mp3/12003/12003715_1.mp3" style="display: none;"></audio>
@@ -6962,6 +7178,18 @@ search: true
 <td> entertaining </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=underjordisk"> underjordisk </a></td>
+<td>
+<audio id="underjordisk" src="" style="display: none;"></audio>
+<span onclick="playSound('underjordisk');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌjoɐ̯ˀdisg]</span>
+</td>
+<td> underjordisk </td>
+<td> underjordiske </td>
+<td> mere underjordisk </td>
+<td> mest underjordisk </td>
+<td> underground </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=underlig"> underlig </a></td>
 <td>
 <audio id="underlig" src="https://static.ordnet.dk/mp3/12004/12004803_1.mp3" style="display: none;"></audio>
@@ -7008,6 +7236,18 @@ search: true
 <td> mere unødvendig </td>
 <td> mest unødvendig </td>
 <td> unnecessary </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=un%C3%B8jagtig"> unøjagtig </a></td>
+<td>
+<audio id="unøjagtig" src="https://static.ordnet.dk/mp3/12005/12005075_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('unøjagtig');" style="cursor: pointer; text-decoration: underline; color: blue;">[unʌjˈɑgdi]</span>
+</td>
+<td> unøjagtigt </td>
+<td> unøjagtige </td>
+<td> mere unøjagtig </td>
+<td> mest unøjagtig </td>
+<td> inaccurate </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=uopsigelig"> uopsigelig </a></td>

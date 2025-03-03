@@ -229,9 +229,13 @@ search: true
 <td> Øverst oppe ligger kirken omkranset af en gammel kirkegård og lige nedenfor ligger kirkepladsen. </td>
 </tr>
 <tr>
-<td> ovenfor </td>
+<td> ovenfor, oven for </td>
 <td> above </td>
 <td> Sæt x i de hvide felter og angiv kontingentstørrelsen (se ovenfor) i sidste rubrik. </td>
+</tr>
+<td> ovenpå, oven på </td>
+<td> on top of </td>
+<td> Olien lægger sig i et lag oven på vandet. </td>
 </tr>
 <tr>
 <td rowspan="3"> om </td>
