@@ -52,6 +52,11 @@ search: true
 <td> Han har taget af kassen. </td>
 </tr>
 <tr>
+<td> bagi, bag i </td>
+<td> at the back of </td>
+<td> Litteraturlisten bagi bogen er meget tynd, og det fremgår ikke, hvordan de forskellige værker er blevet brugt. </td>
+</tr>
+<tr>
 <td rowspan="3"> bagved (bag) </td>
 <td rowspan="3"> behind </td>
 <td> Bolden ligger bagved kassen. </td>

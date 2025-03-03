@@ -10,6 +10,7 @@ permalink: /links/
 - [Dansk Forfatterleksikon](https://danskforfatterleksikon.dk/)
 - [Danskernes Historie Online](https://slaegtsbibliotek.dk/)
 - [Det Kongelige Bibliotek](https://tekster.kb.dk/)
+- [Fortid og Nutid (DKB)](https://tidsskrift.dk/fortidognutid/)
 - [Georg Brandes Digitale Hovedstrømninger](https://georgbrandes.dk/)
 - [Grundtvigs Værker](http://www.xn--grundtvigsvrker-7lb.dk/)
 - [Henrik Pontoppidan](https://www.henrikpontoppidan.dk/): portal for læsere, studerende, lærere og forskere

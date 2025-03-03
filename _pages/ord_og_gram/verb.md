@@ -2211,6 +2211,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dedikere"> at dedikere </a></td>
+<td>
+<audio id="dedikere" src="https://static.ordnet.dk/mp3/11008/11008539_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dedikere');" style="cursor: pointer; text-decoration: underline; color: blue;">[dediˈkeˀʌ]</span>
+</td>
+<td> dedikerer </td>
+<td> dedikerede </td>
+<td> har dedikeret </td>
+<td> dediker </td>
+<td> to dedicate </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dele"> at dele </a></td>
 <td>
 <audio id="dele" src="https://static.ordnet.dk/mp3/11008/11008639_1.mp3" style="display: none;"></audio>
@@ -2364,6 +2377,19 @@ search: true
 <td> har drejet </td>
 <td> drej </td>
 <td> to turn </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=drible"> at drible </a></td>
+<td>
+<audio id="drible" src="https://static.ordnet.dk/mp3/11009/11009654_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('drible');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈdʁiblə]</span>
+</td>
+<td> dribler </td>
+<td> driblede </td>
+<td> har driblet </td>
+<td> dribl </td>
+<td> to dribble </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -9059,6 +9085,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pynte"> at pynte </a></td>
+<td>
+<audio id="pynte" src="https://static.ordnet.dk/mp3/11041/11041660_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('pynte');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈpøndə]</span>
+</td>
+<td> pynter </td>
+<td> pyntede </td>
+<td> har pyntet </td>
+<td> pynt </td>
+<td> to decorate </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=påbyde"> at påbyde </a></td>
 <td>
 <audio id="påbyde" src="https://static.ordnet.dk/mp3/11041/11041758_1.mp3" style="display: none;"></audio>
@@ -11863,6 +11902,19 @@ search: true
 <td> har tilskyndet </td>
 <td> tilskynd </td>
 <td> to encourage </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilslutte"> at tilslutte </a></td>
+<td>
+<audio id="tilslutte" src="https://static.ordnet.dk/mp3/12001/12001299_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilslutte');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtelˌsludə]</span>
+</td>
+<td> tilslutter </td>
+<td> tilsluttede </td>
+<td> har tilsluttet </td>
+<td> tilslut </td>
+<td> to join </td>
 <td> 1 </td>
 </tr>
 <tr>

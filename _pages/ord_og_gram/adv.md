@@ -679,6 +679,11 @@ search: true
 <td> Det er sjovt og afslappende at køre med tog, og så er det tilmed billigt i Storbritannien. </td>
 </tr>
 <tr>
+<td> tilsammen (med) </td>
+<td> together (with) </td>
+<td> Tilsammen udgjorde de et stærkt hold. Så længe de kunne enes. </td>
+</tr>
+<tr>
 <td> tværtimod </td>
 <td> on the contrary </td>
 <td> Jeg var slet ikke deprimeret, tværtimod, man skal se positivt på alting. </td>

@@ -303,6 +303,18 @@ search: true
 <td> responsible </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=antik"> antik </a></td>
+<td>
+<audio id="antik" src="https://static.ordnet.dk/mp3/11002/11002051_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('antik');" style="cursor: pointer; text-decoration: underline; color: blue;">[anˈtig]</span>
+</td>
+<td> antikt </td>
+<td> antikke </td>
+<td> mere antik </td>
+<td> mest antik </td>
+<td> antique </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=arbejdsm%C3%A6ssig"> arbejdsmæssig </a></td>
 <td>
 <audio id="arbejdsmæssig" src="https://static.ordnet.dk/mp3/11002/11002348_1.mp3" style="display: none;"></audio>
@@ -661,6 +673,18 @@ search: true
 <td> bredere </td>
 <td> bredest </td>
 <td> wide </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=broget"> broget </a></td>
+<td>
+<audio id="broget" src="https://static.ordnet.dk/mp3/11006/11006224_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('broget');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbʁɔːwəð]</span>
+</td>
+<td> broget </td>
+<td> brogede </td>
+<td> mere broget </td>
+<td> mest broget </td>
+<td> mottled </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=brugt"> brugt </a></td>
@@ -1489,6 +1513,18 @@ search: true
 <td> mere foreløbig </td>
 <td> mest foreløbig </td>
 <td> provisional </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forholdsvis"> forholdsvis </a></td>
+<td>
+<audio id="forholdsvis" src="https://static.ordnet.dk/mp3/11014/11014601_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forholdsvis');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfɒːhʌlsˌviˀs]</span>
+</td>
+<td> forholdsvist </td>
+<td> forholdsvise </td>
+<td> mere forholdsvis </td>
+<td> mest forholdsvis </td>
+<td> relatively </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forkert"> forkert </a></td>
@@ -4298,6 +4334,18 @@ search: true
 <td> overweight </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=overv%C3%A6ldende"> overvældende </a></td>
+<td>
+<audio id="overvældende" src="https://static.ordnet.dk/mp3/11038/11038563_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('overvældende');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌvεlˀənə]</span>
+</td>
+<td> overvældende </td>
+<td> overvældende </td>
+<td> mere overvældende </td>
+<td> mest overvældende </td>
+<td> overwhelming </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=parat"> parat </a></td>
 <td>
 <audio id="parat" src="https://static.ordnet.dk/mp3/11038/11038895_1.mp3" style="display: none;"></audio>
@@ -4944,6 +4992,18 @@ search: true
 <td> mere selvbevidst </td>
 <td> mest selvbevidst </td>
 <td> self-conscious </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=selvforst%C3%A6rkende"> selvforstærkende </a></td>
+<td>
+<audio id="selvforstærkende" src="https://static.ordnet.dk/mp3/11045/11045373_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('selvforstærkende');" style="cursor: pointer; text-decoration: underline; color: blue;">[-fʌˌsdæɐ̯gənə]</span>
+</td>
+<td> selvforstærkende </td>
+<td> selvforstærkende </td>
+<td> mere selvforstærkende </td>
+<td> mest selvforstærkende </td>
+<td> self-reinforcing </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=selvoptaget"> selvoptaget </a></td>
