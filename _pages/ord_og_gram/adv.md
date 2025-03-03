@@ -31,6 +31,11 @@ search: true
 <th> Eksempler </th>
 </tr>
 <tr>
+<td> afsti afsted, afsti af sted, af sti af sted, af sti afsted </td>
+<td> let's go </td>
+<td> Så jeg tog til Paris. Tænkte: »Jeg har da haft fransk på højt niveau. Af sti af sted med mig.« </td>
+</tr>
+<tr>
 <td> afvekslende </td>
 <td> alternately </td>
 <td> Tambourkorpset er den del af vagtparaden, der på turen til Amalienborg spiller afvekslende med musikkorpset. </td>

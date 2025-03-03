@@ -31,14 +31,14 @@ search: true
 <th> Eksempler </th>
 </tr>
 <tr>
-<td> ad gangen </td>
-<td> at a time </td>
-<td> Huset er lejet for et år ad gangen. </td>
-</tr>
-<tr>
 <td> aber dabei </td>
 <td> aberration </td>
 <td> Et lille aber dabei ved udflytningen af debatten var dog, at kun tre journalister dukkede op til det ellers stort anlagte pressemøde. </td>
+</tr>
+<tr>
+<td> ad gangen </td>
+<td> at a time </td>
+<td> Huset er lejet for et år ad gangen. </td>
 </tr>
 <tr>
 <td> affinde </td>
@@ -54,6 +54,11 @@ search: true
 <td> afvige fra </td>
 <td> differ from </td>
 <td> Kontantværdien vil ofte afvige fra ejendommens pris i prioriteret stand. </td>
+</tr>
+<tr>
+<td> -agtig </td>
+<td> -ish, -y, -ous  </td>
+<td> katteagtig, barnagtig, grødagtig, fejlagtig, drilagtig </td>
 </tr>
 <tr>
 <td> allerbedst som </td>
@@ -221,7 +226,7 @@ search: true
 <td> Dæmp farten overhold loven kør pænt og for guds skyld PAS PÅ BØRNENE. </td>
 </tr>
 <tr>
-<td> for så vidt angår </td>
+<td> for så vidt (angår) </td>
 <td> as far as </td>
 <td> Kun for så vidt angår arbejdsløshedstallene, har Danmark klaret sig dårligere i Jørgensen-perioden end i Schlüter-perioden. </td>
 </tr>

@@ -41,4 +41,8 @@ Det er vigtigt, at man er et forbillede og forsøger at leve op til, hvad man se
 <tr><td><span style="font-weight: normal">
 Mandagen i den første uge stod på læsning af alle tekster. Jeg synes bestemt at årets tema, nemlig håb, er repræsenteret og smukt hyllet ind i både alvor og gak.
 </span></td></tr>
+
+<tr><td><span style="font-weight: normal">
+Det overrasker mig, hvor villige fork er til at acceptere uredigeret AI-genereret materiale som kunstneriske produkter. Tænk, at folk fil lade sig nøje med den slags mekaniske nattergale, når hylderne bugner af den ægte vare.
+</span></td></tr>
 </table>

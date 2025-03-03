@@ -1522,6 +1522,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bestr%C3%A6be"> at bestræbe (sig) </a></td>
+<td>
+<audio id="bestræbe" src="https://static.ordnet.dk/mp3/11004/11004325_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bestræbe');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈsdʁεˀbə]</span>
+</td>
+<td> bestræber </td>
+<td> bestræbte </td>
+<td> har bestræbt </td>
+<td> bestræb </td>
+<td> to strive </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=best%C3%A5"> at bestå </a></td>
 <td>
 <audio id="bestå" src="https://static.ordnet.dk/mp3/11004/11004344_1.mp3" style="display: none;"></audio>
@@ -1598,6 +1611,19 @@ search: true
 <td> besøg </td>
 <td> to visit </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=betage"> at betage </a></td>
+<td>
+<audio id="betage" src="https://static.ordnet.dk/mp3/11004/11004389_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('betage');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈtæˀ]</span>
+</td>
+<td> betager </td>
+<td> betog </td>
+<td> har betaget </td>
+<td> betag </td>
+<td> to enchant, captivate, infatuate </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=betale"> at betale </a></td>
@@ -2013,6 +2039,19 @@ search: true
 <td> har brølet </td>
 <td> brøl </td>
 <td> to roar </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bugne"> at bugne (af/med) </a></td>
+<td>
+<audio id="bugne" src="https://static.ordnet.dk/mp3/11006/11006610_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bugne');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbuːnə]</span>
+</td>
+<td> bugner </td>
+<td> bugnede </td>
+<td> har bugnet </td>
+<td> bugn </td>
+<td> to overflow </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -3483,6 +3522,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forene"> at forene </a></td>
+<td>
+<audio id="forene" src="https://static.ordnet.dk/mp3/11014/11014429_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forene');" style="cursor: pointer; text-decoration: underline; color: blue;">[fʌˈeˀnə]</span>
+</td>
+<td> forener </td>
+<td> forenede </td>
+<td> har forenet </td>
+<td> foren </td>
+<td> to unite </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forenkle"> at forenkle </a></td>
 <td>
 <audio id="forenkle" src="https://static.ordnet.dk/mp3/11014/11014434_1.mp3" style="display: none;"></audio>
@@ -3857,6 +3909,19 @@ search: true
 <td> forslå </td>
 <td> to suggest </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forstemme"> at forstemme </a></td>
+<td>
+<audio id="forstemme" src="https://static.ordnet.dk/mp3/11015/11015181_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forstemme');" style="cursor: pointer; text-decoration: underline; color: blue;">[fʌˈsdεmˀə]</span>
+</td>
+<td> forstemmer </td>
+<td> forstemte </td>
+<td> har forstemt </td>
+<td> forstem </td>
+<td> to depress </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forstuve"> at forstuve </a></td>
@@ -6628,6 +6693,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kredse"> at kredse </a></td>
+<td>
+<audio id="kredse" src="https://static.ordnet.dk/mp3/11028/11028002_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kredse');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈkʁεːsə]</span>
+</td>
+<td> kredser </td>
+<td> kredsede </td>
+<td> har kredset </td>
+<td> kreds </td>
+<td> to circle </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kritisere"> at kritisere </a></td>
 <td>
 <audio id="kritisere" src="https://static.ordnet.dk/mp3/11028/11028155_1.mp3" style="display: none;"></audio>
@@ -7902,6 +7980,32 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nynne"> at nynne </a></td>
+<td>
+<audio id="nynne" src="https://static.ordnet.dk/mp3/11036/11036386_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nynne');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈnønə]</span>
+</td>
+<td> nynner </td>
+<td> nynnede </td>
+<td> har nynnet </td>
+<td> nyn </td>
+<td> to hum </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nyovers%C3%A6tte"> at nyoversætte </a></td>
+<td>
+<audio id="nyoversætte" src="https://static.ordnet.dk/mp3/11036/11036397_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nyoversætte');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈnyːˌɒwʌsεdə]</span>
+</td>
+<td> nyoversætter </td>
+<td> nyoversatte </td>
+<td> har nyoversat </td>
+<td> nyoversæt </td>
+<td> to retranslate </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=nyse"> at nyse </a></td>
 <td>
 <audio id="nyse" src="https://static.ordnet.dk/mp3/11036/11036417_1.mp3" style="display: none;"></audio>
@@ -8394,6 +8498,19 @@ search: true
 <td> oplæg </td>
 <td> to lay out </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opl%C3%B8fte"> at opløfte </a></td>
+<td>
+<audio id="opløfte" src="https://static.ordnet.dk/mp3/11037/11037568_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opløfte');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌløfdə]</span>
+</td>
+<td> opløfter </td>
+<td> opløftede </td>
+<td> har opløftet </td>
+<td> opløft </td>
+<td> to elevate </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=opn%C3%A5"> at opnå </a></td>
@@ -8955,6 +9072,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pible"> at pible </a></td>
+<td>
+<audio id="pible" src="https://static.ordnet.dk/mp3/11039/11039640_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('pible');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈpiblə]</span>
+</td>
+<td> pibler </td>
+<td> piblede </td>
+<td> har piblet </td>
+<td> pibl </td>
+<td> to trickle </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=piske"> at piske </a></td>
 <td>
 <audio id="piske" src="https://static.ordnet.dk/mp3/11039/11039835_1.mp3" style="display: none;"></audio>
@@ -9043,6 +9173,19 @@ search: true
 <td> har prioriteret </td>
 <td> prioriter </td>
 <td> to prioritize </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=prisbelønne"> at prisbelønne </a></td>
+<td>
+<audio id="prisbelønne" src="https://static.ordnet.dk/mp3/11040/11040836_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('prisbelønne');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈpʁisbeˌlønˀə]</span>
+</td>
+<td> prisbelønner </td>
+<td> prisbelønnede </td>
+<td> har prisbelønnet </td>
+<td> prisbelønne </td>
+<td> to award </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -9317,6 +9460,19 @@ search: true
 <td> ram </td>
 <td> to hit </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rase"> at rase </a></td>
+<td>
+<audio id="rase" src="https://static.ordnet.dk/mp3/11042/11042182_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rase');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʁɑːsə]</span>
+</td>
+<td> raser </td>
+<td> rasede </td>
+<td> har raset </td>
+<td> ras </td>
+<td> to rage </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=raskmelde"> at raskmelde </a></td>
@@ -10135,6 +10291,19 @@ search: true
 <td> har skaffet </td>
 <td> skaf </td>
 <td> to provide </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=skamme,2&amp;query=skamme"> at skamme (sig) </a></td>
+<td>
+<audio id="skamme" src="https://static.ordnet.dk/mp3/11046/11046300_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skamme');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsgɑmə]</span>
+</td>
+<td> skammer </td>
+<td> skammede </td>
+<td> har skammet </td>
+<td> skam </td>
+<td> to be ashamed </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -10992,6 +11161,19 @@ search: true
 <td> har spejlet </td>
 <td> spejl </td>
 <td> to mirror </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=spekulere"> at spekulere </a></td>
+<td>
+<audio id="spekulere" src="https://static.ordnet.dk/mp3/11049/11049081_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('spekulere');" style="cursor: pointer; text-decoration: underline; color: blue;">[sbeguˈleˀʌ]</span>
+</td>
+<td> spekulerer </td>
+<td> spekulerede </td>
+<td> har spekuleret </td>
+<td> spekurer </td>
+<td> to speculate </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -12698,6 +12880,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=udkomme,2&amp;query=udkomme"> at udkomme </a></td>
+<td>
+<audio id="udkomme" src="https://static.ordnet.dk/mp3/12003/12003913_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udkomme');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌkʌmˀə]</span>
+</td>
+<td> udkommer </td>
+<td> udkom </td>
+<td> er udkommet </td>
+<td> udkom </td>
+<td> to be published </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=udlede"> at udlede </a></td>
 <td>
 <audio id="udlede" src="https://static.ordnet.dk/mp3/12003/12003937_1.mp3" style="display: none;"></audio>
@@ -13647,7 +13842,7 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%A6rgre"> at ærgre sig </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%A6rgre"> at ærgre (sig) </a></td>
 <td>
 <audio id="ærgre" src="https://static.ordnet.dk/mp3/12008/12008104_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('ærgre');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈæɐ̯wʁʌ]</span>
