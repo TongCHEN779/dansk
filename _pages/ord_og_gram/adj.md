@@ -375,6 +375,18 @@ search: true
 <td> work-related </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ark%C3%A6ologisk"> arkæologisk </a></td>
+<td>
+<audio id="arkæologisk" src="https://static.ordnet.dk/mp3/11002/11002462_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('arkæologisk');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˌɑːkεoˈloˀisg]</span>
+</td>
+<td> arkæologisk </td>
+<td> arkæologiske </td>
+<td> mere arkæologisk </td>
+<td> mest arkæologisk </td>
+<td> archaeological </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=arrogant"> arrogant </a></td>
 <td>
 <audio id="arrogant" src="https://static.ordnet.dk/mp3/11002/11002529_1.mp3" style="display: none;"></audio>
@@ -3566,6 +3578,18 @@ search: true
 <td> easy </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=liderlig"> liderlig </a></td>
+<td>
+<audio id="liderlig" src="https://static.ordnet.dk/mp3/11030/11030348_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('liderlig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈliðˀʌli]</span>
+</td>
+<td> liderligt </td>
+<td> liderlige </td>
+<td> mere liderlig </td>
+<td> mest liderlig </td>
+<td> horny </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ligeglad"> ligeglad </a></td>
 <td>
 <audio id="ligeglad" src="https://static.ordnet.dk/mp3/11030/11030394_1.mp3" style="display: none;"></audio>
@@ -3950,6 +3974,18 @@ search: true
 <td> minimal </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=misvisende"> misvisende </a></td>
+<td>
+<audio id="misvisende" src="https://static.ordnet.dk/mp3/11033/11033955_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('misvisende');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmisˌviˀsənə]</span>
+</td>
+<td> misvisende </td>
+<td> misvisende </td>
+<td> mere misvisende </td>
+<td> mest misvisende </td>
+<td> misleading </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=moderne"> moderne </a></td>
 <td>
 <audio id="moderne" src="https://static.ordnet.dk/mp3/11034/11034068_1.mp3" style="display: none;"></audio>
@@ -4092,6 +4128,18 @@ search: true
 <td> mere mørkhåret </td>
 <td> mest mørkhåret </td>
 <td> dark-haired </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=m%C3%A5delig"> mådelig </a></td>
+<td>
+<audio id="mådelig" src="https://static.ordnet.dk/mp3/11035/11035108_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mådelig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmɔːðəli]</span>
+</td>
+<td> mådeligt </td>
+<td> mådelige </td>
+<td> mere mådelig </td>
+<td> mest mådelig </td>
+<td> moderate </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=m%C3%A5lrettet"> målrettet </a></td>
@@ -4632,6 +4680,18 @@ search: true
 <td> mere overensstemmende </td>
 <td> mest overensstemmende </td>
 <td> consistent </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=overfladisk"> overfladisk </a></td>
+<td>
+<audio id="overfladisk" src="https://static.ordnet.dk/mp3/11038/11038264_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('overfladisk');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌflæˀðisg]</span>
+</td>
+<td> overfladisk </td>
+<td> overfladiske </td>
+<td> mere overfladisk </td>
+<td> mest overfladisk </td>
+<td> superficial </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=overraskende"> overraskende </a></td>
@@ -7142,6 +7202,18 @@ search: true
 <td> disgusting </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ul%C3%B8selig"> uløselig </a></td>
+<td>
+<audio id="uløselig" src="https://static.ordnet.dk/mp3/12004/12004644_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('uløselig');" style="cursor: pointer; text-decoration: underline; color: blue;">[uˈløˀsəli]</span>
+</td>
+<td> uløseligt </td>
+<td> uløselige </td>
+<td> mere uløselig </td>
+<td> mest uløselig </td>
+<td> unsolvable </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=umiddelbar"> umiddelbar </a></td>
 <td>
 <audio id="umiddelbar" src="https://static.ordnet.dk/mp3/12004/12004660_1.mp3" style="display: none;"></audio>
@@ -7176,6 +7248,18 @@ search: true
 <td> mere umulig </td>
 <td> mest umulig </td>
 <td> impossible </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=um%C3%A5delig"> umådelig </a></td>
+<td>
+<audio id="umådelig" src="https://static.ordnet.dk/mp3/12004/12004683_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('umådelig');" style="cursor: pointer; text-decoration: underline; color: blue;">[uˈmɔˀðəli]</span>
+</td>
+<td> umådeligt </td>
+<td> umådelige </td>
+<td> mere umådelig </td>
+<td> mest umådelig </td>
+<td> immense </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=underholdende"> underholdende </a></td>
