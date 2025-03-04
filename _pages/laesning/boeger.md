@@ -752,6 +752,12 @@ search: false
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/riget.png"/></p></td>
+<td><h1> Riget, Magten og Militæret - Bertel Heurlin </h1></td>
+<td><a href="https://unipress.dk/media/14503/87-7934-811-4_riget_magten_og_milit_ret.pdf">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/rundt.png"/></p></td>
 <td><h1> Rundt om en Fjord - Otto Gelsted </h1></td>
 <td><a href="https://tongchen779.github.io/dansk/files/boeger/rundt.pdf">link</a></td>

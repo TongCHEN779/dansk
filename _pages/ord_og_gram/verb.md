@@ -1002,6 +1002,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bed%C3%B8mme"> at bedømme </a></td>
+<td>
+<audio id="bedømme" src="https://static.ordnet.dk/mp3/11003/11003770_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bedømme');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈdœmˀə]</span>
+</td>
+<td> bedømmer </td>
+<td> bedømte </td>
+<td> har bedømt </td>
+<td> bedøm </td>
+<td> to judge </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bed%C3%B8ve"> at bedøve </a></td>
 <td>
 <audio id="bedøve" src="https://static.ordnet.dk/mp3/11003/11003772_1.mp3" style="display: none;"></audio>

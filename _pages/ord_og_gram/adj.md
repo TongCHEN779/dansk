@@ -483,6 +483,18 @@ search: true
 <td> expensive </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bekvem"> bekvem </a></td>
+<td>
+<audio id="bekvem" src="https://static.ordnet.dk/mp3/11003/11003980_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bekvem');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈkvεmˀ]</span>
+</td>
+<td> bekvemt </td>
+<td> bekvemme </td>
+<td> bekvemmere </td>
+<td> bekvemmest </td>
+<td> comfortable </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=belastende"> belastende </a></td>
 <td>
 <audio id="belastende" src="https://static.ordnet.dk/mp3/11003/11003995_1.mp3" style="display: none;"></audio>
