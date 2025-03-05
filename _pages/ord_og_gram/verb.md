@@ -3275,6 +3275,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=flade,2&amp;query=flade"> at flade </a></td>
+<td>
+<audio id="flade" src="https://static.ordnet.dk/mp3/11013/11013426_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('flade');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈflæːðə]</span>
+</td>
+<td> flader </td>
+<td> fladede </td>
+<td> har fladet </td>
+<td> flad </td>
+<td> to flatten </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=flette"> at flette </a></td>
 <td>
 <audio id="flette" src="https://static.ordnet.dk/mp3/11013/11013568_1.mp3" style="display: none;"></audio>
@@ -4714,6 +4727,19 @@ search: true
 <td> har frådset </td>
 <td> fråds </td>
 <td> to gorge </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fundere"> at fundere </a></td>
+<td>
+<audio id="fundere" src="https://static.ordnet.dk/mp3/11016/11016465_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fundere');" style="cursor: pointer; text-decoration: underline; color: blue;">[fɔnˈdeˀʌ]</span>
+</td>
+<td> funderer </td>
+<td> funderede </td>
+<td> har funderet </td>
+<td> funder </td>
+<td> to found, ponder </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -8175,6 +8201,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nedskalere"> at nedskalere </a></td>
+<td>
+<audio id="nedskalere" src="" style="display: none;"></audio>
+<span onclick="playSound('nedskalere');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌskɑˀlə]</span>
+</td>
+<td> nedskalerer </td>
+<td> nedskalerede </td>
+<td> har nedskaleret </td>
+<td> nedskaler </td>
+<td> to downscale </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=neds%C3%A6tte"> at nedsætte </a></td>
 <td>
 <audio id="nedsætte" src="https://static.ordnet.dk/mp3/11035/11035766_1.mp3" style="display: none;"></audio>
@@ -9605,6 +9644,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pr%C3%A6kvalificere"> at prækvalificere </a></td>
+<td>
+<audio id="prækvalificere" src="https://static.ordnet.dk/mp3/11041/11041285_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('prækvalificere');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈpʁεˀ-]</span>
+</td>
+<td> prækvalificerer </td>
+<td> prækvalificerede </td>
+<td> har prækvalificeret </td>
+<td> prækvalificer </td>
+<td> to prequalify </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=pr%C3%A6sentere"> at præsentere </a></td>
 <td>
 <audio id="præsentere" src="https://static.ordnet.dk/mp3/11041/11041319_1.mp3" style="display: none;"></audio>
@@ -10668,6 +10720,19 @@ search: true
 <td> har skaffet </td>
 <td> skaf </td>
 <td> to provide </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skalere"> at skalere </a></td>
+<td>
+<audio id="skalere" src="https://static.ordnet.dk/mp3/11046/11046273_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skalere');" style="cursor: pointer; text-decoration: underline; color: blue;">[sgaˈleˀʌ]</span>
+</td>
+<td> skalerer </td>
+<td> skalerede </td>
+<td> har skaleret </td>
+<td> skaler </td>
+<td> to scale </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -12177,6 +12242,19 @@ search: true
 <td> sved </td>
 <td> to sweat </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=svigte"> at svigte </a></td>
+<td>
+<audio id="svigte" src="https://static.ordnet.dk/mp3/11051/11051698_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('svigte');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsvegdə]</span>
+</td>
+<td> svigter </td>
+<td> svigtede </td>
+<td> har svigtet </td>
+<td> svigt </td>
+<td> to let ... down, fail </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=svine"> at svine </a></td>

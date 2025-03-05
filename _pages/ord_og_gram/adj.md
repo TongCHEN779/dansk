@@ -1599,6 +1599,18 @@ search: true
 <td> far </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=flad"> flad </a></td>
+<td>
+<audio id="flad" src="https://static.ordnet.dk/mp3/11013/11013421_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('flad');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈflæˀð]</span>
+</td>
+<td> fladt </td>
+<td> flade </td>
+<td> fladere </td>
+<td> fladest </td>
+<td> flat </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fleksibel"> fleksibel </a></td>
 <td>
 <audio id="fleksibel" src="https://static.ordnet.dk/mp3/11013/11013523_1.mp3" style="display: none;"></audio>
@@ -2895,6 +2907,18 @@ search: true
 <td> individual </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indvendig"> indvendig </a></td>
+<td>
+<audio id="indvendig" src="https://static.ordnet.dk/mp3/11023/11023665_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indvendig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈenˌvεnˀdi]</span>
+</td>
+<td> indvendigt </td>
+<td> indvendige </td>
+<td> mere indvendig </td>
+<td> mest indvendig </td>
+<td> internal </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=inspirerende"> inspirerende </a></td>
 <td>
 <audio id="inspirerende" src="https://static.ordnet.dk/mp3/11023/11023885_1.mp3" style="display: none;"></audio>
@@ -4035,6 +4059,18 @@ search: true
 <td> mild </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=mindev%C3%A6rdig"> mindeværdig </a></td>
+<td>
+<audio id="mindeværdig" src="https://static.ordnet.dk/mp3/11033/11033734_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mindeværdig');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌvæɐ̯ˀdi]</span>
+</td>
+<td> mindeværdigt </td>
+<td> mindeværdige </td>
+<td> mere mindeværdig </td>
+<td> mest mindeværdig </td>
+<td> memorable </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=minimal"> minimal </a></td>
 <td>
 <audio id="minimal" src="https://static.ordnet.dk/mp3/11033/11033796_1.mp3" style="display: none;"></audio>
@@ -5091,6 +5127,18 @@ search: true
 <td> nice </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=p%C3%A5g%C3%A6ldende"> pågældende </a></td>
+<td>
+<audio id="pågældende" src="https://static.ordnet.dk/mp3/11041/11041771_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('pågældende');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌgεlˀənə]</span>
+</td>
+<td> pågældende </td>
+<td> pågældende </td>
+<td> mere pågældende </td>
+<td> mest pågældende </td>
+<td> relevant </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=p%C3%A5tr%C3%A6ngende"> påtrængende </a></td>
 <td>
 <audio id="påtrængende" src="https://static.ordnet.dk/mp3/11041/11041868_1.mp3" style="display: none;"></audio>
@@ -5449,6 +5497,18 @@ search: true
 <td> saftigere </td>
 <td> saftigst </td>
 <td> juicy </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sagkyndig"> sagkyndig </a></td>
+<td>
+<audio id="sagkyndig" src="" style="display: none;"></audio>
+<span onclick="playSound('sagkyndig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsɑwˌkønˀdi]</span>
+</td>
+<td> sagkyndigt </td>
+<td> sagkyndige </td>
+<td> mere sagkyndig </td>
+<td> mest sagkyndig </td>
+<td> expert </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=samfundsm%C3%A6ssig"> samfundsmæssig </a></td>
@@ -5989,6 +6049,18 @@ search: true
 <td> mere spansk </td>
 <td> mest spansk </td>
 <td> Spanish </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sparsom"> sparsom </a></td>
+<td>
+<audio id="sparsom" src="https://static.ordnet.dk/mp3/11048/11048962_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sparsom');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsbɑːˌsʌmˀ]</span>
+</td>
+<td> sparsomt </td>
+<td> sparsomme </td>
+<td> mere sparsom </td>
+<td> mest sparsom </td>
+<td> sparse </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=speciel"> speciel </a></td>
@@ -6639,6 +6711,18 @@ search: true
 <td> time-saving </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tidskr%C3%A6vende"> tidskrævende/tidkrævende </a></td>
+<td>
+<audio id="tidskrævende" src="https://static.ordnet.dk/mp3/12000/12000953_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tidskrævende');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtiðsˌkʁεːvənə]</span>
+</td>
+<td> tidskrævende </td>
+<td> tidskrævende </td>
+<td> mere tidskrævende </td>
+<td> mest tidskrævende </td>
+<td> time-consuming </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilfreds"> tilfreds </a></td>
 <td>
 <audio id="tilfreds" src="https://static.ordnet.dk/mp3/12001/12001108_1.mp3" style="display: none;"></audio>
@@ -6841,6 +6925,18 @@ search: true
 <td> mere triviel </td>
 <td> mest triviel </td>
 <td> trivial </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=trofast"> trofast </a></td>
+<td>
+<audio id="trofast" src="https://static.ordnet.dk/mp3/12002/12002432_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('trofast');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtʁofasd]</span>
+</td>
+<td> trofast </td>
+<td> trofaste </td>
+<td> mere trofast </td>
+<td> mest trofast </td>
+<td> faithful </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tropisk"> tropisk </a></td>
@@ -8281,6 +8377,18 @@ search: true
 <td> mere åbenbar </td>
 <td> mest åbenbar </td>
 <td> obvious </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%A5benlys"> åbenlys </a></td>
+<td>
+<audio id="åbenlys" src="https://static.ordnet.dk/mp3/12008/12008453_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('åbenlys');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌlyˀs]</span>
+</td>
+<td> åbenlyst </td>
+<td> åbenlyse </td>
+<td> mere åbenlys </td>
+<td> mest åbenlys </td>
+<td> evident </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%A5relang"> årelang </a></td>

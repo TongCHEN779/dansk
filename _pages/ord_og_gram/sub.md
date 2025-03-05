@@ -2067,6 +2067,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dr%C3%A5be"> en dråbe </a></td>
+<td>
+<audio id="dråbe" src="https://static.ordnet.dk/mp3/11009/11009856_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dråbe');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈdʁɔːbə]</span>
+</td>
+<td> dråben </td>
+<td> dråber </td>
+<td> dråberne </td>
+<td> drop, droplet </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=billede"> et billede </a></td>
 <td>
 <audio id="billede" src="https://static.ordnet.dk/mp3/11004/11004678_1.mp3" style="display: none;"></audio>
@@ -3879,6 +3891,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ekstraregning"> en ekstraregning </a></td>
+<td>
+<audio id="ekstraregning" src="https://static.ordnet.dk/mp3/11010/11010971_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ekstraregning');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈεgsdʁɑ-]</span>
+</td>
+<td> ekstraregningen </td>
+<td> ekstraregninger </td>
+<td> ekstraregningerne </td>
+<td> additional bill </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=elfenbenstårn"> et elfenbenstårn </a></td>
 <td>
 <audio id="elfenbenstårn" src="https://static.ordnet.dk/mp3/11011/11011100_1.mp3" style="display: none;"></audio>
@@ -3985,6 +4009,18 @@ search: true
 <td> ensretninger </td>
 <td> ensretningerne </td>
 <td> one-way system </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=entreprenør"> en entreprenør </a></td>
+<td>
+<audio id="entreprenør" src="https://static.ordnet.dk/mp3/11011/11011543_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('entreprenør');" style="cursor: pointer; text-decoration: underline; color: blue;">[ɑŋtʁεpʁεˈnøˀɐ̯]</span>
+</td>
+<td> entreprenøren </td>
+<td> entreprenører </td>
+<td> entreprenørerne </td>
+<td> contractor </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -7549,6 +7585,18 @@ search: true
 <td> højskoler </td>
 <td> højskolerne </td>
 <td> high school </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%B8jtidelighed"> en højtidelighed </a></td>
+<td>
+<audio id="højtidelighed" src="https://static.ordnet.dk/mp3/11022/11022437_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('højtidelighed');" style="cursor: pointer; text-decoration: underline; color: blue;">[hʌjˈtiðˀəliˌheðˀ]</span>
+</td>
+<td> højtideligheden </td>
+<td> højtideligheder </td>
+<td> højtidelighederne </td>
+<td> solemnity </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -14139,6 +14187,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rammeaftale"> en rammeaftale </a></td>
+<td>
+<audio id="rammeaftale" src="https://static.ordnet.dk/mp3/11042/11042095_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rammeaftale');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʁɑməˌɑwˌtæˀlə]</span>
+</td>
+<td> rammeaftalen </td>
+<td> rammeaftaler </td>
+<td> rammeaftalerne </td>
+<td> framework agreement </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=rapport"> en rapport </a></td>
 <td>
 <audio id="rapport" src="https://static.ordnet.dk/mp3/11042/11042169_1.mp3" style="display: none;"></audio>
@@ -14787,6 +14847,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rundk%C3%B8rsel"> en rundkørsel </a></td>
+<td>
+<audio id="rundkørsel" src="https://static.ordnet.dk/mp3/11043/11043862_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rundkørsel');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʁɔnˌkøɐ̯səl]</span>
+</td>
+<td> rundkørslen </td>
+<td> rundkørsler </td>
+<td> rundkørslerne </td>
+<td> roundabout </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=rust"> en rust </a></td>
 <td>
 <audio id="rust" src="https://static.ordnet.dk/mp3/11043/11043922_1.mp3" style="display: none;"></audio>
@@ -15205,6 +15277,18 @@ search: true
 <td> science fiction-romanerne </td>
 <td> science fiction novel </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=scooter"> en scooter </a></td>
+<td>
+<audio id="scooter" src="https://static.ordnet.dk/mp3/11045/11045108_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('scooter');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsguːdʌ]</span>
+</td>
+<td> scooteren </td>
+<td> scootere </td>
+<td> scooterne </td>
+<td> scooter </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=seddel"> en seddel </a></td>
@@ -16728,6 +16812,18 @@ search: true
 <td> spisestuer </td>
 <td> spisestuerne </td>
 <td> dining room </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=splitsekund"> et splitsekund </a></td>
+<td>
+<audio id="splitsekund" src="https://static.ordnet.dk/mp3/11049/11049306_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('splitsekund');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsbled-]</span>
+</td>
+<td> splitsekundet </td>
+<td> splitsekunder </td>
+<td> splitsekunderne </td>
+<td> split-second </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -18699,6 +18795,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilsyn"> et tilsyn </a></td>
+<td>
+<audio id="tilsyn" src="https://static.ordnet.dk/mp3/12001/12001337_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilsyn');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtelˌsyˀn]</span>
+</td>
+<td> tilsynet </td>
+<td> tilsyn </td>
+<td> tilsynene </td>
+<td> supervision </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tiltag"> et tiltag </a></td>
 <td>
 <audio id="tiltag" src="https://static.ordnet.dk/mp3/12001/12001350_1.mp3" style="display: none;"></audio>
@@ -18948,6 +19056,18 @@ search: true
 <td> trilogier </td>
 <td> trilogierne </td>
 <td> trilogy </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=triumf"> en triumf </a></td>
+<td>
+<audio id="triumf" src="https://static.ordnet.dk/mp3/12002/12002404_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('triumf');" style="cursor: pointer; text-decoration: underline; color: blue;">[tʁiˈɔmˀf]</span>
+</td>
+<td> triumfen </td>
+<td> triumfer </td>
+<td> triumferne </td>
+<td> triumph </td>
 <td> 1 </td>
 </tr>
 <tr>
