@@ -279,6 +279,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=afsæt"> et afsæt </a></td>
+<td>
+<audio id="afsæt" src="https://static.ordnet.dk/mp3/11000/11000796_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('afsæt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈɑwˌsεd]</span>
+</td>
+<td> afsættet </td>
+<td> afsæt </td>
+<td> afsættene </td>
+<td> takeoff </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=aftale"> en aftale </a></td>
 <td>
 <audio id="aftale" src="" style="display: none;"></audio>
@@ -781,6 +793,18 @@ search: true
 <td> armene </td>
 <td> arm </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=arsenal"> et arsenal </a></td>
+<td>
+<audio id="arsenal" src="https://static.ordnet.dk/mp3/11002/11002532_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('arsenal');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˌɑːsəˈnæˀl]</span>
+</td>
+<td> arsenalet </td>
+<td> arsenaler </td>
+<td> arsenalerne </td>
+<td> arsenal </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=art"> en art </a></td>
@@ -2461,6 +2485,18 @@ search: true
 <td> brødrene </td>
 <td> brother </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=brud"> et brud </a></td>
+<td>
+<audio id="brud" src="https://static.ordnet.dk/mp3/11006/11006279_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('brud');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbʁuð]</span>
+</td>
+<td> bruddet </td>
+<td> brud </td>
+<td> bruddene </td>
+<td> breach/break </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bryst"> et bryst </a></td>
@@ -4562,6 +4598,18 @@ search: true
 <td> filmene </td>
 <td> film </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=filter"> et filter </a></td>
+<td>
+<audio id="filter" src="https://static.ordnet.dk/mp3/11012/11012963_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('filter');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfilˀdʌ]</span>
+</td>
+<td> filtret </td>
+<td> filtre </td>
+<td> filtrene </td>
+<td> filter </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=finger"> en finger </a></td>
@@ -7600,6 +7648,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=iland"> et iland </a></td>
+<td>
+<audio id="iland" src="https://static.ordnet.dk/mp3/11022/11022911_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('iland');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈiˀˌlanˀ]</span>
+</td>
+<td> ilandet </td>
+<td> ilande </td>
+<td> ilandene </td>
+<td> developed country </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ildsj%C3%A6l"> en ildsjæl </a></td>
 <td>
 <audio id="ildsjæl" src="https://static.ordnet.dk/mp3/11022/11022942_1.mp3" style="display: none;"></audio>
@@ -7742,6 +7802,18 @@ search: true
 <td> inddragelserne </td>
 <td> involvement </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=inderkreds"> en inderkreds </a></td>
+<td>
+<audio id="inderkreds" src="https://static.ordnet.dk/mp3/11023/11023223_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('inderkreds');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈenʌ-]</span>
+</td>
+<td> inderkredsen </td>
+<td> inderkredse </td>
+<td> inderkredsene </td>
+<td> inner circle </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=indf%C3%B8relse"> en indførelse (af) </a></td>
@@ -7912,6 +7984,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=industriland"> et industriland </a></td>
+<td>
+<audio id="industriland" src="https://static.ordnet.dk/mp3/11023/11023646_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('industriland');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈenˌdʁuˌstʁiˌlanˀ]</span>
+</td>
+<td> industrilandet </td>
+<td> industrilande </td>
+<td> industrilandene </td>
+<td> industrial country </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=influenza"> en influenza </a></td>
 <td>
 <audio id="influenza" src="https://static.ordnet.dk/mp3/11023/11023725_1.mp3" style="display: none;"></audio>
@@ -7982,6 +8066,18 @@ search: true
 <td> instruktørerne </td>
 <td> director/(an) instructor </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=insulin"> insulin </a></td>
+<td>
+<audio id="insulin" src="https://static.ordnet.dk/mp3/11023/11023921_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('insulin');" style="cursor: pointer; text-decoration: underline; color: blue;">[ensuˈliˀn]</span>
+</td>
+<td> insulinet/insulinen </td>
+<td> - </td>
+<td> - </td>
+<td> insulin </td>
+<td> A </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=interesse"> en interesse (i/for) </a></td>
@@ -9052,6 +9148,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=konstellation"> en konstellation </a></td>
+<td>
+<audio id="konstellation" src="https://static.ordnet.dk/mp3/11027/11027408_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('konstellation');" style="cursor: pointer; text-decoration: underline; color: blue;">[kʌnsdεlaˈɕoˀn]</span>
+</td>
+<td> konstellationen </td>
+<td> konstellationer </td>
+<td> konstellationerne </td>
+<td> constellation </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=konsulent"> en konsulent </a></td>
 <td>
 <audio id="konsulent" src="https://static.ordnet.dk/mp3/11027/11027423_1.mp3" style="display: none;"></audio>
@@ -9182,6 +9290,18 @@ search: true
 <td> kræfterne </td>
 <td> cancer </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kreds"> en kreds </a></td>
+<td>
+<audio id="kreds" src="https://static.ordnet.dk/mp3/11028/11028001_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kreds');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈkʁεˀs]</span>
+</td>
+<td> kredsen </td>
+<td> kredse </td>
+<td> kredsene </td>
+<td> circle </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=krig"> en krig </a></td>
@@ -10168,6 +10288,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ludder"> et ludder/luder </a></td>
+<td>
+<audio id="ludder" src="https://static.ordnet.dk/mp3/11031/11031047_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ludder');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈluðˀʌ]</span>
+</td>
+<td> ludderen </td>
+<td> luddere </td>
+<td> ludderne </td>
+<td> prostitute </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=luft"> luft </a></td>
 <td>
 <audio id="luft" src="https://static.ordnet.dk/mp3/11031/11031065_1.mp3" style="display: none;"></audio>
@@ -10792,6 +10924,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=medmenneskelighed"> en medmenneskelighed </a></td>
+<td>
+<audio id="medmenneskelighed" src="https://static.ordnet.dk/mp3/51001/51001379_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('medmenneskelighed');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmεðˌmεnəsgəˌliːˌheð]</span>
+</td>
+<td> medmenneskeligheden </td>
+<td> - </td>
+<td> - </td>
+<td> humanity </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=medtrafikant"> en medtrafikant </a></td>
 <td>
 <audio id="medtrafikant" src="" style="display: none;"></audio>
@@ -10969,6 +11113,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> Middle Ages </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=migrant"> en migrant </a></td>
+<td>
+<audio id="migrant" src="https://static.ordnet.dk/mp3/11033/11033520_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('migrant');" style="cursor: pointer; text-decoration: underline; color: blue;">[miˈgʁɑnˀd]</span>
+</td>
+<td> migranten </td>
+<td> migranter </td>
+<td> migranterne </td>
+<td> migrant </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -11776,6 +11932,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nederlag"> et nederlag </a></td>
+<td>
+<audio id="nederlag" src="https://static.ordnet.dk/mp3/11035/11035657_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nederlag');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈneðʌˌlæjˀ]</span>
+</td>
+<td> nederlaget </td>
+<td> nederlag </td>
+<td> nederlagene </td>
+<td> defeat </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=nedl%C3%A6ggelse"> en nedlæggelse </a></td>
 <td>
 <audio id="nedlæggelse" src="https://static.ordnet.dk/mp3/11035/11035700_1.mp3" style="display: none;"></audio>
@@ -11941,6 +12109,18 @@ search: true
 <td> nuancer </td>
 <td> nuancerne </td>
 <td> nuance </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nudel"> en nudel </a></td>
+<td>
+<audio id="nudel" src="https://static.ordnet.dk/mp3/11036/11036245_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nudel');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈnuðˀəl]</span>
+</td>
+<td> nudlen </td>
+<td> nudler </td>
+<td> nudlerne </td>
+<td> noodle </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -12481,6 +12661,18 @@ search: true
 <td> opmærksomheder </td>
 <td> opmærksomhederne </td>
 <td> attention </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=oprindelse"> en oprindelse </a></td>
+<td>
+<audio id="oprindelse" src="https://static.ordnet.dk/mp3/11037/11037658_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('oprindelse');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʌbˌʁεnˀəlsə]</span>
+</td>
+<td> oprindelsen </td>
+<td> oprindelser </td>
+<td> oprindelserne </td>
+<td> origin </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -14943,6 +15135,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sandhed"> en sandhed </a></td>
+<td>
+<audio id="sandhed" src="https://static.ordnet.dk/mp3/11044/11044852_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sandhed');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsanˌheðˀ]</span>
+</td>
+<td> sandheden </td>
+<td> sandheder </td>
+<td> sandhederne </td>
+<td> truth </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sandsynlighed"> en sandsynlighed (for) </a></td>
 <td>
 <audio id="sandsynlighed" src="https://static.ordnet.dk/mp3/11044/11044878_1.mp3" style="display: none;"></audio>
@@ -15384,6 +15588,18 @@ search: true
 <td> skader </td>
 <td> skaderne </td>
 <td> damage, injury </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skadestue"> en skadestue </a></td>
+<td>
+<audio id="skadestue" src="https://static.ordnet.dk/mp3/11046/11046237_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skadestue');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsgæːðəˌstuːə]</span>
+</td>
+<td> skadestuen </td>
+<td> skadestuer </td>
+<td> skadestuerne </td>
+<td> emergency room </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -16093,6 +16309,18 @@ search: true
 <td> slørene </td>
 <td> veil </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=smitte"> en smitte </a></td>
+<td>
+<audio id="smitte" src="https://static.ordnet.dk/mp3/11048/11048022_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('smitte');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsmedə]</span>
+</td>
+<td> smitten </td>
+<td> - </td>
+<td> - </td>
+<td> infection </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=smoothie"> en smoothie </a></td>
@@ -18939,6 +19167,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tunge"> en tunge </a></td>
+<td>
+<audio id="tunge" src="https://static.ordnet.dk/mp3/12002/12002852_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tunge');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtɔŋə]</span>
+</td>
+<td> tungen </td>
+<td> tunger </td>
+<td> tungene </td>
+<td> tongue </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tur"> en tur </a></td>
 <td>
 <audio id="tur" src="https://static.ordnet.dk/mp3/12002/12002880_1.mp3" style="display: none;"></audio>
@@ -19671,6 +19911,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udviklingsland"> et udviklingsland </a></td>
+<td>
+<audio id="udviklingsland" src="https://static.ordnet.dk/mp3/12004/12004301_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udviklingsland');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈuðˌvegleŋsˌlanˀ]</span>
+</td>
+<td> udviklingslandet </td>
+<td> udviklingslande </td>
+<td> udviklingslandene </td>
+<td> developing country </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=uenighed"> en uenighed </a></td>
 <td>
 <audio id="uenighed" src="https://static.ordnet.dk/mp3/12004/12004348_1.mp3" style="display: none;"></audio>
@@ -19753,6 +20005,18 @@ search: true
 <td> uhyrerne </td>
 <td> monster </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=uland"> et uland </a></td>
+<td>
+<audio id="uland" src="https://static.ordnet.dk/mp3/12004/12004573_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('uland');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈuˀˌlanˀ]</span>
+</td>
+<td> ulandet </td>
+<td> ulande </td>
+<td> ulandene </td>
+<td> developing country </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ulempe"> en ulempe (ved) </a></td>

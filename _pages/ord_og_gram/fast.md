@@ -861,6 +861,11 @@ search: true
 <td> Hun slog sig til tåls med, at patienten ville falde til ro uden medicin. </td>
 </tr>
 <tr>
+<td> smitte af </td>
+<td> affect </td>
+<td> De strammere kreditvilkår smittede af på aktiemarkedet: det dykkede. </td>
+</tr>
+<tr>
 <td> som nævnt </td>
 <td> as (earlier) mentioned </td>
 <td> Det er som nævnt tilladt og kan oven i købet i visse tilfælde begrundes pædagogisk. </td>
