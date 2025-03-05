@@ -5690,6 +5690,18 @@ search: true
 <td> sharp </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skels%C3%A6ttende"> skelsættende </a></td>
+<td>
+<audio id="skelsættende" src="https://static.ordnet.dk/mp3/11046/11046448_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skelsættende');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsgεlˌsεdənə]</span>
+</td>
+<td> skelsættende </td>
+<td> skelsættende </td>
+<td> mere skelsættende </td>
+<td> mest skelsættende </td>
+<td> groundbreaking </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skeptisk"> skeptisk (overfor) </a></td>
 <td>
 <audio id="skeptisk" src="https://static.ordnet.dk/mp3/11046/11046461_1.mp3" style="display: none;"></audio>
@@ -5772,6 +5784,18 @@ search: true
 <td> værre/slemmere </td>
 <td> værst/slemmest </td>
 <td> bad </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=slesvigsk"> slesvigsk </a></td>
+<td>
+<audio id="slesvigsk" src="" style="display: none;"></audio>
+<span onclick="playSound('slesvigsk');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsleˀsvisg]</span>
+</td>
+<td> slesvigsk </td>
+<td> slesvigske </td>
+<td> mere slesvigsk </td>
+<td> mest slesvigsk </td>
+<td> Schleswigian </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=smart"> smart </a></td>
@@ -6744,6 +6768,18 @@ search: true
 <td> trættere/mere træt </td>
 <td> trættest/mest træt </td>
 <td> tired </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tumultarisk"> tumultarisk </a></td>
+<td>
+<audio id="tumultarisk" src="https://static.ordnet.dk/mp3/12002/12002842_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tumultarisk');" style="cursor: pointer; text-decoration: underline; color: blue;">[tumulˈtɑˀisg]</span>
+</td>
+<td> tumultarisk </td>
+<td> tumultariske </td>
+<td> mere tumultarisk </td>
+<td> mest tumultarisk </td>
+<td> tumultuous </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tung"> tung </a></td>

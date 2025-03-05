@@ -8396,6 +8396,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omg%C3%A6rde"> at omgærde </a></td>
+<td>
+<audio id="omgærde" src="https://static.ordnet.dk/mp3/11037/11037128_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omgærde');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌgεˀʌ]</span>
+</td>
+<td> omgærder </td>
+<td> omgærdede </td>
+<td> har omgærdet </td>
+<td> omgærd </td>
+<td> to enclose, surround </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=omg%C3%A5"> at omgå </a></td>
 <td>
 <audio id="omgå" src="https://static.ordnet.dk/mp3/11037/11037130_1.mp3" style="display: none;"></audio>
@@ -12334,6 +12347,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilblive"> at tilblive </a></td>
+<td>
+<audio id="tilblive" src="https://static.ordnet.dk/mp3/12001/12001070_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilblive');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌbliˀvə]</span>
+</td>
+<td> tilbliver </td>
+<td> tilblev </td>
+<td> er tilblevet </td>
+<td> tilbliv </td>
+<td> to come into being </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilbringe"> at tilbringe </a></td>
 <td>
 <audio id="tilbringe" src="https://static.ordnet.dk/mp3/12001/12001072_1.mp3" style="display: none;"></audio>
@@ -12527,6 +12553,19 @@ search: true
 <td> tilslut </td>
 <td> to join </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilstede"> at tilstede </a></td>
+<td>
+<audio id="tilstede" src="" style="display: none;"></audio>
+<span onclick="playSound('tilstede');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtelˌsteˀðə]</span>
+</td>
+<td> tilsteder </td>
+<td> tilstedte </td>
+<td> har tilstedt </td>
+<td> tilsted </td>
+<td> to allow </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tiltale"> at tiltale </a></td>

@@ -165,5 +165,6 @@ permalink: /search/
     <label><input type="checkbox" id="fast" checked> Udtryk </label>
 </div>
 
-<input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()">
+<input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()" onmouseenter="this.select()">
+<input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()" onclick="this.select()">
 <div id="results"></div>

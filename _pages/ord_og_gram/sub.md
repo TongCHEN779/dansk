@@ -3723,6 +3723,30 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=efterretning"> en efterretning </a></td>
+<td>
+<audio id="efterretning" src="https://static.ordnet.dk/mp3/11010/11010598_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('efterretning');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈεfdʌˌʁadneŋ]</span>
+</td>
+<td> efterretningen </td>
+<td> efterretninger </td>
+<td> efterretningerne </td>
+<td> intelligence </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=efterretningstjeneste"> en efterretningstjeneste </a></td>
+<td>
+<audio id="efterretningstjeneste" src="https://static.ordnet.dk/mp3/11010/11010600_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('efterretningstjeneste');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈεfdʌˌʁadneŋs-]</span>
+</td>
+<td> efterretningstjenesten </td>
+<td> efterretningstjenester </td>
+<td> efterretningstjenesterne </td>
+<td> intelligence service </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=eftertænksomhed"> en eftertænksomhed </a></td>
 <td>
 <audio id="eftertænksomhed" src="https://static.ordnet.dk/mp3/51000/51000024_1.mp3" style="display: none;"></audio>
@@ -4658,6 +4682,18 @@ search: true
 <td> - </td>
 <td> flexibility </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=flig"> en flig </a></td>
+<td>
+<audio id="flig" src="https://static.ordnet.dk/mp3/11013/11013578_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('flig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfliˀ]</span>
+</td>
+<td> fligen </td>
+<td> flige </td>
+<td> fligene </td>
+<td> flap, piece </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=flod"> en flod </a></td>
@@ -16047,6 +16083,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sl%C3%B8r"> et slør </a></td>
+<td>
+<audio id="slør" src="https://static.ordnet.dk/mp3/11047/11047889_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slør');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsløˀɐ̯]</span>
+</td>
+<td> sløret </td>
+<td> slør </td>
+<td> slørene </td>
+<td> veil </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=smoothie"> en smoothie </a></td>
 <td>
 <audio id="smoothie" src="https://static.ordnet.dk/mp3/30000/30000136_1.mp3" style="display: none;"></audio>
@@ -16393,6 +16441,18 @@ search: true
 <td> spillefilmene </td>
 <td> feature film </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=spionage"> en spionage </a></td>
+<td>
+<audio id="spionage" src="https://static.ordnet.dk/mp3/11049/11049213_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('spionage');" style="cursor: pointer; text-decoration: underline; color: blue;">[sbioˈnæːɕə]</span>
+</td>
+<td> spionagen </td>
+<td> - </td>
+<td> - </td>
+<td> espionage </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=spisebord"> et spisebord </a></td>
@@ -18264,6 +18324,18 @@ search: true
 <td> tilbagemeldinger </td>
 <td> tilbagemeldingerne </td>
 <td> feedback </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilblivelse"> en tilblivelse </a></td>
+<td>
+<audio id="tilblivelse" src="https://static.ordnet.dk/mp3/12001/12001071_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilblivelse');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌbliˀvəlsə]</span>
+</td>
+<td> tilblivelsen </td>
+<td> tilblivelser </td>
+<td> tilblivelserne </td>
+<td> creation </td>
 <td> 1 </td>
 </tr>
 <tr>
