@@ -166,5 +166,5 @@ permalink: /search/
 </div>
 
 <input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()" onmouseenter="this.select()">
-<input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()" onclick="this.select()">
+<!-- <input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()" onclick="this.select()"> -->
 <div id="results"></div>
