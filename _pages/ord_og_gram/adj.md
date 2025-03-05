@@ -279,6 +279,18 @@ search: true
 <td> American </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=amoralsk"> amoralsk </a></td>
+<td>
+<audio id="amoralsk" src="https://static.ordnet.dk/mp3/11001/11001564_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('amoralsk');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈamoˌʁɑˀlsg]</span>
+</td>
+<td> amoralsk </td>
+<td> amoralske </td>
+<td> mere amoralsk </td>
+<td> mest amoralsk </td>
+<td> amoral </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=anderledes"> anderledes </a></td>
 <td>
 <audio id="anderledes" src="https://static.ordnet.dk/mp3/11001/11001706_1.mp3" style="display: none;"></audio>
@@ -949,6 +961,18 @@ search: true
 <td> dovnere </td>
 <td> dovnest </td>
 <td> lazy </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=drikf%C3%A6ldig"> drikfældig </a></td>
+<td>
+<audio id="drikfældig" src="https://static.ordnet.dk/mp3/11009/11009685_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('drikfældig');" style="cursor: pointer; text-decoration: underline; color: blue;">[dʁεgˈfεlˀdi]</span>
+</td>
+<td> drikfældigt </td>
+<td> drikfældige </td>
+<td> mere drikfældig </td>
+<td> mest drikfældig </td>
+<td> alcoholic </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dr%C3%A6gtig"> drægtig </a></td>
@@ -3710,6 +3734,18 @@ search: true
 <td> legal </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=luthersk"> luthersk </a></td>
+<td>
+<audio id="luthersk" src="https://static.ordnet.dk/mp3/11031/11031256_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('luthersk');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈludʌsg]</span>
+</td>
+<td> luthersk </td>
+<td> lutherske </td>
+<td> mere luthersk </td>
+<td> mest luthersk </td>
+<td> Lutheran </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=lydl%C3%B8s"> lydløs </a></td>
 <td>
 <audio id="lydløs" src="https://static.ordnet.dk/mp3/11031/11031311_1.mp3" style="display: none;"></audio>
@@ -5678,6 +5714,18 @@ search: true
 <td> disappointed </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A6bnesvangre"> skæbnesvangre </a></td>
+<td>
+<audio id="skæbnesvangre" src="https://static.ordnet.dk/mp3/11047/11047347_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skæbnesvangre');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsgεˀbnəˌsvɑŋʁə]</span>
+</td>
+<td> skæbnesvangert </td>
+<td> skæbnesvangre </td>
+<td> mere skæbnesvangre </td>
+<td> mest skæbnesvangre </td>
+<td> fateful </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skæv"> skæv </a></td>
 <td>
 <audio id="skæv" src="https://static.ordnet.dk/mp3/11047/11047443_1.mp3" style="display: none;"></audio>
@@ -5868,6 +5916,18 @@ search: true
 <td> mere spændende </td>
 <td> mest spændende </td>
 <td> exciting </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=stabil"> stabil </a></td>
+<td>
+<audio id="stabil" src="https://static.ordnet.dk/mp3/11049/11049679_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('stabil');" style="cursor: pointer; text-decoration: underline; color: blue;">[sdaˈbiˀl]</span>
+</td>
+<td> stabilt </td>
+<td> stabile </td>
+<td> stabilere </td>
+<td> stabilest </td>
+<td> stable </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=stakkels"> stakkels </a></td>
