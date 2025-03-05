@@ -2809,6 +2809,7 @@ search: true
 <td> hårdere </td>
 <td> hårdest </td>
 <td> hard </td>
+</tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hårdfør"> hårdfør </a></td>
 <td>
@@ -8293,4 +8294,4 @@ search: true
 <td> mest årelang </td>
 <td> year-long </td>
 </tr>
-</tr></table>
+</table>

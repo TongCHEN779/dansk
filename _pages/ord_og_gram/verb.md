@@ -11176,6 +11176,7 @@ search: true
 <td> slut </td>
 <td> to end </td>
 <td> 1 </td>
+</tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sl%C3%A6ng"> at slæng </a></td>
 <td>
@@ -14530,4 +14531,4 @@ search: true
 <td> to breathe </td>
 <td> 1 </td>
 </tr>
-</tr></table>
+</table>
