@@ -2896,6 +2896,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=b%C3%B8rnepasning"> en børnepasning </a></td>
+<td>
+<audio id="børnepasning" src="https://static.ordnet.dk/mp3/11007/11007201_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('børnepasning');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbɶɐ̯nəˌpasneŋ]</span>
+</td>
+<td> børnepasningen </td>
+<td> børnepasninger </td>
+<td> børnepasningerne </td>
+<td> childcare </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=b%C3%B8rnet%C3%B8j"> børnetøj </a></td>
 <td>
 <audio id="børnetøj" src="https://static.ordnet.dk/mp3/11007/11007230_1.mp3" style="display: none;"></audio>
@@ -10898,6 +10910,18 @@ search: true
 <td> lønmodtagere </td>
 <td> lønmodtagerne </td>
 <td> employee </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=l%C3%B8sg%C3%A6nger"> en løsgænger </a></td>
+<td>
+<audio id="løsgænger" src="https://static.ordnet.dk/mp3/11031/11031877_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('løsgænger');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈløsˌgεŋʌ]</span>
+</td>
+<td> løsgængeren </td>
+<td> løsgængere </td>
+<td> løsgængerne </td>
+<td> independent </td>
 <td> 2 </td>
 </tr>
 <tr>
