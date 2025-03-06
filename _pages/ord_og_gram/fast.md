@@ -916,6 +916,11 @@ search: true
 <td> De ekstroverte har lettere ved at leve op til de krav, der bliver stillet på arbejdsmarkedet og på et studium. </td>
 </tr>
 <tr>
+<td> stole på </td>
+<td> trust </td>
+<td> Jeg troede, at når de voksne lovede noget, kunne man stole på dem. </td>
+</tr>
+<tr>
 <td> stort set </td>
 <td> virtually </td>
 <td> Sikkerheden og virkningen af de forskellige typer p-piller er stort set ens. </td>

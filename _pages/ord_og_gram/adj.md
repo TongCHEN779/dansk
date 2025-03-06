@@ -783,6 +783,18 @@ search: true
 <td> literal </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=borgerlig"> borgerlig </a></td>
+<td>
+<audio id="borgerlig" src="https://static.ordnet.dk/mp3/11005/11005817_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('borgerlig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbɒːwʌli]</span>
+</td>
+<td> borgerligt </td>
+<td> borgerlige </td>
+<td> mere borgerlig </td>
+<td> mest borgerlig </td>
+<td> bourgeois </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=brasiliansk"> brasiliansk </a></td>
 <td>
 <audio id="brasiliansk" src="https://static.ordnet.dk/mp3/11006/11006055_1.mp3" style="display: none;"></audio>
@@ -2247,6 +2259,18 @@ search: true
 <td> good </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gradvis"> gradvis </a></td>
+<td>
+<audio id="gradvis" src="https://static.ordnet.dk/mp3/11018/11018445_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gradvis');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈgʁɑðˌviˀs]</span>
+</td>
+<td> gradvis/gradvist </td>
+<td> gradvise </td>
+<td> mere gradvis </td>
+<td> mest gradvis </td>
+<td> gradual </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gratis"> gratis </a></td>
 <td>
 <audio id="gratis" src="https://static.ordnet.dk/mp3/11018/11018532_1.mp3" style="display: none;"></audio>
@@ -2631,6 +2655,18 @@ search: true
 <td> cordial </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hovedsagelig"> hovedsagelig </a></td>
+<td>
+<audio id="hovedsagelig" src="https://static.ordnet.dk/mp3/11021/11021448_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hovedsagelig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˌhoːəðˈsæˀjəli]</span>
+</td>
+<td> hovedsageligt </td>
+<td> hovedsagelige </td>
+<td> mere hovedsagelig </td>
+<td> mest hovedsagelig </td>
+<td> mainly </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=humanit%C3%A6r"> humanitær </a></td>
 <td>
 <audio id="humanitær" src="https://static.ordnet.dk/mp3/11021/11021596_1.mp3" style="display: none;"></audio>
@@ -2917,6 +2953,18 @@ search: true
 <td> mere indvendig </td>
 <td> mest indvendig </td>
 <td> internal </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indviklet"> indviklet </a></td>
+<td>
+<audio id="indviklet" src="https://static.ordnet.dk/mp3/11023/11023673_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indviklet');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌvegləð]</span>
+</td>
+<td> indviklet </td>
+<td> indviklede </td>
+<td> mere indviklet </td>
+<td> mest indviklet </td>
+<td> complicated </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=inspirerende"> inspirerende </a></td>
@@ -3277,6 +3325,18 @@ search: true
 <td> mere konstruktiv </td>
 <td> mest konstruktiv </td>
 <td> constructive </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kontant"> kontant </a></td>
+<td>
+<audio id="kontant" src="https://static.ordnet.dk/mp3/11027/11027455_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kontant');" style="cursor: pointer; text-decoration: underline; color: blue;">[kɔnˈtanˀd]</span>
+</td>
+<td> kontant </td>
+<td> kontante </td>
+<td> mere kontant </td>
+<td> mest kontant </td>
+<td> cash </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kontroversiel"> kontroversiel </a></td>
@@ -4803,6 +4863,18 @@ search: true
 <td> superficial </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=overflødig"> overflødig </a></td>
+<td>
+<audio id="overflødig" src="https://static.ordnet.dk/mp3/11038/11038270_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('overflødig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ɒwʌˈfløˀði]</span>
+</td>
+<td> overflødigt </td>
+<td> overflødige </td>
+<td> mere overflødig </td>
+<td> mest overflødig </td>
+<td> superfluous </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=overraskende"> overraskende </a></td>
 <td>
 <audio id="overraskende" src="https://static.ordnet.dk/mp3/11038/11038429_1.mp3" style="display: none;"></audio>
@@ -5245,6 +5317,18 @@ search: true
 <td> mere rentabel </td>
 <td> mest rentabel </td>
 <td> profitable </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=resursesvag"> resursesvag/ressourcesvag </a></td>
+<td>
+<audio id="resursesvag" src="https://static.ordnet.dk/mp3/11043/11043045_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('resursesvag');" style="cursor: pointer; text-decoration: underline; color: blue;">[ʁeˈsuːsəˌsvɑˀj]</span>
+</td>
+<td> resursesvagt </td>
+<td> resursesvage </td>
+<td> mere resursesvag </td>
+<td> mest resursesvag </td>
+<td> resource-poor </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=retfærdig"> retfærdig </a></td>
@@ -6015,6 +6099,18 @@ search: true
 <td> social </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=socialliberal"> socialliberal </a></td>
+<td>
+<audio id="socialliberal" src="https://static.ordnet.dk/mp3/11048/11048483_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('socialliberal');" style="cursor: pointer; text-decoration: underline; color: blue;">[soɕiˈɑˀlibeˌʁæˀl]</span>
+</td>
+<td> socialliberalt </td>
+<td> socialliberale </td>
+<td> mere socialliberal </td>
+<td> mest socialliberal </td>
+<td> social-liberal </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sort"> sort </a></td>
 <td>
 <audio id="sort" src="https://static.ordnet.dk/mp3/11048/11048787_1.mp3" style="display: none;"></audio>
@@ -6618,7 +6714,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tabubelagt"> tabubelagt </a></td>
 <td>
 <audio id="tabubelagt" src="https://static.ordnet.dk/mp3/53004/53004645_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('tabubelagt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtɑbuˌbelɑˀgt]</span>
+<span onclick="playSound('tabubelagt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtæːbuˌbelɑˀgt]</span>
 </td>
 <td> tabubelagt </td>
 <td> tabubelagte </td>
@@ -7311,6 +7407,18 @@ search: true
 <td> excellent </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udsat"> udsat </a></td>
+<td>
+<audio id="udsat" src="https://static.ordnet.dk/mp3/12004/12004080_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udsat');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌsad]</span>
+</td>
+<td> udsat </td>
+<td> udsatte </td>
+<td> mere udsat </td>
+<td> mest udsat </td>
+<td> exposed </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=udsolgt"> udsolgt </a></td>
 <td>
 <audio id="udsolgt" src="https://static.ordnet.dk/mp3/12004/12004149_1.mp3" style="display: none;"></audio>
@@ -7861,6 +7969,18 @@ search: true
 <td> mere uvis </td>
 <td> mest uvis </td>
 <td> uncertain </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vag"> vag </a></td>
+<td>
+<audio id="vag" src="https://static.ordnet.dk/mp3/12005/12005474_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vag');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈvæˀj]</span>
+</td>
+<td> vagt </td>
+<td> vage </td>
+<td> vagere </td>
+<td> vagest </td>
+<td> vague </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=valgfri"> valgfri </a></td>
