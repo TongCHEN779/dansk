@@ -124,6 +124,18 @@ permalink: /flash/
             audioElement.play();
         }
     }
+    let isFlash = true;
+    async function toggleFlashCard() {
+        const button = document.getElementById("toggleButton");
+        if (isFlash) {
+            await generateFlashCard();
+            button.innerText = "Bingo";
+        } else {
+            showAnswer();
+            button.innerText = "Flash";
+        }
+        isFlash = !isFlash;
+    }
 </script>
 
 <div class="checkbox-container">
@@ -132,8 +144,9 @@ permalink: /flash/
     <label><input type="checkbox" id="verb" checked> Verber </label>
 </div>
 
-<button onclick="generateFlashCard()">Flash</button>
+<!-- <button onclick="generateFlashCard()">Flash</button> -->
 <div class="flashcard">
     <p id="question">Klik på »Flash« for at starte</p>
 </div>
-<button onclick="showAnswer()">Bingo</button>
+<!-- <button onclick="showAnswer()">Bingo</button> -->
+<button id="toggleButton" onclick="toggleFlashCard()">Flash</button>
