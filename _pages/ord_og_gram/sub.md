@@ -13696,18 +13696,6 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=ph.d.-stipendie"> et ph.d.-stipendie </a></td>
-<td>
-<audio id="ph.d.-stipendie" src="" style="display: none;"></audio>
-<span onclick="playSound('ph.d.-stipendie');" style="cursor: pointer; text-decoration: underline; color: blue;">[peːˈhɑˀdeːˌstipεnˀdɪə]</span>
-</td>
-<td> ph.d.-stipendiet </td>
-<td> ph.d.-stipendier </td>
-<td> ph.d.-stipendierne </td>
-<td> PhD scholarship </td>
-<td> 1 </td>
-</tr>
-<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ph.d.-studerende"> en ph.d.-studerende </a></td>
 <td>
 <audio id="ph.d.-studerende" src="https://static.ordnet.dk/mp3/50007/50007231_1.mp3" style="display: none;"></audio>
@@ -21688,16 +21676,16 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=yndlingsby"> en yndlingsby </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=yndlingsby"> yndlings- </a></td>
 <td>
 <audio id="yndlingsby" src="" style="display: none;"></audio>
-<span onclick="playSound('yndlingsby');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈynlɪŋsˌbyˀ]</span>
+<span onclick="playSound('yndlingsby');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈønleŋs-]</span>
 </td>
-<td> yndlingsbyen </td>
-<td> yndlingsbyer </td>
-<td> yndlingsbyerne </td>
-<td> favourite city/town </td>
-<td> 1 </td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> favourite ... </td>
+<td> A </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=yndlingsforfatter"> en yndlingsforfatter </a></td>
@@ -21710,30 +21698,6 @@ search: true
 <td> yndlingsforfatterne </td>
 <td> favourite author </td>
 <td> 2 </td>
-</tr>
-<tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=yndlingskvarter"> et yndlingskvarter </a></td>
-<td>
-<audio id="yndlingskvarter" src="" style="display: none;"></audio>
-<span onclick="playSound('yndlingskvarter');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈynlɪŋsˌkvɑˀtɐ]</span>
-</td>
-<td> yndlingskvarteret </td>
-<td> yndlingskvarterer </td>
-<td> yndlingskvartererne </td>
-<td> favourite neighbourhood </td>
-<td> 1 </td>
-</tr>
-<tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=yndlingsmuseum"> et yndlingsmuseum </a></td>
-<td>
-<audio id="yndlingsmuseum" src="" style="display: none;"></audio>
-<span onclick="playSound('yndlingsmuseum');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈynlɪŋsˌmuˀsεʌm]</span>
-</td>
-<td> yndlingsmuseet </td>
-<td> yndlingsmuseer </td>
-<td> yndlingsmuseerne </td>
-<td> favourite museum </td>
-<td> A </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=yndlingsskuespiller"> en yndlingsskuespiller </a></td>
