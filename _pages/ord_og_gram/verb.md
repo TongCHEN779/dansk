@@ -13,7 +13,7 @@ search: true
 
         if (audioElement && profileImage) {
             // Change image to "speaking" version
-            profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.jpg";
+            profileImage.src = "https://tongchen779.github.io/dansk/images/president-donald.gif";
 
             // Play audio
             audioElement.play();
