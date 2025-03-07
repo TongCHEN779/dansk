@@ -14427,8 +14427,8 @@ search: true
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=veksle"> at veksle </a></td>
 <td>
-<audio id="veksle" src="https://static.ordnet.dk/mp3/12006/12006123_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('veksle');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈvεkslə]</span>
+<audio id="veksle" src="https://static.ordnet.dk/mp3/12006/12006126_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('veksle');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈvεgslə]</span>
 </td>
 <td> veksler </td>
 <td> vekslede </td>
