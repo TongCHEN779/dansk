@@ -99,7 +99,7 @@ permalink: /flash/
             <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Dansk" ? currentWord.Dansk : ""}</div>
             <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Udtale" ? currentWord.Udtale : ""}</div>
             <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${displayOption === "Engelsk" ? currentWord.Engelsk : ""}</div>
-            <input type="text" id="answer" placeholder="Type your answer">
+            <input type="text" id="answer" placeholder="Skriv dit svar" onmouseenter="this.select()">
         `;
         document.getElementById("answer").value = "";
     }
