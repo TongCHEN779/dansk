@@ -16937,6 +16937,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=slagsm%C3%A5l"> et slagsmål </a></td>
+<td>
+<audio id="slagsmål" src="https://static.ordnet.dk/mp3/11047/11047579_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slagsmål');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈslɑwsˌmɔˀl]</span>
+</td>
+<td> slagsmålet </td>
+<td> slagsmål </td>
+<td> slagsmålene </td>
+<td> fight </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=slagter"> en slagter </a></td>
 <td>
 <audio id="slagter" src="https://static.ordnet.dk/mp3/11047/11047588_1.mp3" style="display: none;"></audio>

@@ -8214,6 +8214,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nedgrave"> at nedgrave </a></td>
+<td>
+<audio id="nedgrave" src="https://static.ordnet.dk/mp3/11035/11035676_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nedgrave');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌgʁɑˀvə]</span>
+</td>
+<td> nedgraver </td>
+<td> nedgravede </td>
+<td> har nedgravet </td>
+<td> nedgrav </td>
+<td> to bury </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=nedkøle"> at nedkøle </a></td>
 <td>
 <audio id="nedkøle" src="https://static.ordnet.dk/mp3/11035/11035691_1.mp3" style="display: none;"></audio>

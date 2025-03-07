@@ -4599,6 +4599,18 @@ search: true
 <td> stingy </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nærliggende"> nærliggende/nærtliggende </a></td>
+<td>
+<audio id="nærliggende" src="https://static.ordnet.dk/mp3/11036/11036531_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nærliggende');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈnεɐ̯-]</span>
+</td>
+<td> nærliggende </td>
+<td> nærliggende </td>
+<td> mere nærliggende </td>
+<td> mest nærliggende </td>
+<td> nearby </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=n%C3%A6ste"> næste </a></td>
 <td>
 <audio id="næste" src="https://static.ordnet.dk/mp3/11036/11036587_1.mp3" style="display: none;"></audio>

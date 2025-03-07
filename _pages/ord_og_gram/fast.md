@@ -756,6 +756,11 @@ search: true
 <td> Livmoren er en muskel på størrelse med og af form som en pære. </td>
 </tr>
 <tr>
+<td> på tegnebræt </td>
+<td> under consideration </td>
+<td> Om en nedsættelse af den generelle moms er på tegnebrættet er uklart. </td>
+</tr>
+<tr>
 <td> på trods af </td>
 <td> in spite of </td>
 <td> På trods af at det kun var lokalbedøvelse, må jeg være døset lidt hen. </td>
