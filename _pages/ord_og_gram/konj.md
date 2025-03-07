@@ -205,6 +205,11 @@ search: true
 <td> Oversættelserne vil fremkomme så hurtigt som muligt. </td>
 </tr>
 <tr>
+<td> såsom </td>
+<td> such as </td>
+<td> Festdragterne blev anvendt til større fester, såsom konfirmationer, bryllupper og dans omkring majstangen. </td>
+</tr>
+<tr>
 <td> undtagen </td>
 <td> unless </td>
 <td> Her bider sygdom ikke undtagen det er Vorherres vilje. </td>

@@ -1587,6 +1587,18 @@ search: true
 <td> feminist </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=feudal"> feudal </a></td>
+<td>
+<audio id="feudal" src="https://static.ordnet.dk/mp3/11012/11012813_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('feudal');" style="cursor: pointer; text-decoration: underline; color: blue;">[fœwˈdæˀl]</span>
+</td>
+<td> feudalt </td>
+<td> feudale </td>
+<td> mere feudal </td>
+<td> mest feudal </td>
+<td> feudal </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fin"> fin </a></td>
 <td>
 <audio id="fin" src="https://static.ordnet.dk/mp3/11012/11012985_1.mp3" style="display: none;"></audio>
@@ -2187,6 +2199,18 @@ search: true
 <td> very tall </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gejstlig"> gejstlig </a></td>
+<td>
+<audio id="gejstlig" src="https://static.ordnet.dk/mp3/11017/11017410_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gejstlig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈgɑjsdli]</span>
+</td>
+<td> gejstligt </td>
+<td> gejstlige </td>
+<td> mere gejstlig </td>
+<td> mest gejstlig </td>
+<td> clerical </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=generel"> generel </a></td>
 <td>
 <audio id="generel" src="https://static.ordnet.dk/mp3/11017/11017521_1.mp3" style="display: none;"></audio>
@@ -2245,6 +2269,18 @@ search: true
 <td> mere gensidig </td>
 <td> mest gensidig </td>
 <td> mutual </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=giftef%C3%A6rdig"> giftefærdig </a></td>
+<td>
+<audio id="giftefærdig" src="https://static.ordnet.dk/mp3/11017/11017964_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('giftefærdig');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌfæɐ̯ˀdi]</span>
+</td>
+<td> giftefærdigt </td>
+<td> giftefærdige </td>
+<td> mere giftefærdig </td>
+<td> mest giftefærdig </td>
+<td> ready to marry </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=glad"> glad </a></td>
@@ -2953,6 +2989,18 @@ search: true
 <td> mere indelukket </td>
 <td> mest indelukket </td>
 <td> stuffy </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indf%C3%B8dt"> indfødt </a></td>
+<td>
+<audio id="indfødt" src="https://static.ordnet.dk/mp3/11023/11023278_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indfødt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈenˌføˀd]</span>
+</td>
+<td> indfødt </td>
+<td> indfødte </td>
+<td> mere indfødt </td>
+<td> mest indfødt </td>
+<td> native </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=individuel"> individuel </a></td>
@@ -4021,6 +4069,18 @@ search: true
 <td> mere mangeårig </td>
 <td> mest mangeårig </td>
 <td> long-standing </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=mangfoldig"> mangfoldig </a></td>
+<td>
+<audio id="mangfoldig" src="https://static.ordnet.dk/mp3/11032/11032357_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mangfoldig');" style="cursor: pointer; text-decoration: underline; color: blue;">[mɑŋˈfʌlˀdi]</span>
+</td>
+<td> mangfoldigt </td>
+<td> mangfoldige </td>
+<td> mere mangfoldig </td>
+<td> mest mangfoldig </td>
+<td> diverse </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=maritim"> maritim </a></td>
@@ -5139,6 +5199,18 @@ search: true
 <td> prestigious </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=preussisk"> preussisk/prøjsisk </a></td>
+<td>
+<audio id="preussisk" src="https://static.ordnet.dk/mp3/11040/11040763_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('preussisk');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈpʁʌjˀsisg]</span>
+</td>
+<td> preussisk </td>
+<td> preussiske </td>
+<td> mere preussisk </td>
+<td> mest preussisk </td>
+<td> Prussian </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=prikket"> prikket </a></td>
 <td>
 <audio id="prikket" src="https://static.ordnet.dk/mp3/11040/11040769_1.mp3" style="display: none;"></audio>
@@ -5185,6 +5257,18 @@ search: true
 <td> mere professionel </td>
 <td> mest professionel </td>
 <td> professional </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=proletarisk"> proletarisk </a></td>
+<td>
+<audio id="proletarisk" src="https://static.ordnet.dk/mp3/11041/11041068_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('proletarisk');" style="cursor: pointer; text-decoration: underline; color: blue;">[pʁoləˈtɑˀisg]</span>
+</td>
+<td> proletarisk </td>
+<td> proletariske </td>
+<td> mere proletarisk </td>
+<td> mest proletarisk </td>
+<td> proletarian </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=prægtig"> prægtig </a></td>
@@ -5677,6 +5761,18 @@ search: true
 <td> mere sammenhængende </td>
 <td> mest sammenhængende </td>
 <td> coherent, consecutive </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sammensat"> sammensat </a></td>
+<td>
+<audio id="sammensat" src="https://static.ordnet.dk/mp3/11044/11044736_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sammensat');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌsad]</span>
+</td>
+<td> sammensat </td>
+<td> sammensatte </td>
+<td> mere sammensat </td>
+<td> mest sammensat </td>
+<td> composite </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=samtidig"> samtidig </a></td>
@@ -6865,6 +6961,18 @@ search: true
 <td> mere tidskrævende </td>
 <td> mest tidskrævende </td>
 <td> time-consuming </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilbagevendende"> tilbagevendende </a></td>
+<td>
+<audio id="tilbagevendende" src="" style="display: none;"></audio>
+<span onclick="playSound('tilbagevendende');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌvεnˀənə]</span>
+</td>
+<td> tilbagevendende </td>
+<td> tilbagevendende </td>
+<td> mere tilbagevendende </td>
+<td> mest tilbagevendende </td>
+<td> recurring </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilfreds"> tilfreds </a></td>
