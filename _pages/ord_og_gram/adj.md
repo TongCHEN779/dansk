@@ -747,6 +747,18 @@ search: true
 <td> gentle </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=blind"> blind </a></td>
+<td>
+<audio id="blind" src="https://static.ordnet.dk/mp3/11005/11005110_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('blind');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈblenˀ]</span>
+</td>
+<td> blindt </td>
+<td> blinde </td>
+<td> blindere </td>
+<td> blindest </td>
+<td> blind </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bl%C3%A5"> blå </a></td>
 <td>
 <audio id="blå" src="https://static.ordnet.dk/mp3/11005/11005404_1.mp3" style="display: none;"></audio>
@@ -2389,6 +2401,18 @@ search: true
 <td> mere gylden </td>
 <td> mest gylden </td>
 <td> golden </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gyldig"> gyldig </a></td>
+<td>
+<audio id="gyldig" src="https://static.ordnet.dk/mp3/11019/11019285_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gyldig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈgyldi]</span>
+</td>
+<td> gyldigt </td>
+<td> gyldige </td>
+<td> mere gyldig </td>
+<td> mest gyldig </td>
+<td> valid </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=g%C3%A6stfri"> gæstfri </a></td>
@@ -4239,6 +4263,18 @@ search: true
 <td> muscular </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=myndig"> myndig </a></td>
+<td>
+<audio id="myndig" src="https://static.ordnet.dk/mp3/11034/11034852_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('myndig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmøndi]</span>
+</td>
+<td> myndigt </td>
+<td> myndige </td>
+<td> mere myndig </td>
+<td> mest myndig </td>
+<td> authoritative </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=m%C3%A6rkelig"> mærkelig </a></td>
 <td>
 <audio id="mærkelig" src="https://static.ordnet.dk/mp3/11034/11034954_1.mp3" style="display: none;"></audio>
@@ -4789,6 +4825,18 @@ search: true
 <td> mere orange </td>
 <td> mest orange </td>
 <td> orange </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ordblind"> ordblind </a></td>
+<td>
+<audio id="ordblind" src="https://static.ordnet.dk/mp3/11037/11037892_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ordblind');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈoːðˌblinˀ]</span>
+</td>
+<td> ordblindt </td>
+<td> ordblinde </td>
+<td> mere ordblind </td>
+<td> mest ordblind </td>
+<td> dyslexic </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ordentlig"> ordentlig </a></td>
@@ -7633,6 +7681,18 @@ search: true
 <td> mere umiddelbar </td>
 <td> mest umiddelbar </td>
 <td> immediate </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=umistelig"> umistelig </a></td>
+<td>
+<audio id="umistelig" src="https://static.ordnet.dk/mp3/12004/12004664_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('umistelig');" style="cursor: pointer; text-decoration: underline; color: blue;">[uˈmesdəli]</span>
+</td>
+<td> umisteligt </td>
+<td> umistelige </td>
+<td> mere umistelig </td>
+<td> mest umistelig </td>
+<td> inalienable </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=umoralsk"> umoralsk </a></td>

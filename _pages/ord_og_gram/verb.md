@@ -300,6 +300,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=afl%C3%A6gge"> at aflægge </a></td>
+<td>
+<audio id="aflægge" src="https://static.ordnet.dk/mp3/11000/11000544_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('aflægge');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈɑwˌlεgə]</span>
+</td>
+<td> aflægger </td>
+<td> aflagde </td>
+<td> har aflagt </td>
+<td> aflæg </td>
+<td> to take, report </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afl%C3%B8nne"> at aflønne </a></td>
 <td>
 <audio id="aflønne" src="https://static.ordnet.dk/mp3/11000/11000559_1.mp3" style="display: none;"></audio>
@@ -8851,6 +8864,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opliste"> at opliste </a></td>
+<td>
+<audio id="opliste" src="https://static.ordnet.dk/mp3/11037/11037543_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opliste');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʌbˌlesdə]</span>
+</td>
+<td> oplister </td>
+<td> oplistede </td>
+<td> har oplistet </td>
+<td> oplist </td>
+<td> to list </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=oplyse"> at oplyse </a></td>
 <td>
 <audio id="oplyse" src="https://static.ordnet.dk/mp3/11037/11037548_1.mp3" style="display: none;"></audio>
@@ -8979,6 +9005,19 @@ search: true
 <td> oprul </td>
 <td> to reveal </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=oprøre"> at oprøre </a></td>
+<td>
+<audio id="oprøre" src="https://static.ordnet.dk/mp3/11037/11037676_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('oprøre');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʌbˌʁɶˀʌ]</span>
+</td>
+<td> oprører </td>
+<td> oprørte </td>
+<td> har oprørt </td>
+<td> oprør </td>
+<td> to cease </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=opsamle"> at opsamle </a></td>
@@ -12803,6 +12842,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilmelde"> at tilmelde </a></td>
+<td>
+<audio id="tilmelde" src="https://static.ordnet.dk/mp3/12001/12001229_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilmelde');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌmεlˀə]</span>
+</td>
+<td> tilmelder </td>
+<td> tilmeldte </td>
+<td> har tilmeldt </td>
+<td> tilmeld </td>
+<td> to register </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilsides%C3%A6tte"> at tilsidesætte </a></td>
 <td>
 <audio id="tilsidesætte" src="https://static.ordnet.dk/mp3/12001/12001275_1.mp3" style="display: none;"></audio>
@@ -14168,6 +14220,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vedhæfte"> at vedhæfte </a></td>
+<td>
+<audio id="vedhæfte" src="" style="display: none;"></audio>
+<span onclick="playSound('vedhæfte');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈveðˌhεftə]</span>
+</td>
+<td> vedhæfter </td>
+<td> vedhæftede </td>
+<td> har vedhæftet </td>
+<td> vedhæft </td>
+<td> to attach </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vedligeholde"> at vedligeholde </a></td>
 <td>
 <audio id="vedligeholde" src="https://static.ordnet.dk/mp3/12006/12006010_1.mp3" style="display: none;"></audio>
@@ -14542,6 +14607,19 @@ search: true
 <td> har ydet </td>
 <td> yd </td>
 <td> to provide </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ydmyge"> at ydmyge </a></td>
+<td>
+<audio id="ydmyge" src="https://static.ordnet.dk/mp3/12007/12007794_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ydmyge');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈyðˌmyˀə]</span>
+</td>
+<td> ydmyger </td>
+<td> ydmygede </td>
+<td> har ydmyget </td>
+<td> ydmyg </td>
+<td> to humiliate </td>
 <td> 1 </td>
 </tr>
 <tr>
