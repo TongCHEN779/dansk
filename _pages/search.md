@@ -48,7 +48,17 @@ permalink: /search/
 <script>
     function playSound(soundId) {
         var audioElement = document.getElementById(soundId);
-        audioElement.play();
+        var profileImage = document.getElementById("profile-avatar");
+        if (audioElement && profileImage) {
+            // Change image to "speaking" version
+            profileImage.src = "https://tongchen779.github.io/dansk/images/president-donald.gif";
+            // Play audio
+            audioElement.play();
+            // When audio ends, revert image back
+            audioElement.onended = function () {
+                profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
+            };
+        }
     }
     // This defines the list of pages to search, each containing a name and a URL.
     let pagesToSearch = [

@@ -120,8 +120,16 @@ permalink: /flash/
     }
     function playSound(soundId) {
         var audioElement = document.getElementById(soundId);
-        if (audioElement) {
+        var profileImage = document.getElementById("profile-avatar");
+        if (audioElement && profileImage) {
+            // Change image to "speaking" version
+            profileImage.src = "https://tongchen779.github.io/dansk/images/president-donald.gif";
+            // Play audio
             audioElement.play();
+            // When audio ends, revert image back
+            audioElement.onended = function () {
+                profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
+            };
         }
     }
     let isFlash = true;
