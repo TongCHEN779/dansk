@@ -114,7 +114,6 @@ permalink: /flash/
             <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${currentWord.Engelsk}</div>
             <input type="text" id="answer" placeholder="Skriv dit svar">
         `;
-
         // Restore the user's input
         document.getElementById("answer").value = userAnswer;
     }
