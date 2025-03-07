@@ -123,7 +123,7 @@ permalink: /flash/
         var profileImage = document.getElementById("profile-avatar");
         if (audioElement && profileImage) {
             // Change image to "speaking" version
-            profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.gif";
+            profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
             // Play audio
             audioElement.play();
             // When audio ends, revert image back
