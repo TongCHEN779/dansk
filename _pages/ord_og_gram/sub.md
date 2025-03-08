@@ -606,6 +606,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=anl%C3%B8bsbro"> en anløbsbro </a></td>
+<td>
+<audio id="anløbsbro" src="https://static.ordnet.dk/mp3/11001/11001870_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('anløbsbro');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈanløbs-]</span>
+</td>
+<td> anløbsbroen </td>
+<td> anløbsbroer </td>
+<td> anløbsbroerne </td>
+<td> jetty </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=anmeldelse"> en anmeldelse </a></td>
 <td>
 <audio id="anmeldelse" src="https://static.ordnet.dk/mp3/11001/11001877_1.mp3" style="display: none;"></audio>
@@ -3991,6 +4003,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=eg"> en eg </a></td>
+<td>
+<audio id="eg" src="https://static.ordnet.dk/mp3/11010/11010665_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('eg');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈeˀj]</span>
+</td>
+<td> egen </td>
+<td> ege </td>
+<td> egene </td>
+<td> oak </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=eger"> en eger/ege </a></td>
 <td>
 <audio id="eger" src="https://static.ordnet.dk/mp3/11010/11010696_1.mp3" style="display: none;"></audio>
@@ -4001,6 +4025,18 @@ search: true
 <td> egerne/egerne </td>
 <td> spoke </td>
 <td> 2/1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=egetr%C3%A6"> et egetræ </a></td>
+<td>
+<audio id="egetræ" src="https://static.ordnet.dk/mp3/11010/11010700_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('egetræ');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈeːjə-]</span>
+</td>
+<td> egetræet </td>
+<td> egetræer </td>
+<td> egetræerne </td>
+<td> oak tree </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ejendomsm%C3%A6gler"> en ejendomsmægler </a></td>
@@ -10674,6 +10710,30 @@ search: true
 <td> lektiecafeer </td>
 <td> lektiecafeerne </td>
 <td> homework cafe </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ler"> ler </a></td>
+<td>
+<audio id="ler" src="https://static.ordnet.dk/mp3/11030/11030179_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ler');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈleˀɐ̯]</span>
+</td>
+<td> leret </td>
+<td> - </td>
+<td> - </td>
+<td> clay </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lergrav"> en lergrav </a></td>
+<td>
+<audio id="lergrav" src="https://static.ordnet.dk/mp3/11030/11030183_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lergrav');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈleɐ̯-]</span>
+</td>
+<td> lergraven </td>
+<td> lergrave </td>
+<td> lergravene </td>
+<td> clay pit </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -19268,6 +19328,30 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tegl"> et tegl </a></td>
+<td>
+<audio id="tegl" src="https://static.ordnet.dk/mp3/12000/12000466_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tegl');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtɑjˀl]</span>
+</td>
+<td> teglet </td>
+<td> tegl </td>
+<td> teglene </td>
+<td> brick </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=teglv%C3%A6rk"> et teglværk </a></td>
+<td>
+<audio id="teglværk" src="https://static.ordnet.dk/mp3/12000/12000471_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('teglværk');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈtɑjl-]</span>
+</td>
+<td> teglværket </td>
+<td> teglværker </td>
+<td> teglværkerne </td>
+<td> brickworks </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tegnefilm"> en tegnefilm </a></td>
 <td>
 <audio id="tegnefilm" src="https://static.ordnet.dk/mp3/12000/12000480_1.mp3" style="display: none;"></audio>
@@ -20573,6 +20657,18 @@ search: true
 <td> udeståender </td>
 <td> udeståenderne </td>
 <td> dispute </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udflugt"> en udflugt </a></td>
+<td>
+<audio id="udflugt" src="https://static.ordnet.dk/mp3/12003/12003796_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udflugt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈuðˌflɔgd]</span>
+</td>
+<td> udflugten </td>
+<td> udflugter </td>
+<td> udflugterne </td>
+<td> excursion </td>
 <td> 1 </td>
 </tr>
 <tr>
