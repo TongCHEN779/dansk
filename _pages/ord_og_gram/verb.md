@@ -8073,7 +8073,7 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=mose"> at mose </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=mose,2&query=mose"> at mose </a></td>
 <td>
 <audio id="mose" src="https://static.ordnet.dk/mp3/11034/11034424_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('mose');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmoːsə]</span>

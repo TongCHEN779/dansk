@@ -1998,6 +1998,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bevoksning"> en bevoksning </a></td>
+<td>
+<audio id="bevoksning" src="https://static.ordnet.dk/mp3/11004/11004525_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bevoksning');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈvʌgsneŋ]</span>
+</td>
+<td> bevoksningen </td>
+<td> bevoksninger </td>
+<td> bevoksningerne </td>
+<td> vegetation </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bev%C3%A6gelse"> en bevægelse </a></td>
 <td>
 <audio id="bevægelse" src="https://static.ordnet.dk/mp3/11004/11004532_1.mp3" style="display: none;"></audio>
@@ -4121,6 +4133,18 @@ search: true
 <td> enderne </td>
 <td> end </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=eng"> en eng </a></td>
+<td>
+<audio id="eng" src="https://static.ordnet.dk/mp3/11011/11011404_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('eng');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈεŋˀ]</span>
+</td>
+<td> engen </td>
+<td> enge </td>
+<td> engene </td>
+<td> meadow </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=enhed"> en enhed </a></td>
@@ -6764,6 +6788,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=grevinde"> en grevinde </a></td>
+<td>
+<audio id="grevinde" src="https://static.ordnet.dk/mp3/11018/11018624_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('grevinde');" style="cursor: pointer; text-decoration: underline; color: blue;">[gʁεwˈenə]</span>
+</td>
+<td> grevinden </td>
+<td> grevinder </td>
+<td> grevinderne </td>
+<td> countess </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=grund"> en grund (til) </a></td>
 <td>
 <audio id="grund" src="https://static.ordnet.dk/mp3/11018/11018718_1.mp3" style="display: none;"></audio>
@@ -8670,6 +8706,18 @@ search: true
 <td> - </td>
 <td> earth </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=jordbund"> en jordbund </a></td>
+<td>
+<audio id="jordbund" src="https://static.ordnet.dk/mp3/11024/11024595_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('jordbund');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈjoˀɐ̯ˌbɔnˀ]</span>
+</td>
+<td> jordbunden </td>
+<td> jordbunde </td>
+<td> jordbundene </td>
+<td> soil </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=journalist"> en journalist </a></td>
@@ -11949,6 +11997,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=mose"> en mose </a></td>
+<td>
+<audio id="mose" src="https://static.ordnet.dk/mp3/11034/11034424_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mose');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmoːsə]</span>
+</td>
+<td> mosen </td>
+<td> moser </td>
+<td> moserne </td>
+<td> bog </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=moster"> en moster </a></td>
 <td>
 <audio id="moster" src="https://static.ordnet.dk/mp3/11034/11034448_1.mp3" style="display: none;"></audio>
@@ -14201,6 +14261,18 @@ search: true
 <td> plancher </td>
 <td> plancherne </td>
 <td> poster/chart </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=plantage"> en plantage </a></td>
+<td>
+<audio id="plantage" src="https://static.ordnet.dk/mp3/11039/11039998_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('plantage');" style="cursor: pointer; text-decoration: underline; color: blue;">[planˈtæːɕə]</span>
+</td>
+<td> plantagen </td>
+<td> plantager </td>
+<td> plantagerne </td>
+<td> plantation </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -18161,6 +18233,18 @@ search: true
 <td> strande </td>
 <td> strandene </td>
 <td> beach </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=strandeng"> en strandeng </a></td>
+<td>
+<audio id="strandeng" src="https://static.ordnet.dk/mp3/50009/50009183_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('strandeng');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsdʁɑnˀˌεŋ]</span>
+</td>
+<td> strandengen </td>
+<td> strandenge </td>
+<td> strandengene </td>
+<td> salt marsh </td>
 <td> 2 </td>
 </tr>
 <tr>
