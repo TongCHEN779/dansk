@@ -10,10 +10,10 @@ search: true
         var audioElement = document.getElementById(soundId);
         var profileImage = document.getElementById("profile-avatar");
         if (audioElement && profileImage) {
-            // Check if the audio source is valid
-            if (!audioElement.src || audioElement.src.trim() === "") {
-                console.warn("Audio source is empty. Skipping animation.");
-                return; // Stop the function if no valid source
+            // Check if the audio has valid content
+            if (!audioElement.src || audioElement.readyState < 2 || audioElement.duration === 0 || isNaN(audioElement.duration)) {
+                console.warn("Invalid or empty audio source.");
+                return;
             }
             // Change image to "speaking" version
             profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
@@ -522,6 +522,18 @@ search: true
 <td> beige </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=bekendt,2&amp;query=bekendt"> bekendt </a></td>
+<td>
+<audio id="bekendt" src="https://static.ordnet.dk/mp3/11003/11003948_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bekendt');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈkεnˀd]</span>
+</td>
+<td> bekendt </td>
+<td> bekendte </td>
+<td> mere bekendt </td>
+<td> mest bekendt </td>
+<td> familiar </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bekostelig"> bekostelig </a></td>
 <td>
 <audio id="bekostelig" src="https://static.ordnet.dk/mp3/11003/11003972_1.mp3" style="display: none;"></audio>
@@ -700,6 +712,18 @@ search: true
 <td> mere bidsk </td>
 <td> mest bidsk </td>
 <td> barking </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bildende"> bildende </a></td>
+<td>
+<audio id="bildende" src="https://static.ordnet.dk/mp3/11004/11004651_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bildende');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbelənə]</span>
+</td>
+<td> bildende </td>
+<td> bildende </td>
+<td> mere bildende </td>
+<td> mest bildende </td>
+<td> visual </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bilfri"> bilfri </a></td>
@@ -952,6 +976,18 @@ search: true
 <td> mere dansk </td>
 <td> mest dansk </td>
 <td> Danish </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dav%C3%A6rende"> daværende </a></td>
+<td>
+<audio id="daværende" src="https://static.ordnet.dk/mp3/11008/11008478_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('daværende');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈdaˌvεˀʌnə]</span>
+</td>
+<td> daværende </td>
+<td> daværende </td>
+<td> mere daværende </td>
+<td> mest daværende </td>
+<td> then </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dejlig"> dejlig </a></td>
@@ -1986,6 +2022,18 @@ search: true
 <td> foreign </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fremmest"> fremmest </a></td>
+<td>
+<audio id="fremmest" src="https://static.ordnet.dk/mp3/11015/11015923_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fremmest');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfʁaməsd]</span>
+</td>
+<td> fremmest </td>
+<td> fremmeste </td>
+<td> mere fremmest </td>
+<td> mest fremmest </td>
+<td> foremost </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fremtidig"> fremtidig </a></td>
 <td>
 <audio id="fremtidig" src="https://static.ordnet.dk/mp3/11015/11015965_1.mp3" style="display: none;"></audio>
@@ -1996,6 +2044,18 @@ search: true
 <td> mere fremtidig </td>
 <td> mest fremtidig </td>
 <td> future </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fremtr%C3%A6dende"> fremtrædende </a></td>
+<td>
+<audio id="fremtrædende" src="https://static.ordnet.dk/mp3/11015/11015979_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fremtrædende');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfʁamˌtʁεðˀənə]</span>
+</td>
+<td> fremtrædende </td>
+<td> fremtrædende </td>
+<td> mere fremtrædende </td>
+<td> mest fremtrædende </td>
+<td> prominent </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fri"> fri </a></td>
@@ -3918,6 +3978,18 @@ search: true
 <td> literary </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=livskraftig"> livskraftig </a></td>
+<td>
+<audio id="livskraftig" src="https://static.ordnet.dk/mp3/11030/11030705_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('livskraftig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈliwsˌkʁɑfdi]</span>
+</td>
+<td> livskraftigt </td>
+<td> livskraftige </td>
+<td> mere livskraftig </td>
+<td> mest livskraftig </td>
+<td> vigorous </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=logisk"> logisk </a></td>
 <td>
 <audio id="logisk" src="https://static.ordnet.dk/mp3/11030/11030837_1.mp3" style="display: none;"></audio>
@@ -4744,6 +4816,18 @@ search: true
 <td> mere omfattende </td>
 <td> mest omfattende </td>
 <td> extensive </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omkringliggende"> omkringliggende </a></td>
+<td>
+<audio id="omkringliggende" src="https://static.ordnet.dk/mp3/11037/11037163_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omkringliggende');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʌmˌkʁeŋˀ-]</span>
+</td>
+<td> omkringliggende </td>
+<td> omkringliggende </td>
+<td> mere omkringliggende </td>
+<td> mest omkringliggende </td>
+<td> surrounding </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=omskiftelig"> omskiftelig </a></td>
@@ -6354,6 +6438,18 @@ search: true
 <td> spectacular </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=spinkle"> spinkle </a></td>
+<td>
+<audio id="spinkle" src="https://static.ordnet.dk/mp3/11049/11049208_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('spinkle');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsbeŋˀgəl]</span>
+</td>
+<td> spinkelt </td>
+<td> spinkle </td>
+<td> spinklere </td>
+<td> spinklest </td>
+<td> slender </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sprød"> sprød </a></td>
 <td>
 <audio id="sprød" src="https://static.ordnet.dk/mp3/11049/11049524_2.mp3" style="display: none;"></audio>
@@ -6820,6 +6916,18 @@ search: true
 <td> mere særlig </td>
 <td> mest særlig </td>
 <td> special </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=særpræget"> særpræget </a></td>
+<td>
+<audio id="særpræget" src="" style="display: none;"></audio>
+<span onclick="playSound('særpræget');" style="cursor: pointer; text-decoration: underline; color: blue;">[-ˌpʁεˀjəð]</span>
+</td>
+<td> særpræget </td>
+<td> særprægede </td>
+<td> mere særpræget </td>
+<td> mest særpræget </td>
+<td> distinctive </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%A6rskilt"> særskilt </a></td>
@@ -7770,6 +7878,18 @@ search: true
 <td> uninteresting </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ukendt"> ukendt </a></td>
+<td>
+<audio id="ukendt" src="https://static.ordnet.dk/mp3/12004/12004547_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ukendt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈuˌkεnˀd]</span>
+</td>
+<td> ukendt </td>
+<td> ukendte </td>
+<td> mere ukendt </td>
+<td> mest ukendt </td>
+<td> unknown </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ulovlig"> ulovlig </a></td>
 <td>
 <audio id="ulovlig" src="https://static.ordnet.dk/mp3/12004/12004608_1.mp3" style="display: none;"></audio>
@@ -8308,6 +8428,18 @@ search: true
 <td> mere velholdt </td>
 <td> mest velholdt </td>
 <td> well-kept </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=velkendt"> velkendt </a></td>
+<td>
+<audio id="velkendt" src="https://static.ordnet.dk/mp3/12006/12006206_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('velkendt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈvεlˌkεnd]</span>
+</td>
+<td> velkendt </td>
+<td> velkendte </td>
+<td> mere velkendt </td>
+<td> mest velkendt </td>
+<td> well-known </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vellykket"> vellykket </a></td>

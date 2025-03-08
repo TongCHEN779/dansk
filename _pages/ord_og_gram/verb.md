@@ -10,10 +10,10 @@ search: true
         var audioElement = document.getElementById(soundId);
         var profileImage = document.getElementById("profile-avatar");
         if (audioElement && profileImage) {
-            // Check if the audio source is valid
-            if (!audioElement.src || audioElement.src.trim() === "") {
-                console.warn("Audio source is empty. Skipping animation.");
-                return; // Stop the function if no valid source
+            // Check if the audio has valid content
+            if (!audioElement.src || audioElement.readyState < 2 || audioElement.duration === 0 || isNaN(audioElement.duration)) {
+                console.warn("Invalid or empty audio source.");
+                return;
             }
             // Change image to "speaking" version
             profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
@@ -859,6 +859,19 @@ search: true
 <td> ansøg </td>
 <td> to apply </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=antage"> at antage </a></td>
+<td>
+<audio id="antage" src="https://static.ordnet.dk/mp3/11002/11002022_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('antage');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈanˌtæˀ]</span>
+</td>
+<td> antager </td>
+<td> antog </td>
+<td> har antaget </td>
+<td> antag </td>
+<td> to assume </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=antyde"> at antyde </a></td>
@@ -1925,6 +1938,19 @@ search: true
 <td> bidrag </td>
 <td> to contribute </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bilde"> at bilde </a></td>
+<td>
+<audio id="bilde" src="https://static.ordnet.dk/mp3/11004/11004650_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bilde');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbilə]</span>
+</td>
+<td> bilder </td>
+<td> bildede </td>
+<td> har bildt </td>
+<td> bild </td>
+<td> to imagine </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=binde"> at binde </a></td>
@@ -3667,6 +3693,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kupere"> at kupere </a></td>
+<td>
+<audio id="kupere" src="https://static.ordnet.dk/mp3/11028/11028673_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kupere');" style="cursor: pointer; text-decoration: underline; color: blue;">[kuˈpeˀʌ]</span>
+</td>
+<td> kuperer </td>
+<td> kuperede </td>
+<td> har kuperet </td>
+<td> kuper </td>
+<td> to cut </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fordybe"> at fordybe </a></td>
 <td>
 <audio id="fordybe" src="https://static.ordnet.dk/mp3/11014/11014361_1.mp3" style="display: none;"></audio>
@@ -4689,6 +4728,19 @@ search: true
 <td> fremstod </td>
 <td> har/er fremstået </td>
 <td> fremstå </td>
+<td> to appear </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fremtr%C3%A6de"> at fremtræde </a></td>
+<td>
+<audio id="fremtræde" src="https://static.ordnet.dk/mp3/11015/11015976_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fremtræde');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfʁamˌtʁεðˀə]</span>
+</td>
+<td> fremtræder </td>
+<td> fremtrådte </td>
+<td> har fremtrådt </td>
+<td> fremtræd </td>
 <td> to appear </td>
 <td> 3 </td>
 </tr>
@@ -7488,6 +7540,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=litografere"> at litografere </a></td>
+<td>
+<audio id="litografere" src="https://static.ordnet.dk/mp3/53400/53400600_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('litografere');" style="cursor: pointer; text-decoration: underline; color: blue;">[litogʁɑˈfeˀʌ]</span>
+</td>
+<td> litograferer </td>
+<td> litograferede </td>
+<td> har litograferet </td>
+<td> litografer </td>
+<td> to lithograph </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=love"> at love </a></td>
 <td>
 <audio id="love" src="https://static.ordnet.dk/mp3/11030/11030996_1.mp3" style="display: none;"></audio>
@@ -8073,7 +8138,7 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?select=mose,2&query=mose"> at mose </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=mose,2&amp;query=mose"> at mose </a></td>
 <td>
 <audio id="mose" src="https://static.ordnet.dk/mp3/11034/11034424_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('mose');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈmoːsə]</span>
@@ -9711,6 +9776,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pode"> at pode </a></td>
+<td>
+<audio id="pode" src="https://static.ordnet.dk/mp3/11040/11040244_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('pode');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈpoːðə]</span>
+</td>
+<td> poder </td>
+<td> podede </td>
+<td> har podet </td>
+<td> pod </td>
+<td> to graft </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=prioritere"> at prioritere </a></td>
 <td>
 <audio id="prioritere" src="https://static.ordnet.dk/mp3/11040/11040828_1.mp3" style="display: none;"></audio>
@@ -10619,6 +10697,19 @@ search: true
 <td> ræk </td>
 <td> to reach </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=r%C3%B8mme"> at rømme </a></td>
+<td>
+<audio id="rømme" src="https://static.ordnet.dk/mp3/11044/11044193_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rømme');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈʁɶmə]</span>
+</td>
+<td> rømmer </td>
+<td> rømmede </td>
+<td> har rømmet </td>
+<td> røm </td>
+<td> to clear </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=r%C3%B8re"> at røre </a></td>
