@@ -366,6 +366,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=agerland"> et agerland </a></td>
+<td>
+<audio id="agerland" src="https://static.ordnet.dk/mp3/11000/11000922_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('agerland');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈɑːɡʌˌlanˀ]</span>
+</td>
+<td> agerlandet </td>
+<td> - </td>
+<td> - </td>
+<td> farmland </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=agtp%C3%A5givenhed"> en agtpågivenhed </a></td>
 <td>
 <audio id="agtpågivenhed" src="https://static.ordnet.dk/mp3/11000/11000984_1.mp3" style="display: none;"></audio>
