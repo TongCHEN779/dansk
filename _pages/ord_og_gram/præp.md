@@ -233,6 +233,7 @@ search: true
 <td> above </td>
 <td> Sæt x i de hvide felter og angiv kontingentstørrelsen (se ovenfor) i sidste rubrik. </td>
 </tr>
+<tr>
 <td> ovenpå, oven på </td>
 <td> on top of </td>
 <td> Olien lægger sig i et lag oven på vandet. </td>

@@ -121,10 +121,10 @@ permalink: /flash/
         var audioElement = document.getElementById(soundId);
         var profileImage = document.getElementById("profile-avatar");
         if (audioElement && profileImage) {
-            // Check if the audio source is valid
-            if (!audioElement.src || audioElement.src.trim() === "") {
-                console.warn("Audio source is empty. Skipping animation.");
-                return; // Stop the function if no valid source
+            // Check if the audio has valid content
+            if (!audioElement.src || audioElement.readyState < 2 || audioElement.duration === 0 || isNaN(audioElement.duration)) {
+                console.warn("Invalid or empty audio source.");
+                return;
             }
             // Change image to "speaking" version
             profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
