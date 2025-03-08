@@ -3563,6 +3563,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forbeholde"> at forbeholde </a></td>
+<td>
+<audio id="forbeholde" src="https://static.ordnet.dk/mp3/11014/11014220_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forbeholde');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfɒːbeˌhʌlˀə]</span>
+</td>
+<td> forbeholder </td>
+<td> forbeholdt </td>
+<td> har forbeholdt </td>
+<td> forbehold </td>
+<td> to reserve </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forberede"> at forberede </a></td>
 <td>
 <audio id="forberede" src="https://static.ordnet.dk/mp3/11014/11014225_1.mp3" style="display: none;"></audio>
@@ -4911,6 +4924,19 @@ search: true
 <td> har fyret </td>
 <td> fyr </td>
 <td> to fire </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=f%C3%A6lde,2&amp;query=f%C3%A6lde"> at fælde </a></td>
+<td>
+<audio id="fælde" src="https://static.ordnet.dk/mp3/11016/11016635_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fælde');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈfεlə]</span>
+</td>
+<td> fælder </td>
+<td> fældede </td>
+<td> har fældet </td>
+<td> fæld </td>
+<td> to cut down </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -9776,6 +9802,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=plyndre"> at plyndre </a></td>
+<td>
+<audio id="plyndre" src="https://static.ordnet.dk/mp3/11040/11040215_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('plyndre');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈplønʁʌ]</span>
+</td>
+<td> plyndrer </td>
+<td> plyndrede </td>
+<td> har plyndret </td>
+<td> plyndr </td>
+<td> to plunder </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=pode"> at pode </a></td>
 <td>
 <audio id="pode" src="https://static.ordnet.dk/mp3/11040/11040244_1.mp3" style="display: none;"></audio>
@@ -12412,6 +12451,19 @@ search: true
 <td> har studeret </td>
 <td> studer </td>
 <td> to study </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=studse"> at studse </a></td>
+<td>
+<audio id="studse" src="https://static.ordnet.dk/mp3/11050/11050984_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('studse');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsdusə]</span>
+</td>
+<td> studser </td>
+<td> studsede </td>
+<td> har studset </td>
+<td> studs </td>
+<td> to be surprised </td>
 <td> 1 </td>
 </tr>
 <tr>

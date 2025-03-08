@@ -1106,6 +1106,11 @@ search: true
 <td> Stuen er hyggelig og vidner om god smag. </td>
 </tr>
 <tr>
+<td> vinde indpas </td>
+<td> gain, become popular </td>
+<td> Det er først efter år 1000, at kristendommen vinder indpas hos bønderne i Grønland. </td>
+</tr>
+<tr>
 <td> være med til </td>
 <td> help to </td>
 <td> Det at være den ældste eller den yngste, den mellemste eller enebarn er med til at forme ens identitet. </td>

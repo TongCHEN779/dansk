@@ -630,6 +630,18 @@ search: true
 <td> famous </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=beskeden"> beskeden </a></td>
+<td>
+<audio id="beskeden" src="https://static.ordnet.dk/mp3/11004/11004222_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('beskeden');" style="cursor: pointer; text-decoration: underline; color: blue;">[beˈsgeˀðən]</span>
+</td>
+<td> beskedent </td>
+<td> beskedne </td>
+<td> mere beskeden </td>
+<td> mest beskeden </td>
+<td> modest </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=beskidt"> beskidt </a></td>
 <td>
 <audio id="beskidt" src="https://static.ordnet.dk/mp3/11004/11004225_1.mp3" style="display: none;"></audio>
@@ -748,6 +760,18 @@ search: true
 <td> billigere </td>
 <td> billigst </td>
 <td> cheap </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=bitter,2&amp;query=bitter"> bitter </a></td>
+<td>
+<audio id="bitter" src="https://static.ordnet.dk/mp3/11004/11004923_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bitter');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈbedʌ]</span>
+</td>
+<td> bittert </td>
+<td> bitre </td>
+<td> bitrere </td>
+<td> bitrest </td>
+<td> bitter </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bizar"> bizar </a></td>
@@ -1815,7 +1839,7 @@ search: true
 <td> forholdsvise </td>
 <td> mere forholdsvis </td>
 <td> mest forholdsvis </td>
-<td> relatively </td>
+<td> relative </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forkert"> forkert </a></td>
@@ -1852,6 +1876,18 @@ search: true
 <td> mere formel </td>
 <td> mest formel </td>
 <td> formal </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=formentlig"> formentlig </a></td>
+<td>
+<audio id="formentlig" src="https://static.ordnet.dk/mp3/11014/11014819_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('formentlig');" style="cursor: pointer; text-decoration: underline; color: blue;">[fʌˈmeˀndli]</span>
+</td>
+<td> formentligt </td>
+<td> formentlige </td>
+<td> mere formentlig </td>
+<td> mest formentlig </td>
+<td> presumably </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fornuftig"> fornuftig </a></td>
@@ -6450,6 +6486,18 @@ search: true
 <td> slender </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=spiselig"> spiselig </a></td>
+<td>
+<audio id="spiselig" src="https://static.ordnet.dk/mp3/11049/11049265_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('spiselig');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsbiːsəli]</span>
+</td>
+<td> spiseligt </td>
+<td> spiselige </td>
+<td> mere spiselig </td>
+<td> mest spiselig </td>
+<td> edible </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sprød"> sprød </a></td>
 <td>
 <audio id="sprød" src="https://static.ordnet.dk/mp3/11049/11049524_2.mp3" style="display: none;"></audio>
@@ -6508,6 +6556,18 @@ search: true
 <td> mere stakkels </td>
 <td> mest stakkels </td>
 <td> poor </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=stedsegr%C3%B8n"> stedsegrøn </a></td>
+<td>
+<audio id="stedsegrøn" src="https://static.ordnet.dk/mp3/11050/11050035_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('stedsegrøn');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsdεðsəˌgʁœn]</span>
+</td>
+<td> stedsegrønt </td>
+<td> stedsegrønne </td>
+<td> mere stedsegrøn </td>
+<td> mest stedsegrøn </td>
+<td> evergreen </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=stejl"> stejl </a></td>

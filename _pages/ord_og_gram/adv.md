@@ -321,6 +321,11 @@ search: true
 <td> Kastrup lufthavn kommer meget snart til at trænge til aflastning, fordi dens kapacitet er tæt ved at være fuldt udnyttet. </td>
 </tr>
 <tr>
+<td> stedse </td>
+<td> always </td>
+<td> Københavns Kommune skal stedse arbejde for en lettere/hurtigere myndighedsbehandling. </td>
+</tr>
+<tr>
 <td> stort set </td>
 <td> almost </td>
 <td> Sikkerheden og virkningen af de forskellige typer p-piller er stort set ens. </td>
