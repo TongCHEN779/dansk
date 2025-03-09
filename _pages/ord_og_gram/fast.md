@@ -151,6 +151,11 @@ search: true
 <td> Fodvorter skyldes en virusinfektion og kan derfor smitte. </td>
 </tr>
 <tr>
+<td> dukke op </td>
+<td> show up </td>
+<td> Så vil journalisterne dukke op, lave et par historier og smutte igen. </td>
+</tr>
+<tr>
 <td> dumme sig </td>
 <td> make mistakes </td>
 <td> Alle lo. Hun blev rød i kinderne og vidste at hun havde dummet sig. </td>
@@ -586,6 +591,11 @@ search: true
 <td> Mikkel skal nok have kvæget sig ved et glas portvin. </td>
 </tr>
 <tr>
+<td> kæde sammen </td>
+<td> link together </td>
+<td> Hollywood kæder sex sammen med forbrydelser – ofte mord. </td>
+</tr>
+<tr>
 <td> lade op </td>
 <td> recharge </td>
 <td> Så snart der var lejlighed til det, slappede Lisbeth af i sommerhuset i Hornbæk, hvor hun ladede op og fik nye kræfter. </td>
@@ -661,6 +671,11 @@ search: true
 <td> Med mindre man tyr til mit Værn slutter Fred med mig slutter Fred med mig. </td>
 </tr>
 <tr>
+<td> med nød og næppe </td>
+<td> barely </td>
+<td> Med mindre man tyr til mit Værn slutter Fred med mig slutter Fred med mig. </td>
+</tr>
+<tr>
 <td> medvirke til </td>
 <td> contribute to </td>
 <td> Sex medvirker til, at blodet løber hurtigere gennem blodårerne og styrker musklerne. </td>
@@ -689,6 +704,11 @@ search: true
 <td> nemlig </td>
 <td> namely, precisely </td>
 <td> Hans J. Wegner står bag en af dansk møbeldesigns største succeser, nemlig Y-stolen, der trods sine 40 år stadig er meget efterspurgt. </td>
+</tr>
+<tr>
+<td> nøjes </td>
+<td> make do </td>
+<td> En dansk fadæse .. betyder at Danmark ikke, som forudsat, får ti ryttere med i søndagens finale, men må nøjes med ni. </td>
 </tr>
 <tr>
 <td> nå/komme frem til </td>
@@ -801,6 +821,11 @@ search: true
 <td> Moses rakte sin hånd op mod himlen, og der blev et dybt mørke over hele Egypten i tre dage. </td>
 </tr>
 <tr>
+<td> råde bod på </td>
+<td> make up for </td>
+<td> De vil gøre alt, hvad de kan, for at råde bod på den skade, de har forvoldt deres datter og den unge mand, hun elsker. </td>
+</tr>
+<tr>
 <td> samlet set </td>
 <td> overall </td>
 <td> Samlet set er der tale om betydelige indskrænkninger af de demokratiske friheder og rettigheder i Cuba. </td>
@@ -901,6 +926,11 @@ search: true
 <td> Hun proppede ørerne fulde af tørret græs for at spærre lydene ude. </td>
 </tr>
 <tr>
+<td> stable (stille, få, sætte, ...) på benene </td>
+<td> set up </td>
+<td> En ting er at få stablet et kammerorkester på benene, noget andet at få det til at løbe rundt. </td>
+</tr>
+<tr>
 <td> stadig </td>
 <td> still </td>
 <td> I dag bor May på et plejehjem, mens Marjorie stadig klarer sig selv i sin egen lille lejlighed. </td>
@@ -967,7 +997,7 @@ search: true
 </tr>
 <tr>
 <td> sørge for </td>
-<td> ensure </td>
+<td> ensure, care for </td>
 <td> Mand og børn har sørget for at bordet er dækket og at aftensmaden er parat. </td>
 </tr>
 <tr>
@@ -999,6 +1029,11 @@ search: true
 <td> tage imod </td>
 <td> receive, accept, welcome </td>
 <td> Vi vil tage imod private bidrag med kyshånd. </td>
+</tr>
+<tr>
+<td> tage sig af </td>
+<td> take care of </td>
+<td> I løbet af to dage var der en million flygtninge at tage sig af. </td>
 </tr>
 <tr>
 <td> tage sig sammen </td>
@@ -1039,6 +1074,11 @@ search: true
 <td> tilskynde til </td>
 <td> encourage to </td>
 <td> Med regler og tilskud kan Folketinget tilskynde industrien til at bruge eller udvikle produkter, der ikke er kræftfremkaldende. </td>
+</tr>
+<tr>
+<td> trange kår </td>
+<td> cramped conditions </td>
+<td> Der har i mange år lydt kritiske røster i forbindelse med de trange kår en del af dyrene i Zoo må leve under. </td>
 </tr>
 <tr>
 <td> træffe en afgørelse/beslutning, et valg </td>

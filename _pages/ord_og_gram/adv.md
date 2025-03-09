@@ -206,6 +206,11 @@ search: true
 <td> Gensplejsningen kan tænkes ibrugtaget på forskellige felter inden for servicesektoren. </td>
 </tr>
 <tr>
+<td> ihjel </td>
+<td> to death </td>
+<td> Severin kom i vejen for en løbsk hest og blev sparket ihjel. </td>
+</tr>
+<tr>
 <td> ikke, heller ikke, slet ikke / overhovedet ikke </td>
 <td> not, either, not at all </td>
 <td> Vi har ikke råd til at rejse. </td>
