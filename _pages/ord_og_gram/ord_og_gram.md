@@ -5,55 +5,19 @@ permalink: /ord_og_gram/main/
 search: false
 ---
 
-<script>
-    function playSound(soundId) {
-        var audioElement = document.getElementById(soundId);
-        var profileImage = document.getElementById("profile-avatar");
-        if (audioElement && profileImage) {
-            // Check if the audio has valid content
-            if (!audioElement.src || audioElement.readyState < 2 || audioElement.duration === 0 || isNaN(audioElement.duration)) {
-                console.warn("Invalid or empty audio source.");
-                return;
-            }
-            // Change image to "speaking" version
-            profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
-            // Play audio
-            audioElement.play();
-            // When audio ends, revert image back
-            audioElement.onended = function () {
-                profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
-            };
-        }
-    }
-</script>
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    tr:nth-child(even) {
-        background-color: #f2f2f2; /* Light gray background for even rows */
-    }
-    tr:nth-child(odd) {
-        background-color: #ffffff; /* White background for odd rows */
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-</style>
-
-<table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <style>
     body {
         margin: 0;
         padding: 0;
         position: relative;
     }
+    #canvas-container {
+        position: relative; /* Now, text will be positioned relative to this */
+        display: inline-block; /* Ensures the div only takes up needed space */
+    }
     canvas {
-        display: block; /* Prevent extra spacing */
-        position: absolute;
+        display: block; /* Prevents extra spacing */
+        position: relative; /* Keeps canvas correctly positioned */
         left: 0;
         top: 0;
     }
@@ -71,7 +35,7 @@ search: false
         align-items: center;
     }
 </style>
-<canvas id="axisCanvas" width="600" height="500"></canvas>
+<div id="canvas-container"><canvas id="axisCanvas" width="600" height="500"></canvas></div>
 <script>
     const canvas = document.getElementById("axisCanvas");
     const ctx = canvas.getContext("2d");
@@ -158,6 +122,47 @@ search: false
         plotAudioText(sound.x, sound.y, sound.text, sound.audioId);
     });
 </script>
+
+<script>
+    function playSound(soundId) {
+        var audioElement = document.getElementById(soundId);
+        var profileImage = document.getElementById("profile-avatar");
+        if (audioElement && profileImage) {
+            // Check if the audio has valid content
+            if (!audioElement.src || audioElement.readyState < 2 || audioElement.duration === 0 || isNaN(audioElement.duration)) {
+                console.warn("Invalid or empty audio source.");
+                return;
+            }
+            // Change image to "speaking" version
+            profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
+            // Play audio
+            audioElement.play();
+            // When audio ends, revert image back
+            audioElement.onended = function () {
+                profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
+            };
+        }
+    }
+</script>
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    tr:nth-child(even) {
+        background-color: #f2f2f2; /* Light gray background for even rows */
+    }
+    tr:nth-child(odd) {
+        background-color: #ffffff; /* White background for odd rows */
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        padding: 8px;
+        text-align: left;
+    }
+</style>
+
+<table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 </table>
 
 <h1 style="text-align: center;"> Front & Unlabialized </h1>
