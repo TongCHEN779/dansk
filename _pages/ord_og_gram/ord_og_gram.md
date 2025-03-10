@@ -35,7 +35,7 @@ search: false
         align-items: center;
     }
 </style>
-<div id="canvas-container"><canvas id="axisCanvas" width="1000" height="500"></canvas></div>
+<div id="canvas-container"><canvas height="500" id="axisCanvas" width="1000"></canvas></div>
 <script>
     const canvas = document.getElementById("axisCanvas");
     const ctx = canvas.getContext("2d");
@@ -171,7 +171,6 @@ search: false
         plotAudioText(sound.x, sound.y, sound.text, sound.audioId);
     });
 </script>
-
 <script>
     function playSound(soundId) {
         var audioElement = document.getElementById(soundId);
@@ -210,15 +209,14 @@ search: false
         text-align: left;
     }
 </style>
-
-<h1 style="text-align: center;"> Front & Unlabialized </h1>
+<h1 style="text-align: center;"> Front &amp; Unlabialized </h1>
 <table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <tr>
-<th> Letter </th>
-<th> Long & Open </th>
-<th> Short & Closed </th>
-<th> Before "r" </th>
-<th> After "r" </th>
+<th style="text-align: center"> Letter </th>
+<th style="text-align: center"> Long &amp; Open </th>
+<th style="text-align: center"> Short &amp; Closed </th>
+<th style="text-align: center"> Before "r" </th>
+<th style="text-align: center"> After "r" </th>
 </tr>
 <tr>
 <td rowspan="4" style="text-align: center">i</td>
@@ -228,8 +226,8 @@ search: false
 <td style="text-align: center">[i]</td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=skrive">skrive</a><audio id="skrive" src="https://static.ordnet.dk/mp3/11046/11046982_1.mp3" style="display: none;"></audio><span onclick="playSound('skrive');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, pige, time </td>
-<td> musik, lille, minut, cifaret </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skrive">skrive</a><audio id="skrive" src="https://static.ordnet.dk/mp3/11046/11046982_1.mp3" style="display: none;"></audio><span onclick="playSound('skrive');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=pige">pige</a><audio id="pige" src="https://static.ordnet.dk/mp3/11039/11039666_1.mp3" style="display: none;"></audio><span onclick="playSound('pige');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=time">time</a><audio id="time" src="https://static.ordnet.dk/mp3/12001/12001387_1.mp3" style="display: none;"></audio><span onclick="playSound('time');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=musik">musik</a><audio id="musik" src="https://static.ordnet.dk/mp3/11034/11034722_1.mp3" style="display: none;"></audio><span onclick="playSound('musik');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=lille">lille</a><audio id="lille" src="https://static.ordnet.dk/mp3/11030/11030488_1.mp3" style="display: none;"></audio><span onclick="playSound('lille');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=minut">minut</a><audio id="minut" src="https://static.ordnet.dk/mp3/11033/11033841_1.mp3" style="display: none;"></audio><span onclick="playSound('minut');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=cigaret">cigaret</a><audio id="cigaret" src="https://static.ordnet.dk/mp3/11007/11007786_1.mp3" style="display: none;"></audio><span onclick="playSound('cigaret');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
 <td> firma, firs </td>
 <td> ris, fri, riste </td>
 </tr>
