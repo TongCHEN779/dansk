@@ -32,6 +32,8 @@ ord_og_gram:
         url: /ord_og_gram/fast/
       - title: "Konjunktioner"
         url: /ord_og_gram/konj/
+      - title: "Ordenes Former"
+        url: /ord_og_gram/form/
       - title: "Pronominer"
         url: /ord_og_gram/pron/
       - title: "Præpositioner"
