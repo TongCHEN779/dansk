@@ -98,9 +98,23 @@ search: false
         // Centering fix:
         span.style.position = "absolute";
         span.style.left = `${xPos}px`;
-        span.style.top = `${yPos}px`;
+        span.style.top = `${yPos-5}px`;
         span.style.transform = "translate(-50%, -50%)"; // Centers text in the circle
-        span.onclick = () => document.getElementById(audioId).play();
+        span.onclick = () => {
+            const audio = document.getElementById(audioId);
+            if (audio) {
+                const profileImage = document.getElementById("profile-avatar");
+                if (profileImage) {
+                    profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
+                }
+                audio.play();
+                audio.onended = () => {
+                    if (profileImage) {
+                        profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
+                    }
+                };
+            }
+        };
         canvas.parentNode.appendChild(span); // Append to canvas container
     }
     function drawDottedDiagonal() {
@@ -176,10 +190,10 @@ search: false
 </tr>
 <tr>
 <td rowspan="4"><p align="center">i</p></td>
-<td><p align="center">[i:]</p></td>
-<td><p align="center">[i]</p></td>
-<td><p align="center">[i]</p></td>
-<td><p align="center">[i]</p></td>
+<td align="center">[i:]</td>
+<td align="center">[i]</td>
+<td align="center">[i]</td>
+<td align="center">[i]</td>
 </tr>
 <tr>
 <td> sine, skrive, pige, time </td>
@@ -188,10 +202,10 @@ search: false
 <td> ris, fri, riste </td>
 </tr>
 <tr>
-<td><p align="center"></p></td>
-<td><p align="center">[e]</p></td>
-<td><p align="center">[ε]</p></td>
-<td><p align="center"></p></td>
+<td align="center"></td>
+<td align="center">[e]</td>
+<td align="center">[ε]</td>
+<td align="center"></td>
 </tr>
 <tr>
 <td></td>
