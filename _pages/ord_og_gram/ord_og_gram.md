@@ -79,11 +79,12 @@ search: false
         ctx.fillText("Open", 10, 100);
     }
     function plotAudioText(x, y, text, audioId) {
-        const xPos = 50 + x * 400; // Scale X (0 to 1)
-        const yPos = 450 - y * 400; // Scale Y (0 to 1)
+        const canvasRect = canvas.getBoundingClientRect(); // Get canvas position
+        const xPos = canvasRect.left + 50 + x * 400; // Adjust X relative to canvas
+        const yPos = canvasRect.top + 450 - y * 400; // Adjust Y relative to canvas
         // Draw grey ball
         ctx.beginPath();
-        ctx.arc(xPos, yPos, 20, 0, 2 * Math.PI);
+        ctx.arc(xPos - canvasRect.left, yPos - canvasRect.top, 20, 0, 2 * Math.PI);
         ctx.fillStyle = "white";
         ctx.fill();
         ctx.stroke();
@@ -91,12 +92,13 @@ search: false
         const span = document.createElement("span");
         span.innerText = text;
         span.className = "audio-text";
+        // Position relative to canvas
         span.style.position = "absolute";
         span.style.left = `${xPos}px`;
-        span.style.top = `${yPos-5}px`;
-        span.style.transform = "translate(-50%, -50%)"; // Centers text in the circle
+        span.style.top = `${yPos}px`;
+        span.style.transform = "translate(-50%, -50%)"; // Center text inside the ball
         span.onclick = () => document.getElementById(audioId).play();
-        document.body.appendChild(span);
+        document.body.appendChild(span); // Keep appending to body, but now with correct position
     }
     function drawDottedDiagonal() {
         ctx.setLineDash([5, 5]); // Set dotted line pattern
