@@ -20,6 +20,7 @@ search: false
         align-items: center;
     }
 </style>
+<canvas id="axisCanvas" width="600" height="500"></canvas>
 <script>
     const canvas = document.getElementById("axisCanvas");
     const ctx = canvas.getContext("2d");
@@ -104,5 +105,3 @@ search: false
         plotAudioText(sound.x, sound.y, sound.text, sound.audioId);
     });
 </script>
-
-<canvas id="axisCanvas" width="600" height="500"></canvas>
