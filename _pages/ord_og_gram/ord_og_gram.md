@@ -54,7 +54,36 @@ search: false
         { x: 1.0, y: 0.6, text: "ɒ", audioId: "ɒ", audioSrc: "https://tongchen779.github.io/dansk/files/vowel/ɒ.mp3" },
         { x: 1.0, y: 0.45, text: "ɔ", audioId: "ɔ", audioSrc: "https://tongchen779.github.io/dansk/files/vowel/ɔ.mp3" },
         { x: 1.0, y: 0.3, text: "o", audioId: "o", audioSrc: "https://tongchen779.github.io/dansk/files/vowel/o.mp3" },
-        { x: 1.0, y: 0.1, text: "u", audioId: "u", audioSrc: "https://tongchen779.github.io/dansk/files/vowel/u.mp3" }
+        { x: 1.0, y: 0.1, text: "u", audioId: "u", audioSrc: "https://tongchen779.github.io/dansk/files/vowel/u.mp3" },
+        { x: 1.3, y: 1.0, text: "A", audioId: "A", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/A.mp3" },
+        { x: 1.5, y: 1.0, text: "B", audioId: "B", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/B.mp3" },
+        { x: 1.7, y: 1.0, text: "C", audioId: "C", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/C.mp3" },
+        { x: 1.9, y: 1.0, text: "D", audioId: "D", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/D.mp3" },
+        { x: 2.1, y: 1.0, text: "E", audioId: "E", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/E.mp3" },
+        { x: 1.3, y: 0.8, text: "F", audioId: "F", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/F.mp3" },
+        { x: 1.5, y: 0.8, text: "G", audioId: "G", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/G.mp3" },
+        { x: 1.7, y: 0.8, text: "H", audioId: "H", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/H.mp3" },
+        { x: 1.9, y: 0.8, text: "I", audioId: "I", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/I.mp3" },
+        { x: 2.1, y: 0.8, text: "J", audioId: "J", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/J.mp3" },
+        { x: 1.3, y: 0.6, text: "K", audioId: "K", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/K.mp3" },
+        { x: 1.5, y: 0.6, text: "L", audioId: "L", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/L.mp3" },
+        { x: 1.7, y: 0.6, text: "M", audioId: "M", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/M.mp3" },
+        { x: 1.9, y: 0.6, text: "N", audioId: "N", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/N.mp3" },
+        { x: 2.1, y: 0.6, text: "O", audioId: "O", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/O.mp3" },
+        { x: 1.3, y: 0.4, text: "P", audioId: "P", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/P.mp3" },
+        { x: 1.5, y: 0.4, text: "Q", audioId: "Q", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Q.mp3" },
+        { x: 1.7, y: 0.4, text: "R", audioId: "R", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/R.mp3" },
+        { x: 1.9, y: 0.4, text: "S", audioId: "S", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/S.mp3" },
+        { x: 2.1, y: 0.4, text: "T", audioId: "T", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/T.mp3" },
+        { x: 1.3, y: 0.2, text: "U", audioId: "U", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/U.mp3" },
+        { x: 1.5, y: 0.2, text: "V", audioId: "V", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/V.mp3" },
+        { x: 1.7, y: 0.2, text: "W", audioId: "W", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/W.mp3" },
+        { x: 1.9, y: 0.2, text: "X", audioId: "X", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/X.mp3" },
+        { x: 2.1, y: 0.2, text: "Y", audioId: "Y", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Y.mp3" },
+        { x: 1.3, y: 0.0, text: "Z", audioId: "Z", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Z.mp3" },
+        { x: 1.5, y: 0.0, text: "Æ", audioId: "Æ", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Æ.mp3" },
+        { x: 1.7, y: 0.0, text: "Ø", audioId: "Ø", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Ø.mp3" },
+        { x: 1.9, y: 0.0, text: "Å", audioId: "Å", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Å.mp3" },
     ];
     function drawAxis() {
         ctx.clearRect(0, 0, canvas.width, canvas.height); 
@@ -122,6 +151,12 @@ search: false
         ctx.beginPath();
         ctx.moveTo(50, 450); // Bottom-left corner
         ctx.lineTo(450, 50); // Top-right corner
+        ctx.stroke();
+        ctx.setLineDash([]); // Reset line dash
+        ctx.setLineDash([5, 5]); // Set dotted line pattern
+        ctx.beginPath();
+        ctx.moveTo(520, 450); // Bottom-left corner
+        ctx.lineTo(520, 50); // Top-right corner
         ctx.stroke();
         ctx.setLineDash([]); // Reset line dash
     }
