@@ -5,6 +5,46 @@ permalink: /ord_og_gram/main/
 search: false
 ---
 
+<script>
+    function playSound(soundId) {
+        var audioElement = document.getElementById(soundId);
+        var profileImage = document.getElementById("profile-avatar");
+        if (audioElement && profileImage) {
+            // Check if the audio has valid content
+            if (!audioElement.src || audioElement.readyState < 2 || audioElement.duration === 0 || isNaN(audioElement.duration)) {
+                console.warn("Invalid or empty audio source.");
+                return;
+            }
+            // Change image to "speaking" version
+            profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
+            // Play audio
+            audioElement.play();
+            // When audio ends, revert image back
+            audioElement.onended = function () {
+                profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
+            };
+        }
+    }
+</script>
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+    }
+    tr:nth-child(even) {
+        background-color: #f2f2f2; /* Light gray background for even rows */
+    }
+    tr:nth-child(odd) {
+        background-color: #ffffff; /* White background for odd rows */
+    }
+    th, td {
+        border: 1px solid #dddddd;
+        padding: 8px;
+        text-align: left;
+    }
+</style>
+
+<table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <style>
     body {
         margin: 0;
@@ -118,45 +158,7 @@ search: false
         plotAudioText(sound.x, sound.y, sound.text, sound.audioId);
     });
 </script>
-
-<script>
-    function playSound(soundId) {
-        var audioElement = document.getElementById(soundId);
-        var profileImage = document.getElementById("profile-avatar");
-        if (audioElement && profileImage) {
-            // Check if the audio has valid content
-            if (!audioElement.src || audioElement.readyState < 2 || audioElement.duration === 0 || isNaN(audioElement.duration)) {
-                console.warn("Invalid or empty audio source.");
-                return;
-            }
-            // Change image to "speaking" version
-            profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
-            // Play audio
-            audioElement.play();
-            // When audio ends, revert image back
-            audioElement.onended = function () {
-                profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
-            };
-        }
-    }
-</script>
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    tr:nth-child(even) {
-        background-color: #f2f2f2; /* Light gray background for even rows */
-    }
-    tr:nth-child(odd) {
-        background-color: #ffffff; /* White background for odd rows */
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-</style>
+</table>
 
 <h1 style="text-align: center;"> Front & Unlabialized </h1>
 <table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
@@ -168,11 +170,11 @@ search: false
 <th> After "r" </th>
 </tr>
 <tr>
-<td rowspan="4"> i </td>
-<td><p align="center">[i:]</p></td><br>
-<td><p align="center">[i]</p></td><br>
-<td><p align="center">[i]</p></td><br>
-<td><p align="center">[i]</p></td><br>
+<td rowspan="4"><p align="center">i</p></td>
+<td><p align="center">[i:]</p></td>
+<td><p align="center">[i]</p></td>
+<td><p align="center">[i]</p></td>
+<td><p align="center">[i]</p></td>
 </tr>
 <tr>
 <td> sine, skrive, pige, time </td>
@@ -181,10 +183,10 @@ search: false
 <td> ris, fri, riste </td>
 </tr>
 <tr>
-<td><p align="center"></p></td><br>
-<td><p align="center">[e]</p></td><br>
-<td><p align="center">[ε]</p></td><br>
-<td><p align="center"></p></td><br>
+<td><p align="center"></p></td>
+<td><p align="center">[e]</p></td>
+<td><p align="center">[ε]</p></td>
+<td><p align="center"></p></td>
 </tr>
 <tr>
 <td></td>
