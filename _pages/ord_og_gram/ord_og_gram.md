@@ -35,7 +35,7 @@ search: false
         align-items: center;
     }
 </style>
-<div id="canvas-container"><canvas id="axisCanvas" width="600" height="500"></canvas></div>
+<div id="canvas-container"><canvas id="axisCanvas" width="1000" height="500"></canvas></div>
 <script>
     const canvas = document.getElementById("axisCanvas");
     const ctx = canvas.getContext("2d");
@@ -81,9 +81,9 @@ search: false
         { x: 1.9, y: 0.2, text: "X", audioId: "X", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/X.mp3" },
         { x: 2.1, y: 0.2, text: "Y", audioId: "Y", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Y.mp3" },
         { x: 1.3, y: 0.0, text: "Z", audioId: "Z", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Z.mp3" },
-        { x: 1.5, y: 0.0, text: "Æ", audioId: "Æ", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Æ.mp3" },
-        { x: 1.7, y: 0.0, text: "Ø", audioId: "Ø", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Ø.mp3" },
-        { x: 1.9, y: 0.0, text: "Å", audioId: "Å", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Å.mp3" },
+        { x: 1.5, y: 0.0, text: "Æ", audioId: "Æ", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/AE.mp3" },
+        { x: 1.7, y: 0.0, text: "Ø", audioId: "Ø", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/OE.mp3" },
+        { x: 1.9, y: 0.0, text: "Å", audioId: "Å", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/AO.mp3" },
     ];
     function drawAxis() {
         ctx.clearRect(0, 0, canvas.width, canvas.height); 
@@ -228,8 +228,7 @@ search: false
 <td style="text-align: center">[i]</td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=skrive"> at skrive </a><audio id="skrive" src="https://static.ordnet.dk/mp3/11046/11046982_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('skrive');" style="cursor: pointer; text-decoration: underline; color: blue;"><i class="fas fa-play"></i></span>, pige, time </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skrive">skrive</a><audio id="skrive" src="https://static.ordnet.dk/mp3/11046/11046982_1.mp3" style="display: none;"></audio><span onclick="playSound('skrive');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, pige, time </td>
 <td> musik, lille, minut, cifaret </td>
 <td> firma, firs </td>
 <td> ris, fri, riste </td>
