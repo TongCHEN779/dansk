@@ -91,10 +91,13 @@ search: false
         const span = document.createElement("span");
         span.innerText = text;
         span.className = "audio-text";
-        span.style.left = ${xPos}px;
-        span.style.top = ${yPos-5}px;
+        // Centering fix:
+        span.style.position = "absolute";
+        span.style.left = `${xPos}px`;
+        span.style.top = `${yPos}px`;
+        span.style.transform = "translate(-50%, -50%)"; // Centers text in the circle
         span.onclick = () => document.getElementById(audioId).play();
-        document.body.appendChild(span);
+        canvas.parentNode.appendChild(span); // Append to canvas container
     }
     function drawDottedDiagonal() {
         ctx.setLineDash([5, 5]); // Set dotted line pattern
@@ -164,3 +167,29 @@ search: false
 <th> Before "r" </th>
 <th> After "r" </th>
 </tr>
+<tr>
+<td rowspan="4"> i </td>
+<td><p align="center">[i:]</p></td><br>
+<td><p align="center">[i]</p></td><br>
+<td><p align="center">[i]</p></td><br>
+<td><p align="center">[i]</p></td><br>
+</tr>
+<tr>
+<td> sine, skrive, pige, time </td>
+<td> musik, lille, minut, cifaret </td>
+<td> firma, firs </td>
+<td> ris, fri, riste </td>
+</tr>
+<tr>
+<td><p align="center"></p></td><br>
+<td><p align="center">[e]</p></td><br>
+<td><p align="center">[ε]</p></td><br>
+<td><p align="center"></p></td><br>
+</tr>
+<tr>
+<td></td>
+<td> ikke, ligge, vil, hvis </td>
+<td></td>
+<td> briller, dikke </td>
+</tr>
+</table>
