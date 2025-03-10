@@ -176,9 +176,6 @@ search: false
     }
 </style>
 
-<table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
-</table>
-
 <h1 style="text-align: center;"> Front & Unlabialized </h1>
 <table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <tr>
@@ -189,23 +186,24 @@ search: false
 <th> After "r" </th>
 </tr>
 <tr>
-<td rowspan="4"><p align="center">i</p></td>
-<td align="center">[i:]</td>
-<td align="center">[i]</td>
-<td align="center">[i]</td>
-<td align="center">[i]</td>
+<td rowspan="4" style="text-align: center">i</td>
+<td style="text-align: center">[i:]</td>
+<td style="text-align: center">[i]</td>
+<td style="text-align: center">[i]</td>
+<td style="text-align: center">[i]</td>
 </tr>
 <tr>
-<td> sine, skrive, pige, time </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skrive"> at skrive </a><audio id="skrive" src="https://static.ordnet.dk/mp3/11046/11046982_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skrive');" style="cursor: pointer; text-decoration: underline; color: blue;"><i class="fas fa-play"></i></span>, pige, time </td>
 <td> musik, lille, minut, cifaret </td>
 <td> firma, firs </td>
 <td> ris, fri, riste </td>
 </tr>
 <tr>
-<td align="center"></td>
-<td align="center">[e]</td>
-<td align="center">[ε]</td>
-<td align="center"></td>
+<td style="text-align: center"></td>
+<td style="text-align: center">[e]</td>
+<td style="text-align: center">[ε]</td>
+<td style="text-align: center"></td>
 </tr>
 <tr>
 <td></td>
