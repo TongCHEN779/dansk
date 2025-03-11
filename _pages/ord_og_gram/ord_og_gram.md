@@ -336,14 +336,14 @@ search: false
 <td style="text-align: center"></td>
 </tr>
 </table>
-<h1 style="text-align: center;"> Front &amp; Unlabialized </h1>
+<h1 style="text-align: center;"> Forside &amp; Ulabialiseret </h1>
 <table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <tr>
-<th style="text-align: center"> Letter </th>
-<th style="text-align: center"> Long &amp; Open </th>
-<th style="text-align: center"> Short &amp; Closed </th>
-<th style="text-align: center"> Before "r" </th>
-<th style="text-align: center"> After "r" </th>
+<th style="text-align: center"> Bogstav </th>
+<th style="text-align: center"> Lang &amp; Åben </th>
+<th style="text-align: center"> Kort &amp; Lukket </th>
+<th style="text-align: center"> Før "r" </th>
+<th style="text-align: center"> Efter "r" </th>
 </tr>
 <tr>
 <td rowspan="4" style="text-align: center">i</td>
@@ -446,7 +446,7 @@ search: false
 <td></td>
 </tr>
 </table>
-<h1 style="text-align: center;"> Front &amp; Labialized </h1>
+<h1 style="text-align: center;"> Forside &amp; Labialiseret </h1>
 <table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <tr>
 <th style="text-align: center"> Letter </th>
@@ -506,14 +506,14 @@ search: false
 <td><a href="https://ordnet.dk/ddo/ordbog?query=drømme">drømme</a><audio id="drømme" src="https://static.ordnet.dk/mp3/11009/11009831_1.mp3" style="display: none;"></audio><span onclick="playSound('drømme');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=grøn">grøn</a><audio id="grøn" src="https://static.ordnet.dk/mp3/11018/11018958_1.mp3" style="display: none;"></audio><span onclick="playSound('grøn');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 </table>
-<h1 style="text-align: center;"> Back &amp; Labialized </h1>
+<h1 style="text-align: center;"> Bagside &amp; Labialiseret </h1>
 <table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <tr>
-<th style="text-align: center"> Letter </th>
-<th style="text-align: center"> Long &amp; Open </th>
-<th style="text-align: center"> Short &amp; Closed </th>
-<th style="text-align: center"> Before "r" </th>
-<th style="text-align: center"> After "r" </th>
+<th style="text-align: center"> Bogstav </th>
+<th style="text-align: center"> Lang &amp; Åben </th>
+<th style="text-align: center"> Kort &amp; Lukket </th>
+<th style="text-align: center"> Før "r" </th>
+<th style="text-align: center"> Efter "r" </th>
 </tr>
 <tr>
 <td rowspan="4" style="text-align: center">u</td>
@@ -603,12 +603,20 @@ search: false
 <td><a href="https://ordnet.dk/ddo/ordbog?query=råbte">råbte</a><audio id="råbte" src="https://static.ordnet.dk/mp3/11044/11044273_2.mp3" style="display: none;"></audio><span onclick="playSound('råbte');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 </table>
-<h1 style="text-align: center;"> Consonants </h1>
+<h1 style="text-align: center;"> Diftong </h1>
 <table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <tr>
-<th style="text-align: center"> Letter </th>
-<th style="text-align: center"> Sound </th>
-<th style="text-align: center"> Example </th>
+<th style="text-align: center"> Bogstav </th>
+<th style="text-align: center"> Lyd </th>
+<th style="text-align: center"> Eksempel </th>
+</tr>
+</table>
+<h1 style="text-align: center;"> Konsonanter </h1>
+<table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
+<tr>
+<th style="text-align: center"> Bogstav </th>
+<th style="text-align: center"> Lyd </th>
+<th style="text-align: center"> Eksempel </th>
 </tr>
 <tr>
 <td rowspan="2" style="text-align: center">b</td>
@@ -638,7 +646,7 @@ search: false
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gade">gade</a><audio id="gade" src="https://static.ordnet.dk/mp3/11016/11016995_1.mp3" style="display: none;"></audio><span onclick="playSound('gade');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=mad">mad</a><audio id="mad" src="https://static.ordnet.dk/mp3/11031/11031973_1.mp3" style="display: none;"></audio><span onclick="playSound('mad');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=hedde">hedde</a><audio id="hedde" src="https://static.ordnet.dk/mp3/11020/11020164_1.mp3" style="display: none;"></audio><span onclick="playSound('hedde');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
-<td rowspan="4" style="text-align: center">d</td>
+<td rowspan="3" style="text-align: center">d</td>
 <td>[t] (beginning)</td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tyve">tyve</a><audio id="tyve" src="https://static.ordnet.dk/mp3/12003/12003209_1.mp3" style="display: none;"></audio><span onclick="playSound('tyve');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=tobak">tobak</a><audio id="tobak" src="https://static.ordnet.dk/mp3/12001/12001586_1.mp3" style="display: none;"></audio><span onclick="playSound('tobak');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=til">til</a><audio id="til" src="https://static.ordnet.dk/mp3/12001/12001012_1.mp3" style="display: none;"></audio><span onclick="playSound('til');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=tysk">tysk</a><audio id="tysk" src="https://static.ordnet.dk/mp3/12003/12003196_1.mp3" style="display: none;"></audio><span onclick="playSound('tysk');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
