@@ -9,29 +9,18 @@ search: false
     body {
         margin: 0;
         padding: 0;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 100vh; /* Ensure full viewport height */
+        position: relative;
     }
-
-    #plots-container {
-        display: flex;
-        justify-content: space-evenly; /* Ensure even spacing */
-        width: 100vw; /* Take full width */
-    }
-
     #canvas-container {
-        flex: 1; /* Ensure each canvas takes equal space */
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        position: relative; /* Now, text will be positioned relative to this */
+        display: inline-block; /* Ensures the div only takes up needed space */
     }
-
     canvas {
-        width: 100%; /* Make canvas responsive */
-        max-width: 500px; /* Prevent it from stretching too much */
-        height: auto; /* Maintain aspect ratio */
+        display: block; /* Prevents extra spacing */
+        position: relative; /* Keeps canvas correctly positioned */
+        left: 0;
+        top: 0;
+        width: 100%;
     }
     .audio-text {
         position: relative;
@@ -47,21 +36,7 @@ search: false
         align-items: center;
     }
 </style>
-<div id="plots-container">
-    <div id="canvas-container"><canvas height="500" id="axisCanvas1"></canvas></div>
-    <div id="canvas-container"><canvas height="500" id="axisCanvas2"></canvas></div>
-</div>
-<script>
-    function resizeCanvases() {
-        const canvases = document.querySelectorAll("canvas");
-        canvases.forEach(canvas => {
-            canvas.width = window.innerWidth / 2 - 20; // Subtract some margin
-            canvas.height = 500; // Keep height fixed
-        });
-    }
-    window.addEventListener("resize", resizeCanvases);
-    resizeCanvases(); // Call it initially      
-</script>
+<div id="canvas-container"><canvas height="500" id="axisCanvas1" width="500"></canvas></div>
 <script>
     const canvas1 = document.getElementById("axisCanvas1");
     const ctx1 = canvas1.getContext("2d");
@@ -117,12 +92,12 @@ search: false
         span.className = "audio-text";
         // Centering fix:
         span.style.position = "absolute";
-        span.style.left = `${xPos}px`;
-        span.style.top = `${yPos-5}px`;
+        span.style.left = ${xPos}px;
+        span.style.top = ${yPos-5}px;
         span.style.transform = "translate(-50%, -50%)"; // Centers text in the circle
         span.onclick = () => {
             const audio = document.getElementById(audioId);
-            const profileImage = document.getElementById("profile-avatar");
+            const profileImage = true;
             if (audio && profileImage) {
                 if (!audio.src || audio.readyState < 2 || audio.duration === 0 || isNaN(audio.duration)) {
                     console.warn("Invalid or empty audio source.");
@@ -156,6 +131,7 @@ search: false
         plotAudioText(sound.x, sound.y, sound.text, sound.audioId);
     });
 </script>
+<div id="canvas-container"><canvas height="500" id="axisCanvas2" width="500"></canvas></div>
 <script>
     const canvas2 = document.getElementById("axisCanvas2");
     const ctx2 = canvas2.getContext("2d");
@@ -205,8 +181,8 @@ search: false
         span.className = "audio-text";
         // Centering fix:
         span.style.position = "absolute";
-        span.style.left = `${xPos}px`;
-        span.style.top = `${yPos-5}px`;
+        span.style.left = ${xPos}px;
+        span.style.top = ${yPos-5}px;
         span.style.transform = "translate(-50%, -50%)"; // Centers text in the circle
         span.onclick = () => {
             const audio = document.getElementById(audioId);
@@ -233,6 +209,27 @@ search: false
         document.body.appendChild(audio);
         plotAudioText(sound.x, sound.y, sound.text, sound.audioId);
     });
+</script>
+<script>
+    function playSound(soundId) {
+        var audioElement = document.getElementById(soundId);
+        var profileImage = document.getElementById("profile-avatar");
+        if (audioElement && profileImage) {
+            // Check if the audio has valid content
+            if (!audioElement.src || audioElement.readyState < 2 || audioElement.duration === 0 || isNaN(audioElement.duration)) {
+                console.warn("Invalid or empty audio source.");
+                return;
+            }
+            // Change image to "speaking" version
+            profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
+            // Play audio
+            audioElement.play();
+            // When audio ends, revert image back
+            audioElement.onended = function () {
+                profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
+            };
+        }
+    }
 </script>
 <script>
     function playSound(soundId) {
@@ -534,8 +531,34 @@ search: false
 </tr>
 <tr>
 <td></td>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=måtte">måtte</a><audio id="måtte" src="https://static.ordnet.dk/mp3/11035/11035202_1.mp3" style="display: none;"></audio><span onclick="playSound('måtte');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?select=s%C3%A5,3&query=s%C3%A5">så</a><audio id="så" src="https://static.ordnet.dk/mp3/11052/11052531_2.mp3" style="display: none;"></audio><span onclick="playSound('så');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=måtte">måtte</a><audio id="måtte" src="https://static.ordnet.dk/mp3/11035/11035202_1.mp3" style="display: none;"></audio><span onclick="playSound('måtte');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?select=s%C3%A5,3&amp;query=s%C3%A5">så</a><audio id="så" src="https://static.ordnet.dk/mp3/11052/11052531_2.mp3" style="display: none;"></audio><span onclick="playSound('så');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dårlig">dårlig</a><audio id="dårlig" src="https://static.ordnet.dk/mp3/11010/11010436_1.mp3" style="display: none;"></audio><span onclick="playSound('dårlig');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=hård">hård</a><audio id="hård" src="https://static.ordnet.dk/mp3/11022/11022665_1.mp3" style="display: none;"></audio><span onclick="playSound('hård');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=råbte">råbte</a><audio id="råbte" src="https://static.ordnet.dk/mp3/11044/11044273_2.mp3" style="display: none;"></audio><span onclick="playSound('råbte');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
+</tr>
+</table>
+<h1 style="text-align: center;"> Consonants </h1>
+<table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
+<tr>
+<th style="text-align: center"> Letter </th>
+<th style="text-align: center"> Sound </th>
+<th style="text-align: center"> Example </th>
+</tr>
+<tr>
+<td rowspan="2" style="text-align: center">b</td>
+<td>[b] (beginning)</td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=blive">blive</a><audio id="blive" src="https://static.ordnet.dk/mp3/11005/11005152_1.mp3" style="display: none;"></audio><span onclick="playSound('blive');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=bar">bar</a><audio id="bar" src="https://static.ordnet.dk/mp3/11003/11003447_1.mp3" style="display: none;"></audio><span onclick="playSound('bar');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=begynde">begynde</a><audio id="begynde" src="https://static.ordnet.dk/mp3/11003/11003885_1.mp3" style="display: none;"></audio><span onclick="playSound('begynde');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
+</tr>
+<tr>
+<td>[w] (vowel-"b"-vowel)</td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=peber">peber</a><audio id="peber" src="https://static.ordnet.dk/mp3/11039/11039221_1.mp3" style="display: none;"></audio><span onclick="playSound('peber');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
+</tr>
+<tr>
+<td rowspan="2" style="text-align: center">p</td>
+<td>[p] (beginning)</td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pige">pige</a><audio id="pige" src="https://static.ordnet.dk/mp3/11039/11039666_1.mp3" style="display: none;"></audio><span onclick="playSound('pige');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=peber">peber</a><audio id="peber" src="https://static.ordnet.dk/mp3/11039/11039221_1.mp3" style="display: none;"></audio><span onclick="playSound('peber');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=pesto">pesto</a><audio id="pesto" src="https://static.ordnet.dk/mp3/11039/11039571_1.mp3" style="display: none;"></audio><span onclick="playSound('pesto');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
+</tr>
+<tr>
+<td>[b] ("sp", "pp")</td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=spise">spise</a><audio id="spise" src="https://static.ordnet.dk/mp3/11049/11049249_1.mp3" style="display: none;"></audio><span onclick="playSound('spise');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=spørge">spørge</a><audio id="spørge" src="https://static.ordnet.dk/mp3/11049/11049635_2.mp3" style="display: none;"></audio><span onclick="playSound('spørge');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=oppe">oppe</a><audio id="oppe" src="https://static.ordnet.dk/mp3/11037/11037602_1.mp3" style="display: none;"></audio><span onclick="playSound('oppe');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 </table>
