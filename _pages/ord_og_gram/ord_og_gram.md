@@ -92,12 +92,12 @@ search: false
         span.className = "audio-text";
         // Centering fix:
         span.style.position = "absolute";
-        span.style.left = ${xPos}px;
-        span.style.top = ${yPos-5}px;
+        span.style.left = `${xPos}px`;
+        span.style.top = `${yPos-5}px`;
         span.style.transform = "translate(-50%, -50%)"; // Centers text in the circle
         span.onclick = () => {
             const audio = document.getElementById(audioId);
-            const profileImage = true;
+            const profileImage = document.getElementById("profile-avatar");
             if (audio && profileImage) {
                 if (!audio.src || audio.readyState < 2 || audio.duration === 0 || isNaN(audio.duration)) {
                     console.warn("Invalid or empty audio source.");
@@ -181,8 +181,8 @@ search: false
         span.className = "audio-text";
         // Centering fix:
         span.style.position = "absolute";
-        span.style.left = ${xPos}px;
-        span.style.top = ${yPos-5}px;
+        span.style.left = `${xPos}px`;
+        span.style.top = `${yPos-5}px`;
         span.style.transform = "translate(-50%, -50%)"; // Centers text in the circle
         span.onclick = () => {
             const audio = document.getElementById(audioId);
