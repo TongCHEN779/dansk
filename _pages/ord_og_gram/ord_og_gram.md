@@ -342,7 +342,7 @@ search: false
 <th style="text-align: center"> Bogstav </th>
 <th style="text-align: center"> Lang &amp; Åben </th>
 <th style="text-align: center"> Kort &amp; Lukket </th>
-<th style="text-align: center"> Før "r" </th>
+<th style="text-align: center"> Foran "r" </th>
 <th style="text-align: center"> Efter "r" </th>
 </tr>
 <tr>
@@ -423,7 +423,7 @@ search: false
 <tr>
 <td rowspan="4" style="text-align: center">a</td>
 <td style="text-align: center">[æ:/ε:]</td>
-<td style="text-align: center">[a/a̝] (before d, l, n, s, t)</td>
+<td style="text-align: center">[a/a̝] (foran d, l, n, s, t)</td>
 <td style="text-align: center">[ɑ/ɑ̈]</td>
 <td style="text-align: center">[ɑ/ɑ̈] eller [ɑ:/ɑ̈:]</td>
 </tr>
@@ -435,7 +435,7 @@ search: false
 </tr>
 <tr>
 <td style="text-align: center"></td>
-<td style="text-align: center">[ɑ/ɑ̈] (before m, f, k, p, g, nk, ng)</td>
+<td style="text-align: center">[ɑ/ɑ̈] (foran m, f, k, p, g, nk, ng)</td>
 <td style="text-align: center"></td>
 <td style="text-align: center"></td>
 </tr>
@@ -449,11 +449,11 @@ search: false
 <h1 style="text-align: center;"> Forside &amp; Labialiseret </h1>
 <table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <tr>
-<th style="text-align: center"> Letter </th>
-<th style="text-align: center"> Long &amp; Open </th>
-<th style="text-align: center"> Short &amp; Closed </th>
-<th style="text-align: center"> Before "r" </th>
-<th style="text-align: center"> After "r" </th>
+<th style="text-align: center"> Bogstav </th>
+<th style="text-align: center"> Lang &amp; Åben </th>
+<th style="text-align: center"> Kort &amp; Lukket </th>
+<th style="text-align: center"> Foran "r" </th>
+<th style="text-align: center"> Efter "r" </th>
 </tr>
 <tr>
 <td rowspan="4" style="text-align: center">y</td>
@@ -495,7 +495,7 @@ search: false
 </tr>
 <tr>
 <td style="text-align: center"></td>
-<td style="text-align: center">[œ/œ̝] (before m, n, v)</td>
+<td style="text-align: center">[œ/œ̝] (foran m, n, v)</td>
 <td style="text-align: center">[ɶ/ɶ̝] eller [ɶ:/ɶ̝:]</td>
 <td style="text-align: center">[ɶ/ɶ̝] eller [ɶ:/ɶ̝:]</td>
 </tr>
@@ -512,7 +512,7 @@ search: false
 <th style="text-align: center"> Bogstav </th>
 <th style="text-align: center"> Lang &amp; Åben </th>
 <th style="text-align: center"> Kort &amp; Lukket </th>
-<th style="text-align: center"> Før "r" </th>
+<th style="text-align: center"> Foran "r" </th>
 <th style="text-align: center"> Efter "r" </th>
 </tr>
 <tr>
@@ -670,16 +670,16 @@ search: false
 </tr>
 <tr>
 <td rowspan="2" style="text-align: center">b</td>
-<td>[b] (beginning)</td>
+<td>[b] (begyndelse)</td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=blive">blive</a><audio id="blive" src="https://static.ordnet.dk/mp3/11005/11005152_1.mp3" style="display: none;"></audio><span onclick="playSound('blive');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=bar">bar</a><audio id="bar" src="https://static.ordnet.dk/mp3/11003/11003447_1.mp3" style="display: none;"></audio><span onclick="playSound('bar');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=begynde">begynde</a><audio id="begynde" src="https://static.ordnet.dk/mp3/11003/11003885_1.mp3" style="display: none;"></audio><span onclick="playSound('begynde');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
-<td>[w] (vowel-"b"-vowel)</td>
+<td>[w] (vokal-"b"-vokal)</td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=peber">peber</a><audio id="peber" src="https://static.ordnet.dk/mp3/11039/11039221_1.mp3" style="display: none;"></audio><span onclick="playSound('peber');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
 <td rowspan="2" style="text-align: center">p</td>
-<td>[p] (beginning)</td>
+<td>[p] (begyndelse)</td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=pige">pige</a><audio id="pige" src="https://static.ordnet.dk/mp3/11039/11039666_1.mp3" style="display: none;"></audio><span onclick="playSound('pige');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=peber">peber</a><audio id="peber" src="https://static.ordnet.dk/mp3/11039/11039221_1.mp3" style="display: none;"></audio><span onclick="playSound('peber');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=pesto">pesto</a><audio id="pesto" src="https://static.ordnet.dk/mp3/11039/11039571_1.mp3" style="display: none;"></audio><span onclick="playSound('pesto');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
@@ -688,16 +688,16 @@ search: false
 </tr>
 <tr>
 <td rowspan="2" style="text-align: center">d</td>
-<td>[d] (beginning)</td>
+<td>[d] (begyndelse)</td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=du">du</a><audio id="du" src="https://static.ordnet.dk/mp3/11009/11009868_1.mp3" style="display: none;"></audio><span onclick="playSound('du');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=det">det</a><audio id="det" src="https://static.ordnet.dk/mp3/11008/11008911_1.mp3" style="display: none;"></audio><span onclick="playSound('det');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=diagram">diagram</a><audio id="diagram" src="https://static.ordnet.dk/mp3/11008/11008983_1.mp3" style="display: none;"></audio><span onclick="playSound('diagram');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
-<td>[ð] (vowel-"d"-vowel, vowel-"d"-end, "dd")</td>
+<td>[ð] (vokal-"d"-vokal, vokal-"d"-ende, "dd")</td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gade">gade</a><audio id="gade" src="https://static.ordnet.dk/mp3/11016/11016995_1.mp3" style="display: none;"></audio><span onclick="playSound('gade');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=mad">mad</a><audio id="mad" src="https://static.ordnet.dk/mp3/11031/11031973_1.mp3" style="display: none;"></audio><span onclick="playSound('mad');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=hedde">hedde</a><audio id="hedde" src="https://static.ordnet.dk/mp3/11020/11020164_1.mp3" style="display: none;"></audio><span onclick="playSound('hedde');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
 <td rowspan="3" style="text-align: center">d</td>
-<td>[t] (beginning)</td>
+<td>[t] (begyndelse)</td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tyve">tyve</a><audio id="tyve" src="https://static.ordnet.dk/mp3/12003/12003209_1.mp3" style="display: none;"></audio><span onclick="playSound('tyve');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=tobak">tobak</a><audio id="tobak" src="https://static.ordnet.dk/mp3/12001/12001586_1.mp3" style="display: none;"></audio><span onclick="playSound('tobak');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=til">til</a><audio id="til" src="https://static.ordnet.dk/mp3/12001/12001012_1.mp3" style="display: none;"></audio><span onclick="playSound('til');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=tysk">tysk</a><audio id="tysk" src="https://static.ordnet.dk/mp3/12003/12003196_1.mp3" style="display: none;"></audio><span onclick="playSound('tysk');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
@@ -705,12 +705,12 @@ search: false
 <td><a href="https://ordnet.dk/ddo/ordbog?query=storm">storm</a><audio id="storm" src="https://static.ordnet.dk/mp3/11050/11050546_1.mp3" style="display: none;"></audio><span onclick="playSound('storm');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=sytten">sytten</a><audio id="sytten" src="https://static.ordnet.dk/mp3/11052/11052129_1.mp3" style="display: none;"></audio><span onclick="playSound('sytten');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
-<td>[ð] (vowel-"t"-end)</td>
+<td>[ð] (vokal-"t"-ende)</td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=etableret">etableret</a><audio id="etableret" src="https://static.ordnet.dk/mp3/11011/11011824_1.mp3" style="display: none;"></audio><span onclick="playSound('etableret');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=meget">meget</a><audio id="meget" src="https://static.ordnet.dk/mp3/11032/11032996_2.mp3" style="display: none;"></audio><span onclick="playSound('meget');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
 <td rowspan="2" style="text-align: center">k</td>
-<td>[k] (beginning)</td>
+<td>[k] (begyndelse)</td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=krone">krone</a><audio id="krone" src="https://static.ordnet.dk/mp3/11028/11028194_1.mp3" style="display: none;"></audio><span onclick="playSound('krone');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=kaffe">kaffe</a><audio id="kaffe" src="https://static.ordnet.dk/mp3/11024/11024929_1.mp3" style="display: none;"></audio><span onclick="playSound('kaffe');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=køb">køb</a><audio id="køb" src="https://static.ordnet.dk/mp3/11029/11029139_1.mp3" style="display: none;"></audio><span onclick="playSound('køb');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=kun">kun</a><audio id="kun" src="https://static.ordnet.dk/mp3/11028/11028602_1.mp3" style="display: none;"></audio><span onclick="playSound('kun');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
@@ -719,11 +719,11 @@ search: false
 </tr>
 <tr>
 <td rowspan="3" style="text-align: center">g</td>
-<td>[g] (beginning)</td>
+<td>[g] (begyndelse)</td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gerne">gerne</a><audio id="gerne" src="https://static.ordnet.dk/mp3/11017/11017883_1.mp3" style="display: none;"></audio><span onclick="playSound('gerne');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=glas">glas</a><audio id="glas" src="https://static.ordnet.dk/mp3/11018/11018095_1.mp3" style="display: none;"></audio><span onclick="playSound('glas');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=gulv">gulv</a><audio id="gulv" src="https://static.ordnet.dk/mp3/11019/11019216_1.mp3" style="display: none;"></audio><span onclick="playSound('gulv');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=godt">godt</a><audio id="godt" src="https://static.ordnet.dk/mp3/11018/11018364_1.mp3" style="display: none;"></audio><span onclick="playSound('godt');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
-<td>[w] ("og/ug/åg"-vowel, word-word, "r"-vowel-"g")</td>
+<td>[w] ("og/ug/åg"-vokal, ord-ord, "r"-vokal-"g")</td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bog">bog</a><audio id="bog" src="https://static.ordnet.dk/mp3/11005/11005503_1.mp3" style="display: none;"></audio><span onclick="playSound('bog');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=uge">uge</a><audio id="uge" src="https://static.ordnet.dk/mp3/12004/12004441_1.mp3" style="display: none;"></audio><span onclick="playSound('uge');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=dagpenge">dagpenge</a><audio id="dagpenge" src="https://static.ordnet.dk/mp3/11008/11008245_1.mp3" style="display: none;"></audio><span onclick="playSound('dagpenge');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=krage">krage</a><audio id="krage" src="https://static.ordnet.dk/mp3/11027/11027895_1.mp3" style="display: none;"></audio><span onclick="playSound('krage');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
