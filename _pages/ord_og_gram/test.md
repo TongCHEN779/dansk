@@ -3,11 +3,6 @@
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gade">gade</a><audio id="gade" src="https://static.ordnet.dk/mp3/11016/11016995_1.mp3" style="display: none;"></audio><span onclick="playSound('gade');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=mad">mad</a><audio id="mad" src="https://static.ordnet.dk/mp3/11031/11031973_1.mp3" style="display: none;"></audio><span onclick="playSound('mad');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=hedde">hedde</a><audio id="hedde" src="https://static.ordnet.dk/mp3/11020/11020164_1.mp3" style="display: none;"></audio><span onclick="playSound('hedde');" style="cursor: pointer; text-decoration: underline; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
-<td>[j-] ("ag/øg/yg")</td>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=syge">syge</a><audio id="syge" src="https://static.ordnet.dk/mp3/11051/11051922_1.mp3" style="display: none;"></audio><span onclick="playSound('syge');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈsyːə]</span>, <a href="https://ordnet.dk/ddo/ordbog?query=dag">dag</a><audio id="dag" src="https://static.ordnet.dk/mp3/11008/11008205_1.mp3" style="display: none;"></audio><span onclick="playSound('dag');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈdæˀ]</span>, <a href="https://ordnet.dk/ddo/ordbog?query=øge">øge</a><audio id="øge" src="" style="display: none;"></audio><span onclick="playSound('øge');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈøːjə]</span>, <a href="https://ordnet.dk/ddo/ordbog?query=pige">pige</a><audio id="pige" src="https://static.ordnet.dk/mp3/11039/11039666_1.mp3" style="display: none;"></audio><span onclick="playSound('pige');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈpiːə]</span></td>
-</tr>
-<tr>
-<td style="text-align: center">dt</td>
-<td>[t]</td>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=lidt">lidt</a><audio id="lidt" src="https://static.ordnet.dk/mp3/11025/11025973_1.mp3" style="display: none;"></audio><span onclick="playSound('lidt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈlit]</span>, <a href="https://ordnet.dk/ddo/ordbog?query=godt">godt</a><audio id="godt" src="https://static.ordnet.dk/mp3/11017/11017973_1.mp3" style="display: none;"></audio><span onclick="playSound('godt');" style="cursor: pointer; text-decoration: underline; color: blue;">[ˈgʌt]</span></td>
+<td>[w]</td>
+<td></td>
 </tr>
