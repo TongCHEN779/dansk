@@ -9,18 +9,29 @@ search: false
     body {
         margin: 0;
         padding: 0;
-        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh; /* Ensure full viewport height */
     }
+
+    #plots-container {
+        display: flex;
+        justify-content: space-evenly; /* Ensure even spacing */
+        width: 100vw; /* Take full width */
+    }
+
     #canvas-container {
-        position: relative; /* Now, text will be positioned relative to this */
-        display: inline-block; /* Ensures the div only takes up needed space */
+        flex: 1; /* Ensure each canvas takes equal space */
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
+
     canvas {
-        display: block; /* Prevents extra spacing */
-        position: relative; /* Keeps canvas correctly positioned */
-        left: 0;
-        top: 0;
-        width: 100%;
+        width: 100%; /* Make canvas responsive */
+        max-width: 500px; /* Prevent it from stretching too much */
+        height: auto; /* Maintain aspect ratio */
     }
     .audio-text {
         position: relative;
@@ -36,7 +47,21 @@ search: false
         align-items: center;
     }
 </style>
-<div id="canvas-container"><canvas height="500" id="axisCanvas1" width="500"></canvas></div>
+<div id="plots-container">
+    <div id="canvas-container"><canvas height="500" id="axisCanvas1"></canvas></div>
+    <div id="canvas-container"><canvas height="500" id="axisCanvas2"></canvas></div>
+</div>
+<script>
+    function resizeCanvases() {
+        const canvases = document.querySelectorAll("canvas");
+        canvases.forEach(canvas => {
+            canvas.width = window.innerWidth / 2 - 20; // Subtract some margin
+            canvas.height = 500; // Keep height fixed
+        });
+    }
+    window.addEventListener("resize", resizeCanvases);
+    resizeCanvases(); // Call it initially      
+</script>
 <script>
     const canvas1 = document.getElementById("axisCanvas1");
     const ctx1 = canvas1.getContext("2d");
@@ -131,7 +156,6 @@ search: false
         plotAudioText(sound.x, sound.y, sound.text, sound.audioId);
     });
 </script>
-<div id="canvas-container"><canvas height="500" id="axisCanvas2" width="500"></canvas></div>
 <script>
     const canvas2 = document.getElementById("axisCanvas2");
     const ctx2 = canvas2.getContext("2d");
