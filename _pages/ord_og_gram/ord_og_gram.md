@@ -495,7 +495,7 @@ search: false
 </tr>
 <tr>
 <td style="text-align: center"></td>
-<td style="text-align: center">[œ/œ̝]</td>
+<td style="text-align: center">[œ/œ̝] (before m, n, v)</td>
 <td style="text-align: center">[ɶ/ɶ̝] eller [ɶ:/ɶ̝:]</td>
 <td style="text-align: center">[ɶ/ɶ̝] eller [ɶ:/ɶ̝:]</td>
 </tr>
