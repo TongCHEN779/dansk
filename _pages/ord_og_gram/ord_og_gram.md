@@ -20,10 +20,10 @@ search: false
         position: relative; /* Keeps canvas correctly positioned */
         left: 0;
         top: 0;
-        width: 100%;
+        width: 50%;
     }
     .audio-text {
-        position: absolute;
+        position: relative;
         cursor: pointer;
         text-decoration: underline;
         color: blue;
@@ -104,16 +104,16 @@ search: false
         span.style.transform = "translate(-50%, -50%)"; // Centers text in the circle
         span.onclick = () => {
             const audio = document.getElementById(audioId);
-            if (audio) {
+            if (audio && profileImage) {
                 const profileImage = document.getElementById("profile-avatar");
-                if (profileImage) {
-                    profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
+                if (!audio.src || audio.readyState < 2 || audio.duration === 0 || isNaN(audio.duration)) {
+                    console.warn("Invalid or empty audio source.");
+                    return;
                 }
+                profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
                 audio.play();
                 audio.onended = () => {
-                    if (profileImage) {
-                        profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
-                    }
+                    profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
                 };
             }
         };
@@ -194,16 +194,16 @@ search: false
         span.style.transform = "translate(-50%, -50%)"; // Centers text in the circle
         span.onclick = () => {
             const audio = document.getElementById(audioId);
-            if (audio) {
+            if (audio && profileImage) {
                 const profileImage = document.getElementById("profile-avatar");
-                if (profileImage) {
-                    profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
+                if (!audio.src || audio.readyState < 2 || audio.duration === 0 || isNaN(audio.duration)) {
+                    console.warn("Invalid or empty audio source.");
+                    return;
                 }
+                profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
                 audio.play();
                 audio.onended = () => {
-                    if (profileImage) {
-                        profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
-                    }
+                    profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
                 };
             }
         };
