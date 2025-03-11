@@ -20,6 +20,7 @@ search: false
         position: relative; /* Keeps canvas correctly positioned */
         left: 0;
         top: 0;
+        width: 100%;
     }
     .audio-text {
         position: absolute;
@@ -105,10 +106,6 @@ search: false
             const audio = document.getElementById(audioId);
             if (audio) {
                 const profileImage = document.getElementById("profile-avatar");
-                if (!audio.src || audio.readyState < 2 || audio.duration === 0 || isNaN(audio.duration)) {
-                    console.warn("Invalid or empty audio source.");
-                    return;
-                }
                 if (profileImage) {
                     profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
                 }
@@ -142,40 +139,40 @@ search: false
     });
 </script>
 
-<div id="canvas-container"><canvas height="500" id="axisCanvas2" width="1000"></canvas></div>
+<div id="canvas-container"><canvas height="500" id="axisCanvas2" width="500"></canvas></div>
 <script>
     const canvas2 = document.getElementById("axisCanvas2");
     const ctx2 = canvas2.getContext("2d");
     const sounds2 = [
-        { x: .3, y: 1.0, text: "A", audioId: "A", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/A.mp3" },
-        { x: .5, y: 1.0, text: "B", audioId: "B", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/B.mp3" },
-        { x: .7, y: 1.0, text: "C", audioId: "C", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/C.mp3" },
-        { x: .9, y: 1.0, text: "D", audioId: "D", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/D.mp3" },
-        { x: 1.1, y: 1.0, text: "E", audioId: "E", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/E.mp3" },
-        { x: .3, y: .8, text: "F", audioId: "F", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/F.mp3" },
-        { x: .5, y: .8, text: "G", audioId: "G", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/G.mp3" },
-        { x: .7, y: .8, text: "H", audioId: "H", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/H.mp3" },
-        { x: .9, y: .8, text: "I", audioId: "I", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/I.mp3" },
-        { x: 1.1, y: .8, text: "J", audioId: "J", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/J.mp3" },
-        { x: .3, y: .6, text: "K", audioId: "K", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/K.mp3" },
-        { x: .5, y: .6, text: "L", audioId: "L", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/L.mp3" },
-        { x: .7, y: .6, text: "M", audioId: "M", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/M.mp3" },
-        { x: .9, y: .6, text: "N", audioId: "N", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/N.mp3" },
-        { x: 1.1, y: .6, text: "O", audioId: "O", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/O.mp3" },
-        { x: .3, y: .4, text: "P", audioId: "P", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/P.mp3" },
-        { x: .5, y: .4, text: "Q", audioId: "Q", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Q.mp3" },
-        { x: .7, y: .4, text: "R", audioId: "R", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/R.mp3" },
-        { x: .9, y: .4, text: "S", audioId: "S", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/S.mp3" },
-        { x: 1.1, y: .4, text: "T", audioId: "T", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/T.mp3" },
-        { x: .3, y: .2, text: "U", audioId: "U", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/U.mp3" },
-        { x: .5, y: .2, text: "V", audioId: "V", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/V.mp3" },
-        { x: .7, y: .2, text: "W", audioId: "W", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/W.mp3" },
-        { x: .9, y: .2, text: "X", audioId: "X", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/X.mp3" },
-        { x: 1.1, y: .2, text: "Y", audioId: "Y", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Y.mp3" },
-        { x: .3, y: .0, text: "Z", audioId: "Z", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Z.mp3" },
-        { x: .5, y: .0, text: "Æ", audioId: "Æ", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/AE.mp3" },
-        { x: .7, y: .0, text: "Ø", audioId: "Ø", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/OE.mp3" },
-        { x: .9, y: .0, text: "Å", audioId: "Å", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/AO.mp3" }
+        { x: .0, y: 1.0, text: "A", audioId: "A", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/A.mp3" },
+        { x: .2, y: 1.0, text: "B", audioId: "B", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/B.mp3" },
+        { x: .4, y: 1.0, text: "C", audioId: "C", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/C.mp3" },
+        { x: .6, y: 1.0, text: "D", audioId: "D", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/D.mp3" },
+        { x: .8, y: 1.0, text: "E", audioId: "E", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/E.mp3" },
+        { x: .0, y: .8, text: "F", audioId: "F", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/F.mp3" },
+        { x: .2, y: .8, text: "G", audioId: "G", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/G.mp3" },
+        { x: .4, y: .8, text: "H", audioId: "H", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/H.mp3" },
+        { x: .6, y: .8, text: "I", audioId: "I", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/I.mp3" },
+        { x: .8, y: .8, text: "J", audioId: "J", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/J.mp3" },
+        { x: .0, y: .6, text: "K", audioId: "K", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/K.mp3" },
+        { x: .2, y: .6, text: "L", audioId: "L", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/L.mp3" },
+        { x: .4, y: .6, text: "M", audioId: "M", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/M.mp3" },
+        { x: .6, y: .6, text: "N", audioId: "N", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/N.mp3" },
+        { x: .8, y: .6, text: "O", audioId: "O", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/O.mp3" },
+        { x: .0, y: .4, text: "P", audioId: "P", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/P.mp3" },
+        { x: .2, y: .4, text: "Q", audioId: "Q", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Q.mp3" },
+        { x: .4, y: .4, text: "R", audioId: "R", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/R.mp3" },
+        { x: .6, y: .4, text: "S", audioId: "S", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/S.mp3" },
+        { x: .8, y: .4, text: "T", audioId: "T", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/T.mp3" },
+        { x: .0, y: .2, text: "U", audioId: "U", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/U.mp3" },
+        { x: .2, y: .2, text: "V", audioId: "V", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/V.mp3" },
+        { x: .4, y: .2, text: "W", audioId: "W", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/W.mp3" },
+        { x: .6, y: .2, text: "X", audioId: "X", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/X.mp3" },
+        { x: .8, y: .2, text: "Y", audioId: "Y", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Y.mp3" },
+        { x: .0, y: .0, text: "Z", audioId: "Z", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/Z.mp3" },
+        { x: .2, y: .0, text: "Æ", audioId: "Æ", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/AE.mp3" },
+        { x: .4, y: .0, text: "Ø", audioId: "Ø", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/OE.mp3" },
+        { x: .6, y: .0, text: "Å", audioId: "Å", audioSrc: "https://tongchen779.github.io/dansk/files/Alphabet/AO.mp3" }
     ];
     function plotAudioText(x, y, text, audioId) {
         const xPos = 50 + x * 400; // Scale X (0 to 1)
