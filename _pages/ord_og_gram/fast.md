@@ -1227,8 +1227,6 @@ search: true
 </tr>
 </table>
 
-<br>
-
 <h1 style="text-align: center;"> Danske idiomer </h1>
 <style>
     table {
