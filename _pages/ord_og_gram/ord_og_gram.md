@@ -661,7 +661,7 @@ search: false
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dovne">dovne</a><audio id="dovne" src="https://static.ordnet.dk/mp3/11009/11009559_1.mp3" style="display: none;"></audio><span onclick="playSound('dovne');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=vogn">vogn</a><audio id="vogn" src="https://static.ordnet.dk/mp3/12007/12007152_1.mp3" style="display: none;"></audio><span onclick="playSound('vogn');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 </table>
-<h1 style="text-align: center;"> Konsonanter </h1>
+<h1 style="text-align: center;"> Danske Konsonanter </h1>
 <table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <tr>
 <th style="text-align: center"> Bogstav </th>
