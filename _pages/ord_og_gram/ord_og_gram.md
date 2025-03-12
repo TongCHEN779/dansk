@@ -710,7 +710,7 @@ search: false
 </tr>
 <tr>
 <td rowspan="2" style="text-align: center">k</td>
-<td>[k] (begyndelse)</td>
+<td>[k/g̊ʰ] (begyndelse)</td>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=krone">krone</a><audio id="krone" src="https://static.ordnet.dk/mp3/11028/11028194_1.mp3" style="display: none;"></audio><span onclick="playSound('krone');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=kaffe">kaffe</a><audio id="kaffe" src="https://static.ordnet.dk/mp3/11024/11024929_1.mp3" style="display: none;"></audio><span onclick="playSound('kaffe');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=køb">køb</a><audio id="køb" src="https://static.ordnet.dk/mp3/11029/11029139_1.mp3" style="display: none;"></audio><span onclick="playSound('køb');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=kun">kun</a><audio id="kun" src="https://static.ordnet.dk/mp3/11028/11028602_1.mp3" style="display: none;"></audio><span onclick="playSound('kun');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 <tr>
