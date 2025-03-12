@@ -231,9 +231,6 @@ search: false
         }
     }
 </script> -->
-<!doctype html>
-<html lang="en">
-<meta charset="utf-8">
 <script>
     function playSound(soundId) {
         var audioElement = document.getElementById(soundId);
@@ -272,30 +269,6 @@ search: false
         text-align: left;
     }
 </style>
-<h1 style="text-align: center;"> Danske Vokaler (tv: tegn i DDO, th: nøjagtig IPA) </h1>
-<table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
-<tr>
-<td style="text-align: center"><audio id="i" src="https://tongchen779.github.io/dansk/files/vowel/i.mp3" style="display: none;"></audio><span onclick="playSound('i');" style="cursor: pointer; color: blue;">[i/i]</span></td>
-<td style="text-align: center"><audio id="e" src="https://tongchen779.github.io/dansk/files/vowel/e.mp3" style="display: none;"></audio><span onclick="playSound('e');" style="cursor: pointer; color: blue;">[e/e̝]</span></td>
-<td style="text-align: center"><audio id="ε" src="https://tongchen779.github.io/dansk/files/vowel/ε.mp3" style="display: none;"></audio><span onclick="playSound('ε');" style="cursor: pointer; color: blue;">[ε/e]</span></td>
-<td style="text-align: center"><audio id="æ" src="https://tongchen779.github.io/dansk/files/vowel/æ.mp3" style="display: none;"></audio><span onclick="playSound('æ');" style="cursor: pointer; color: blue;">[æ/ε]</span></td>
-<td style="text-align: center"><audio id="ɑ" src="https://tongchen779.github.io/dansk/files/vowel/a.mp3" style="display: none;"></audio><span onclick="playSound('ɑ');" style="cursor: pointer; color: blue;">[ɑ/ɑ̈]</span></td>
-</tr>
-<tr>
-<td style="text-align: center"><audio id="y" src="https://tongchen779.github.io/dansk/files/vowel/y.mp3" style="display: none;"></audio><span onclick="playSound('y');" style="cursor: pointer; color: blue;">[y/y]</span></td>
-<td style="text-align: center"><audio id="ø" src="https://tongchen779.github.io/dansk/files/vowel/ø.mp3" style="display: none;"></audio><span onclick="playSound('ø');" style="cursor: pointer; color: blue;">[ø/ø̞]</span></td>
-<td style="text-align: center"><audio id="œ" src="https://tongchen779.github.io/dansk/files/vowel/œ.mp3" style="display: none;"></audio><span onclick="playSound('œ');" style="cursor: pointer; color: blue;">[œ/œ̝]</span></td>
-<td style="text-align: center"><audio id="ɶ" src="https://tongchen779.github.io/dansk/files/vowel/ɶ.mp3" style="display: none;"></audio><span onclick="playSound('ɶ');" style="cursor: pointer; color: blue;">[ɶ/ɶ̝]</span></td>
-<td style="text-align: center"><audio id="ə" src="https://tongchen779.github.io/dansk/files/vowel/ə.mp3" style="display: none;"></audio><span onclick="playSound('ə');" style="cursor: pointer; color: blue;">[ə/ə]</span></td>
-</tr>
-<tr>
-<td style="text-align: center"><audio id="u" src="https://tongchen779.github.io/dansk/files/vowel/u.mp3" style="display: none;"></audio><span onclick="playSound('u');" style="cursor: pointer; color: blue;">[u/u]</span></td>
-<td style="text-align: center"><audio id="o" src="https://tongchen779.github.io/dansk/files/vowel/o.mp3" style="display: none;"></audio><span onclick="playSound('o');" style="cursor: pointer; color: blue;">[o/o̝]</span></td>
-<td style="text-align: center"><audio id="ɔ" src="https://tongchen779.github.io/dansk/files/vowel/ɔ.mp3" style="display: none;"></audio><span onclick="playSound('ɔ');" style="cursor: pointer; color: blue;">[ɔ/ɔ̟̝]</span></td>
-<td style="text-align: center"><audio id="ɒ" src="https://tongchen779.github.io/dansk/files/vowel/ɒ.mp3" style="display: none;"></audio><span onclick="playSound('ɒ');" style="cursor: pointer; color: blue;">[ɒ/ɔ̞]</span></td>
-<td style="text-align: center"><audio id="ʌ" src="https://tongchen779.github.io/dansk/files/vowel/ʌ.mp3" style="display: none;"></audio><span onclick="playSound('ʌ');" style="cursor: pointer; color: blue;">[ʌ/ʌ̟̞̹]</span></td>
-</tr>
-</table>
 <h1 style="text-align: center;"> Dansk Alfabet </h1>
 <table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <tr>
@@ -337,6 +310,30 @@ search: false
 <td style="text-align: center"><audio id="Ø" src="https://tongchen779.github.io/dansk/files/alphabet/OE.mp3" style="display: none;"></audio><span onclick="playSound('Ø');" style="cursor: pointer; color: blue;">Ø/ø</span></td>
 <td style="text-align: center"><audio id="Å" src="https://tongchen779.github.io/dansk/files/alphabet/AO.mp3" style="display: none;"></audio><span onclick="playSound('Å');" style="cursor: pointer; color: blue;">Å/å</span></td>
 <td style="text-align: center"></td>
+</tr>
+</table>
+<h1 style="text-align: center;"> Danske Vokaler (tv: tegn i DDO, th: nøjagtig IPA) </h1>
+<table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
+<tr>
+<td style="text-align: center"><audio id="i" src="https://tongchen779.github.io/dansk/files/vowel/i.mp3" style="display: none;"></audio><span onclick="playSound('i');" style="cursor: pointer; color: blue;">[i/i]</span></td>
+<td style="text-align: center"><audio id="e" src="https://tongchen779.github.io/dansk/files/vowel/e.mp3" style="display: none;"></audio><span onclick="playSound('e');" style="cursor: pointer; color: blue;">[e/e̝]</span></td>
+<td style="text-align: center"><audio id="ε" src="https://tongchen779.github.io/dansk/files/vowel/ε.mp3" style="display: none;"></audio><span onclick="playSound('ε');" style="cursor: pointer; color: blue;">[ε/e]</span></td>
+<td style="text-align: center"><audio id="æ" src="https://tongchen779.github.io/dansk/files/vowel/æ.mp3" style="display: none;"></audio><span onclick="playSound('æ');" style="cursor: pointer; color: blue;">[æ/ε]</span></td>
+<td style="text-align: center"><audio id="ɑ" src="https://tongchen779.github.io/dansk/files/vowel/a.mp3" style="display: none;"></audio><span onclick="playSound('ɑ');" style="cursor: pointer; color: blue;">[ɑ/ɑ̈]</span></td>
+</tr>
+<tr>
+<td style="text-align: center"><audio id="y" src="https://tongchen779.github.io/dansk/files/vowel/y.mp3" style="display: none;"></audio><span onclick="playSound('y');" style="cursor: pointer; color: blue;">[y/y]</span></td>
+<td style="text-align: center"><audio id="ø" src="https://tongchen779.github.io/dansk/files/vowel/ø.mp3" style="display: none;"></audio><span onclick="playSound('ø');" style="cursor: pointer; color: blue;">[ø/ø̞]</span></td>
+<td style="text-align: center"><audio id="œ" src="https://tongchen779.github.io/dansk/files/vowel/œ.mp3" style="display: none;"></audio><span onclick="playSound('œ');" style="cursor: pointer; color: blue;">[œ/œ̝]</span></td>
+<td style="text-align: center"><audio id="ɶ" src="https://tongchen779.github.io/dansk/files/vowel/ɶ.mp3" style="display: none;"></audio><span onclick="playSound('ɶ');" style="cursor: pointer; color: blue;">[ɶ/ɶ̝]</span></td>
+<td style="text-align: center"><audio id="ə" src="https://tongchen779.github.io/dansk/files/vowel/ə.mp3" style="display: none;"></audio><span onclick="playSound('ə');" style="cursor: pointer; color: blue;">[ə/ə]</span></td>
+</tr>
+<tr>
+<td style="text-align: center"><audio id="u" src="https://tongchen779.github.io/dansk/files/vowel/u.mp3" style="display: none;"></audio><span onclick="playSound('u');" style="cursor: pointer; color: blue;">[u/u]</span></td>
+<td style="text-align: center"><audio id="o" src="https://tongchen779.github.io/dansk/files/vowel/o.mp3" style="display: none;"></audio><span onclick="playSound('o');" style="cursor: pointer; color: blue;">[o/o̝]</span></td>
+<td style="text-align: center"><audio id="ɔ" src="https://tongchen779.github.io/dansk/files/vowel/ɔ.mp3" style="display: none;"></audio><span onclick="playSound('ɔ');" style="cursor: pointer; color: blue;">[ɔ/ɔ̟̝]</span></td>
+<td style="text-align: center"><audio id="ɒ" src="https://tongchen779.github.io/dansk/files/vowel/ɒ.mp3" style="display: none;"></audio><span onclick="playSound('ɒ');" style="cursor: pointer; color: blue;">[ɒ/ɔ̞]</span></td>
+<td style="text-align: center"><audio id="ʌ" src="https://tongchen779.github.io/dansk/files/vowel/ʌ.mp3" style="display: none;"></audio><span onclick="playSound('ʌ');" style="cursor: pointer; color: blue;">[ʌ/ʌ̟̞̹]</span></td>
 </tr>
 </table>
 <h1 style="text-align: center;"> Forside &amp; Ulabialiseret </h1>
@@ -804,4 +801,3 @@ search: false
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sjov">sjov</a><audio id="sjov" src="https://static.ordnet.dk/mp3/11046/11046153_1.mp3" style="display: none;"></audio><span onclick="playSound('sjov');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=chokolade">chokolade</a><audio id="chokolade" src="https://static.ordnet.dk/mp3/11007/11007752_1.mp3" style="display: none;"></audio><span onclick="playSound('chokolade');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=garage">garage</a><audio id="garage" src="https://static.ordnet.dk/mp3/11017/11017217_1.mp3" style="display: none;"></audio><span onclick="playSound('garage');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=station">station</a><audio id="station" src="https://static.ordnet.dk/mp3/11049/11049882_1.mp3" style="display: none;"></audio><span onclick="playSound('station');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 </table>
-</html>
