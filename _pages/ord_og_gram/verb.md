@@ -4212,6 +4212,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forn%C3%B8je"> at fornøje </a></td>
+<td>
+<audio id="fornøje" src="https://static.ordnet.dk/mp3/11014/11014931_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fornøje');" style="cursor: pointer; color: blue;">[fʌˈnʌjˀə]</span>
+</td>
+<td> fornøjer </td>
+<td> fornøjede </td>
+<td> har fornøjet </td>
+<td> fornøj </td>
+<td> to amuse </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forpligte"> at forpligte </a></td>
 <td>
 <audio id="forpligte" src="https://static.ordnet.dk/mp3/11014/11014958_2.mp3" style="display: none;"></audio>

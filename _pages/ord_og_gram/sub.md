@@ -5828,6 +5828,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forn%C3%B8jelse"> en fornøjelse </a></td>
+<td>
+<audio id="fornøjelse" src="https://static.ordnet.dk/mp3/11014/11014933_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fornøjelse');" style="cursor: pointer; color: blue;">[fʌˈnʌjˀəlsə]</span>
+</td>
+<td> fornøjelsen </td>
+<td> fornøjelser </td>
+<td> fornøjelserne </td>
+<td> pleasure </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forpligtelse"> en forpligtelse (til) </a></td>
 <td>
 <audio id="forpligtelse" src="https://static.ordnet.dk/mp3/11014/11014959_1.mp3" style="display: none;"></audio>
