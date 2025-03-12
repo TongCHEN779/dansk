@@ -231,6 +231,9 @@ search: false
         }
     }
 </script> -->
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
 <script>
     function playSound(soundId) {
         var audioElement = document.getElementById(soundId);
@@ -347,10 +350,10 @@ search: false
 </tr>
 <tr>
 <td rowspan="4" style="text-align: center">i</td>
-<td style="text-align: center">[i:]</td>
-<td style="text-align: center">[i]</td>
-<td style="text-align: center">[i]</td>
-<td style="text-align: center">[i]</td>
+<td style="text-align: center">[i:/i:]</td>
+<td style="text-align: center">[i/i]</td>
+<td style="text-align: center">[i/i]</td>
+<td style="text-align: center">[i/i]</td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skrive">skrive</a><audio id="skrive" src="https://static.ordnet.dk/mp3/11046/11046982_1.mp3" style="display: none;"></audio><span onclick="playSound('skrive');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=pige">pige</a><audio id="pige" src="https://static.ordnet.dk/mp3/11039/11039666_1.mp3" style="display: none;"></audio><span onclick="playSound('pige');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=time">time</a><audio id="time" src="https://static.ordnet.dk/mp3/12001/12001387_1.mp3" style="display: none;"></audio><span onclick="playSound('time');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
@@ -387,7 +390,7 @@ search: false
 <td style="text-align: center"></td>
 <td style="text-align: center">[ε/e]</td>
 <td style="text-align: center">[æ/ε]</td>
-<td style="text-align: center">[a]</td>
+<td style="text-align: center">[a/a]</td>
 </tr>
 <tr>
 <td></td>
@@ -412,7 +415,7 @@ search: false
 <td style="text-align: center"></td>
 <td style="text-align: center"></td>
 <td style="text-align: center">[æ/ε]</td>
-<td style="text-align: center">[a]</td>
+<td style="text-align: center">[a/a]</td>
 </tr>
 <tr>
 <td></td>
@@ -457,10 +460,10 @@ search: false
 </tr>
 <tr>
 <td rowspan="4" style="text-align: center">y</td>
-<td style="text-align: center">[y:]</td>
-<td style="text-align: center">[y]</td>
-<td style="text-align: center">[y]</td>
-<td style="text-align: center">[y:]</td>
+<td style="text-align: center">[y:/y:]</td>
+<td style="text-align: center">[y/y]</td>
+<td style="text-align: center">[y/y]</td>
+<td style="text-align: center">[y:/y:]</td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tyve">tyve</a><audio id="tyve" src="https://static.ordnet.dk/mp3/12003/12003209_1.mp3" style="display: none;"></audio><span onclick="playSound('tyve');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=syge">syge</a><audio id="syge" src="https://static.ordnet.dk/mp3/11051/11051922_1.mp3" style="display: none;"></audio><span onclick="playSound('syge');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=lyse">lyse</a><audio id="lyse" src="https://static.ordnet.dk/mp3/11031/11031411_1.mp3" style="display: none;"></audio><span onclick="playSound('lyse');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
@@ -517,10 +520,10 @@ search: false
 </tr>
 <tr>
 <td rowspan="4" style="text-align: center">u</td>
-<td style="text-align: center">[u:]</td>
-<td style="text-align: center">[u]</td>
-<td style="text-align: center">[u]</td>
-<td style="text-align: center">[u]</td>
+<td style="text-align: center">[u:/u:]</td>
+<td style="text-align: center">[u/u]</td>
+<td style="text-align: center">[u/u]</td>
+<td style="text-align: center">[u/u]</td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=uge">uge</a><audio id="uge" src="https://static.ordnet.dk/mp3/12004/12004441_1.mp3" style="display: none;"></audio><span onclick="playSound('uge');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=bruge">bruge</a><audio id="bruge" src="https://static.ordnet.dk/mp3/11006/11006313_1.mp3" style="display: none;"></audio><span onclick="playSound('bruge');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=ude">ude</a><audio id="ude" src="https://static.ordnet.dk/mp3/12003/12003716_1.mp3" style="display: none;"></audio><span onclick="playSound('ude');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
@@ -801,3 +804,4 @@ search: false
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sjov">sjov</a><audio id="sjov" src="https://static.ordnet.dk/mp3/11046/11046153_1.mp3" style="display: none;"></audio><span onclick="playSound('sjov');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=chokolade">chokolade</a><audio id="chokolade" src="https://static.ordnet.dk/mp3/11007/11007752_1.mp3" style="display: none;"></audio><span onclick="playSound('chokolade');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=garage">garage</a><audio id="garage" src="https://static.ordnet.dk/mp3/11017/11017217_1.mp3" style="display: none;"></audio><span onclick="playSound('garage');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span>, <a href="https://ordnet.dk/ddo/ordbog?query=station">station</a><audio id="station" src="https://static.ordnet.dk/mp3/11049/11049882_1.mp3" style="display: none;"></audio><span onclick="playSound('station');" style="cursor: pointer; color: blue;"> <i class="fas fa-play"></i></span></td>
 </tr>
 </table>
+</html>
