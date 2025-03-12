@@ -95,8 +95,6 @@ search: false
 </tr>
 </table>
 
-<br>
-
 <h1 id="sub" style="text-align: center;"> Substantivernes former </h1>
 <style>
     table {
@@ -170,8 +168,6 @@ search: false
 <td> cyklerne </td>
 </tr>
 </table>
-
-<br>
 
 <h1 id="verb" style="text-align: center;"> Verbernes former </h1>
 <style>

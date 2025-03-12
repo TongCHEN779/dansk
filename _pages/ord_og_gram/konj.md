@@ -82,8 +82,6 @@ search: true
 </tr>
 </table>
 
-<br>
-
 <h1 style="text-align: center;"> Ledsætningskonjunktioner: S-V1-A-V2, K-S-A-V1-V2 </h1>
 <style>
     table {

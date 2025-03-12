@@ -407,8 +407,6 @@ search: true
 </tr>
 </table>
 
-<br>
-
 <h1 style="text-align: center;"> Frie adverbier: A-V-S, S-V-A </h1>
 <style>
     table {
@@ -710,8 +708,6 @@ search: true
 </tr>
 </table>
 
-<br>
-
 <h1 style="text-align: center;"> Lang og kort form </h1>
 <style>
     table {
@@ -782,8 +778,6 @@ search: true
 <td> "Nej, Bjarne, du kan ikke gå ud i det vejr!" "Sneen fyger, og man kan ikke se en hånd for sig!. </td>
 </tr>
 </table>
-
-<br>
 
 <h1 style="text-align: center;"> Om tiden </h1>
 <style>

@@ -90,8 +90,6 @@ search: false
 </tr>
 </table>
 
-<br>
-
 <h1 style="text-align: center;"> Ubestemte pronominer </h1>
 <style>
     table {
@@ -155,8 +153,6 @@ search: false
 <td> - </td>
 </tr>
 </table>
-
-<br>
 
 <h1 id="spørg" style="text-align: center;"> Spørgeord </h1>
 <style>
