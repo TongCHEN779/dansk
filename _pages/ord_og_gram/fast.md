@@ -431,7 +431,7 @@ search: true
 <td> Den nye vold blev bygget i to etaper, først syd for porten dernæst nord for. </td>
 </tr>
 <tr>
-<td> i forbindelse med </td>
+<td> i forbindelse med, ifm. </td>
 <td> in connection with </td>
 <td> Ford gav en favørpris for min gamle bil i forbindelse med, at jeg købte en ét år gammel Escort samme sted. </td>
 </tr>

@@ -522,6 +522,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=amning"> en amning </a></td>
+<td>
+<audio id="amning" src="https://static.ordnet.dk/mp3/11001/11001559_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('amning');" style="cursor: pointer; color: blue;">[ˈɑmneŋ]</span>
+</td>
+<td> amningen </td>
+<td> amninger </td>
+<td> amningerne </td>
+<td> breastfeeding </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=analytiker"> en analytiker </a></td>
 <td>
 <audio id="analytiker" src="https://static.ordnet.dk/mp3/11001/11001634_1.mp3" style="display: none;"></audio>
@@ -5588,6 +5600,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forebyggelse"> en forebyggelse </a></td>
+<td>
+<audio id="forebyggelse" src="https://static.ordnet.dk/mp3/11014/11014390_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forebyggelse');" style="cursor: pointer; color: blue;">[ˈfɒːɒˌbygəlsə]</span>
+</td>
+<td> forebyggelsen </td>
+<td> forebyggelser </td>
+<td> forebyggelserne </td>
+<td> prevention </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=foredrag"> et foredrag </a></td>
 <td>
 <audio id="foredrag" src="https://static.ordnet.dk/mp3/11014/11014391_1.mp3" style="display: none;"></audio>
@@ -8178,6 +8202,18 @@ search: true
 <td> HR-medarbejderne </td>
 <td> human resources employee </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hud"> en hud </a></td>
+<td>
+<audio id="hud" src="https://static.ordnet.dk/mp3/11021/11021507_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hud');" style="cursor: pointer; color: blue;">[ˈhuðˀ]</span>
+</td>
+<td> huden </td>
+<td> huder </td>
+<td> huderne </td>
+<td> skin </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hue"> en hue </a></td>
@@ -16100,6 +16136,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=reminder"> en reminder </a></td>
+<td>
+<audio id="reminder" src="https://static.ordnet.dk/mp3/11042/11042778_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('reminder');" style="cursor: pointer; color: blue;">[ɹiˈmɑjndʌ]</span>
+</td>
+<td> reminderen </td>
+<td> remindere </td>
+<td> reminderne </td>
+<td> reminder </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=rende"> en rende </a></td>
 <td>
 <audio id="rende" src="https://static.ordnet.dk/mp3/11042/11042807_1.mp3" style="display: none;"></audio>
@@ -20288,6 +20336,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=søvn"> en søvn </a></td>
+<td>
+<audio id="søvn" src="https://static.ordnet.dk/mp3/11052/11052513_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('søvn');" style="cursor: pointer; color: blue;">[ˈsœwˀn]</span>
+</td>
+<td> søvnen </td>
+<td> - </td>
+<td> - </td>
+<td> sleep </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tab"> et tab </a></td>
 <td>
 <audio id="tab" src="https://static.ordnet.dk/mp3/12000/12000006_1.mp3" style="display: none;"></audio>
@@ -21164,6 +21224,30 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tov"> et tov </a></td>
+<td>
+<audio id="tov" src="https://static.ordnet.dk/mp3/12001/12001962_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tov');" style="cursor: pointer; color: blue;">[ˈtɒw]</span>
+</td>
+<td> tovet </td>
+<td> tove </td>
+<td> tovene </td>
+<td> rope </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tovholder"> en tovholder </a></td>
+<td>
+<audio id="tovholder" src="https://static.ordnet.dk/mp3/12001/12001965_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tovholder');" style="cursor: pointer; color: blue;">[-ˌhʌlʌ]</span>
+</td>
+<td> tovholderen </td>
+<td> tovholdere </td>
+<td> tovholderne </td>
+<td> coordinator </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=trafik"> trafik </a></td>
 <td>
 <audio id="trafik" src="https://static.ordnet.dk/mp3/12001/12001988_1.mp3" style="display: none;"></audio>
@@ -21246,6 +21330,18 @@ search: true
 <td> trappetrinene, trappetrinnene </td>
 <td> step </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=trilling"> en trilling </a></td>
+<td>
+<audio id="trilling" src="https://static.ordnet.dk/mp3/12002/12002369_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('trilling');" style="cursor: pointer; color: blue;">[ˈtʁileŋ]</span>
+</td>
+<td> trillingen </td>
+<td> trillinger </td>
+<td> trillingerne </td>
+<td> triplet </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=trilogi"> en trilogi </a></td>
@@ -21557,6 +21653,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> compulsion </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tvilling"> en tvilling </a></td>
+<td>
+<audio id="tvilling" src="https://static.ordnet.dk/mp3/12003/12003027_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tvilling');" style="cursor: pointer; color: blue;">[ˈtvileŋ]</span>
+</td>
+<td> tvillingen </td>
+<td> tvillinger </td>
+<td> tvillingerne </td>
+<td> twin </td>
 <td> 1 </td>
 </tr>
 <tr>

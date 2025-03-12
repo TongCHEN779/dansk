@@ -174,6 +174,18 @@ search: true
 <td> alone </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=allerf%C3%B8rst"> allerførst </a></td>
+<td>
+<audio id="allerførst" src="https://static.ordnet.dk/mp3/11001/11001324_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('allerførst');" style="cursor: pointer; color: blue;">[ˈalˀʌˈfɶɐ̯sd]</span>
+</td>
+<td> allerførst </td>
+<td> allerførste </td>
+<td> mere allerførst </td>
+<td> mest allerførst </td>
+<td> first of all </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=allergisk"> allergisk </a></td>
 <td>
 <audio id="allergisk" src="https://static.ordnet.dk/mp3/11001/11001328_1.mp3" style="display: none;"></audio>
@@ -7360,6 +7372,18 @@ search: true
 <td> mere tidskrævende </td>
 <td> mest tidskrævende </td>
 <td> time-consuming </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilbagel%C3%A6net"> tilbagelænet </a></td>
+<td>
+<audio id="tilbagelænet" src="https://static.ordnet.dk/mp3/12001/12001040_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilbagelænet');" style="cursor: pointer; color: blue;">[-ˌlεˀnəð]</span>
+</td>
+<td> tilbagelænet </td>
+<td> tilbagelænede </td>
+<td> mere tilbagelænet </td>
+<td> mest tilbagelænet </td>
+<td> laid-back </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilbagevendende"> tilbagevendende </a></td>

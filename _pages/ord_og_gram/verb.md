@@ -640,7 +640,7 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=amme"> at amme </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=amme,2&amp;query=amme"> at amme </a></td>
 <td>
 <audio id="amme" src="https://static.ordnet.dk/mp3/11001/11001545_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('amme');" style="cursor: pointer; color: blue;">[ˈɑmə]</span>
@@ -6510,6 +6510,19 @@ search: true
 <td> har indrømmet </td>
 <td> indrøm </td>
 <td> to admit </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indsamle"> at indsamle </a></td>
+<td>
+<audio id="indsamle" src="https://static.ordnet.dk/mp3/11023/11023502_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indsamle');" style="cursor: pointer; color: blue;">[-ˌsɑmˀlə]</span>
+</td>
+<td> indsamler </td>
+<td> indsamlede </td>
+<td> har indsamlet </td>
+<td> indsamle </td>
+<td> to collect </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -13738,6 +13751,19 @@ search: true
 <td> har tudet </td>
 <td> tud </td>
 <td> to whine </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tumle"> at tumle </a></td>
+<td>
+<audio id="tumle" src="https://static.ordnet.dk/mp3/12002/12002829_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tumle');" style="cursor: pointer; color: blue;">[ˈtɔmlə]</span>
+</td>
+<td> tumler </td>
+<td> tumlede </td>
+<td> har tumlet </td>
+<td> tuml </td>
+<td> to tumble </td>
 <td> 1 </td>
 </tr>
 <tr>
