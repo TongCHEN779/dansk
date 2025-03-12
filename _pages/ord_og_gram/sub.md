@@ -19520,6 +19520,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=str%C3%B8m"> en strøm </a></td>
+<td>
+<audio id="strøm" src="https://static.ordnet.dk/mp3/11050/11050878_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('strøm');" style="cursor: pointer; color: blue;">[ˈsdʁɶmˀ]</span>
+</td>
+<td> strømmen </td>
+<td> strømme </td>
+<td> strømmene </td>
+<td> current </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=str%C3%B8mpe"> en strømpe </a></td>
 <td>
 <audio id="strømpe" src="https://static.ordnet.dk/mp3/11050/11050893_1.mp3" style="display: none;"></audio>
