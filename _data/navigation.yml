@@ -54,6 +54,8 @@ undervisning:
         url: /undervisning/det_kommer/
       - title: "Det Rykker (modul 4)"
         url: /undervisning/det_rykker/
+      - title: "Folketinget"
+        url: /undervisning/folketinget/
       - title: "Frihedsmuseet & STORM"
         url: /undervisning/frihedsmuseet/
       - title: "Højt til Loftet (modul 5)"
