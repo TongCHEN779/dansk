@@ -94,6 +94,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=adsp%C3%B8rge"> at adspørge </a></td>
+<td>
+<audio id="adspørge" src="https://static.ordnet.dk/mp3/11000/11000236_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('adspørge');" style="cursor: pointer; color: blue;">[ˈaðˌsbɶɐ̯ˀwə]</span>
+</td>
+<td> adspørger </td>
+<td> adspurgte </td>
+<td> har adspurgt </td>
+<td> adspørg </td>
+<td> to inquire </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=advare"> at advare (... imod ...) </a></td>
 <td>
 <audio id="advare" src="https://static.ordnet.dk/mp3/11000/11000241_1.mp3" style="display: none;"></audio>
