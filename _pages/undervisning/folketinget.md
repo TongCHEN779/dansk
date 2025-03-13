@@ -5,7 +5,7 @@ permalink: /undervisning/folketinget/
 search: false
 ---
 
-<p align="center"><img src="https://tongchen779.github.io/dansk/images/folke.png"/></p>
+<p align="center"><img src="https://tongchen779.github.io/dansk/images/folke.jpg"/></p>
 
 <style>
     table {
