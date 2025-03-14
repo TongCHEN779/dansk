@@ -10543,6 +10543,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=regulere"> at regulere </a></td>
+<td>
+<audio id="regulere" src="https://static.ordnet.dk/mp3/11042/11042603_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('regulere');" style="cursor: pointer; color: blue;">[ʁεguˈleˀʌ]</span>
+</td>
+<td> regulerer </td>
+<td> regulerede </td>
+<td> har reguleret </td>
+<td> reguler </td>
+<td> to regulate </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=rejse"> at rejse </a></td>
 <td>
 <audio id="rejse" src="https://static.ordnet.dk/mp3/11042/11042621_1.mp3" style="display: none;"></audio>

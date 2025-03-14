@@ -1938,6 +1938,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bestand"> en bestand </a></td>
+<td>
+<audio id="bestand" src="https://static.ordnet.dk/mp3/11004/11004299_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bestand');" style="cursor: pointer; color: blue;">[beˈsdanˀ]</span>
+</td>
+<td> bestanden </td>
+<td> bestande </td>
+<td> bestandene </td>
+<td> population, stock </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bestemmelse"> en bestemmelse </a></td>
 <td>
 <audio id="bestemmelse" src="https://static.ordnet.dk/mp3/11004/11004304_1.mp3" style="display: none;"></audio>
@@ -4844,6 +4856,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=farvand"> et farvand </a></td>
+<td>
+<audio id="farvand" src="https://static.ordnet.dk/mp3/11012/11012386_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('farvand');" style="cursor: pointer; color: blue;">[ˈfɑːˌvanˀ]</span>
+</td>
+<td> farvandet </td>
+<td> farvande </td>
+<td> farvandene </td>
+<td> waters </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=farve"> en farve </a></td>
 <td>
 <audio id="farve" src="https://static.ordnet.dk/mp3/11012/11012388_1.mp3" style="display: none;"></audio>
@@ -5585,6 +5609,30 @@ search: true
 <td> forbud </td>
 <td> forbuddene </td>
 <td> prohibition </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forbund"> et forbund </a></td>
+<td>
+<audio id="forbund" src="https://static.ordnet.dk/mp3/11014/11014304_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forbund');" style="cursor: pointer; color: blue;">[ˈfɒːˌbɔnˀ]</span>
+</td>
+<td> forbundet </td>
+<td> forbund </td>
+<td> forbundene </td>
+<td> union </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forbundskansler"> en forbundskansler </a></td>
+<td>
+<audio id="forbundskansler" src="https://static.ordnet.dk/mp3/11014/11014311_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forbundskansler');" style="cursor: pointer; color: blue;">[ˈfɒːbɔns-]</span>
+</td>
+<td> forbundskansleren </td>
+<td> forbundskanslere </td>
+<td> forbundskanslerne </td>
+<td> federal chancellor </td>
 <td> 2 </td>
 </tr>
 <tr>
@@ -9545,6 +9593,18 @@ search: true
 <td> kanoture </td>
 <td> kanoturene </td>
 <td> canoe trip </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kansler"> en kansler </a></td>
+<td>
+<audio id="kansler" src="https://static.ordnet.dk/mp3/11025/11025256_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kansler');" style="cursor: pointer; color: blue;">[ˈkanˀslʌ]</span>
+</td>
+<td> kansleren </td>
+<td> kanslere </td>
+<td> kanslerne </td>
+<td> chancellor </td>
 <td> 2 </td>
 </tr>
 <tr>
