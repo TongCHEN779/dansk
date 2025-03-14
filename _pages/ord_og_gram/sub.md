@@ -5564,6 +5564,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forbr%C3%A6nding"> en forbrænding </a></td>
+<td>
+<audio id="forbrænding" src="https://static.ordnet.dk/mp3/11014/11014291_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forbrænding');" style="cursor: pointer; color: blue;">[fʌˈbʁanˀeŋ]</span>
+</td>
+<td> forbrændingen </td>
+<td> forbrændinger </td>
+<td> forbrændingerne </td>
+<td> combustion </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forbud"> et forbud (mod) </a></td>
 <td>
 <audio id="forbud" src="https://static.ordnet.dk/mp3/11014/11014300_1.mp3" style="display: none;"></audio>

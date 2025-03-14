@@ -653,6 +653,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=alarmere"> at alarmere </a></td>
+<td>
+<audio id="alarmere" src="https://static.ordnet.dk/mp3/11001/11001165_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('alarmere');" style="cursor: pointer; color: blue;">[alɑˈmeˀʌ]</span>
+</td>
+<td> alarmerer </td>
+<td> alarmerede </td>
+<td> har alarmeret </td>
+<td> alarmer </td>
+<td> to alarm </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?select=amme,2&amp;query=amme"> at amme </a></td>
 <td>
 <audio id="amme" src="https://static.ordnet.dk/mp3/11001/11001545_1.mp3" style="display: none;"></audio>
@@ -11658,6 +11671,19 @@ search: true
 <td> har skærmet </td>
 <td> skærm </td>
 <td> to shield </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A6rpe"> at skærpe </a></td>
+<td>
+<audio id="skærpe" src="https://static.ordnet.dk/mp3/11047/11047433_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skærpe');" style="cursor: pointer; color: blue;">[ˈsgæɐ̯bə]</span>
+</td>
+<td> skærper </td>
+<td> skærpede </td>
+<td> har skærpet </td>
+<td> skærp </td>
+<td> to sharpen </td>
 <td> 1 </td>
 </tr>
 <tr>
