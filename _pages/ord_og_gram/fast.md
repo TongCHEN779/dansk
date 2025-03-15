@@ -451,6 +451,11 @@ search: true
 <td> Denne kartoffelret kan laves i forvejen, skæres ud i passende stykker og varmes op igen i en varm ovn. </td>
 </tr>
 <tr>
+<td> i givet fald </td>
+<td> if so, if applicable </td>
+<td> Om vi må ændre naturen – og i givet fald hvor langt, er et spørgsmål, som det i høj grad er op til den enkelte at tage stilling til. </td>
+</tr>
+<tr>
 <td> i gåafstand til/fra </td>
 <td> within walking distance to/from </td>
 <td> Vodroffsvej ligger i gåafstand til centrum og til de gode handelsgader. </td>
@@ -749,6 +754,11 @@ search: true
 <td> pisk og gulerod </td>
 <td> penalty and reward </td>
 <td> SU-systemet har med reformen fra 1996 fundet et niveau mht. økonomi og balance mellem pisk og gulerod. </td>
+</tr>
+<tr>
+<td> på forhånd </td>
+<td> in advance </td>
+<td> Jeg vil gerne have en god opskrift på waldorfsalat. Kan du hjælpe mig med den, siger jeg på forhånd tak. </td>
 </tr>
 <tr>
 <td> på høje tid </td>

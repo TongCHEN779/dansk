@@ -156,6 +156,11 @@ search: true
 <td> Jeg vil gerne vide hvor langt en sæl kan dykke uden at trække vejret? </td>
 </tr>
 <tr>
+<td> givetvis </td>
+<td> probably </td>
+<td> Det var givetvis ikke hendes mening at gøre mig ondt. </td>
+</tr>
+<tr>
 <td> (også) godt </td>
 <td> well </td>
 <td> Man kan godt forene god arkitektur med en ordentlig økonomi. </td>

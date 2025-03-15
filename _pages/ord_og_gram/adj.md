@@ -2466,6 +2466,18 @@ search: true
 <td> ready to marry </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=given"> given/givet </a></td>
+<td>
+<audio id="given" src="https://static.ordnet.dk/mp3/11018/11018054_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('given');" style="cursor: pointer; color: blue;">[ˈgiːvən]</span>
+</td>
+<td> given/givet </td>
+<td> givne </td>
+<td> mere given </td>
+<td> mest given </td>
+<td> given, certain </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=glad"> glad </a></td>
 <td>
 <audio id="glad" src="https://static.ordnet.dk/mp3/11018/11018074_1.mp3" style="display: none;"></audio>
@@ -3652,6 +3664,18 @@ search: true
 <td> mere korrekt </td>
 <td> mest korrekt </td>
 <td> correct </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=korrupt"> korrupt </a></td>
+<td>
+<audio id="korrupt" src="https://static.ordnet.dk/mp3/11027/11027723_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('korrupt');" style="cursor: pointer; color: blue;">[koˈʁɔbd]</span>
+</td>
+<td> korrupt </td>
+<td> korrupte </td>
+<td> mere korrupt </td>
+<td> mest korrupt </td>
+<td> corrupt </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kort"> kort </a></td>
@@ -4876,6 +4900,18 @@ search: true
 <td> nyttigere/mere nyttig </td>
 <td> nyttigst/mest nyttig </td>
 <td> useful </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=n%C3%A6r"> nær </a></td>
+<td>
+<audio id="nær" src="https://static.ordnet.dk/mp3/11036/11036499_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nær');" style="cursor: pointer; color: blue;">[ˈnεˀɐ̯]</span>
+</td>
+<td> nært </td>
+<td> nære </td>
+<td> nærmere </td>
+<td> nærmest </td>
+<td> near </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=n%C3%A6rig"> nærig </a></td>

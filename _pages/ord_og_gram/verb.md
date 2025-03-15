@@ -627,6 +627,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=afv%C3%A6rge"> at afværge </a></td>
+<td>
+<audio id="afværge" src="https://static.ordnet.dk/mp3/11000/11000900_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('afværge');" style="cursor: pointer; color: blue;">[ˈɑwˌvæɐ̯ˀwə]</span>
+</td>
+<td> afværger </td>
+<td> afværgede </td>
+<td> har afværget </td>
+<td> afværg </td>
+<td> to avert </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=agere"> at agere </a></td>
 <td>
 <audio id="agere" src="https://static.ordnet.dk/mp3/11000/11000918_1.mp3" style="display: none;"></audio>
@@ -2161,6 +2174,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=boykotte"> at boykotte </a></td>
+<td>
+<audio id="boykotte" src="https://static.ordnet.dk/mp3/11005/11005943_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('boykotte');" style="cursor: pointer; color: blue;">[ˈbʌjˌkʌdə]</span>
+</td>
+<td> boykotter </td>
+<td> boykottede </td>
+<td> har boykottet </td>
+<td> boykot </td>
+<td> to boycott </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=brage"> at brage </a></td>
 <td>
 <audio id="brage" src="https://static.ordnet.dk/mp3/11005/11005950_1.mp3" style="display: none;"></audio>
@@ -2587,6 +2613,19 @@ search: true
 <td> har designet </td>
 <td> design </td>
 <td> to design </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=destruere"> at destruere </a></td>
+<td>
+<audio id="destruere" src="https://static.ordnet.dk/mp3/11008/11008903_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('destruere');" style="cursor: pointer; color: blue;">[desdʁuˈeˀʌ]</span>
+</td>
+<td> destruerer </td>
+<td> destruerede </td>
+<td> har destrueret </td>
+<td> destruer </td>
+<td> to destroy </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -7085,6 +7124,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kollapse"> at kollapse </a></td>
+<td>
+<audio id="kollapse" src="https://static.ordnet.dk/mp3/11026/11026929_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kollapse');" style="cursor: pointer; color: blue;">[koˈlɑbsə]</span>
+</td>
+<td> kollapser </td>
+<td> kollapsede </td>
+<td> har kollapset </td>
+<td> kollaps </td>
+<td> to collapse </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kombinere"> at kombinere </a></td>
 <td>
 <audio id="kombinere" src="https://static.ordnet.dk/mp3/11027/11027007_2.mp3" style="display: none;"></audio>
@@ -7836,6 +7888,19 @@ search: true
 <td> har lukket </td>
 <td> luk </td>
 <td> to close </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lukrere"> at lukrere </a></td>
+<td>
+<audio id="lukrere" src="https://static.ordnet.dk/mp3/11031/11031174_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lukrere');" style="cursor: pointer; color: blue;">[luˈkʁεˀʌ]</span>
+</td>
+<td> lukrerer </td>
+<td> lukrerede </td>
+<td> har lukreret </td>
+<td> lukrer </td>
+<td> to profit </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -9409,6 +9474,19 @@ search: true
 <td> har opsagt </td>
 <td> opsig </td>
 <td> to terminate </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opsl%C3%A5"> at opslå </a></td>
+<td>
+<audio id="opslå" src="https://static.ordnet.dk/mp3/11037/11037720_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opslå');" style="cursor: pointer; color: blue;">[ˈʌbˌslɔˀ]</span>
+</td>
+<td> opslår </td>
+<td> opslog </td>
+<td> har opslået </td>
+<td> opslå </td>
+<td> to post, set up </td>
 <td> 3 </td>
 </tr>
 <tr>
