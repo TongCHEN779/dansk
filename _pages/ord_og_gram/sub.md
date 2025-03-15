@@ -11252,7 +11252,6 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
-<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ledelse"> en ledelse </a></td>
 <td>
 <audio id="ledelse" src="https://static.ordnet.dk/mp3/11029/11029998_1.mp3" style="display: none;"></audio>
@@ -24223,4 +24222,4 @@ search: true
 <td> decade </td>
 <td> 1 </td>
 </tr>
-</tr></table>
+</table>
