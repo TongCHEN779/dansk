@@ -266,6 +266,11 @@ search: true
 <td> I stedet for et ventet salg på 10.000 biler sidste år, blev der kun solgt 400. </td>
 </tr>
 <tr>
+<td> langs </td>
+<td> along </td>
+<td> Der var pæleværk med træbroer ikke bare langs med bredden men også vinkelret ud i vandet. </td>
+</tr>
+<tr>
 <td> ligefrem </td>
 <td> even </td>
 <td> Man har ligefrem taget baner fra bilerne og begrænset antallet af parkeringspladser. </td>

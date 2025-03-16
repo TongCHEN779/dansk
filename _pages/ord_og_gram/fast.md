@@ -1161,6 +1161,11 @@ search: true
 <td> Det er først efter år 1000, at kristendommen vinder indpas hos bønderne i Grønland. </td>
 </tr>
 <tr>
+<td> væbne sig med tålmodighed </td>
+<td> be patient </td>
+<td> Festivalfolket i Roskilde måtte væbne sig med stor tålmodighed .. Flere tusinde måtte stå i kø en times tid. </td>
+</tr>
+<tr>
 <td> være med til </td>
 <td> help to </td>
 <td> Det at være den ældste eller den yngste, den mellemste eller enebarn er med til at forme ens identitet. </td>
