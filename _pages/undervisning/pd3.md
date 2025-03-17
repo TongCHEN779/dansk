@@ -331,9 +331,9 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 <tr>
 <td>2021 sommer</td>
 <td>mundtlig, mundt-censor</td>
-<td><a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes1_tekst.pdf">læse1-tekst</a>, læse2-tekst</td>
-<td><a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes1_opgave.pdf">læse1-opg</a>, læse2-opg</td>
-<td>skriftlig</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes2_tekst.pdf">læse2-tekst</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes2_opgave.pdf">læse2-opg</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202105_skr.pdf">skriftlig</a></td>
 <td>rettenøgler</td>
 </tr>
 
