@@ -269,6 +269,10 @@ search: false
         text-align: left;
     }
 </style>
+
+Her kan du finde en pdf-fil af en [undervisningsvejledning](https://tongchen779.github.io/dansk/files/dansk_udtale.pdf) til dansk udtale.
+<br><br>
+
 <h1 style="text-align: center;"> Dansk Alfabet </h1>
 <table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <tr>
