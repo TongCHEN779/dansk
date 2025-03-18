@@ -406,6 +406,11 @@ search: true
 <td> Indtagelse af fedt er meget omdiskuteret, både hvad angår fedttypen og fedtmængden. </td>
 </tr>
 <tr>
+<td> hvad (hvem, hvilken/hvilket, hvor, ingen/intet, nogen/noget, når) som helst </td>
+<td> anything (anyone, any, anywhere, nothing, anything, anytime) </td>
+<td> Hun gabte og så ud til at kunne falde i søvn når som helst. </td>
+</tr>
+<tr>
 <td> i bytte med </td>
 <td> in exchange for </td>
 <td> Han købte klude i bytte med hægter, bændler og knapper. </td>
@@ -724,11 +729,6 @@ search: true
 <td> nå/komme frem til </td>
 <td> arrive at </td>
 <td> Konkurrencerådet kulegravede i 1988 markedet for malervarer, og kom frem til, at avancen på træbeskyttelsesmidler ligger i top indenfor malervarer. </td>
-</tr>
-<tr>
-<td> når som helst </td>
-<td> at any time </td>
-<td> Hun gabte og så ud til at kunne falde i søvn når som helst. </td>
 </tr>
 <tr>
 <td> og så videre / osv </td>
