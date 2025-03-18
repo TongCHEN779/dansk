@@ -726,6 +726,11 @@ search: true
 <td> Konkurrencerådet kulegravede i 1988 markedet for malervarer, og kom frem til, at avancen på træbeskyttelsesmidler ligger i top indenfor malervarer. </td>
 </tr>
 <tr>
+<td> når som helst </td>
+<td> at any time </td>
+<td> Hun gabte og så ud til at kunne falde i søvn når som helst. </td>
+</tr>
+<tr>
 <td> og så videre / osv </td>
 <td> and so on </td>
 <td> Jeg ævlede op om, hvad nu og hvis, og så videre, men hun tyssede blot på mig. </td>
