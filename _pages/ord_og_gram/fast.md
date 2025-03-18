@@ -306,6 +306,11 @@ search: true
 <td> Hans død var ikke ventet – der var ikke gået sygdom forud. </td>
 </tr>
 <tr>
+<td> gå i den modsatte grøft </td>
+<td> go in the opposite direction </td>
+<td> Naturligvis skal man også have sine egne interesser, for man skal heller ikke gå i den modsatte grøft og blive afhængig af hinanden og ikke kunne finde ud af at være alene. </td>
+</tr>
+<tr>
 <td> gå i gang med </td>
 <td> get started with </td>
 <td> Jeg kan ikke vente med at gå i gang med at arbejde for borgerne i Aberavon. </td>
@@ -974,6 +979,11 @@ search: true
 <td> styre mod/efter/uden om </td>
 <td> steer towards/after/around </td>
 <td> Forstår man at styre uden om stress og fælderne i faget, er det en fantastisk oplevelse at være skuespiller. </td>
+</tr>
+<tr>
+<td> stå (tidligt/sent) op </td>
+<td> get up early/late </td>
+<td> Det er lækkert at stå så tidligt op, for man får jo en masse ud af dagen. </td>
 </tr>
 <tr>
 <td> stå over for </td>

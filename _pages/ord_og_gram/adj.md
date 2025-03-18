@@ -8514,6 +8514,18 @@ search: true
 <td> strange </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=undervægtig"> undervægtig </a></td>
+<td>
+<audio id="undervægtig" src="https://static.ordnet.dk/mp3/12004/12004927_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('undervægtig');" style="cursor: pointer; color: blue;">[ˈɔnʌˌvεgdi]</span>
+</td>
+<td> undervægtigt </td>
+<td> undervægtige </td>
+<td> mere undervægtig </td>
+<td> mest undervægtig </td>
+<td> underweight </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ung"> ung </a></td>
 <td>
 <audio id="ung" src="https://static.ordnet.dk/mp3/12004/12004975_1.mp3" style="display: none;"></audio>

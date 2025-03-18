@@ -7964,6 +7964,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hensigtserkl%C3%A6ring"> en hensigtserklæring </a></td>
+<td>
+<audio id="hensigtserklæring" src="https://static.ordnet.dk/mp3/11020/11020450_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hensigtserklæring');" style="cursor: pointer; color: blue;">[ˈhεnsegds-]</span>
+</td>
+<td> hensigtserklæringen </td>
+<td> hensigtserklæringer </td>
+<td> hensigtserklæringerne </td>
+<td> declaration of intent </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hensyn"> et hensyn </a></td>
 <td>
 <audio id="hensyn" src="https://static.ordnet.dk/mp3/11020/11020463_1.mp3" style="display: none;"></audio>
