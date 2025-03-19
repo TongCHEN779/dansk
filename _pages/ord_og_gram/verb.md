@@ -10179,6 +10179,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=polarisere"> at polarisere </a></td>
+<td>
+<audio id="polarisere" src="https://static.ordnet.dk/mp3/11040/11040285_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('polarisere');" style="cursor: pointer; color: blue;">[polɑiˈseˀʌ]</span>
+</td>
+<td> polariserer </td>
+<td> polariserede </td>
+<td> har polariseret </td>
+<td> polariser </td>
+<td> to polarize </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=prioritere"> at prioritere </a></td>
 <td>
 <audio id="prioritere" src="https://static.ordnet.dk/mp3/11040/11040828_1.mp3" style="display: none;"></audio>
