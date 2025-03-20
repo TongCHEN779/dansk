@@ -12714,6 +12714,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=stigmatisere"> at stigmatisere </a></td>
+<td>
+<audio id="stigmatisere" src="https://static.ordnet.dk/mp3/11050/11050241_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('stigmatisere');" style="cursor: pointer; color: blue;">[sdimatiˈseˀʌ]</span>
+</td>
+<td> stigmatiserer </td>
+<td> stigmatiserede </td>
+<td> har stigmatiseret </td>
+<td> stigmatiser </td>
+<td> to stigmatize </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=stille"> at stille (sig) </a></td>
 <td>
 <audio id="stille" src="https://static.ordnet.dk/mp3/11050/11050312_1.mp3" style="display: none;"></audio>
@@ -14844,6 +14857,19 @@ search: true
 <td> underlag </td>
 <td> to subject </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=underminere"> at underminere </a></td>
+<td>
+<audio id="underminere" src="https://static.ordnet.dk/mp3/12004/12004819_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('underminere');" style="cursor: pointer; color: blue;">[-miˌneˀʌ]</span>
+</td>
+<td> underminerer </td>
+<td> underminerede </td>
+<td> har undermineret </td>
+<td> underminér </td>
+<td> to undermine </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=understrege"> at understrege </a></td>
