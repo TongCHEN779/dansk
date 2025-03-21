@@ -8238,6 +8238,18 @@ search: true
 <td> incompatible </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=uforglemmelig"> uforglemmelig </a></td>
+<td>
+<audio id="uforglemmelig" src="https://static.ordnet.dk/mp3/12004/12004378_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('uforglemmelig');" style="cursor: pointer; color: blue;">[ufʌˈglεmˀəli]</span>
+</td>
+<td> uforglemmeligt </td>
+<td> uforglemmelige </td>
+<td> mere uforglemmelig </td>
+<td> mest uforglemmelig </td>
+<td> unforgettable </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=uforpligtende"> uforpligtende/uforpligtigende </a></td>
 <td>
 <audio id="uforpligtende" src="https://static.ordnet.dk/mp3/12004/12004423_1.mp3" style="display: none;"></audio>

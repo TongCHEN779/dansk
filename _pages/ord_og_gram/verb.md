@@ -1095,6 +1095,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bebrejde"> at bebrejde </a></td>
+<td>
+<audio id="bebrejde" src="https://static.ordnet.dk/mp3/11003/11003699_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bebrejde');" style="cursor: pointer; color: blue;">[beˈbʁɑjˀdə]</span>
+</td>
+<td> bebrejder </td>
+<td> bebrejdede </td>
+<td> har bebrejdet </td>
+<td> bebrejd </td>
+<td> to blame </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bede"> at bede </a></td>
 <td>
 <audio id="bede1" src="https://static.ordnet.dk/mp3/11003/11003717_1.mp3" style="display: none;"></audio>
@@ -4146,6 +4159,19 @@ search: true
 <td> forfrem </td>
 <td> to promote </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forglemme"> at forglemme </a></td>
+<td>
+<audio id="forglemme" src="https://static.ordnet.dk/mp3/11014/11014535_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forglemme');" style="cursor: pointer; color: blue;">[fʌˈglεmˀə]</span>
+</td>
+<td> forglemmer </td>
+<td> forglemte </td>
+<td> har forglemt </td>
+<td> forglem </td>
+<td> to forget </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forhandle"> at forhandle </a></td>

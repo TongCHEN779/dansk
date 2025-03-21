@@ -4003,6 +4003,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dusin"> et dusin </a></td>
+<td>
+<audio id="dusin" src="https://static.ordnet.dk/mp3/11009/11009996_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dusin');" style="cursor: pointer; color: blue;">[duˈsiˀn]</span>
+</td>
+<td> dusinet </td>
+<td> dusin </td>
+<td> dusinene </td>
+<td> dozen (12 stk.) </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dvd"> en dvd </a></td>
 <td>
 <audio id="dvd" src="https://static.ordnet.dk/mp3/11010/11010014_1.mp3" style="display: none;"></audio>
@@ -14204,6 +14216,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ol"> en ol </a></td>
+<td>
+<audio id="ol" src="https://static.ordnet.dk/mp3/11036/11036900_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ol');" style="cursor: pointer; color: blue;">[ˈoˀl]</span>
+</td>
+<td> olen </td>
+<td> ol </td>
+<td> olene </td>
+<td> 80 stk. (4 snese) </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=oliefyr"> et oliefyr </a></td>
 <td>
 <audio id="oliefyr" src="https://static.ordnet.dk/mp3/11036/11036991_1.mp3" style="display: none;"></audio>
@@ -19025,6 +19049,18 @@ search: true
 <td> smykkerne </td>
 <td> jewelry </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=snes"> en snes </a></td>
+<td>
+<audio id="snes" src="https://static.ordnet.dk/mp3/11048/11048300_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('snes');" style="cursor: pointer; color: blue;">[ˈsneˀs]</span>
+</td>
+<td> snesen </td>
+<td> snese </td>
+<td> snesene </td>
+<td> score (20 stk.) </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=snevejr"> et snevejr </a></td>
