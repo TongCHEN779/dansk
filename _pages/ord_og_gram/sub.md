@@ -16339,6 +16339,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=p%C3%A5mindelse"> en påmindelse </a></td>
+<td>
+<audio id="påmindelse" src="https://static.ordnet.dk/mp3/11041/11041816_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('påmindelse');" style="cursor: pointer; color: blue;">[-ˌmenˀəlsə]</span>
+</td>
+<td> påmindelsen </td>
+<td> påmindelser </td>
+<td> påmindelserne </td>
+<td> reminder </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=pårørende"> pårørende </a></td>
 <td>
 <audio id="pårørende" src="https://static.ordnet.dk/mp3/11041/11041825_1.mp3" style="display: none;"></audio>
