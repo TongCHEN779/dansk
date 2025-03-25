@@ -2634,6 +2634,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=brand"> et brand </a></td>
+<td>
+<audio id="brand" src="https://static.ordnet.dk/mp3/11005/11005978_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('brand');" style="cursor: pointer; color: blue;">[ˈbʁɑnˀ]</span>
+</td>
+<td> brandet </td>
+<td> brande </td>
+<td> brandene </td>
+<td> fire </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bredde"> en bredde </a></td>
 <td>
 <audio id="bredde" src="https://static.ordnet.dk/mp3/11006/11006081_1.mp3" style="display: none;"></audio>
@@ -6467,7 +6479,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fremdrift"> en fremdrift </a></td>
 <td>
 <audio id="fremdrift" src="https://static.ordnet.dk/mp3/11015/11015861_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('fremdrift');" style="cursor: pointer; color: blue;">[ˈfʁɛmˌdʁɪd]</span>
+<span onclick="playSound('fremdrift');" style="cursor: pointer; color: blue;">[ˈfʁɛmˌdʁɪfd]</span>
 </td>
 <td> fremdriften </td>
 <td> fremdrifte </td>
@@ -7182,6 +7194,18 @@ search: true
 <td> - </td>
 <td> in return </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=genhusning"> en genhusning </a></td>
+<td>
+<audio id="genhusning" src="https://static.ordnet.dk/mp3/51000/51000491_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('genhusning');" style="cursor: pointer; color: blue;">[ˈgεnˌhuˀsneŋ]</span>
+</td>
+<td> genhusningen </td>
+<td> genhusninger </td>
+<td> genhusningerne </td>
+<td> rehousing </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gennemslagskraft"> en gennemslagskraft </a></td>
@@ -8804,6 +8828,30 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ibrugtagning"> en ibrugtagning </a></td>
+<td>
+<audio id="ibrugtagning" src="https://static.ordnet.dk/mp3/51000/51000774_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ibrugtagning');" style="cursor: pointer; color: blue;">[ˈiˈbʁuˀˌtæˀjneŋ]</span>
+</td>
+<td> ibrugtagningen </td>
+<td> ibrugtagninger </td>
+<td> ibrugtagningerne </td>
+<td> commissioning </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ibrugtagningstilladelse"> en ibrugtagningstilladelse </a></td>
+<td>
+<audio id="ibrugtagningstilladelse" src="https://static.ordnet.dk/mp3/11022/11022753_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ibrugtagningstilladelse');" style="cursor: pointer; color: blue;">[iˈbʁuˀˌtæˀjneŋs-]</span>
+</td>
+<td> ibrugtagningstilladelsen </td>
+<td> ibrugtagningstilladelser </td>
+<td> ibrugtagningstilladelserne </td>
+<td> commissioning permit </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ideologi"> en ideologi </a></td>
 <td>
 <audio id="ideologi" src="https://static.ordnet.dk/mp3/11022/11022793_1.mp3" style="display: none;"></audio>
@@ -9642,6 +9690,18 @@ search: true
 <td> jætterne </td>
 <td> giant </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kabel"> et kabel </a></td>
+<td>
+<audio id="kabel" src="https://static.ordnet.dk/mp3/11024/11024899_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kabel');" style="cursor: pointer; color: blue;">[ˈkæˀbəl]</span>
+</td>
+<td> kablet </td>
+<td> kabler </td>
+<td> kablerne </td>
+<td> cable </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kage"> en kage </a></td>
@@ -10720,7 +10780,7 @@ search: true
 <td> kraften </td>
 <td> kræfter </td>
 <td> kræfterne </td>
-<td> cancer </td>
+<td> power, force </td>
 <td> 3 </td>
 </tr>
 <tr>
@@ -10901,6 +10961,18 @@ search: true
 <td> krydstogter </td>
 <td> krydstogterne </td>
 <td> cruise </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kr%C3%A6ft"> en kræft </a></td>
+<td>
+<audio id="kræft" src="https://static.ordnet.dk/mp3/11028/11028371_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kræft');" style="cursor: pointer; color: blue;">[ˈkʁafd]</span>
+</td>
+<td> kræften </td>
+<td> - </td>
+<td> - </td>
+<td> cancer </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -11872,7 +11944,7 @@ search: true
 <td> loftet </td>
 <td> lofter </td>
 <td> lofterne </td>
-<td> attic </td>
+<td> ceiling </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -15415,6 +15487,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pavillon"> en pavillon </a></td>
+<td>
+<audio id="pavillon" src="https://static.ordnet.dk/mp3/11039/11039207_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('pavillon');" style="cursor: pointer; color: blue;">[pavilˈjʌŋ]</span>
+</td>
+<td> pavillonen </td>
+<td> pavilloner </td>
+<td> pavillonerne </td>
+<td> pavilion </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=pedal"> en pedal </a></td>
 <td>
 <audio id="pedal" src="https://static.ordnet.dk/mp3/11039/11039244_1.mp3" style="display: none;"></audio>
@@ -17371,6 +17455,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=r%C3%B8r"> et rør </a></td>
+<td>
+<audio id="rør" src="https://static.ordnet.dk/mp3/11044/11044209_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rør');" style="cursor: pointer; color: blue;">[ˈʁɶˀɐ̯]</span>
+</td>
+<td> røret </td>
+<td> rør </td>
+<td> rørene </td>
+<td> pipe/tube </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=røst"> røst </a></td>
 <td>
 <audio id="røst" src="https://static.ordnet.dk/mp3/11044/11044239_1.mp3" style="display: none;"></audio>
@@ -18761,6 +18857,18 @@ search: true
 <td> skærmene </td>
 <td> screen </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A6rpelse"> en skærpelse </a></td>
+<td>
+<audio id="skærpelse" src="https://static.ordnet.dk/mp3/51002/51002299_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skærpelse');" style="cursor: pointer; color: blue;">[ˈsgæɐ̯bəlsə]</span>
+</td>
+<td> skærpelsen </td>
+<td> skærpelser </td>
+<td> skærpelserne </td>
+<td> tightening </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A6vhed"> en skævhed </a></td>

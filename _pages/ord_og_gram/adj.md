@@ -7554,6 +7554,18 @@ search: true
 <td> available </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilh%C3%B8rende"> tilhørende </a></td>
+<td>
+<audio id="tilhørende" src="https://static.ordnet.dk/mp3/12001/12001150_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilhørende');" style="cursor: pointer; color: blue;">[ˈtelˌhøˀʌnə]</span>
+</td>
+<td> tilhørende </td>
+<td> tilhørende </td>
+<td> mere tilhørende </td>
+<td> mest tilhørende </td>
+<td> associated </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilpas"> tilpas </a></td>
 <td>
 <audio id="tilpas" src="https://static.ordnet.dk/mp3/12001/12001300_1.mp3" style="display: none;"></audio>

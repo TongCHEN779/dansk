@@ -6773,6 +6773,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indvie"> at indvie/indvi </a></td>
+<td>
+<audio id="indvie" src="https://static.ordnet.dk/mp3/11023/11023669_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indvie');" style="cursor: pointer; color: blue;">[ˈenˌviˀə]</span>
+</td>
+<td> indvier </td>
+<td> indviede </td>
+<td> har indviet </td>
+<td> indvi </td>
+<td> to inaugurate </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=insistere"> at insistere </a></td>
 <td>
 <audio id="insistere" src="https://static.ordnet.dk/mp3/11023/11023869_1.mp3" style="display: none;"></audio>
@@ -9800,6 +9813,19 @@ search: true
 <td> overfør </td>
 <td> to transfer, carry </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=overg%C3%A5"> at overgå </a></td>
+<td>
+<audio id="overgå" src="https://static.ordnet.dk/mp3/11038/11038313_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('overgå');" style="cursor: pointer; color: blue;">[-ˌgɔˀ]</span>
+</td>
+<td> overgår </td>
+<td> overgik </td>
+<td> har overgået </td>
+<td> overgå </td>
+<td> to surpass </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=overhale"> at overhale </a></td>
@@ -14271,6 +14297,19 @@ search: true
 <td> har udbragt </td>
 <td> udbring </td>
 <td> to deliver </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udbyde"> at udbyde </a></td>
+<td>
+<audio id="udbyde" src="https://static.ordnet.dk/mp3/12003/12003677_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udbyde');" style="cursor: pointer; color: blue;">[-ˌbyˀðə]</span>
+</td>
+<td> udbyder </td>
+<td> udbød </td>
+<td> har udbudt </td>
+<td> udbyd </td>
+<td> to offer </td>
 <td> 3 </td>
 </tr>
 <tr>
