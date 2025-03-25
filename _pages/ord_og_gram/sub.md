@@ -414,6 +414,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=aktindsigt"> en aktindsigt </a></td>
+<td>
+<audio id="aktindsigt" src="https://static.ordnet.dk/mp3/11001/11001097_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('aktindsigt');" style="cursor: pointer; color: blue;">[ˈɑgdˌensegˀd]</span>
+</td>
+<td> aktindsigten </td>
+<td> aktindsigter </td>
+<td> aktindsigterne </td>
+<td> access to documents </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=akvarel"> en akvarel </a></td>
 <td>
 <audio id="akvarel" src="https://static.ordnet.dk/mp3/11001/11001140_1.mp3" style="display: none;"></audio>
@@ -19875,7 +19887,7 @@ search: true
 <td> standen </td>
 <td> stande </td>
 <td> standene </td>
-<td> stand </td>
+<td> stand, level </td>
 <td> 2 </td>
 </tr>
 <tr>
