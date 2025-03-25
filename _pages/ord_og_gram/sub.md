@@ -2322,6 +2322,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=billedsprog"> et billedsprog </a></td>
+<td>
+<audio id="billedsprog" src="https://static.ordnet.dk/mp3/11004/11004712_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('billedsprog');" style="cursor: pointer; color: blue;">[ˈbeləðˌsbʁɔw]</span>
+</td>
+<td> billedsproget </td>
+<td> billedsprog </td>
+<td> billedsprogene </td>
+<td> imagery </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=billet"> en billet </a></td>
 <td>
 <audio id="billet" src="https://static.ordnet.dk/mp3/11004/11004725_1.mp3" style="display: none;"></audio>
@@ -5648,6 +5660,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fodslag"> et fodslag </a></td>
+<td>
+<audio id="fodslag" src="https://static.ordnet.dk/mp3/11013/11013980_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fodslag');" style="cursor: pointer; color: blue;">[-ˌslɑw]</span>
+</td>
+<td> fodslaget </td>
+<td> fodslag </td>
+<td> fodslagene </td>
+<td> step, pace </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=folk"> et folk </a></td>
 <td>
 <audio id="folk" src="https://static.ordnet.dk/mp3/11014/11014030_1.mp3" style="display: none;"></audio>
@@ -7061,6 +7085,18 @@ search: true
 <td> gaver </td>
 <td> gaverne </td>
 <td> present </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gavebod"> en gavebod </a></td>
+<td>
+<audio id="gavebod" src="https://static.ordnet.dk/mp3/11017/11017338_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gavebod');" style="cursor: pointer; color: blue;">[ˈgæːvəˌboˀð]</span>
+</td>
+<td> gaveboden </td>
+<td> gaveboder </td>
+<td> gaveboderne </td>
+<td> gift stall </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -9065,6 +9101,18 @@ search: true
 <td> inddragelser </td>
 <td> inddragelserne </td>
 <td> involvement </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=inddrivelse"> en inddrivelse </a></td>
+<td>
+<audio id="inddrivelse" src="https://static.ordnet.dk/mp3/11023/11023161_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('inddrivelse');" style="cursor: pointer; color: blue;">[-ˌdʁiˀvəlsə]</span>
+</td>
+<td> inddrivelsen </td>
+<td> inddrivelser </td>
+<td> inddrivelserne </td>
+<td> (debt) recovery </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -12836,6 +12884,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=metafor"> en metafor </a></td>
+<td>
+<audio id="metafor" src="https://static.ordnet.dk/mp3/11033/11033338_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('metafor');" style="cursor: pointer; color: blue;">[metaˈfoˀɐ̯]</span>
+</td>
+<td> metaforen </td>
+<td> metaforer </td>
+<td> metaforerne </td>
+<td> metaphor </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=meteorologi"> en meteorologi </a></td>
 <td>
 <audio id="meteorologi" src="https://static.ordnet.dk/mp3/11033/11033365_1.mp3" style="display: none;"></audio>
@@ -13037,6 +13097,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> distrust </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=misundelse"> en misundelse </a></td>
+<td>
+<audio id="misundelse" src="https://static.ordnet.dk/mp3/11033/11033953_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('misundelse');" style="cursor: pointer; color: blue;">[misˈɔnˀəlsə]</span>
+</td>
+<td> misundelsen </td>
+<td> - </td>
+<td> - </td>
+<td> envy </td>
 <td> 1 </td>
 </tr>
 <tr>

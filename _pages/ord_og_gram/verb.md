@@ -5278,6 +5278,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=f%C3%B8je"> at føje </a></td>
+<td>
+<audio id="føje" src="https://static.ordnet.dk/mp3/11016/11016816_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('føje');" style="cursor: pointer; color: blue;">[ˈfʌjə]</span>
+</td>
+<td> føjer </td>
+<td> føjede </td>
+<td> har føjet </td>
+<td> føj </td>
+<td> to comply </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=f%C3%B8le"> at føle </a></td>
 <td>
 <audio id="føle" src="https://static.ordnet.dk/mp3/11016/11016822_1.mp3" style="display: none;"></audio>
@@ -6409,6 +6422,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=inddrive"> at inddrive </a></td>
+<td>
+<audio id="inddrive" src="https://static.ordnet.dk/mp3/11023/11023160_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('inddrive');" style="cursor: pointer; color: blue;">[-ˌdʁiˀvə]</span>
+</td>
+<td> inddriver </td>
+<td> inddrev </td>
+<td> har inddrevet </td>
+<td> inddriv </td>
+<td> to collect (debts) </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=inddæmme"> at inddæmme </a></td>
 <td>
 <audio id="inddæmme" src="https://static.ordnet.dk/mp3/11023/11023164_1.mp3" style="display: none;"></audio>
@@ -6550,6 +6576,19 @@ search: true
 <td> indgå </td>
 <td> to include </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indkr%C3%A6ve"> at indkræve </a></td>
+<td>
+<audio id="indkræve" src="https://static.ordnet.dk/mp3/11023/11023392_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indkræve');" style="cursor: pointer; color: blue;">[-ˌkʁεˀvə]</span>
+</td>
+<td> indkræver </td>
+<td> indkrævede </td>
+<td> har indkrævet </td>
+<td> indkræv </td>
+<td> to demand </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=indlede"> at indlede </a></td>
@@ -8447,6 +8486,19 @@ search: true
 <td> har misforstået </td>
 <td> misforstå </td>
 <td> to misunderstand </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=misligholde"> at misligholde </a></td>
+<td>
+<audio id="misligholde" src="https://static.ordnet.dk/mp3/11033/11033895_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('misligholde');" style="cursor: pointer; color: blue;">[ˈmisliˌhʌlˀə]</span>
+</td>
+<td> misligholder </td>
+<td> misligholdt </td>
+<td> har misligholdt </td>
+<td> mislighold </td>
+<td> to neglect </td>
 <td> 3 </td>
 </tr>
 <tr>
