@@ -91,6 +91,11 @@ search: true
 <td> Det kan ikke betale sig at bygge i dagens Danmark. Byggeomkostningerne er høje, fordi arbejdsløn og materialer er dyre. </td>
 </tr>
 <tr>
+<td> bide på krogen </td>
+<td> take the bait </td>
+<td> Skallen bliver straks smidt ned i en vandspand til de andre, der har bidt på krogen. </td>
+</tr>
+<tr>
 <td> blive ved </td>
 <td> keep </td>
 <td> Hun blev ved med at stirre på mig med opspilede øjne. </td>
@@ -716,6 +721,11 @@ search: true
 <td> De høje danske afgifter ved import af brugte biler er muligvis i strid med Rom-traktaten. </td>
 </tr>
 <tr>
+<td> ned ad bakke </td>
+<td> downhill </td>
+<td> Det gik for alvor ned ad bakke for murerbranchen i 1982 og mange firmaer gik konkurs. </td>
+</tr>
+<tr>
 <td> nemlig </td>
 <td> namely, precisely </td>
 <td> Hans J. Wegner står bag en af dansk møbeldesigns største succeser, nemlig Y-stolen, der trods sine 40 år stadig er meget efterspurgt. </td>
@@ -734,6 +744,11 @@ search: true
 <td> og så videre / osv </td>
 <td> and so on </td>
 <td> Jeg ævlede op om, hvad nu og hvis, og så videre, men hun tyssede blot på mig. </td>
+</tr>
+<tr>
+<td> op ad bakke </td>
+<td> uphill </td>
+<td> Når vi skal igennem sorgen eller angsten – ikke over den eller uden om den men igennem den – så er det op ad bakke hele vejen. </td>
 </tr>
 <tr>
 <td> opføre sig </td>

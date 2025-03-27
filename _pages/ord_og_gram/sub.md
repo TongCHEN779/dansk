@@ -6224,6 +6224,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forstad"> en forstad </a></td>
+<td>
+<audio id="forstad" src="https://static.ordnet.dk/mp3/11015/11015172_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forstad');" style="cursor: pointer; color: blue;">[ˈfɒːˌsdað]</span>
+</td>
+<td> forstaden </td>
+<td> forstæder </td>
+<td> forstæderne </td>
+<td> suburb </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forstkandidat"> en forstkandidat </a></td>
 <td>
 <audio id="forstkandidat" src="https://static.ordnet.dk/mp3/11015/11015188_1.mp3" style="display: none;"></audio>
@@ -9872,6 +9884,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kammer"> et kammer </a></td>
+<td>
+<audio id="kammer" src="https://static.ordnet.dk/mp3/11025/11025117_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kammer');" style="cursor: pointer; color: blue;">[ˈkɑmˀʌ]</span>
+</td>
+<td> kammeret/kamret </td>
+<td> kamre </td>
+<td> kamrene </td>
+<td> chamber </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kammerat"> en kammerat </a></td>
 <td>
 <audio id="kammerat" src="https://static.ordnet.dk/mp3/11025/11025120_1.mp3" style="display: none;"></audio>
@@ -10948,7 +10972,7 @@ search: true
 <td> krogen </td>
 <td> kroge </td>
 <td> krogene </td>
-<td> corner </td>
+<td> corner, hook </td>
 <td> 2 </td>
 </tr>
 <tr>
@@ -13194,6 +13218,18 @@ search: true
 <td> modangrebene </td>
 <td> counterattack </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=moderator"> en moderator </a></td>
+<td>
+<audio id="moderator" src="https://static.ordnet.dk/mp3/11034/11034047_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('moderator');" style="cursor: pointer; color: blue;">[modəˈʁɑːtʌ]</span>
+</td>
+<td> moderatoren </td>
+<td> moderatorer </td>
+<td> moderatorerne </td>
+<td> moderator </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=modernitet"> en modernitet </a></td>
@@ -17335,6 +17371,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rumpe"> en rumpe </a></td>
+<td>
+<audio id="rumpe" src="https://static.ordnet.dk/mp3/11043/11043814_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rumpe');" style="cursor: pointer; color: blue;">[ˈʁɔmbə]</span>
+</td>
+<td> rumpen </td>
+<td> rumper </td>
+<td> rumperne </td>
+<td> buttocks </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=runde"> en runde </a></td>
 <td>
 <audio id="runde" src="https://static.ordnet.dk/mp3/11043/11043843_1.mp3" style="display: none;"></audio>
@@ -18916,6 +18964,18 @@ search: true
 <td> skældud </td>
 <td> skældudene </td>
 <td> scolding </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A6nderi"> et skænderi </a></td>
+<td>
+<audio id="skænderi" src="https://static.ordnet.dk/mp3/11047/11047385_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skænderi');" style="cursor: pointer; color: blue;">[sgεnʌˈʁiˀ]</span>
+</td>
+<td> skænderiet </td>
+<td> skænderier </td>
+<td> skænderierne </td>
+<td> quarrel </td>
 <td> 1 </td>
 </tr>
 <tr>

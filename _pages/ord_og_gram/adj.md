@@ -7770,6 +7770,18 @@ search: true
 <td> tropical </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=trov%C3%A6rdig"> troværdig </a></td>
+<td>
+<audio id="troværdig" src="https://static.ordnet.dk/mp3/12002/12002533_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('troværdig');" style="cursor: pointer; color: blue;">[tʁoˈvæɐ̯ˀdi]</span>
+</td>
+<td> troværdigt </td>
+<td> troværdige </td>
+<td> mere troværdig </td>
+<td> mest troværdig </td>
+<td> trustworthy </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tryg"> tryg </a></td>
 <td>
 <audio id="tryg" src="https://static.ordnet.dk/mp3/12002/12002564_1.mp3" style="display: none;"></audio>
