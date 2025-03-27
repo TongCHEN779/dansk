@@ -2959,6 +2959,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=byg"> et byg </a></td>
+<td>
+<audio id="byg" src="https://static.ordnet.dk/mp3/11006/11006867_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('byg');" style="cursor: pointer; color: blue;">[ˈbyg]</span>
+</td>
+<td> byggen </td>
+<td> - </td>
+<td> - </td>
+<td> barley </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=byggeri"> et byggeri </a></td>
 <td>
 <audio id="byggeri" src="https://static.ordnet.dk/mp3/11006/11006908_1.mp3" style="display: none;"></audio>
@@ -7988,6 +8000,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=havre"> havre </a></td>
+<td>
+<audio id="havre" src="https://static.ordnet.dk/mp3/11020/11020111_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('havre');" style="cursor: pointer; color: blue;">[ˈhɑwʁʌ]</span>
+</td>
+<td> havren </td>
+<td> - </td>
+<td> - </td>
+<td> oats </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hede"> hede </a></td>
 <td>
 <audio id="hede" src="https://static.ordnet.dk/mp3/11020/11020165_1.mp3" style="display: none;"></audio>
@@ -8634,6 +8658,30 @@ search: true
 <td> hvalfangerne </td>
 <td> whaler </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hvede"> hvede </a></td>
+<td>
+<audio id="hvede" src="https://static.ordnet.dk/mp3/11021/11021864_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hvede');" style="cursor: pointer; color: blue;">[ˈveːðə]</span>
+</td>
+<td> hveden </td>
+<td> - </td>
+<td> - </td>
+<td> wheat </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hvedemel"> hvedemel </a></td>
+<td>
+<audio id="hvedemel" src="https://static.ordnet.dk/mp3/11021/11021869_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hvedemel');" style="cursor: pointer; color: blue;">[ˈveːðəˌmeˀl]</span>
+</td>
+<td> hvedemelet </td>
+<td> - </td>
+<td> - </td>
+<td> wheat flour </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hverdagsting"> en hverdagsting </a></td>
@@ -17344,6 +17392,42 @@ search: true
 <td> rosiner </td>
 <td> rosinerne </td>
 <td> raisin </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rug"> et rug </a></td>
+<td>
+<audio id="rug" src="https://static.ordnet.dk/mp3/11043/11043737_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rug');" style="cursor: pointer; color: blue;">[ˈʁuˀ]</span>
+</td>
+<td> ruen </td>
+<td> - </td>
+<td> - </td>
+<td> rye </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rugbr%C3%B8d"> et rugbrød </a></td>
+<td>
+<audio id="rugbrød" src="https://static.ordnet.dk/mp3/11043/11043738_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rugbrød');" style="cursor: pointer; color: blue;">[ˈʁuˌbʁœðˀ]</span>
+</td>
+<td> rugbrødet </td>
+<td> rugbrød </td>
+<td> rugbrødene </td>
+<td> rye bread </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rugmel"> et rugmel </a></td>
+<td>
+<audio id="rugmel" src="https://static.ordnet.dk/mp3/11043/11043748_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rugmel');" style="cursor: pointer; color: blue;">[ˈʁuː-]</span>
+</td>
+<td> rugmelet </td>
+<td> - </td>
+<td> - </td>
+<td> rye flour </td>
 <td> 1 </td>
 </tr>
 <tr>
