@@ -536,6 +536,11 @@ search: true
 <td> I sammenligning med andre i-lande yder Danmark en relativt stor udviklingsbistand. </td>
 </tr>
 <tr>
+<td> i spidsen </td>
+<td> in charge, be the head </td>
+<td> I et halvt år har Karen Melson været administrerende direktør for hotellet og i spidsen for 55 ansatte. </td>
+</tr>
+<tr>
 <td> i stedet (for) </td>
 <td> instead (of) </td>
 <td> Ønsker De ikke at blive medlem, så send os venligst et bidrag i stedet. </td>

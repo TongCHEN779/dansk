@@ -1770,6 +1770,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=benzin"> en benzin </a></td>
+<td>
+<audio id="benzin" src="https://static.ordnet.dk/mp3/11004/11004101_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('benzin');" style="cursor: pointer; color: blue;">[bεnˈsiˀn]</span>
+</td>
+<td> benzinen </td>
+<td> - </td>
+<td> - </td>
+<td> gasoline </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=benzintank"> en benzintank </a></td>
 <td>
 <audio id="benzintank" src="https://static.ordnet.dk/mp3/11004/11004112_1.mp3" style="display: none;"></audio>
@@ -3784,6 +3796,18 @@ search: true
 <td> diagrammer </td>
 <td> diagrammerne </td>
 <td> diagram </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=diesel"> en diesel </a></td>
+<td>
+<audio id="diesel" src="https://static.ordnet.dk/mp3/11009/11009022_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('diesel');" style="cursor: pointer; color: blue;">[ˈdiˀsəl]</span>
+</td>
+<td> dieselen/dieslen </td>
+<td> dieseler/diesler </td>
+<td> dieselerne/dieslerne </td>
+<td> diesel </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -17419,6 +17443,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rugbr%C3%B8dsmotor"> en rugbrødsmotor </a></td>
+<td>
+<audio id="rugbrødsmotor" src="https://static.ordnet.dk/mp3/11043/11043740_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rugbrødsmotor');" style="cursor: pointer; color: blue;">[ˈʁuˌbʁœðˀsˌmoˀtɐ]</span>
+</td>
+<td> rugbrødsmotoren </td>
+<td> rugbrødsmotorer </td>
+<td> rugbrødsmotorerne </td>
+<td> slang for a van </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=rugmel"> et rugmel </a></td>
 <td>
 <audio id="rugmel" src="https://static.ordnet.dk/mp3/11043/11043748_1.mp3" style="display: none;"></audio>
@@ -19732,6 +19768,18 @@ search: true
 <td> spekulationer </td>
 <td> spekulationerne </td>
 <td> speculation </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=spids"> en spids </a></td>
+<td>
+<audio id="spids" src="https://static.ordnet.dk/mp3/11049/11049099_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('spids');" style="cursor: pointer; color: blue;">[ˈsbes]</span>
+</td>
+<td> spidsen </td>
+<td> spidser </td>
+<td> spidserne </td>
+<td> tip/point </td>
 <td> 1 </td>
 </tr>
 <tr>
