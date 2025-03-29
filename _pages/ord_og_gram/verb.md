@@ -6188,6 +6188,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=h%C3%A6mme,2&query=h%C3%A6mme"> at hæmme </a></td>
+<td>
+<audio id="hæmme" src="https://static.ordnet.dk/mp3/11022/11022218_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hæmme');" style="cursor: pointer; color: blue;">[ˈhεmə]</span>
+</td>
+<td> hæmmer </td>
+<td> hæmmede </td>
+<td> har hæmmet </td>
+<td> hæm </td>
+<td> to inhibit </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%A6nge"> at hænge </a></td>
 <td>
 <audio id="hænge" src="https://static.ordnet.dk/mp3/11022/11022235_1.mp3" style="display: none;"></audio>
@@ -12649,7 +12662,7 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=spænde"> at spænde </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=sp%C3%A6nde,2&amp;query=sp%C3%A6nde"> at spænde </a></td>
 <td>
 <audio id="spænde" src="https://static.ordnet.dk/mp3/11049/11049590_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('spænde');" style="cursor: pointer; color: blue;">[ˈsbεnə]</span>
@@ -13453,6 +13466,19 @@ search: true
 <td> tab </td>
 <td> to lose </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tackle"> at tackle/takle </a></td>
+<td>
+<audio id="tackle" src="https://static.ordnet.dk/mp3/12000/12000033_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tackle');" style="cursor: pointer; color: blue;">[ˈtɑglə]</span>
+</td>
+<td> tackler </td>
+<td> tacklede </td>
+<td> har tacklet </td>
+<td> tackl </td>
+<td> to tackle </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tage"> at tage </a></td>

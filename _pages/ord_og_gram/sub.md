@@ -15403,6 +15403,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=oversv%C3%B8mmelse"> en oversvømmelse </a></td>
+<td>
+<audio id="oversvømmelse" src="https://static.ordnet.dk/mp3/11038/11038503_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('oversvømmelse');" style="cursor: pointer; color: blue;">[-ˌsvœmˀəlsə]</span>
+</td>
+<td> oversvømmelsen </td>
+<td> oversvømmelser </td>
+<td> oversvømmelserne </td>
+<td> flood </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=overtal"> et overtal </a></td>
 <td>
 <audio id="overtal" src="https://static.ordnet.dk/mp3/11038/11038517_1.mp3" style="display: none;"></audio>

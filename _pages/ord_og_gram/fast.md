@@ -166,6 +166,11 @@ search: true
 <td> Alle lo. Hun blev rød i kinderne og vidste at hun havde dummet sig. </td>
 </tr>
 <tr>
+<td> (hele) døgnet/året rundt </td>
+<td> around the clock, all year around </td>
+<td> Krisecentret er åbent døgnet rundt alle ugens dage. </td>
+</tr>
+<tr>
 <td> efterhånden som </td>
 <td> as </td>
 <td> Byen blev mørkere efterhånden som butikkerne lukkede. </td>
@@ -334,6 +339,11 @@ search: true
 <td> gøre/lave grin med </td>
 <td> make fun of </td>
 <td> At gøre grin med dronningen er jo ikke noget man normalt kan tillade sig. </td>
+</tr>
+<tr>
+<td> gøre indtryk på </td>
+<td> make impression on </td>
+<td> Det var tydeligt at onkel Oscars ord havde gjort indtryk på hende. </td>
 </tr>
 <tr>
 <td> gøre sig umage </td>
@@ -944,6 +954,11 @@ search: true
 <td> sommerfugle i maven </td>
 <td> nervousness </td>
 <td> Selvfølgelig havde jeg sommerfugle i maven, da jeg søgte stillingen – og fik den. </td>
+</tr>
+<tr>
+<td> spænde fra </td>
+<td> range from </td>
+<td> Den politiske aktivitet kan spænde fra 18 timer i døgnet året rundt til 5 minutter hvert andet år, når man sætter sit kryds på en stemmeseddel. </td>
 </tr>
 <tr>
 <td> spærre af </td>

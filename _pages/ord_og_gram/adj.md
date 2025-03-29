@@ -4086,6 +4086,18 @@ search: true
 <td> easy </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=letforståelig"> letforståelig </a></td>
+<td>
+<audio id="letforståelig" src="https://static.ordnet.dk/mp3/11030/11030207_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('letforståelig');" style="cursor: pointer; color: blue;">[ˈlεdfʌˌsdɔˀəli]</span>
+</td>
+<td> letforståeligt </td>
+<td> letforståelige </td>
+<td> mere letforståelig </td>
+<td> mest letforståelig </td>
+<td> easy to understand </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=liderlig"> liderlig </a></td>
 <td>
 <audio id="liderlig" src="https://static.ordnet.dk/mp3/11030/11030348_1.mp3" style="display: none;"></audio>
