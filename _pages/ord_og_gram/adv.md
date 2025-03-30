@@ -712,6 +712,11 @@ search: true
 <td> Jeg var slet ikke deprimeret, tværtimod, man skal se positivt på alting. </td>
 </tr>
 <tr>
+<td> undervejs </td>
+<td> along the way </td>
+<td> Vi købte en gammel spand af en bil og tilbagelagde i løbet af de næste ni måneder ca. 28.000 km. Undervejs arbejdede vi forskellige steder. </td>
+</tr>
+<tr>
 <td> ydermere </td>
 <td> furthermore </td>
 <td> Leksikonet leveres .. i en både smuk og slidstærk indbinding, som ydermere er forsynet med et smukt beskyttende yderomslag. </td>

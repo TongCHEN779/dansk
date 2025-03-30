@@ -3134,6 +3134,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=eftertragte"> at eftertragte </a></td>
+<td>
+<audio id="eftertragte" src="https://static.ordnet.dk/mp3/11010/11010640_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('eftertragte');" style="cursor: pointer; color: blue;">[-ˌtʁɑgdə]</span>
+</td>
+<td> eftertragter </td>
+<td> eftertragtede </td>
+<td> har eftertragtet </td>
+<td> eftertragt </td>
+<td> to desire </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=eje"> at eje </a></td>
 <td>
 <audio id="eje" src="https://static.ordnet.dk/mp3/11010/11010733_1.mp3" style="display: none;"></audio>
@@ -4626,6 +4639,19 @@ search: true
 <td> fortjen </td>
 <td> to deserve </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fortolke"> at fortolke </a></td>
+<td>
+<audio id="fortolke" src="https://static.ordnet.dk/mp3/11015/11015352_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fortolke');" style="cursor: pointer; color: blue;">[fʌˈtʌlˀgə]</span>
+</td>
+<td> fortolker </td>
+<td> fortolkede </td>
+<td> har fortolket </td>
+<td> fortolk </td>
+<td> to interpret </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fortryde"> at fortryde </a></td>
@@ -6188,7 +6214,7 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?select=h%C3%A6mme,2&query=h%C3%A6mme"> at hæmme </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=h%C3%A6mme,2&amp;query=h%C3%A6mme"> at hæmme </a></td>
 <td>
 <audio id="hæmme" src="https://static.ordnet.dk/mp3/11022/11022218_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('hæmme');" style="cursor: pointer; color: blue;">[ˈhεmə]</span>
@@ -7176,7 +7202,7 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=klippe"> at klippe </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=klippe,2&amp;query=klippe"> at klippe </a></td>
 <td>
 <audio id="klippe" src="https://static.ordnet.dk/mp3/11026/11026332_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('klippe');" style="cursor: pointer; color: blue;">[ˈklebə]</span>
@@ -10036,6 +10062,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=overtale"> at overtale </a></td>
+<td>
+<audio id="overtale" src="" style="display: none;"></audio>
+<span onclick="playSound('overtale');" style="cursor: pointer; color: blue;">[-ˌtæˀlə]</span>
+</td>
+<td> overtaler </td>
+<td> overtalte </td>
+<td> har overtalt </td>
+<td> overtale </td>
+<td> to persuade </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=overveje"> at overveje </a></td>
 <td>
 <audio id="overveje" src="https://static.ordnet.dk/mp3/11038/11038552_1.mp3" style="display: none;"></audio>
@@ -10085,6 +10124,19 @@ search: true
 <td> har parkeret </td>
 <td> parker </td>
 <td> to park </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=parre"> at parre </a></td>
+<td>
+<audio id="parre" src="https://static.ordnet.dk/mp3/11038/11038973_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('parre');" style="cursor: pointer; color: blue;">[ˈpɑːɑ]</span>
+</td>
+<td> parrer </td>
+<td> parrede </td>
+<td> har parret </td>
+<td> par </td>
+<td> to pair, mate </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -10333,6 +10385,19 @@ search: true
 <td> prisbelønne </td>
 <td> to award </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=priss%C3%A6tte"> at prissætte </a></td>
+<td>
+<audio id="prissætte" src="https://static.ordnet.dk/mp3/11040/11040867_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('prissætte');" style="cursor: pointer; color: blue;">[ˈpʁisˌsεdə]</span>
+</td>
+<td> prissætter </td>
+<td> prissatte </td>
+<td> har prissat </td>
+<td> prissæt </td>
+<td> to price </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=producere"> at producere </a></td>
@@ -12493,6 +12558,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=spejlvende"> at spejlvende </a></td>
+<td>
+<audio id="spejlvende" src="https://static.ordnet.dk/mp3/11049/11049064_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('spejlvende');" style="cursor: pointer; color: blue;">[ˈsbɑjlˌvεnˀə]</span>
+</td>
+<td> spejlvender </td>
+<td> spejlvendte </td>
+<td> har spejlvendt </td>
+<td> spejlvend </td>
+<td> to mirror-reverse </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=spekulere"> at spekulere </a></td>
 <td>
 <audio id="spekulere" src="https://static.ordnet.dk/mp3/11049/11049081_1.mp3" style="display: none;"></audio>
@@ -13767,6 +13845,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilrettel%C3%A6gge"> at tilrettelægge </a></td>
+<td>
+<audio id="tilrettelægge" src="https://static.ordnet.dk/mp3/12001/12001255_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilrettelægge');" style="cursor: pointer; color: blue;">[teˈʁadəˌlεgə]</span>
+</td>
+<td> tilrettelægger </td>
+<td> tilrettelagde </td>
+<td> har tilrettelagt </td>
+<td> tilrettelæg </td>
+<td> to plan </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilsides%C3%A6tte"> at tilsidesætte </a></td>
 <td>
 <audio id="tilsidesætte" src="https://static.ordnet.dk/mp3/12001/12001275_1.mp3" style="display: none;"></audio>
@@ -14674,6 +14765,19 @@ search: true
 <td> har udpeget </td>
 <td> udpeg </td>
 <td> to appoint </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udpine"> at udpine </a></td>
+<td>
+<audio id="udpine" src="https://static.ordnet.dk/mp3/12004/12004020_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udpine');" style="cursor: pointer; color: blue;">[-ˌpiˀnə]</span>
+</td>
+<td> udpiner </td>
+<td> udpinte </td>
+<td> har udpint </td>
+<td> udpint </td>
+<td> to exhaust </td>
 <td> 1 </td>
 </tr>
 <tr>

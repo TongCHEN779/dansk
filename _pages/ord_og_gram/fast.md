@@ -521,6 +521,11 @@ search: true
 <td> Flere politifolk blev i hast sendt til adressen i Jelling, men i mellemtiden var manden forsvundet. </td>
 </tr>
 <tr>
+<td> i modsætning til </td>
+<td> unlike </td>
+<td> Også vi mennesker, som jo ellers (i modsætning til dyrene) har lyst til at parre os året rundt, får ekstra lyst om foråret. </td>
+</tr>
+<tr>
 <td> i modsat fald </td>
 <td> otherwise </td>
 <td> Hvis du ikke kan komme, så sig det til mig i morgen på hospitalet – i modsat fald regner jeg med, at du kommer. </td>
@@ -1134,6 +1139,11 @@ search: true
 <td> tilskynde til </td>
 <td> encourage to </td>
 <td> Med regler og tilskud kan Folketinget tilskynde industrien til at bruge eller udvikle produkter, der ikke er kræftfremkaldende. </td>
+</tr>
+<tr>
+<td> tragte efter </td>
+<td> strive for </td>
+<td> I modsætning til de indiske religioner tragter taoismen efter et langt liv. </td>
 </tr>
 <tr>
 <td> trange kår </td>

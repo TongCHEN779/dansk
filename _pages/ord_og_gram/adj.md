@@ -1902,6 +1902,18 @@ search: true
 <td> relative </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forh%C3%A5bentlig"> forhåbentlig </a></td>
+<td>
+<audio id="forhåbentlig" src="https://static.ordnet.dk/mp3/11014/11014619_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forhåbentlig');" style="cursor: pointer; color: blue;">[fʌˈhɔˀbənli]</span>
+</td>
+<td> forhåbentligt </td>
+<td> forhåbentlige </td>
+<td> mere forhåbentlig </td>
+<td> mest forhåbentlig </td>
+<td> hopefully </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forkert"> forkert </a></td>
 <td>
 <audio id="forkert" src="https://static.ordnet.dk/mp3/11014/11014659_1.mp3" style="display: none;"></audio>
@@ -2704,6 +2716,18 @@ search: true
 <td> mere gæstfri </td>
 <td> mest gæstfri </td>
 <td> hospitable </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=g%C3%A5defuld"> gådefuld </a></td>
+<td>
+<audio id="gådefuld" src="https://static.ordnet.dk/mp3/11019/11019449_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gådefuld');" style="cursor: pointer; color: blue;">[ˈgɔːðəˌfulˀ]</span>
+</td>
+<td> gådefuldt </td>
+<td> gådefulde </td>
+<td> mere gådefuld </td>
+<td> mest gådefuld </td>
+<td> mysterious </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=halv"> halv </a></td>
@@ -4782,6 +4806,18 @@ search: true
 <td> narcissistic </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=natursk%C3%B8n"> naturskøn </a></td>
+<td>
+<audio id="naturskøn" src="https://static.ordnet.dk/mp3/11035/11035526_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('naturskøn');" style="cursor: pointer; color: blue;">[naˈtuɐ̯ˌsgønˀ]</span>
+</td>
+<td> naturskønt </td>
+<td> naturskønne </td>
+<td> mere naturskøn </td>
+<td> mest naturskøn </td>
+<td> scenic </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=nederdr%C3%A6gtig"> nederdrægtig </a></td>
 <td>
 <audio id="nederdrægtig" src="https://static.ordnet.dk/mp3/11035/11035653_1.mp3" style="display: none;"></audio>
@@ -4948,6 +4984,18 @@ search: true
 <td> nyttigere/mere nyttig </td>
 <td> nyttigst/mest nyttig </td>
 <td> useful </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nyudn%C3%A6vnt"> nyudnævnt </a></td>
+<td>
+<audio id="nyudnævnt" src="https://static.ordnet.dk/mp3/53400/53400771_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nyudnævnt');" style="cursor: pointer; color: blue;">[ˈnyˀˌuðˌnεwˀnd]</span>
+</td>
+<td> nyudnævnt </td>
+<td> nyudnævnte </td>
+<td> mere nyudnævnt </td>
+<td> mest nyudnævnt </td>
+<td> newly appointed </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=n%C3%A6r"> nær </a></td>
@@ -7446,6 +7494,18 @@ search: true
 <td> technical </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tempofyldt"> tempofyldt </a></td>
+<td>
+<audio id="tempofyldt" src="https://static.ordnet.dk/mp3/53202/53202282_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tempofyldt');" style="cursor: pointer; color: blue;">[ˈtεmˌpoˌfylˀd]</span>
+</td>
+<td> tempofyldt </td>
+<td> tempofyldte </td>
+<td> mere tempofyldt </td>
+<td> mest tempofyldt </td>
+<td> fast-paced </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=teoretisk"> teoretisk </a></td>
 <td>
 <audio id="teoretisk" src="https://static.ordnet.dk/mp3/12000/12000729_1.mp3" style="display: none;"></audio>
@@ -9064,6 +9124,18 @@ search: true
 <td> mere velstillet </td>
 <td> mest velstillet </td>
 <td> well-off </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=veltilrettelagt"> veltilrettelagt </a></td>
+<td>
+<audio id="veltilrettelagt" src="https://static.ordnet.dk/mp3/53401/53401387_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('veltilrettelagt');" style="cursor: pointer; color: blue;">[-teˌʁadəlɑgd]</span>
+</td>
+<td> veltilrettelagt </td>
+<td> veltilrettelagte </td>
+<td> mere veltilrettelagt </td>
+<td> mest veltilrettelagt </td>
+<td> well-organized </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vemodig"> vemodig </a></td>
