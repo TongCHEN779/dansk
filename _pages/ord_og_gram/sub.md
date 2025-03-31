@@ -402,6 +402,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=akrobatik"> en akrobatik </a></td>
+<td>
+<audio id="akrobatik" src="https://static.ordnet.dk/mp3/11001/11001060_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('akrobatik');" style="cursor: pointer; color: blue;">[ɑkʁobaˈtig]</span>
+</td>
+<td> akrobatikken </td>
+<td> - </td>
+<td> - </td>
+<td> acrobatics </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=aktie"> en aktie </a></td>
 <td>
 <audio id="aktie" src="https://static.ordnet.dk/mp3/11001/11001079_1.mp3" style="display: none;"></audio>
@@ -8996,6 +9008,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%A5ndstand"> en håndstand </a></td>
+<td>
+<audio id="håndstand" src="https://static.ordnet.dk/mp3/11022/11022627_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('håndstand');" style="cursor: pointer; color: blue;">[ˈhʌnˌsdanˀ]</span>
+</td>
+<td> håndstanden </td>
+<td> håndstande </td>
+<td> håndstandene </td>
+<td> handstand </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%A5ndtering"> en håndtering </a></td>
 <td>
 <audio id="håndtering" src="https://static.ordnet.dk/mp3/11022/11022636_1.mp3" style="display: none;"></audio>
@@ -10338,6 +10362,18 @@ search: true
 <td> kemikerne </td>
 <td> chemist </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kendsgerning"> en kendsgerning </a></td>
+<td>
+<audio id="kendsgerning" src="https://static.ordnet.dk/mp3/11025/11025787_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kendsgerning');" style="cursor: pointer; color: blue;">[ˈkεnˀsˌgæɐ̯neŋ]</span>
+</td>
+<td> kendsgerningen </td>
+<td> kendsgerninger </td>
+<td> kendsgerningerne </td>
+<td> fact </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kerne"> en kerne </a></td>
@@ -21775,6 +21811,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tankespind"> et tankespind </a></td>
+<td>
+<audio id="tankespind" src="https://static.ordnet.dk/mp3/12000/12000297_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tankespind');" style="cursor: pointer; color: blue;">[ˈtɑŋkəˌsbɛnˀ]</span>
+</td>
+<td> tankespindet </td>
+<td> - </td>
+<td> - </td>
+<td> mind game </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tankes%C3%A6t"> et tankesæt </a></td>
 <td>
 <audio id="tankesæt" src="https://static.ordnet.dk/mp3/12000/12000299_1.mp3" style="display: none;"></audio>
@@ -22925,6 +22973,18 @@ search: true
 <td> trøjerne </td>
 <td> sweater </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tr%C3%A5d"> en tråd </a></td>
+<td>
+<audio id="tråd" src="https://static.ordnet.dk/mp3/12002/12002763_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tråd');" style="cursor: pointer; color: blue;">[ˈtʁɔˀð]</span>
+</td>
+<td> tråden </td>
+<td> tråde </td>
+<td> trådene </td>
+<td> thread </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=T-shirt"> en T-shirt </a></td>

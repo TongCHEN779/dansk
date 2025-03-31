@@ -3990,6 +3990,18 @@ search: true
 <td> long </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=langsigtet"> langsigtet </a></td>
+<td>
+<audio id="langsigtet" src="https://static.ordnet.dk/mp3/11029/11029756_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('langsigtet');" style="cursor: pointer; color: blue;">[-ˌsegdəð]</span>
+</td>
+<td> langsigtet </td>
+<td> langsigtede </td>
+<td> mere langsigtet </td>
+<td> mest langsigtet </td>
+<td> long-term </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=langsom"> langsom </a></td>
 <td>
 <audio id="langsom" src="https://static.ordnet.dk/mp3/11029/11029763_1.mp3" style="display: none;"></audio>
@@ -8344,6 +8356,18 @@ search: true
 <td> mere uforglemmelig </td>
 <td> mest uforglemmelig </td>
 <td> unforgettable </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=uforl%C3%B8st"> uforløst </a></td>
+<td>
+<audio id="uforløst" src="https://static.ordnet.dk/mp3/12004/12004386_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('uforløst');" style="cursor: pointer; color: blue;">[ˈufʌˌløˀsd]</span>
+</td>
+<td> uforløst </td>
+<td> uforløste </td>
+<td> mere uforløst </td>
+<td> mest uforløst </td>
+<td> unresolved </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=uforpligtende"> uforpligtende/uforpligtigende </a></td>
