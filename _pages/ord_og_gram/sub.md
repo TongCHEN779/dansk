@@ -2646,6 +2646,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bop%C3%A6l"> en bopæl </a></td>
+<td>
+<audio id="bopæl" src="https://static.ordnet.dk/mp3/11005/11005756_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bopæl');" style="cursor: pointer; color: blue;">[ˈboˌpεˀl]</span>
+</td>
+<td> bopælen </td>
+<td> bopæle </td>
+<td> bopælene </td>
+<td> residence </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bord"> et bord </a></td>
 <td>
 <audio id="bord" src="https://static.ordnet.dk/mp3/11005/11005762_1.mp3" style="display: none;"></audio>
@@ -6917,6 +6929,18 @@ search: true
 <td> fælledder </td>
 <td> fælledderne </td>
 <td> common </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=f%C3%A6llesskab"> et fællesskab </a></td>
+<td>
+<audio id="fællesskab" src="https://static.ordnet.dk/mp3/11016/11016670_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fællesskab');" style="cursor: pointer; color: blue;">[ˈfεlˀəsˌsgæˀb]</span>
+</td>
+<td> fællesskabet </td>
+<td> fællesskaber </td>
+<td> fællesskaberne </td>
+<td> community </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -12317,6 +12341,18 @@ search: true
 <td> lufthavne </td>
 <td> lufthavnene </td>
 <td> airport </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=luftvej"> en luftvej </a></td>
+<td>
+<audio id="luftvej" src="https://static.ordnet.dk/mp3/11031/11031138_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('luftvej');" style="cursor: pointer; color: blue;">[ˈlɔfdˌvɑj]</span>
+</td>
+<td> luftvejen </td>
+<td> luftveje </td>
+<td> luftvejene </td>
+<td> airway </td>
 <td> 2 </td>
 </tr>
 <tr>

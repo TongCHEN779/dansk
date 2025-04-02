@@ -8411,6 +8411,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=medbringe"> at medbringe </a></td>
+<td>
+<audio id="medbringe" src="https://static.ordnet.dk/mp3/11032/11032832_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('medbringe');" style="cursor: pointer; color: blue;">[-ˌbʁεŋˀə]</span>
+</td>
+<td> medbringer </td>
+<td> medbragte </td>
+<td> har medbragt </td>
+<td> medbring </td>
+<td> to bring along </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=medføre"> at medføre (... for ...) </a></td>
 <td>
 <audio id="medføre" src="https://static.ordnet.dk/mp3/11032/11032859_1.mp3" style="display: none;"></audio>
@@ -9774,6 +9787,19 @@ search: true
 <td> optræd </td>
 <td> to perform </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opvarme"> at opvarme </a></td>
+<td>
+<audio id="opvarme" src="https://static.ordnet.dk/mp3/11037/11037843_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opvarme');" style="cursor: pointer; color: blue;">[ˈʌbˌvɑˀmə]</span>
+</td>
+<td> opvarmer </td>
+<td> opvarmede </td>
+<td> har opvarmet </td>
+<td> opvarm </td>
+<td> to heat </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ordinere"> at ordinere </a></td>
@@ -11570,6 +11596,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sidestille"> at sidestille </a></td>
+<td>
+<audio id="sidestille" src="" style="display: none;"></audio>
+<span onclick="playSound('sidestille');" style="cursor: pointer; color: blue;">[-ˌsdelˀə]</span>
+</td>
+<td> sidestiller </td>
+<td> sidestillede </td>
+<td> har sidestillet </td>
+<td> sidestil </td>
+<td> to equate </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sige"> at sige </a></td>
 <td>
 <audio id="sige" src="https://static.ordnet.dk/mp3/11045/11045895_1.mp3" style="display: none;"></audio>
@@ -12948,6 +12987,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=stirre"> at stirre </a></td>
+<td>
+<audio id="stirre" src="https://static.ordnet.dk/mp3/11050/11050371_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('stirre');" style="cursor: pointer; color: blue;">[ˈsdiɐ̯ʌ]</span>
+</td>
+<td> stirrer </td>
+<td> stirrede </td>
+<td> har stirret </td>
+<td> stir </td>
+<td> to stare </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=stj%C3%A6le"> at stjæle </a></td>
 <td>
 <audio id="stjæle" src="https://static.ordnet.dk/mp3/11050/11050413_1.mp3" style="display: none;"></audio>
@@ -13832,6 +13884,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=till%C3%A6gge"> at tillægge </a></td>
+<td>
+<audio id="tillægge" src="https://static.ordnet.dk/mp3/12001/12001212_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tillægge');" style="cursor: pointer; color: blue;">[ˈteˌlεgə]</span>
+</td>
+<td> tillægger </td>
+<td> tillagde </td>
+<td> har tillagt </td>
+<td> tillæg </td>
+<td> to attribute </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilmelde"> at tilmelde </a></td>
 <td>
 <audio id="tilmelde" src="https://static.ordnet.dk/mp3/12001/12001229_1.mp3" style="display: none;"></audio>
@@ -14686,7 +14751,7 @@ search: true
 <td> udledede </td>
 <td> har udledet </td>
 <td> udled </td>
-<td> to deduce </td>
+<td> to discharge, deduce </td>
 <td> 1 </td>
 </tr>
 <tr>
