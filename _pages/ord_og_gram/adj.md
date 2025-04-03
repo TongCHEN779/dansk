@@ -666,6 +666,18 @@ search: true
 <td> dirty </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=beslægtet"> beslægtet </a></td>
+<td>
+<audio id="beslægtet" src="https://static.ordnet.dk/mp3/11004/11004278_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('beslægtet');" style="cursor: pointer; color: blue;">[beˈslεgdəð]</span>
+</td>
+<td> beslægtet </td>
+<td> beslægtede </td>
+<td> mere beslægtet </td>
+<td> mest beslægtet </td>
+<td> related </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bestialsk"> bestialsk </a></td>
 <td>
 <audio id="bestialsk" src="https://static.ordnet.dk/mp3/11004/11004309_1.mp3" style="display: none;"></audio>
@@ -880,6 +892,18 @@ search: true
 <td> mere borgerlig </td>
 <td> mest borgerlig </td>
 <td> bourgeois </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bornert"> bornert </a></td>
+<td>
+<audio id="bornert" src="https://static.ordnet.dk/mp3/11005/11005836_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bornert');" style="cursor: pointer; color: blue;">[bɒˈneɐ̯ˀd]</span>
+</td>
+<td> bornert </td>
+<td> bornerte </td>
+<td> mere bornert </td>
+<td> mest bornert </td>
+<td> narrow-minded </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=brasiliansk"> brasiliansk </a></td>
@@ -2178,6 +2202,18 @@ search: true
 <td> free </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=frimodig"> frimodig </a></td>
+<td>
+<audio id="frimodig" src="https://static.ordnet.dk/mp3/11016/11016083_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('frimodig');" style="cursor: pointer; color: blue;">[fʁiˈmoˀði]</span>
+</td>
+<td> frimodigt </td>
+<td> frimodige </td>
+<td> frimodigere </td>
+<td> frimodigst </td>
+<td> candid </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=frisk"> frisk </a></td>
 <td>
 <audio id="frisk" src="https://static.ordnet.dk/mp3/11016/11016108_1.mp3" style="display: none;"></audio>
@@ -3244,6 +3280,18 @@ search: true
 <td> mere ikonisk </td>
 <td> mest ikonisk </td>
 <td> iconic </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=immateriel"> immateriel </a></td>
+<td>
+<audio id="immateriel" src="https://static.ordnet.dk/mp3/11023/11023013_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('immateriel');" style="cursor: pointer; color: blue;">[ˈimatʁiˌεlˀ]</span>
+</td>
+<td> immaterielt </td>
+<td> immaterielle </td>
+<td> mere immateriel </td>
+<td> mest immateriel </td>
+<td> intangible </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=imponerende"> imponerende </a></td>
@@ -4600,6 +4648,18 @@ search: true
 <td> mere minimal </td>
 <td> mest minimal </td>
 <td> minimal </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=mist%C3%A6nksom"> mistænksom </a></td>
+<td>
+<audio id="mistænksom" src="https://static.ordnet.dk/mp3/11033/11033949_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mistænksom');" style="cursor: pointer; color: blue;">[misˈtεŋˀgˌsʌmˀ]</span>
+</td>
+<td> mistænksomt </td>
+<td> mistænksomme </td>
+<td> mere mistænksom </td>
+<td> mest mistænksom </td>
+<td> suspicious </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=misundelig"> misundelig </a></td>

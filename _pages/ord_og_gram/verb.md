@@ -380,6 +380,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=afmystificere"> at afmystificere </a></td>
+<td>
+<audio id="afmystificere" src="https://static.ordnet.dk/mp3/11000/11000583_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('afmystificere');" style="cursor: pointer; color: blue;">[ɑfmystifiˈseˀʌ]</span>
+</td>
+<td> afmystificerer </td>
+<td> afmystificerede </td>
+<td> har afmystificeret </td>
+<td> afmystificér </td>
+<td> to demystify </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afprøve"> at afprøve </a></td>
 <td>
 <audio id="afprøve" src="https://static.ordnet.dk/mp3/11000/11000605_1.mp3" style="display: none;"></audio>
@@ -5941,6 +5954,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hashtagge"> at hashtagge </a></td>
+<td>
+<audio id="hashtagge" src="" style="display: none;"></audio>
+<span onclick="playSound('hashtagge');" style="cursor: pointer; color: blue;">[ˈhaɕˌtagə]</span>
+</td>
+<td> hashtagger </td>
+<td> hashtaggede </td>
+<td> har hashtaget </td>
+<td> hashtag </td>
+<td> to hashtag </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=haste"> at haste </a></td>
 <td>
 <audio id="haste" src="https://static.ordnet.dk/mp3/11019/11019991_1.mp3" style="display: none;"></audio>
@@ -7888,6 +7914,19 @@ search: true
 <td> har lejet </td>
 <td> lej </td>
 <td> to rent </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=lempe,2&query=lempe"> at lempe </a></td>
+<td>
+<audio id="lempe" src="https://static.ordnet.dk/mp3/11030/11030161_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lempe');" style="cursor: pointer; color: blue;">[ˈlεmbə]</span>
+</td>
+<td> lemper </td>
+<td> lempede </td>
+<td> har lempet </td>
+<td> lemp </td>
+<td> to ease </td>
 <td> 1 </td>
 </tr>
 <tr>

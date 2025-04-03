@@ -2502,6 +2502,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bluf%C3%A6rdighed"> en blufærdighed </a></td>
+<td>
+<audio id="blufærdighed" src="https://static.ordnet.dk/mp3/11005/11005322_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('blufærdighed');" style="cursor: pointer; color: blue;">[bluˈfæɐ̯ˀdiˌheðˀ]</span>
+</td>
+<td> blufærdigheden </td>
+<td> - </td>
+<td> - </td>
+<td> modesty </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bluse"> en bluse </a></td>
 <td>
 <audio id="bluse" src="https://static.ordnet.dk/mp3/11005/11005327_1.mp3" style="display: none;"></audio>
@@ -10172,6 +10184,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kanon"> en kanon </a></td>
+<td>
+<audio id="kanon" src="https://static.ordnet.dk/mp3/11025/11025227_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kanon');" style="cursor: pointer; color: blue;">[kaˈnoˀn]</span>
+</td>
+<td> kanonen </td>
+<td> kanoner </td>
+<td> kanonerne </td>
+<td> cannon </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kanotur"> en kanotur </a></td>
 <td>
 <audio id="kanotur" src="https://static.ordnet.dk/mp3/40002/40002130_1.mp3" style="display: none;"></audio>
@@ -10409,6 +10433,18 @@ search: true
 <td> kerner </td>
 <td> kernerne </td>
 <td> core/kernel </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kikkert"> en kikkert </a></td>
+<td>
+<audio id="kikkert" src="https://static.ordnet.dk/mp3/11025/11025876_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kikkert');" style="cursor: pointer; color: blue;">[ˈkigʌd]</span>
+</td>
+<td> kikkerten </td>
+<td> kikkerter </td>
+<td> kikkerterne </td>
+<td> binoculars </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -13373,6 +13409,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> distrust </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=mist%C3%A6nksomhed"> en mistænksomhed </a></td>
+<td>
+<audio id="mistænksomhed" src="https://static.ordnet.dk/mp3/11033/11033950_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mistænksomhed');" style="cursor: pointer; color: blue;">[misˈtεŋˀgsʌmˌheðˀ]</span>
+</td>
+<td> mistænksomheden </td>
+<td> - </td>
+<td> - </td>
+<td> suspicion </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -16615,6 +16663,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=propaganda"> propaganda </a></td>
+<td>
+<audio id="propaganda" src="https://static.ordnet.dk/mp3/11041/11041094_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('propaganda');" style="cursor: pointer; color: blue;">[pʁobaˈganda]</span>
+</td>
+<td> propaganden </td>
+<td> - </td>
+<td> - </td>
+<td> propaganda </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=prostitution"> prostitution </a></td>
 <td>
 <audio id="prostitution" src="https://static.ordnet.dk/mp3/11041/11041152_1.mp3" style="display: none;"></audio>
@@ -16648,6 +16708,18 @@ search: true
 <td> præmier </td>
 <td> præmierne </td>
 <td> prize </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pr%C3%A6mis"> en præmis </a></td>
+<td>
+<audio id="præmis" src="https://static.ordnet.dk/mp3/11041/11041299_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('præmis');" style="cursor: pointer; color: blue;">[pʁεˈmis]</span>
+</td>
+<td> præmissen </td>
+<td> præmisser </td>
+<td> præmisserne </td>
+<td> premise </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -17239,6 +17311,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=reklames%C3%B8jle"> en reklamesøjle </a></td>
+<td>
+<audio id="reklamesøjle" src="https://static.ordnet.dk/mp3/11042/11042689_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('reklamesøjle');" style="cursor: pointer; color: blue;">[ʁəˈklæːməˌsʌjlə]</span>
+</td>
+<td> reklamesøjlen </td>
+<td> reklamesøjler </td>
+<td> reklamesøjlerne </td>
+<td> advertising column </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=rekvisit"> en rekvisit </a></td>
 <td>
 <audio id="rekvisit" src="https://static.ordnet.dk/mp3/11042/11042728_1.mp3" style="display: none;"></audio>
@@ -17248,6 +17332,18 @@ search: true
 <td> rekvisitter </td>
 <td> rekvisitterne </td>
 <td> prop, utensil </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=relevans"> en relevans </a></td>
+<td>
+<audio id="relevans" src="https://static.ordnet.dk/mp3/11042/11042749_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('relevans');" style="cursor: pointer; color: blue;">[ʁεləˈvanˀs]</span>
+</td>
+<td> relevansen </td>
+<td> - </td>
+<td> - </td>
+<td> relevance </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -17320,6 +17416,18 @@ search: true
 <td> rentetilpasninger </td>
 <td> rentetilpasningerne </td>
 <td> interest rate adjustment </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=reprimande"> en reprimande </a></td>
+<td>
+<audio id="reprimande" src="https://static.ordnet.dk/mp3/11042/11042925_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('reprimande');" style="cursor: pointer; color: blue;">[ʁεpʁiˈmandə]</span>
+</td>
+<td> reprimanden </td>
+<td> reprimander </td>
+<td> reprimanderne </td>
+<td> reprimand </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -20176,6 +20284,18 @@ search: true
 <td> splitsekunder </td>
 <td> splitsekunderne </td>
 <td> split-second </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=splittelse"> en splittelse </a></td>
+<td>
+<audio id="splittelse" src="https://static.ordnet.dk/mp3/11049/11049308_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('splittelse');" style="cursor: pointer; color: blue;">[ˈsbledəlsə]</span>
+</td>
+<td> splittelsen </td>
+<td> splittelser </td>
+<td> splittelserne </td>
+<td> division </td>
 <td> 1 </td>
 </tr>
 <tr>
