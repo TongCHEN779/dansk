@@ -208,6 +208,11 @@ search: true
 <td> Festdragterne blev anvendt til større fester, såsom konfirmationer, bryllupper og dans omkring majstangen. </td>
 </tr>
 <tr>
+<td> uanset/uagtet </td>
+<td> although </td>
+<td> Uanset det er vældig sympatisk, så er det meget urealistisk. </td>
+</tr>
+<tr>
 <td> undtagen </td>
 <td> unless </td>
 <td> Her bider sygdom ikke undtagen det er Vorherres vilje. </td>

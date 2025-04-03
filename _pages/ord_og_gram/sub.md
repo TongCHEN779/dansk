@@ -17443,6 +17443,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rigsf%C3%A6llesskab"> et rigsfællesskab </a></td>
+<td>
+<audio id="rigsfællesskab" src="" style="display: none;"></audio>
+<span onclick="playSound('rigsfællesskab');" style="cursor: pointer; color: blue;">[ˈʁisˌfεləsˌsgæˀb]</span>
+</td>
+<td> rigsfællesskabet </td>
+<td> rigsfællesskaber </td>
+<td> rigsfællesskaberne </td>
+<td> commonwealth </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ring"> en ring </a></td>
 <td>
 <audio id="ring" src="https://static.ordnet.dk/mp3/11043/11043391_1.mp3" style="display: none;"></audio>
@@ -18076,6 +18088,18 @@ search: true
 <td> samkørsler </td>
 <td> samkørslerne </td>
 <td> carpooling </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sammenhold"> et sammenhold </a></td>
+<td>
+<audio id="sammenhold" src="https://static.ordnet.dk/mp3/11044/11044696_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sammenhold');" style="cursor: pointer; color: blue;">[-ˌhʌlˀ]</span>
+</td>
+<td> sammenholdet </td>
+<td> - </td>
+<td> - </td>
+<td> unity </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -21244,6 +21268,18 @@ search: true
 <td> supermarkeder </td>
 <td> supermarkederne </td>
 <td> supermarket </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=suver%C3%A6nitet"> en suverænitet </a></td>
+<td>
+<audio id="suverænitet" src="https://static.ordnet.dk/mp3/11051/11051563_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('suverænitet');" style="cursor: pointer; color: blue;">[suvəʁεniˈteˀd]</span>
+</td>
+<td> suveræniteten </td>
+<td> - </td>
+<td> - </td>
+<td> sovereignty </td>
 <td> 1 </td>
 </tr>
 <tr>

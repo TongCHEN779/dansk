@@ -343,7 +343,7 @@ search: true
 <td> Vel kom man tæt på hinanden, men sit inderste krængede man aldrig ud. </td>
 </tr>
 <tr>
-<td> uanset (om) </td>
+<td> uanset/uagtet (om) </td>
 <td> no matter (if) </td>
 <td> Uanset, hvad du har hørt, så er det stærkt overdrevet. </td>
 </tr>
