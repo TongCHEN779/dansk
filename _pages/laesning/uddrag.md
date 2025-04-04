@@ -57,4 +57,8 @@ En kold nytårsaften, mens sneen daler ned, er en lille pige ude og sælge svovl
 <tr><td><span style="font-weight: normal">
 I Norden overlevede ordet 'jul' kristendommens indførelse, mens man i andre dele af Europa begyndte at anvende ord, som udsprang af kristendommen. På engelsk er ordet 'Yule' for eksempel byttet ud med ordet Christmas. Ligeledes synes den store indtagelse af mad og drikke at have levet videre i nye former. Man skålede selvfølgelig ikke længere til Odins og Frejs ære, men fejrede Kristi fødsel.
 </span></td></tr>
+
+<tr><td><span style="font-weight: normal">
+Vi bliver bombarderet med billeder af den perfekte krop. Flade maver, stramme baller og runde bryster. Men når det kommer til vores egen krop, vil 42 procent ikke engang vise sig i badetøj.
+</span></td></tr>
 </table>

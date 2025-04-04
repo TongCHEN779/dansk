@@ -2187,6 +2187,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bombardere"> at bombardere </a></td>
+<td>
+<audio id="bombardere" src="https://static.ordnet.dk/mp3/11005/11005673_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bombardere');" style="cursor: pointer; color: blue;">[bɔmbɑˈdeˀʌ]</span>
+</td>
+<td> bombarderer </td>
+<td> bombarderede </td>
+<td> har bombarderet </td>
+<td> bombarder </td>
+<td> to bombard </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bortf%C3%B8re"> at bortføre </a></td>
 <td>
 <audio id="bortføre" src="https://static.ordnet.dk/mp3/11005/11005859_1.mp3" style="display: none;"></audio>

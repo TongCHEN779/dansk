@@ -1245,7 +1245,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=badebukser"> - </a></td>
 <td>
 <audio id="badebukser" src="https://static.ordnet.dk/mp3/11003/11003033_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('badebukser');" style="cursor: pointer; color: blue;">[ˈbɑːðə-]</span>
+<span onclick="playSound('badebukser');" style="cursor: pointer; color: blue;">[ˈbæːðə-]</span>
 </td>
 <td> - </td>
 <td> badebukser </td>
@@ -1257,7 +1257,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=badedragt"> en badedragt </a></td>
 <td>
 <audio id="badedragt" src="https://static.ordnet.dk/mp3/11003/11003035_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('badedragt');" style="cursor: pointer; color: blue;">[ˈbɑːðə-]</span>
+<span onclick="playSound('badedragt');" style="cursor: pointer; color: blue;">[ˈbæːðə-]</span>
 </td>
 <td> badedragten </td>
 <td> badedragter </td>
@@ -1269,7 +1269,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=badeferie"> en badeferie </a></td>
 <td>
 <audio id="badeferie" src="https://static.ordnet.dk/mp3/30000/30000204_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('badeferie');" style="cursor: pointer; color: blue;">[ˈbɑːðə-]</span>
+<span onclick="playSound('badeferie');" style="cursor: pointer; color: blue;">[ˈbæːðə-]</span>
 </td>
 <td> badeferien </td>
 <td> badeferier </td>
@@ -1278,10 +1278,22 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=badet%C3%B8j"> et badetøj </a></td>
+<td>
+<audio id="badetøj" src="https://static.ordnet.dk/mp3/11003/11003056_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('badetøj');" style="cursor: pointer; color: blue;">[ˈbæːðəˌtʌj]</span>
+</td>
+<td> badetøjet </td>
+<td> - </td>
+<td> - </td>
+<td> swimwear </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=badev%C3%A6relse"> et badeværelse </a></td>
 <td>
 <audio id="badeværelse" src="https://static.ordnet.dk/mp3/11003/11003059_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('badeværelse');" style="cursor: pointer; color: blue;">[ˈbɑːðə-]</span>
+<span onclick="playSound('badeværelse');" style="cursor: pointer; color: blue;">[ˈbæːðə-]</span>
 </td>
 <td> badeværelset </td>
 <td> badeværelser </td>
