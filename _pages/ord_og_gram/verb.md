@@ -5083,6 +5083,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fremtvinge"> at fremtvinge </a></td>
+<td>
+<audio id="fremtvinge" src="https://static.ordnet.dk/mp3/11015/11015984_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fremtvinge');" style="cursor: pointer; color: blue;">[-ˌtveŋˀə]</span>
+</td>
+<td> fremtvinger </td>
+<td> fremtvang </td>
+<td> har fremtvunget </td>
+<td> fremtving </td>
+<td> to force </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fremvise"> at fremvise </a></td>
 <td>
 <audio id="fremvise" src="https://static.ordnet.dk/mp3/11015/11015985_1.mp3" style="display: none;"></audio>
@@ -7917,7 +7930,7 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?select=lempe,2&query=lempe"> at lempe </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=lempe,2&amp;query=lempe"> at lempe </a></td>
 <td>
 <audio id="lempe" src="https://static.ordnet.dk/mp3/11030/11030161_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('lempe');" style="cursor: pointer; color: blue;">[ˈlεmbə]</span>
@@ -10426,6 +10439,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?aselect=prale&amp;query=prale"> at prale </a></td>
+<td>
+<audio id="prale" src="https://static.ordnet.dk/mp3/11040/11040696_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('prale');" style="cursor: pointer; color: blue;">[ˈpʁɑːlə]</span>
+</td>
+<td> praler </td>
+<td> pralede </td>
+<td> har pralet </td>
+<td> pral </td>
+<td> to boast </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=prioritere"> at prioritere </a></td>
 <td>
 <audio id="prioritere" src="https://static.ordnet.dk/mp3/11040/11040828_1.mp3" style="display: none;"></audio>
@@ -10735,6 +10761,19 @@ search: true
 <td> har påstået </td>
 <td> påstå </td>
 <td> to claim </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=p%C3%A5tage"> at påtage (sig) </a></td>
+<td>
+<audio id="påtage" src="https://static.ordnet.dk/mp3/11041/11041857_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('påtage');" style="cursor: pointer; color: blue;">[-ˌtæˀ]</span>
+</td>
+<td> påtager </td>
+<td> påtog </td>
+<td> har påtaget </td>
+<td> påtag </td>
+<td> to undertake </td>
 <td> 3 </td>
 </tr>
 <tr>
@@ -11905,6 +11944,19 @@ search: true
 <td> har skruet (op) </td>
 <td> skru (op) </td>
 <td> to turn up </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skryde"> at skryde </a></td>
+<td>
+<audio id="skryde" src="https://static.ordnet.dk/mp3/11047/11047064_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skryde');" style="cursor: pointer; color: blue;">[ˈsgʁyːðə]</span>
+</td>
+<td> skryder </td>
+<td> skrydede </td>
+<td> har skrydet </td>
+<td> skryd </td>
+<td> to boast </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -13335,6 +13387,19 @@ search: true
 <td> har suset </td>
 <td> sus </td>
 <td> to rush </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=suspendere"> at suspendere </a></td>
+<td>
+<audio id="suspendere" src="https://static.ordnet.dk/mp3/11051/11051550_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('suspendere');" style="cursor: pointer; color: blue;">[susbənˈdeˀʌ]</span>
+</td>
+<td> suspenderer </td>
+<td> suspenderede </td>
+<td> har suspenderet </td>
+<td> suspender </td>
+<td> to suspend </td>
 <td> 1 </td>
 </tr>
 <tr>

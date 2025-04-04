@@ -1914,6 +1914,18 @@ search: true
 <td> transient, perishable </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forhastet"> forhastet </a></td>
+<td>
+<audio id="forhastet" src="https://static.ordnet.dk/mp3/11014/11014576_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forhastet');" style="cursor: pointer; color: blue;">[fʌˈhasdəð]</span>
+</td>
+<td> forhastet </td>
+<td> forhastede </td>
+<td> mere forhastet </td>
+<td> mest forhastet </td>
+<td> hasty </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forholdsvis"> forholdsvis </a></td>
 <td>
 <audio id="forholdsvis" src="https://static.ordnet.dk/mp3/11014/11014601_1.mp3" style="display: none;"></audio>
@@ -2008,6 +2020,18 @@ search: true
 <td> mere fornævnt </td>
 <td> mest fornævnt </td>
 <td> aforementioned </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forrest"> forrest </a></td>
+<td>
+<audio id="forrest" src="https://static.ordnet.dk/mp3/11014/11014979_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forrest');" style="cursor: pointer; color: blue;">[ˈfɒˀɒsd]</span>
+</td>
+<td> forrest </td>
+<td> forreste </td>
+<td> - </td>
+<td> - </td>
+<td> foremost </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forrige"> forrige </a></td>

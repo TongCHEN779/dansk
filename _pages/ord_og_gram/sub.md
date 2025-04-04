@@ -2934,6 +2934,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=budskab"> et budskab </a></td>
+<td>
+<audio id="budskab" src="https://static.ordnet.dk/mp3/11006/11006586_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('budskab');" style="cursor: pointer; color: blue;">[ˈbuðˌsgæˀb]</span>
+</td>
+<td> budskabet </td>
+<td> budskaber </td>
+<td> budskaberne </td>
+<td> message </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=-"> - </a></td>
 <td>
 <audio id="bukser" src="https://static.ordnet.dk/mp3/11006/11006648_1.mp3" style="display: none;"></audio>
@@ -4901,6 +4913,18 @@ search: true
 <td> fagforeninger </td>
 <td> fagforeningerne </td>
 <td> labor union </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fagsprog"> et fagsprog </a></td>
+<td>
+<audio id="fagsprog" src="https://static.ordnet.dk/mp3/11012/11012133_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fagsprog');" style="cursor: pointer; color: blue;">[ˈfɑwˌsbʁɔw]</span>
+</td>
+<td> fagsproget </td>
+<td> fagsprog </td>
+<td> fagsprogene </td>
+<td> technical language </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -7448,6 +7472,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gev%C3%A6r"> et gevær </a></td>
+<td>
+<audio id="gevær" src="https://static.ordnet.dk/mp3/11017/11017931_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gevær');" style="cursor: pointer; color: blue;">[geˈvεˀɐ̯]</span>
+</td>
+<td> geværet </td>
+<td> geværer </td>
+<td> geværerne </td>
+<td> rifle </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gifterm%C3%A5l"> et giftermål </a></td>
 <td>
 <audio id="giftermål" src="https://static.ordnet.dk/mp3/11017/11017971_1.mp3" style="display: none;"></audio>
@@ -9425,6 +9461,18 @@ search: true
 <td> indlæringer </td>
 <td> indlæringerne </td>
 <td> learning </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indpisker"> en indpisker </a></td>
+<td>
+<audio id="indpisker" src="https://static.ordnet.dk/mp3/11023/11023474_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indpisker');" style="cursor: pointer; color: blue;">[-ˌpisgʌ]</span>
+</td>
+<td> indpiskeren </td>
+<td> indpiskere </td>
+<td> indpiskerne </td>
+<td> motivator </td>
 <td> 2 </td>
 </tr>
 <tr>

@@ -42,10 +42,21 @@ De er Danmarks rigeste, og de ejer nogle af de jetfly, der udleder allermest CO2
 <td style="vertical-align: top;">
 <h1> Den store bagedyst </h1>
 <span style="font-weight: normal">
-Danmarks bedste amatørbagere har gennem flere sæsoner kæmpet om at vinde Den store bagedyst. Bage-niveauet i teltet er højt, og ambitionerne er store.
+Fire mænd og seks kvinder er klar til at dyste på sprøde bunde og bløde cremer i Danmarks mest velduftende telt. De kommende mange uger skal de bage sig igennem discipliner som fastelavnsboller af wienerdej, glutenfri madtærter, glazekager med spektakulær pynt og smukke bryllupskager. Her i premiereprogrammet af Den store bagedyst bliver samarbejdet testet, når de ti bagedystdebutanter bliver sat sammen i fem par. Og så skal de vise deres personlige kagefortolkning af, hvad der gør dem ekstra glade.
 </span>
 </td>
 <td><a href="https://www.dr.dk/drtv/saeson/den-store-bagedyst_154254">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/7.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Hurra for det danske frisind </h1>
+<span style="font-weight: normal">
+I Danmark kan vi godt lide at bryste os af vores frisind. Vi var det første land i verden der frigav pornografien. Vi var også de første til at tillade homoseksuelle at blive gift. Og i 1971 opfandt vi fristaden Christiania, der for alvor gjorde det særlige danske frisind berømt. Spørgsmålet er bare, om vi egentlig er så tolerante og åbensindede, som vi går og tror? I denne serie vil DR K slå et slag for det danske frisind. Derfor har vi givet seks forskellige reklamebureauer en udfordring: De skal give deres bud på en kampagne, der kan gøre danskerne mere frisindede indenfor emnerne nøgenhed, alkohol, sex, ligestilling, børneopdragelse og etniske minoriteter. I dette program handler det om sex. Selvom vi er kendt for at være seksuelt frigjorte, er vi stadig blufærdige over for visse seksuelle minoriteter. DR K sætter reklamebureauet Public til at komme med et bud på en kampagne, der skal sætte fokus på at ældre mennesker også har et sexliv. 
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/saeson/hurra-for-det-danske-frisind_55750">link</a></td>
 </tr>
 
 <tr>
@@ -64,21 +75,10 @@ PFA Pension har investeringer i et af verdens største energiselskaber, TotalEne
 <td style="vertical-align: top;">
 <h1> Kvindefængslet </h1>
 <span style="font-weight: normal">
-Kom med ind bag hegnet i Danmarks eneste fængsel for kvinder.
+Nanna sidder i fængsel på andet år for grov narkokriminalitet. Hun kæmper med at blive stoffri for at kunne tage sig en uddannelse. Men hendes indsats bliver sat på prøve, da hun tager afsked med sin 'fængselsmor' og skal klare sig på egen hånd blandt fængslets kriminelle kvinder. Imens tager fængselsbetjenteleven Nikolaj imod Jessika, der er blevet dømt for røveri og nu skal afsone tre måneder i kvindefængslet.
 </span>
 </td>
 <td><a href="https://www.dr.dk/drtv/serie/kvindefaengslet_487476">link</a></td>
-</tr>
-
-<tr>
-<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/5.webp"/></p></td>
-<td style="vertical-align: top;">
-<h1> Matador </h1>
-<span style="font-weight: normal">
-Klassikeren over alle danske dramaklassikere.
-</span>
-</td>
-<td><a href="https://www.dr.dk/drtv/serie/matador_130149">link</a></td>
 </tr>
 
 <tr>
@@ -90,5 +90,16 @@ Dansk dramaserie fra 1972. Den forbitrede Emanuel Thomsen - kaldet Thummelumsen 
 </span>
 </td>
 <td><a href="https://www.dr.dk/drtv/serie/livsens-ondskab_456851">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/5.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Matador </h1>
+<span style="font-weight: normal">
+Mads Andersen-Skjern kommer til Korsbæk som handelsrejsende sammen med sønnen Daniel. Han besøger det snobbede Damernes Magasin og opdager, at der er gode muligheder for at åbne en konkurrerende forretning. Mads møder grisehandler Oluf Larsen, der giver ham husly for natten. Næste dag køber han ejendommen over for Damernes Magasin. Bankdirektør Hans Christian Varnæs holder et selskab til ære for sin bror Jørgen, der er blevet valgt som folketingskandidat for de konservative i Korsbæk.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/serie/matador_130149">link</a></td>
 </tr>
 </table>
