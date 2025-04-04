@@ -11396,6 +11396,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kupe"> en kupé/kupe </a></td>
+<td>
+<audio id="kupe" src="https://static.ordnet.dk/mp3/11028/11028672_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kupe');" style="cursor: pointer; color: blue;">[kuˈpeˀ]</span>
+</td>
+<td> kupéen </td>
+<td> kupéer </td>
+<td> kupéerne </td>
+<td> compartment </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kuriosum"> et kuriosum </a></td>
 <td>
 <audio id="kuriosum" src="https://static.ordnet.dk/mp3/11028/11028707_1.mp3" style="display: none;"></audio>
@@ -18844,6 +18856,18 @@ search: true
 <td> skalaer </td>
 <td> skalaerne </td>
 <td> scale </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skam"> en skam </a></td>
+<td>
+<audio id="skam" src="https://static.ordnet.dk/mp3/11046/11046291_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skam');" style="cursor: pointer; color: blue;">[ˈsgɑmˀ]</span>
+</td>
+<td> skammen </td>
+<td> - </td>
+<td> - </td>
+<td> shame </td>
 <td> 1 </td>
 </tr>
 <tr>
