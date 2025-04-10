@@ -426,6 +426,11 @@ search: true
 <td> Hun gabte og så ud til at kunne falde i søvn når som helst. </td>
 </tr>
 <tr>
+<td> i anledning af </td>
+<td> on the occasion of </td>
+<td> Søndag d. 5 nov. kl. 15.00 er der i anledning af Jesuskirkens 101 års fødselsdag koncert i kirken. </td>
+</tr>
+<tr>
 <td> i bytte med </td>
 <td> in exchange for </td>
 <td> Han købte klude i bytte med hægter, bændler og knapper. </td>

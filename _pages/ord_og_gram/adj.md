@@ -3210,6 +3210,18 @@ search: true
 <td> loud </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%B8jtidelig"> højtidelig </a></td>
+<td>
+<audio id="højtidelig" src="https://static.ordnet.dk/mp3/11022/11022436_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('højtidelig');" style="cursor: pointer; color: blue;">[hʌjˈtiðˀəli]</span>
+</td>
+<td> højtideligt </td>
+<td> højtidelige </td>
+<td> mere højtidelig </td>
+<td> mest højtidelig </td>
+<td> solemn </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=højtliggende"> højtliggende </a></td>
 <td>
 <audio id="højtliggende" src="https://static.ordnet.dk/mp3/11022/11022440_1.mp3" style="display: none;"></audio>
@@ -6486,6 +6498,18 @@ search: true
 <td> service-oriented </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sidel%C3%B8bende"> sideløbende </a></td>
+<td>
+<audio id="sideløbende" src="https://static.ordnet.dk/mp3/11045/11045847_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sideløbende');" style="cursor: pointer; color: blue;">[-ˌløˀbənə]</span>
+</td>
+<td> sideløbende </td>
+<td> sideløbende </td>
+<td> mere sideløbende </td>
+<td> mest sideløbende </td>
+<td> concurrent </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sidste"> sidste </a></td>
 <td>
 <audio id="sidste" src="https://static.ordnet.dk/mp3/11045/11045881_1.mp3" style="display: none;"></audio>
@@ -7962,6 +7986,18 @@ search: true
 <td> safe </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tr%C3%A6ls"> træls </a></td>
+<td>
+<audio id="træls" src="https://static.ordnet.dk/mp3/12002/12002691_2.mp3" style="display: none;"></audio>
+<span onclick="playSound('træls');" style="cursor: pointer; color: blue;">[ˈtʁals]</span>
+</td>
+<td> træls </td>
+<td> trælse </td>
+<td> trælser/mere træls </td>
+<td> trælsest/mest træls </td>
+<td> annoying </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tr%C3%A6t"> træt </a></td>
 <td>
 <audio id="træt" src="https://static.ordnet.dk/mp3/12002/12002730_1.mp3" style="display: none;"></audio>
@@ -8212,6 +8248,18 @@ search: true
 <td> mere ubelejlig </td>
 <td> mest ubelejlig </td>
 <td> inconvenient </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ubestridelig"> ubestridelig </a></td>
+<td>
+<audio id="ubestridelig" src="https://static.ordnet.dk/mp3/12003/12003589_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ubestridelig');" style="cursor: pointer; color: blue;">[ubeˈsdʁiðˀəli]</span>
+</td>
+<td> ubestrideligt </td>
+<td> ubestridelige </td>
+<td> mere ubestridelig </td>
+<td> mest ubestridelig </td>
+<td> indisputable </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ubesvaret"> ubesvaret </a></td>
@@ -8526,6 +8574,18 @@ search: true
 <td> outrageous </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=uh%C3%B8jtidelig"> uhøjtidelig </a></td>
+<td>
+<audio id="uhøjtidelig" src="https://static.ordnet.dk/mp3/12004/12004516_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('uhøjtidelig');" style="cursor: pointer; color: blue;">[ˈuhʌjˌtiðˀəli]</span>
+</td>
+<td> uhøjtideligt </td>
+<td> uhøjtidelige </td>
+<td> mere uhøjtidelig </td>
+<td> mest uhøjtidelig </td>
+<td> casual </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=uinspirerende"> uinspirerende </a></td>
 <td>
 <audio id="uinspirerende" src="" style="display: none;"></audio>
@@ -8764,6 +8824,18 @@ search: true
 <td> mere unik </td>
 <td> mest unik </td>
 <td> unique </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=un%C3%A6gtelig"> unægtelig </a></td>
+<td>
+<audio id="unægtelig" src="https://static.ordnet.dk/mp3/12005/12005070_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('unægtelig');" style="cursor: pointer; color: blue;">[uˈnεgdəli]</span>
+</td>
+<td> unægteligt </td>
+<td> unægtelige </td>
+<td> mere unægtelig </td>
+<td> mest unægtelig </td>
+<td> undeniable </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=un%C3%B8dvendig"> unødvendig </a></td>

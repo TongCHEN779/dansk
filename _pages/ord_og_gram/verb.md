@@ -822,6 +822,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ang%C3%A5"> at angå </a></td>
+<td>
+<audio id="angå" src="https://static.ordnet.dk/mp3/11001/11001803_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('angå');" style="cursor: pointer; color: blue;">[-ˌgɔˀ]</span>
+</td>
+<td> angår </td>
+<td> angik </td>
+<td> har angået </td>
+<td> angå </td>
+<td> to concern </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=anholde"> at anholde </a></td>
 <td>
 <audio id="anholde" src="https://static.ordnet.dk/mp3/11001/11001806_1.mp3" style="display: none;"></audio>
@@ -6394,6 +6407,19 @@ search: true
 <td> idøm </td>
 <td> to sentence </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=if%C3%B8re"> at iføre (sig) </a></td>
+<td>
+<audio id="iføre" src="https://static.ordnet.dk/mp3/11022/11022852_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('iføre');" style="cursor: pointer; color: blue;">[ˈiˌføˀʌ]</span>
+</td>
+<td> ifører </td>
+<td> iførte </td>
+<td> har iført </td>
+<td> ifør </td>
+<td> to put on </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=igangsætte"> at igangsætte </a></td>
@@ -13270,6 +13296,19 @@ search: true
 <td> har styret </td>
 <td> styr </td>
 <td> to control </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=styrke,2&amp;query=styrke"> at styrke </a></td>
+<td>
+<audio id="styrke" src="https://static.ordnet.dk/mp3/11051/11051073_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('styrke');" style="cursor: pointer; color: blue;">[ˈsdyɐ̯gə]</span>
+</td>
+<td> styrker </td>
+<td> styrkede </td>
+<td> har styrket </td>
+<td> styrk </td>
+<td> to strengthen </td>
 <td> 1 </td>
 </tr>
 <tr>
