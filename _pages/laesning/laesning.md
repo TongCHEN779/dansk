@@ -170,6 +170,17 @@ I denne uge besøger dronning Margrethe det danske mindretal i Sydslesvig. Forst
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/31.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Kina sætter hårdt mod hårdt med en ny stor told mod USA: 'Man er træt af at være Mr. Nice Guy’ </h1>
+<span style="font-weight: normal">
+En handelskrig er i den grad igangsat mellem de to stormagter, og allerede nu bløder aktiemarkedet både herhjemme og i udlandet.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/kina-saetter-haardt-mod-haardt-med-en-ny-stor-told-mod-usa-man-er-traet-af-vaere-mr">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/21.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kinas hær har omringet Taiwan i en 'opsigtsvækkende' militærøvelse uden slutdato </h1>
@@ -178,6 +189,17 @@ I denne uge besøger dronning Margrethe det danske mindretal i Sydslesvig. Forst
 </span>
 </td>
 <td><a href="https://www.dr.dk/nyheder/udland/kinas-haer-har-omringet-taiwan-i-en-opsigtsvaekkende-militaeroevelse-uden-slutdato">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/30.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Kinas sjældne jordarter kan spille potentiel nøglerolle i handelskrigen med USA </h1>
+<span style="font-weight: normal">
+I løbet af toldkrigen mellem Kina og USA er syv sjældne jordarter blevet omfattet af eksportrestriktioner.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/kinas-sjaeldne-jordarter-kan-spille-potentiel-noeglerolle-i-handelskrigen-med-usa">link</a></td>
 </tr>
 
 <tr>

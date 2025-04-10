@@ -2910,6 +2910,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=br%C3%A6ndevin"> en brændevin </a></td>
+<td>
+<audio id="brændevin" src="https://static.ordnet.dk/mp3/11006/11006501_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('brændevin');" style="cursor: pointer; color: blue;">[ˈbʁanəˌviˀn]</span>
+</td>
+<td> brændevinen </td>
+<td> brændevine </td>
+<td> brændevinene </td>
+<td> schnapps </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=br%C3%A6ndslet"> et brændsel </a></td>
 <td>
 <audio id="brændslet" src="https://static.ordnet.dk/mp3/11006/11006514_1.mp3" style="display: none;"></audio>
