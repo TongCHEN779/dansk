@@ -15308,6 +15308,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=oplysning"> en oplysning </a></td>
+<td>
+<audio id="oplysning" src="https://static.ordnet.dk/mp3/11037/11037550_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('oplysning');" style="cursor: pointer; color: blue;">[ˈʌbˌlyˀsneŋ]</span>
+</td>
+<td> oplysningen </td>
+<td> oplysninger </td>
+<td> oplysningerne </td>
+<td> information </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=oplysningstid"> oplysningstid </a></td>
 <td>
 <audio id="oplysningstid" src="https://static.ordnet.dk/mp3/11037/11037557_1.mp3" style="display: none;"></audio>
@@ -24784,6 +24796,18 @@ search: true
 <td> varer </td>
 <td> varerne </td>
 <td> product </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=varighed"> en varighed </a></td>
+<td>
+<audio id="varighed" src="https://static.ordnet.dk/mp3/12005/12005870_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('varighed');" style="cursor: pointer; color: blue;">[ˈvɑːiˌheðˀ]</span>
+</td>
+<td> varigheden </td>
+<td> varigheder </td>
+<td> varighederne </td>
+<td> duration </td>
 <td> 1 </td>
 </tr>
 <tr>
