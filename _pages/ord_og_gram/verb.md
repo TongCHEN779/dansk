@@ -1290,6 +1290,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=begr%C3%B8nne"> at begrønne </a></td>
+<td>
+<audio id="begrønne" src="" style="display: none;"></audio>
+<span onclick="playSound('begrønne');" style="cursor: pointer; color: blue;">[beˈgʁɶnˀə]</span>
+</td>
+<td> begrønner </td>
+<td> begrønnede </td>
+<td> har begrønnet </td>
+<td> begrønn </td>
+<td> to greenify </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=begynde"> at begynde </a></td>
 <td>
 <audio id="begynde" src="https://static.ordnet.dk/mp3/11003/11003885_1.mp3" style="display: none;"></audio>
@@ -8681,6 +8694,19 @@ search: true
 <td> har mixet </td>
 <td> mix </td>
 <td> to mix </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=mobbe"> at mobbe </a></td>
+<td>
+<audio id="mobbe" src="https://static.ordnet.dk/mp3/11033/11033982_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mobbe');" style="cursor: pointer; color: blue;">[ˈmʌbə]</span>
+</td>
+<td> mobber </td>
+<td> mobbede </td>
+<td> har mobbet </td>
+<td> mob </td>
+<td> to bully </td>
 <td> 1 </td>
 </tr>
 <tr>

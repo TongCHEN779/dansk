@@ -76,6 +76,11 @@ search: true
 <td> De asede og masede .. men til sidst fik de da kassen bugseret ud gennem baglokalet til bilen i gården. </td>
 </tr>
 <tr>
+<td> bakke op </td>
+<td> support </td>
+<td> Englænderne bakker op om indførelsen af demokratiske reformer i Hong Kong. </td>
+</tr>
+<tr>
 <td> beklage sig </td>
 <td> complain </td>
 <td> Mor beklager sig over alt, hvad der kan være at klage over. </td>
@@ -324,6 +329,11 @@ search: true
 <td> gå i gang med </td>
 <td> get started with </td>
 <td> Jeg kan ikke vente med at gå i gang med at arbejde for borgerne i Aberavon. </td>
+</tr>
+<tr>
+<td> gå i hi </td>
+<td> hibernate </td>
+<td> Anna vidste, at bjørne gik i hi. Ligger i en hule og sover hele vinteren. </td>
 </tr>
 <tr>
 <td> gå i opfyldelse </td>
