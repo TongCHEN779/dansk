@@ -7982,6 +7982,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lejre"> at lejre </a></td>
+<td>
+<audio id="lejre" src="https://static.ordnet.dk/mp3/11030/11030136_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lejre');" style="cursor: pointer; color: blue;">[ˈlɑjʁʌ]</span>
+</td>
+<td> lejrer </td>
+<td> lejrede </td>
+<td> har lejret </td>
+<td> lejr </td>
+<td> to camp </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?select=lempe,2&amp;query=lempe"> at lempe </a></td>
 <td>
 <audio id="lempe" src="https://static.ordnet.dk/mp3/11030/11030161_1.mp3" style="display: none;"></audio>

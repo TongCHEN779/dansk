@@ -27,6 +27,66 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode87.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 87 - Dansk svineproduktion </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om dansk svineproduktion. Det er nemlig et af de største områder i den danske landbrugsindustri. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, finde ordlister, downloade episoderne og lytte til niveau 2, hvor jeg taler i almindeligt tempo.
+<br><br>
+Dansk svineproduktion har historisk set været en vigtig del af Danmarks økonomi og kultur. I dag udgør landbruget dog kun 2-3% af Danmarks samlede BNP. Når vi taler om svineproduktion, handler det om at opdrætte grise for at producere kød. I Danmark er der mange grise. Faktisk var der i begyndelsen af 2024 omkring 11 millioner grise i landet. Det vil sige at der bor dobbelt så mange grise, som der bor mennesker i Danmark. At opdrætte grise er en stor industri, og Danmark eksporterer svinekød til mange lande. I 2022 tjente Danmark mere end 34 milliarder kroner på at eksportere svinekød, selvom eksporten det år faldt en del sammenlignet med tidligere år. De største købere af dansk svinekød er Tyskland, Japan og Storbritannien.
+<br><br>
+En gris og et svin er det samme. Men landbrugsbranchen valgte i 2017 at udfase ordet ”svin” og kun tale om grise og grisekød, da man mente at ordet gris er mere neutralt og passende. Der var nemlig en undersøgelse der viste, at især de unge danskere hellere ville købe grisekød end svinekød – selvom kødet jo er det samme. En orne er en hangris, der bruges til avl. En so er en hungris. En pattegris er en griseunge.
+<br><br>
+Grise bliver opdrættet på forskellige måder, men i Danmark bruger man ofte tre forskellige racer. Ved at krydse racerne kan man kombinere deres bedste egenskaber. For eksempel kan man få grise, der vokser hurtigt, er sunde og får mange unger i hvert kuld. Mange slagtesvin i Danmark er krydsninger af disse racer. Det er også almindeligt at bruge sæd fra en avlsorne til at inseminere søer, så landmænd kan planlægge avlen på deres gårde.
+<br><br>
+Når grisene skal fodres, får de ofte en blanding af byg, hvede og proteiner fra soja eller raps. Der tilsættes også vitaminer og mineraler til foderet for at sikre, at grisene vokser godt. I den konventionelle produktion bor grisene typisk i forskellige typer stalde, alt efter hvor gamle de er. Konventionelle grise er aldrig udenfor stalden. For eksempel starter pattegrise deres liv i en farestald sammen med deres mor, soen. Når de er omkring fire uger gamle, bliver de til smågrise og flyttes til en ny stald. Senere, når de vejer omkring 30 kilo, bliver de kaldt slagtesvin og flyttes igen. En konventionel so er som udgangspunkt fikseret en stor del af deres liv og har kun begrænset mulighed for at bevæge sig.
+<br><br>
+Der findes også økologisk svineproduktion i Danmark. Her skal grisene have mere plads og adgang til det fri. Søerne må ikke være fikseret, og pattegrisene bliver hos deres mor længere tid end i den konventionelle produktion. Økologiske grise får også økologisk foder, som blandt andet indeholder grovfoder. Frilandsgrise har også adgang til det fri, men spiser ikke økologisk foder.
+<br><br>
+Desværre er der problemer i den konventionelle svineproduktion. Bl.a. i forhold til dyrevelfærd, dødelighed blandt smågrise, samt sygdomme og antibiotikaforbrug hos produktionsgrise. Med jævne mellemrum bliver disse ting diskuteret af medierne og politikerne. Senest udkom TV2 med en dokumentar i december 2024, kaldet ”Hvem passer på grisene?”, som fik meget omtale. Mange smågrise dør tidligt, ofte fordi de ikke kan få nok mælk fra deres mor. Søerne er avlet til at få meget store kuld, og nogle gange er der ikke patter nok til alle grisene. Det er også et problem, at mange grise får klippet halen kort efter fødslen for at undgå, at de bider i hinandens haler. Systematisk klip af halerne er nemlig ulovligt. Forskning viser, at halebid ofte sker, fordi grisene mangler plads og aktiviteter, der kan stimulere dem.
+<br><br>
+En anden udfordring er brugen af antibiotika. Der bliver brugt store mængder antibiotika i de danske grisestalde. Det kan føre til, at bakterier bliver resistente, hvilket gør det sværere at behandle infektioner både hos dyr og mennesker. Dette er et alvorligt problem, som både Danmark og andre lande arbejder på at løse. Andre udfordringer med svineproduktionen er bl.a. kvælstofudledning, samt fældning af regnskoven i Brasilien for at kunne dyrke mere soja til dyrefoder.  
+<br><br>
+Omkring 4% af den samlede danske beskæftigelse er i landbruget. Mange af de mennesker, der arbejder i den danske svineproduktion, kommer fra udlandet. I 2020 var over halvdelen af de ansatte i industrien udenlandske statsborgere, især fra Ukraine og Rumænien. De udfører et vigtigt arbejde, som holder industrien i gang.
+<br><br>
+Det var en kort gennemgang af dansk svineproduktion. Tak fordi du lyttede med.
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode86.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 86 - N. F. S. Grundtvig </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om N. F. S. Grundtvig, en meget kendt dansk filosof, forfatter og præst, der har haft stor indflydelse på den danske kultur. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, downloade episoden, finde ordlister samt lytte til niveau 2-udgaven af episoden, hvor jeg taler i almindeligt tempo.
+<br><br>
+Nikolai Frederik Severin Grundtvig blev født i år 1783 på gården Udby Præstegård på Sydsjælland. Han havde en traditionel og religiøs opvækst, bl.a. fordi hans far var præst. Grundtvig havde 4 søskende, men 3 af dem døde i en ung alder. I barndommen blev han introduceret både til kristendommen og til nordisk mytologi, og begge religioner kom til at fylde meget i hans fremtidige karriere som forfatter. Som voksen gennemgik Grundtvig flere personlige kriser, især i forbindelse med sin karriere og sit ægteskabsliv. Han blev gift tre gange og oplevede både stor kærlighed og tab. De personlige kriser formede hans liv og livssyn. Især sorgen over hans første og anden kones død satte sine spor, men hans tredje ægteskab med kvinden Asta, blev en stor støtte for ham.
+<br><br>
+Grundtvig var en meget produktiv forfatter, der gennem sit liv skrev en enorm mængde salmer, digte, prædikener og historiske værker. Han havde en særlig evne til at formidle komplekse idéer gennem poesi og prosa, hvilket gjorde ham til en af Danmarks mest elskede salmedigtere. Mange af hans salmer, som “Dejlig er jorden” og “Nu falmer skoven,” er stadig blandt de allermest populære i den danske salmebog. Hans forfatterskab afspejlede en dyb kærlighed til både den kristne tro og den danske kultur, og det integrerede han i sine tekster.
+<br><br>
+Som præst var Grundtvig ofte i konflikt med samtidens kirkelige autoriteter. Han var kritisk over for den dogmatiske tilgang, som han mente ødelagde troens glæde og frihed. I stedet udviklede han kristendommen baseret på det, han kaldte “den levende tro,” hvor kristendommen skulle være en kilde til glæde og håb. Hans fokus på fællesskab og livsglæde stod i kontrast til den mere alvorlige tradition, der prægede kirken på den tid. Grundtvig så salmer og fællessang som centrale elementer i gudstjenesten og i livet generelt, hvilket satte varige spor i dansk kirkeliv.
+<br><br>
+Udover sin rolle i kirken engagerede Grundtvig sig også i politik. Han blev valgt ind i den danske rigsdag og var en stærk fortaler for folkestyre og demokrati. Hans idéer om frihed, lighed og dannelse afspejlede sig i hans politiske arbejde, hvor han kæmpede for borgernes rettigheder og en mere inkluderende tilgang til uddannelse og religion.
+<br><br>
+Grundtvigs måske mest varige bidrag var hans idé om højskoler. Han forestillede sig skoler, hvor unge og voksne kunne samles for at lære, diskutere og udvikle sig som mennesker uden fokus på eksaminer eller akademiske krav. Højskolerne skulle styrke både individet og fællesskabet og blev hurtigt en succes, som har haft stor betydning for Danmark. Denne pædagogiske model spredte sig også til andre lande og blev en vigtig del af folkeoplysningens historie.
+<br><br>
+Grundtvigs eftermæle er stadig en vigtig del af dansk kultur og samfund. Han betragtes som en af de vigtigste danske tænkere og en central person i udviklingen af det moderne Danmark. Hans idéer om fællesskab, frihed og oplysning lever videre i både kirken, højskolerne og den danske folkesjæl. Grundtvigs måde at se på kristendom, uddannelse og livet kaldes ”grundtvigianisme”. De højskoler, der følger Grundtvigs principper, kaldes for ”grundtvigianske højskoler”. Grundtvig efterlod en arv, der stadig inspirerer mennesker til at tænke frit, tro på sig selv og deltage aktivt i fællesskabet. Grundtvig er begravet på Claras Kirkegaard i Køge.
+<br><br>
+Det var alt for denne episode. Tak fordi du lyttede med.
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode85.wav"></audio> </td>
 <td> 
 <details>
