@@ -25,6 +25,20 @@ search: false
         width: 70%; /* Second column */
     }
 </style>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+    const audios = document.querySelectorAll("audio");
+    audios.forEach(audio => {
+        audio.addEventListener("play", () => {
+        audios.forEach(otherAudio => {
+            if (otherAudio !== audio) {
+            otherAudio.pause();
+            }
+        });
+        });
+    });
+    });
+</script>
 <br>
 Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/files/det_rykker/grundbog.pdf), [Øvebog](https://tongchen779.github.io/dansk/files/det_rykker/oevebog.pdf) med [rettenøgle](https://tongchen779.github.io/dansk/files/det_rykker/oevebog_rettenoegle.pdf), og [supplerende læsetekster](https://tongchen779.github.io/dansk/files/det_rykker/laesetekster.pdf). Man kan også finde en alternativ lærebog til modul 4 ([Grundbog](https://tongchen779.github.io/dansk/files/paeredansk_grundbog.pdf) med [lærervejledning](https://tongchen779.github.io/dansk/files/paeredansk_laerervejledning.pdf)).
 <br><br>

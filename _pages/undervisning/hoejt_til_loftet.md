@@ -25,6 +25,20 @@ search: false
         width: 70%; /* Second column */
     }
 </style>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+    const audios = document.querySelectorAll("audio");
+    audios.forEach(audio => {
+        audio.addEventListener("play", () => {
+        audios.forEach(otherAudio => {
+            if (otherAudio !== audio) {
+            otherAudio.pause();
+            }
+        });
+        });
+    });
+    });
+</script>
 <br>
 Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/grundbog.pdf) med [lærervejledning](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/laerervejledning.pdf), [rettenøgle](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/grundbog_rettenoegle.pdf) og [supplerende læsetekster](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/laesetekster.pdf). Man kan også finde en alternativ [læremateriale](https://tongchen779.github.io/dansk/files/hoejt_til_loftet/saet_laesespor.pdf) til modul 5.
 <br><br>

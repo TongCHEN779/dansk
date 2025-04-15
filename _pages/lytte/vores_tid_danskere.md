@@ -25,6 +25,20 @@ search: false
         width: 80%; /* Second column */
     }
 </style>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+    const audios = document.querySelectorAll("audio");
+    audios.forEach(audio => {
+        audio.addEventListener("play", () => {
+        audios.forEach(otherAudio => {
+            if (otherAudio !== audio) {
+            otherAudio.pause();
+            }
+        });
+        });
+    });
+    });
+</script>
 
 (Alle tekster og lydfiler kan findes [her](https://natmus.dk/vorestid/podcast-danskere-der-aendrede-historien/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
