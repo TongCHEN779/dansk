@@ -11,9 +11,16 @@ search: false
         width: 100%;
     }
     th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
+        padding: 1em;
         text-align: left;
+        display: inline-block;
+        background-color: #f0f0f0;
+        border-radius: 55px;
+        border: 1px solid #ccc;
+        font-style: italic;
+        max-width: 100%;
+        box-shadow: 2px 2px 8px rgba(0,0,0,.5);
+        margin-bottom: 2em;
     }
 </style>
 
