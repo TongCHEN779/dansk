@@ -41,6 +41,11 @@ search: true
 <td> Tambourkorpset er den del af vagtparaden, der på turen til Amalienborg spiller afvekslende med musikkorpset. </td>
 </tr>
 <tr>
+<td> aldeles </td>
+<td> absolutely </td>
+<td> Engang imellem kunne jeg blive så aldeles rasende fordi han bare sad der og lod som ingenting. </td>
+</tr>
+<tr>
 <td> (næsten) aldrig </td>
 <td> almost never </td>
 <td> Jeg gør det aldrig mere. </td>

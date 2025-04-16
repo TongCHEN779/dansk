@@ -306,6 +306,11 @@ search: true
 <td> Egentlig var udsendelsen bedst tjent med at blive forbigået i tavshed, gemt væk og glemt for altid. </td>
 </tr>
 <tr>
+<td> give køb på noget </td>
+<td> give up </td>
+<td> Fidel Castro slog som ventet fast at Cuba ikke giver køb på sine socialistiske principper. </td>
+</tr>
+<tr>
 <td> give ... videre til / videregive ... til </td>
 <td> pass ... to </td>
 <td> Robin Hood scorer de riges guld for at give det videre med rund hånd til Nottingham-områdets fattige og svage. </td>
@@ -436,9 +441,19 @@ search: true
 <td> Hun gabte og så ud til at kunne falde i søvn når som helst. </td>
 </tr>
 <tr>
+<td> hæfte sig (fast) på/til </td>
+<td> be (firmly) attached to </td>
+<td> Musevikke klatrer i vejret mellem andre planter ved at hæfte sig fast med bladenes slyngtråde. </td>
+</tr>
+<tr>
 <td> i anledning af </td>
 <td> on the occasion of </td>
 <td> Søndag d. 5 nov. kl. 15.00 er der i anledning af Jesuskirkens 101 års fødselsdag koncert i kirken. </td>
+</tr>
+<tr>
+<td> i bund og grund </td>
+<td> essentially, basically </td>
+<td> Finansloven er i bund og grund et budget for staten. </td>
 </tr>
 <tr>
 <td> i bytte med </td>
