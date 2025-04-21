@@ -331,6 +331,11 @@ search: true
 <td> 300.000 danskere tager på skiferie hvert år, det er ret mange. </td>
 </tr>
 <tr>
+<td> sagtens </td>
+<td> easily </td>
+<td> Vist ryger jeg, men ikke mere end jeg sagtens kan holde mig fra røgen i arbejdstiden. </td>
+</tr>
+<tr>
 <td> selvfølgelig </td>
 <td> of course </td>
 <td> Selvfølgelig så ordner jeg mit eget værelse, og hvis hun siger: "Gå lige ned med skraldespanden" .., så gør jeg det selvfølgelig. </td>
@@ -512,6 +517,11 @@ search: true
 <td> Man bliver mere tilfreds ved at kunne spise op og derpå evt. bede om mere. </td>
 </tr>
 <tr>
+<td> derudfra </td>
+<td> thence </td>
+<td> Det er helt afgørende for demokratiet, at der er en åben debat, hvor mennesker frit kan danne sin egen mening og derudfra vælge side. </td>
+</tr>
+<tr>
 <td> derudover </td>
 <td> in addition </td>
 <td> Der er træning to gange om dagen i ugens første fem dage, og derudover spilles der selvfølgelig kamp i weekenden. </td>
@@ -585,6 +595,11 @@ search: true
 <td> først </td>
 <td> not until </td>
 <td> Katastrofens omfang kan .. først afgøres om tre-fire ugers tid. </td>
+</tr>
+<tr>
+<td> gudskelov, gud ske lov </td>
+<td> thanks god </td>
+<td> Gudskelov det ikke var koen! Sagde kællingen, da hendes mand døde. </td>
 </tr>
 <tr>
 <td> heldigvis </td>

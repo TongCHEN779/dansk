@@ -1256,6 +1256,11 @@ search: true
 <td> Festivalfolket i Roskilde måtte væbne sig med stor tålmodighed .. Flere tusinde måtte stå i kø en times tid. </td>
 </tr>
 <tr>
+<td> være ensbetydende med </td>
+<td> be synonymous with </td>
+<td> Et liv som diabetiker er ensbetydende med nøje blodsukkerkontrol og diæt. </td>
+</tr>
+<tr>
 <td> være med til </td>
 <td> help to </td>
 <td> Det at være den ældste eller den yngste, den mellemste eller enebarn er med til at forme ens identitet. </td>
