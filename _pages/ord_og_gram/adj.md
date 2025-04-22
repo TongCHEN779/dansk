@@ -846,6 +846,18 @@ search: true
 <td> cheap </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bittelille"> bittelille </a></td>
+<td>
+<audio id="bittelille" src="https://static.ordnet.dk/mp3/11004/11004922_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bittelille');" style="cursor: pointer; color: blue;">[ˈbidəˈlilə]</span>
+</td>
+<td> bittelille </td>
+<td> bittelille </td>
+<td> mere bittelille </td>
+<td> mest bittelille </td>
+<td> tiny </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?select=bitter,2&amp;query=bitter"> bitter </a></td>
 <td>
 <audio id="bitter" src="https://static.ordnet.dk/mp3/11004/11004923_1.mp3" style="display: none;"></audio>
@@ -2692,6 +2704,18 @@ search: true
 <td> mere glansfuld </td>
 <td> mest glansfuld </td>
 <td> glossy </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=glat,2&query=glat"> glat </a></td>
+<td>
+<audio id="glat" src="https://static.ordnet.dk/mp3/11018/11018140_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('glat');" style="cursor: pointer; color: blue;">[ˈglad]</span>
+</td>
+<td> glat </td>
+<td> glatte </td>
+<td> glattere </td>
+<td> glattest </td>
+<td> smooth </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=god"> god </a></td>
@@ -6450,6 +6474,18 @@ search: true
 <td> rustic </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rynket"> rynket </a></td>
+<td>
+<audio id="rynket" src="https://static.ordnet.dk/mp3/11044/11044027_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rynket');" style="cursor: pointer; color: blue;">[ˈʁœŋgəð]</span>
+</td>
+<td> rynket </td>
+<td> rynkede </td>
+<td> mere rynket </td>
+<td> mest rynket </td>
+<td> wrinkled </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?select=r%C3%A5,3&amp;query=r%C3%A5"> rå </a></td>
 <td>
 <audio id="rå" src="https://static.ordnet.dk/mp3/11044/11044268_1.mp3" style="display: none;"></audio>
@@ -7635,7 +7671,7 @@ search: true
 <td> syge </td>
 <td> sygere/mere syg </td>
 <td> sygest/mest syg </td>
-<td> sick </td>
+<td> sick, crazy </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sympatisk"> sympatisk </a></td>
@@ -8068,6 +8104,18 @@ search: true
 <td> tommere/mere tom </td>
 <td> tomst/mest tom </td>
 <td> empty </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=topl%C3%B8s"> topløs </a></td>
+<td>
+<audio id="topløs" src="https://static.ordnet.dk/mp3/12001/12001796_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('topløs');" style="cursor: pointer; color: blue;">[ˈtʌbˌløˀs]</span>
+</td>
+<td> topløs </td>
+<td> topløse </td>
+<td> mere topløs </td>
+<td> mest topløs </td>
+<td> topless </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tosset"> tosset </a></td>

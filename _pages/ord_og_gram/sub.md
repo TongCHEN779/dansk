@@ -1274,7 +1274,7 @@ search: true
 <td> - </td>
 <td> badebukser </td>
 <td> badebukserne </td>
-<td> bachelor project </td>
+<td> swim trunks </td>
 <td> A </td>
 </tr>
 <tr>
@@ -1299,6 +1299,18 @@ search: true
 <td> badeferier </td>
 <td> badeferierne </td>
 <td> beach holiday </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=badek%C3%A5be"> en badekåbe </a></td>
+<td>
+<audio id="badekåbe" src="https://static.ordnet.dk/mp3/11003/11003043_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('badekåbe');" style="cursor: pointer; color: blue;">[ˈbæːðəˌkɔːbə]</span>
+</td>
+<td> badekåben </td>
+<td> badekåber </td>
+<td> badekåberne </td>
+<td> bathrobe </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -7448,6 +7460,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gardin"> et gardin </a></td>
+<td>
+<audio id="gardin" src="https://static.ordnet.dk/mp3/11017/11017247_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gardin');" style="cursor: pointer; color: blue;">[gɑˈdiˀn]</span>
+</td>
+<td> gardinet </td>
+<td> gardiner </td>
+<td> gardinerne </td>
+<td> curtain </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gave"> en gave </a></td>
 <td>
 <audio id="gave" src="https://static.ordnet.dk/mp3/11017/11017335_1.mp3" style="display: none;"></audio>
@@ -12113,6 +12137,18 @@ search: true
 <td> kærlighedsromaner </td>
 <td> kærlighedsromanerne </td>
 <td> romance novel </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=k%C3%A5be"> en kåbe </a></td>
+<td>
+<audio id="kåbe" src="https://static.ordnet.dk/mp3/11029/11029358_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kåbe');" style="cursor: pointer; color: blue;">[ˈkɔːbə]</span>
+</td>
+<td> kåben </td>
+<td> kåber </td>
+<td> kåberne </td>
+<td> robe </td>
 <td> 1 </td>
 </tr>
 <tr>
