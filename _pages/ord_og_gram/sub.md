@@ -3427,6 +3427,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=b%C3%B8rs"> en børs </a></td>
+<td>
+<audio id="børs" src="https://static.ordnet.dk/mp3/11007/11007237_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('børs');" style="cursor: pointer; color: blue;">[ˈbøɐ̯ˀs]</span>
+</td>
+<td> børsen </td>
+<td> børser </td>
+<td> børserne </td>
+<td> stock exchange </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=b%C3%B8vl"> en bøvl </a></td>
 <td>
 <audio id="bøvl" src="https://static.ordnet.dk/mp3/11007/11007266_1.mp3" style="display: none;"></audio>
@@ -8432,6 +8444,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hash"> en hash </a></td>
+<td>
+<audio id="hash" src="https://static.ordnet.dk/mp3/11019/11019977_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hash');" style="cursor: pointer; color: blue;">[ˈhaɕ]</span>
+</td>
+<td> hashen </td>
+<td> - </td>
+<td> - </td>
+<td> hash </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hastighed"> en hastighed </a></td>
 <td>
 <audio id="hastighed" src="https://static.ordnet.dk/mp3/11019/11019997_1.mp3" style="display: none;"></audio>
@@ -11312,6 +11336,30 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=koncept"> et koncept </a></td>
+<td>
+<audio id="koncept" src="https://static.ordnet.dk/mp3/11027/11027193_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('koncept');" style="cursor: pointer; color: blue;">[kʌnˈsεbd]</span>
+</td>
+<td> konceptet </td>
+<td> koncepter </td>
+<td> koncepterne </td>
+<td> concept </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=konception"> en konception </a></td>
+<td>
+<audio id="konception" src="https://static.ordnet.dk/mp3/11027/11027195_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('konception');" style="cursor: pointer; color: blue;">[kʌnsεbˈɕoˀn]</span>
+</td>
+<td> konceptionen </td>
+<td> konceptioner </td>
+<td> konceptionerne </td>
+<td> conception </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=koncert"> en koncert </a></td>
 <td>
 <audio id="koncert" src="https://static.ordnet.dk/mp3/11027/11027201_1.mp3" style="display: none;"></audio>
@@ -13148,6 +13196,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=l%C3%A6bestift"> en læbestift </a></td>
+<td>
+<audio id="læbestift" src="https://static.ordnet.dk/mp3/11031/11031534_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('læbestift');" style="cursor: pointer; color: blue;">[ˈlεːbəˌsdifd]</span>
+</td>
+<td> læbestiften </td>
+<td> læbestifter </td>
+<td> læbestifterne </td>
+<td> lipstick </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=l%C3%A6g"> en læg </a></td>
 <td>
 <audio id="læg" src="https://static.ordnet.dk/mp3/11031/11031544_1.mp3" style="display: none;"></audio>
@@ -13950,6 +14010,18 @@ search: true
 <td> milepælene </td>
 <td> milestone </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=milit%C3%A6rn%C3%A6gter"> en militærnægter </a></td>
+<td>
+<audio id="militærnægter" src="https://static.ordnet.dk/mp3/11033/11033614_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('militærnægter');" style="cursor: pointer; color: blue;">[miliˈtɛɐ̯ˌnɛgdʌ]</span>
+</td>
+<td> militærnægteren </td>
+<td> militærnægtere </td>
+<td> militærnægterne </td>
+<td> conscientious objector </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=milj%C3%B8"> et miljø </a></td>
@@ -15484,8 +15556,20 @@ search: true
 <td> omgangen </td>
 <td> omgange </td>
 <td> omgangene </td>
-<td> round </td>
+<td> round, dealing </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omgangsform"> en omgangsform </a></td>
+<td>
+<audio id="omgangsform" src="https://static.ordnet.dk/mp3/11037/11037113_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omgangsform');" style="cursor: pointer; color: blue;">[ˈʌmgɑŋs-]</span>
+</td>
+<td> omgangsformen </td>
+<td> omgangsformer </td>
+<td> omgangsformerne </td>
+<td> manner of interaction </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=omgivelse"> en omgivelse </a></td>
@@ -15596,6 +15680,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omverden"> en omverden </a></td>
+<td>
+<audio id="omverden" src="https://static.ordnet.dk/mp3/11037/11037273_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omverden');" style="cursor: pointer; color: blue;">[ˈʌmˌvεɐ̯ˀdn̩]</span>
+</td>
+<td> omverdenen </td>
+<td> - </td>
+<td> - </td>
+<td> surrounding world </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=omv%C3%A6ltning"> en omvæltning </a></td>
 <td>
 <audio id="omvæltning" src="https://static.ordnet.dk/mp3/11037/11037280_1.mp3" style="display: none;"></audio>
@@ -15666,6 +15762,18 @@ search: true
 <td> opblomstringerne </td>
 <td> revival </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opbrud"> et opbrud </a></td>
+<td>
+<audio id="opbrud" src="https://static.ordnet.dk/mp3/11037/11037341_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opbrud');" style="cursor: pointer; color: blue;">[ˈʌbˌbʁuð]</span>
+</td>
+<td> opbruddet </td>
+<td> opbrud </td>
+<td> opbruddene </td>
+<td> upheaval </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=opdragelse"> en opdragelse </a></td>
@@ -17515,6 +17623,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=prævention"> prævention </a></td>
+<td>
+<audio id="prævention" src="https://static.ordnet.dk/mp3/11041/11041360_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('prævention');" style="cursor: pointer; color: blue;">[pʁεvənˈɕoˀn]</span>
+</td>
+<td> præventionen </td>
+<td> præventioner </td>
+<td> præventionerne </td>
+<td> contraception </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=psykiatri"> psykiatri </a></td>
 <td>
 <audio id="psykiatri" src="https://static.ordnet.dk/mp3/11041/11041419_1.mp3" style="display: none;"></audio>
@@ -18808,6 +18928,18 @@ search: true
 <td> råvarer </td>
 <td> råvarerne </td>
 <td> raw material </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=r%C3%B8dstr%C3%B8mpe"> en rødstrømpe </a></td>
+<td>
+<audio id="rødstrømpe" src="https://static.ordnet.dk/mp3/11044/11044153_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rødstrømpe');" style="cursor: pointer; color: blue;">[ˈʁœðˌsdʁœmbə]</span>
+</td>
+<td> rødstrømpen </td>
+<td> rødstrømper </td>
+<td> rødstrømperne </td>
+<td> feminist </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -20488,6 +20620,18 @@ search: true
 <td> slumkvarterer </td>
 <td> slumkvartererne </td>
 <td> slum </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=slumstormer"> en slumstormer </a></td>
+<td>
+<audio id="slumstormer" src="https://static.ordnet.dk/mp3/11047/11047803_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slumstormer');" style="cursor: pointer; color: blue;">[ˈslɔmˌsdɒːmʌ]</span>
+</td>
+<td> slumstormeren </td>
+<td> slumstormere </td>
+<td> slumstormerne </td>
+<td> squatter </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -22540,6 +22684,18 @@ search: true
 <td> synspunkter </td>
 <td> synspunkterne </td>
 <td> viewpoint </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=synsvinkel"> en synsvinkel </a></td>
+<td>
+<audio id="synsvinkel" src="https://static.ordnet.dk/mp3/11052/11052079_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('synsvinkel');" style="cursor: pointer; color: blue;">[ˈsyːnsˌveŋgəl]</span>
+</td>
+<td> synsvinklen </td>
+<td> synsvinkler </td>
+<td> synsvinklerne </td>
+<td> perspective </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -25240,6 +25396,18 @@ search: true
 <td> undertekster </td>
 <td> underteksterne </td>
 <td> subtitle </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=undertone"> en undertone </a></td>
+<td>
+<audio id="undertone" src="https://static.ordnet.dk/mp3/12004/12004891_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('undertone');" style="cursor: pointer; color: blue;">[ˈɔnɐ̯ˌtoˀnə]</span>
+</td>
+<td> undertonen </td>
+<td> undertoner </td>
+<td> undertonerne </td>
+<td> undertone </td>
 <td> 1 </td>
 </tr>
 <tr>

@@ -474,6 +474,18 @@ search: true
 <td> arrogant </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=artig"> artig </a></td>
+<td>
+<audio id="artig" src="https://static.ordnet.dk/mp3/11002/11002546_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('artig');" style="cursor: pointer; color: blue;">[ˈɑːdi]</span>
+</td>
+<td> artigt </td>
+<td> artige </td>
+<td> mere artig </td>
+<td> mest artig </td>
+<td> well-behaved </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=asynkron"> asynkron </a></td>
 <td>
 <audio id="asynkron" src="https://static.ordnet.dk/mp3/11002/11002728_1.mp3" style="display: none;"></audio>
@@ -3282,6 +3294,18 @@ search: true
 <td> cosy </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hyklerisk"> hyklerisk </a></td>
+<td>
+<audio id="hyklerisk" src="https://static.ordnet.dk/mp3/11022/11022068_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hyklerisk');" style="cursor: pointer; color: blue;">[ˈhyglʌʁisg]</span>
+</td>
+<td> hyklerisk </td>
+<td> hykleriske </td>
+<td> mere hyklerisk </td>
+<td> mest hyklerisk </td>
+<td> hypocritical </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hyppig"> hyppig </a></td>
 <td>
 <audio id="hyppig" src="https://static.ordnet.dk/mp3/11022/11022135_1.mp3" style="display: none;"></audio>
@@ -3417,7 +3441,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%A5ndv%C3%A6rksm%C3%A6ssig"> håndværksmæssig </a></td>
 <td>
 <audio id="håndværksmæssig" src="https://static.ordnet.dk/mp3/51004/51004000_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('håndværksmæssig');" style="cursor: pointer; color: blue;">[ˈhʌnvæɐ̯gsˌmεˀs</span>
+<span onclick="playSound('håndværksmæssig');" style="cursor: pointer; color: blue;">[ˈhʌnvæɐ̯gsˌmεˀsi]</span>
 </td>
 <td> håndværksmæssigt </td>
 <td> håndværksmæssige </td>
@@ -4950,6 +4974,18 @@ search: true
 <td> opposite </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=monogam"> monogam </a></td>
+<td>
+<audio id="monogam" src="https://static.ordnet.dk/mp3/11034/11034259_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('monogam');" style="cursor: pointer; color: blue;">[monoˈgæˀm]</span>
+</td>
+<td> monogamt </td>
+<td> monogame </td>
+<td> mere monogam </td>
+<td> mest monogam </td>
+<td> monogamous </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=moralsk"> moralsk </a></td>
 <td>
 <audio id="moralsk" src="https://static.ordnet.dk/mp3/11034/11034327_1.mp3" style="display: none;"></audio>
@@ -6174,6 +6210,18 @@ search: true
 <td> healthy, quick </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=reaktion%C3%A6r"> reaktionær </a></td>
+<td>
+<audio id="reaktionær" src="https://static.ordnet.dk/mp3/11042/11042274_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('reaktionær');" style="cursor: pointer; color: blue;">[ˈʁεɑgɕoˌnεˀɐ̯]</span>
+</td>
+<td> reaktionært </td>
+<td> reaktionære </td>
+<td> mere reaktionær </td>
+<td> mest reaktionær </td>
+<td> reactionary </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=realistisk"> realistisk </a></td>
 <td>
 <audio id="realistisk" src="https://static.ordnet.dk/mp3/11042/11042290_1.mp3" style="display: none;"></audio>
@@ -6678,6 +6726,18 @@ search: true
 <td> self-reinforcing </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=selvmodsigende"> selvmodsigende </a></td>
+<td>
+<audio id="selvmodsigende" src="https://static.ordnet.dk/mp3/11045/11045419_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('selvmodsigende');" style="cursor: pointer; color: blue;">[-ˌmoðˌsiˀənə]</span>
+</td>
+<td> selvmodsigende </td>
+<td> selvmodsigende </td>
+<td> mere selvmodsigende </td>
+<td> mest selvmodsigende </td>
+<td> self-contradictory </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=selvoptaget"> selvoptaget </a></td>
 <td>
 <audio id="selvoptaget" src="https://static.ordnet.dk/mp3/11045/11045442_1.mp3" style="display: none;"></audio>
@@ -7086,6 +7146,18 @@ search: true
 <td> beautiful </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=snerpet"> snerpet </a></td>
+<td>
+<audio id="snerpet" src="https://static.ordnet.dk/mp3/11048/11048293_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('snerpet');" style="cursor: pointer; color: blue;">[ˈsnæɐ̯bəð]</span>
+</td>
+<td> snerpet </td>
+<td> snerpede </td>
+<td> mere snerpet </td>
+<td> mest snerpet </td>
+<td> prudish </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=snottet"> snottet </a></td>
 <td>
 <audio id="snottet" src="https://static.ordnet.dk/mp3/11048/11048376_1.mp3" style="display: none;"></audio>
@@ -7096,6 +7168,18 @@ search: true
 <td> mere snottet </td>
 <td> mest snottet </td>
 <td> snotty </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sn%C3%A6ver"> snæver </a></td>
+<td>
+<audio id="snæver" src="https://static.ordnet.dk/mp3/11048/11048427_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('snæver');" style="cursor: pointer; color: blue;">[ˈsnεwˀʌ]</span>
+</td>
+<td> snævert </td>
+<td> snævre </td>
+<td> snævrere </td>
+<td> snævrest </td>
+<td> narrow </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=social"> social </a></td>

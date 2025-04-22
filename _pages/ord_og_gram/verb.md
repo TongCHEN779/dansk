@@ -627,6 +627,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=aftjene"> at aftjene </a></td>
+<td>
+<audio id="aftjene" src="https://static.ordnet.dk/mp3/11000/11000854_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('aftjene');" style="cursor: pointer; color: blue;">[-ˌtjεˀnə]</span>
+</td>
+<td> aftjener </td>
+<td> aftjente </td>
+<td> har aftjent </td>
+<td> aftjen </td>
+<td> to serve (military service) </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afvente"> at afvente </a></td>
 <td>
 <audio id="afvente" src="https://static.ordnet.dk/mp3/11000/11000885_1.mp3" style="display: none;"></audio>
@@ -715,6 +728,19 @@ search: true
 <td> har alarmeret </td>
 <td> alarmer </td>
 <td> to alarm </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=alliere"> at alliere (sig) </a></td>
+<td>
+<audio id="alliere" src="https://static.ordnet.dk/mp3/11001/11001350_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('alliere');" style="cursor: pointer; color: blue;">[aliˈeˀʌ]</span>
+</td>
+<td> allierer </td>
+<td> allierede </td>
+<td> har allieret </td>
+<td> allier </td>
+<td> to ally </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -2304,6 +2330,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bortcensurere"> at bortcensurere </a></td>
+<td>
+<audio id="bortcensurere" src="https://static.ordnet.dk/mp3/40000/40000850_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bortcensurere');" style="cursor: pointer; color: blue;">[-ˌsεnsuˈʁeˀʌ]</span>
+</td>
+<td> bortcensurerer </td>
+<td> bortcensurerede </td>
+<td> har bortcensureret </td>
+<td> bortcensurér </td>
+<td> to censor </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bortf%C3%B8re"> at bortføre </a></td>
 <td>
 <audio id="bortføre" src="https://static.ordnet.dk/mp3/11005/11005859_1.mp3" style="display: none;"></audio>
@@ -2640,6 +2679,19 @@ search: true
 <td> bønfald </td>
 <td> to beg, implore </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=b%C3%B8rsnotere"> at børsnotere </a></td>
+<td>
+<audio id="børsnotere" src="https://static.ordnet.dk/mp3/11007/11007246_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('børsnotere');" style="cursor: pointer; color: blue;">[ˈbɶɐ̯snoˌteˀʌ]</span>
+</td>
+<td> børsnoterer </td>
+<td> børsnoterede </td>
+<td> har børsnoteret </td>
+<td> børsnotér </td>
+<td> to list on the stock exchange </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=b%C3%B8rste"> at børste </a></td>
@@ -4979,6 +5031,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forvr%C3%A6nge"> at forvrænge </a></td>
+<td>
+<audio id="forvrænge" src="https://static.ordnet.dk/mp3/11015/11015530_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forvrænge');" style="cursor: pointer; color: blue;">[fʌˈvʁaŋˀə]</span>
+</td>
+<td> forvrænger </td>
+<td> forvrængte </td>
+<td> har forvrænget </td>
+<td> forvræng </td>
+<td> to distort </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forv%C3%A6rre"> at forværre </a></td>
 <td>
 <audio id="forværre" src="https://static.ordnet.dk/mp3/11015/11015538_1.mp3" style="display: none;"></audio>
@@ -7085,6 +7150,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indskr%C3%A6nke"> at indskrænke </a></td>
+<td>
+<audio id="indskrænke" src="https://static.ordnet.dk/mp3/11023/11023525_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indskrænke');" style="cursor: pointer; color: blue;">[-ˌsgʁaŋˀgə]</span>
+</td>
+<td> indskrænker </td>
+<td> indskrænkede </td>
+<td> har indskrænket </td>
+<td> indskrænk </td>
+<td> to restrict </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=indskyde"> at indskyde </a></td>
 <td>
 <audio id="indskyde" src="https://static.ordnet.dk/mp3/11023/11023531_1.mp3" style="display: none;"></audio>
@@ -7654,6 +7732,19 @@ search: true
 <td> har kollapset </td>
 <td> kollaps </td>
 <td> to collapse </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kollidere"> at kollidere </a></td>
+<td>
+<audio id="kollidere" src="https://static.ordnet.dk/mp3/11026/11026952_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kollidere');" style="cursor: pointer; color: blue;">[koliˈdeˀʌ]</span>
+</td>
+<td> kolliderer </td>
+<td> kolliderede </td>
+<td> har kollideret </td>
+<td> kollider </td>
+<td> to collide </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -15884,6 +15975,19 @@ search: true
 <td> undtag </td>
 <td> to exempt </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=undv%C3%A6re"> at undvære </a></td>
+<td>
+<audio id="undvære" src="https://static.ordnet.dk/mp3/12004/12004973_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('undvære');" style="cursor: pointer; color: blue;">[ˈɔnˌvεˀʌ]</span>
+</td>
+<td> undværer </td>
+<td> undværede </td>
+<td> har undværet </td>
+<td> undvær </td>
+<td> to do without </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vaccinere"> at vaccinere </a></td>
