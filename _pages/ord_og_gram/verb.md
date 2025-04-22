@@ -12688,6 +12688,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sl%C3%A6kke"> at slække </a></td>
+<td>
+<audio id="slække" src="https://static.ordnet.dk/mp3/11047/11047878_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slække');" style="cursor: pointer; color: blue;">[ˈslεgə]</span>
+</td>
+<td> slækker </td>
+<td> slækkede </td>
+<td> har slækket </td>
+<td> slæk </td>
+<td> to loosen </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sl%C3%A6ng"> at slæng </a></td>
 <td>
 <audio id="slæng" src="https://static.ordnet.dk/mp3/11047/11047880_1.mp3" style="display: none;"></audio>
@@ -16183,6 +16196,19 @@ search: true
 <td> voks </td>
 <td> to grow </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=voldtage"> at voldtage </a></td>
+<td>
+<audio id="voldtage" src="https://static.ordnet.dk/mp3/12007/12007244_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('voldtage');" style="cursor: pointer; color: blue;">[ˈvʌlˌtæˀ]</span>
+</td>
+<td> voldtager </td>
+<td> voldtog </td>
+<td> har voldtaget </td>
+<td> voldtag </td>
+<td> to rape </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?select=vove,2&amp;query=vove"> at vove </a></td>

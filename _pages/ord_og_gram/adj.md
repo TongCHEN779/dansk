@@ -2706,7 +2706,7 @@ search: true
 <td> glossy </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?select=glat,2&query=glat"> glat </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=glat,2&amp;query=glat"> glat </a></td>
 <td>
 <audio id="glat" src="https://static.ordnet.dk/mp3/11018/11018140_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('glat');" style="cursor: pointer; color: blue;">[ˈglad]</span>
@@ -9664,6 +9664,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> left </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=verdensfjern"> verdensfjern </a></td>
+<td>
+<audio id="verdensfjern" src="https://static.ordnet.dk/mp3/12006/12006401_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('verdensfjern');" style="cursor: pointer; color: blue;">[ˈvɛɐ̯ðənsˌfjæɐ̯n]</span>
+</td>
+<td> verdensfjernt </td>
+<td> verdensfjerne </td>
+<td> mere verdensfjern </td>
+<td> mest verdensfjern </td>
+<td> aloof </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vestlig"> vestlig </a></td>
