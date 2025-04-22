@@ -781,6 +781,11 @@ search: true
 <td> Hans J. Wegner står bag en af dansk møbeldesigns største succeser, nemlig Y-stolen, der trods sine 40 år stadig er meget efterspurgt. </td>
 </tr>
 <tr>
+<td> noget underligt noget </td>
+<td> a strange thing </td>
+<td> Jeg synes, det er noget underligt noget at sætte sig ned og tisse lige foran nogle andre. </td>
+</tr>
+<tr>
 <td> nøjes </td>
 <td> make do </td>
 <td> En dansk fadæse .. betyder at Danmark ikke, som forudsat, får ti ryttere med i søndagens finale, men må nøjes med ni. </td>
