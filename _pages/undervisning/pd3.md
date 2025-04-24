@@ -381,4 +381,13 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202311_skr.pdf">skriftlig</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202311_ret.pdf">rettenøgler</a></td>
 </tr>
+
+<tr>
+<td>2024 sommer</td>
+<td>mundtlig, mundt-censor</td>
+<td>læse1-tekst, læse2-tekst</td>
+<td>læse1-opg, læse2-opg</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202405_skr.pdf">skriftlig</a></td>
+<td>rettenøgler</td>
+</tr>
 </table>
