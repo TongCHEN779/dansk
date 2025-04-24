@@ -4540,6 +4540,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forkrome"> at forkrome </a></td>
+<td>
+<audio id="forkrome" src="https://static.ordnet.dk/mp3/11014/11014683_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forkrome');" style="cursor: pointer; color: blue;">[fʌˈkʁoˀmə]</span>
+</td>
+<td> forkromer </td>
+<td> forkromede </td>
+<td> har forkromet </td>
+<td> forkrom </td>
+<td> to chrome </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forlade"> at forlade </a></td>
 <td>
 <audio id="forlade" src="https://static.ordnet.dk/mp3/11014/11014710_1.mp3" style="display: none;"></audio>
@@ -11052,6 +11065,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pr%C3%A6dike"> at prædike </a></td>
+<td>
+<audio id="prædike" src="https://static.ordnet.dk/mp3/11041/11041259_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('prædike');" style="cursor: pointer; color: blue;">[ˈpʁεðəgə]</span>
+</td>
+<td> prædiker </td>
+<td> prædikede </td>
+<td> har prædiket </td>
+<td> prædik </td>
+<td> to preach </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=præge"> at præge </a></td>
 <td>
 <audio id="præge" src="https://static.ordnet.dk/mp3/11041/11041272_1.mp3" style="display: none;"></audio>
@@ -12495,6 +12521,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skræmme"> at skræmme </a></td>
+<td>
+<audio id="skræmme" src="https://static.ordnet.dk/mp3/11047/11047085_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skræmme');" style="cursor: pointer; color: blue;">[ˈsgʁamə]</span>
+</td>
+<td> skræmmer </td>
+<td> skræmte </td>
+<td> har skræmt </td>
+<td> skræm </td>
+<td> to scare </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skråne"> at skråne </a></td>
 <td>
 <audio id="skråne" src="https://static.ordnet.dk/mp3/11047/11047110_1.mp3" style="display: none;"></audio>
@@ -12649,6 +12688,32 @@ search: true
 <td> skæld (ud) </td>
 <td> to grumble, scold </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A6mme"> at skæmme </a></td>
+<td>
+<audio id="skæmme" src="https://static.ordnet.dk/mp3/11047/11047378_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skæmme');" style="cursor: pointer; color: blue;">[ˈsgεmə]</span>
+</td>
+<td> skæmmer </td>
+<td> skæmmede </td>
+<td> har skæmmet </td>
+<td> skæm </td>
+<td> to disfigure, mar </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A6mte"> at skæmte </a></td>
+<td>
+<audio id="skæmte" src="https://static.ordnet.dk/mp3/11047/11047380_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skæmte');" style="cursor: pointer; color: blue;">[ˈsgεmdə]</span>
+</td>
+<td> skæmter </td>
+<td> skæmtede </td>
+<td> har skæmtet </td>
+<td> skæmt </td>
+<td> to jest, joke </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A6ndes"> at skænde </a></td>

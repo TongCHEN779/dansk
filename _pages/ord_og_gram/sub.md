@@ -1902,6 +1902,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ben%C3%A6gtelse"> en benægtelse </a></td>
+<td>
+<audio id="benægtelse" src="https://static.ordnet.dk/mp3/30001/30001237_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('benægtelse');" style="cursor: pointer; color: blue;">[beˈnεgdəlsə]</span>
+</td>
+<td> benægtelsen </td>
+<td> benægtelser </td>
+<td> benægtelserne </td>
+<td> denial </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=beregning"> en beregning </a></td>
 <td>
 <audio id="beregning" src="https://static.ordnet.dk/mp3/11004/11004146_1.mp3" style="display: none;"></audio>
@@ -6992,6 +7004,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fremf%C3%A6rd"> en fremfærd </a></td>
+<td>
+<audio id="fremfærd" src="https://static.ordnet.dk/mp3/11015/11015868_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fremfærd');" style="cursor: pointer; color: blue;">[ˈfʁamˌfæɐ̯ˀ]</span>
+</td>
+<td> fremfærden </td>
+<td> - </td>
+<td> - </td>
+<td> (bad) behavior </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fremgang"> en fremgang </a></td>
 <td>
 <audio id="fremgang" src="https://static.ordnet.dk/mp3/11015/11015871_1.mp3" style="display: none;"></audio>
@@ -8177,6 +8201,18 @@ search: true
 <td> grænser </td>
 <td> grænserne </td>
 <td> border/limit </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gr%C3%A6srod"> en græsrod </a></td>
+<td>
+<audio id="græsrod" src="https://static.ordnet.dk/mp3/11018/11018932_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('græsrod');" style="cursor: pointer; color: blue;">[ˈgʁasˌʁoˀð]</span>
+</td>
+<td> græsroden </td>
+<td> græsrødder </td>
+<td> græsrødderne </td>
+<td> grassroots </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -9978,6 +10014,18 @@ search: true
 <td> indlæringerne </td>
 <td> learning </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indpakning"> en indpakning </a></td>
+<td>
+<audio id="indpakning" src="https://static.ordnet.dk/mp3/11023/11023470_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indpakning');" style="cursor: pointer; color: blue;">[ˈenˌpɑgneŋ]</span>
+</td>
+<td> indpakningen </td>
+<td> indpakninger </td>
+<td> indpakningerne </td>
+<td> wrapping </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=indpisker"> en indpisker </a></td>
@@ -11874,6 +11922,18 @@ search: true
 <td> krogene </td>
 <td> corner, hook </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=krom"> et krom </a></td>
+<td>
+<audio id="krom" src="https://static.ordnet.dk/mp3/11028/11028179_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('krom');" style="cursor: pointer; color: blue;">[ˈkʁoˀm]</span>
+</td>
+<td> krommet </td>
+<td> - </td>
+<td> - </td>
+<td> chrome </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=krone"> en krone </a></td>
@@ -19254,6 +19314,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=salgstale"> en salgstale </a></td>
+<td>
+<audio id="salgstale" src="" style="display: none;"></audio>
+<span onclick="playSound('salgstale');" style="cursor: pointer; color: blue;">[ˈsɑlˌsdæːlə]</span>
+</td>
+<td> salgstalen </td>
+<td> salgstaler </td>
+<td> salgstalene </td>
+<td> sales pitch </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=salve"> en salve </a></td>
 <td>
 <audio id="salve" src="https://static.ordnet.dk/mp3/11044/11044556_1.mp3" style="display: none;"></audio>
@@ -25742,6 +25814,18 @@ search: true
 <td> urter </td>
 <td> urterne </td>
 <td> herb </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=uskyld"> en uskyld </a></td>
+<td>
+<audio id="uskyld" src="https://static.ordnet.dk/mp3/12005/12005287_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('uskyld');" style="cursor: pointer; color: blue;">[ˈuˌsgylˀ]</span>
+</td>
+<td> uskylden </td>
+<td> - </td>
+<td> - </td>
+<td> innocence </td>
 <td> 1 </td>
 </tr>
 <tr>
