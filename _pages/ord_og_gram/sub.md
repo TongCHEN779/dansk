@@ -234,6 +234,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=afsigelse"> en afsigelse </a></td>
+<td>
+<audio id="afsigelse" src="https://static.ordnet.dk/mp3/11000/11000660_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('afsigelse');" style="cursor: pointer; color: blue;">[-ˌsiˀəlsə]</span>
+</td>
+<td> afsigelsen </td>
+<td> afsigelser </td>
+<td> afsigelserne </td>
+<td> pronouncement </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afsked"> en afsked </a></td>
 <td>
 <audio id="afsked" src="https://static.ordnet.dk/mp3/11000/11000671_1.mp3" style="display: none;"></audio>
@@ -4195,6 +4207,30 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dommer"> en dommer </a></td>
+<td>
+<audio id="dommer" src="https://static.ordnet.dk/mp3/11009/11009489_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dommer');" style="cursor: pointer; color: blue;">[ˈdʌmʌ]</span>
+</td>
+<td> dommeren </td>
+<td> dommere </td>
+<td> dommerne </td>
+<td> judge </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=domstol"> en domstol </a></td>
+<td>
+<audio id="domstol" src="https://static.ordnet.dk/mp3/11009/11009512_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('domstol');" style="cursor: pointer; color: blue;">[ˈdʌmˌsdoˀl]</span>
+</td>
+<td> domstolen </td>
+<td> domstole </td>
+<td> domstolene </td>
+<td> court </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dopamin"> en dopamin </a></td>
 <td>
 <audio id="dopamin" src="" style="display: none;"></audio>
@@ -4769,6 +4805,18 @@ search: true
 <td> enkeltsager </td>
 <td> enkeltsagerne </td>
 <td> individual case </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ensartethed"> en ensartethed </a></td>
+<td>
+<audio id="ensartethed" src="https://static.ordnet.dk/mp3/51000/51000070_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ensartethed');" style="cursor: pointer; color: blue;">[ˈeˀnsˌɑˀdəðˌheðˀ]</span>
+</td>
+<td> ensartetheden </td>
+<td> - </td>
+<td> - </td>
+<td> uniformity </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -5622,6 +5670,18 @@ search: true
 <td> fingrene </td>
 <td> finger </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fingerpeg"> et fingerpeg </a></td>
+<td>
+<audio id="fingerpeg" src="https://static.ordnet.dk/mp3/11013/11013041_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fingerpeg');" style="cursor: pointer; color: blue;">[-ˌpɑjˀ]</span>
+</td>
+<td> fingerpeget </td>
+<td> fingerpeg </td>
+<td> fingerpegene </td>
+<td> hint </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=firma"> et firma </a></td>
@@ -7760,6 +7820,30 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gerning"> en gerning </a></td>
+<td>
+<audio id="gerning" src="https://static.ordnet.dk/mp3/11017/11017884_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gerning');" style="cursor: pointer; color: blue;">[ˈgæɐ̯neŋ]</span>
+</td>
+<td> gerningen </td>
+<td> gerninger </td>
+<td> gerningerne </td>
+<td> deed </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gerningsperson"> en gerningsperson </a></td>
+<td>
+<audio id="gerningsperson" src="" style="display: none;"></audio>
+<span onclick="playSound('gerningsperson');" style="cursor: pointer; color: blue;">[ˈgæɐ̯neŋsˌpɛɐ̯ˀsɔn]</span>
+</td>
+<td> gerningspersonen </td>
+<td> gerningspersoner </td>
+<td> gerningspersonerne </td>
+<td> perpetrator </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gevinst"> en gevinst (ved/for) </a></td>
 <td>
 <audio id="gevinst" src="https://static.ordnet.dk/mp3/11017/11017925_1.mp3" style="display: none;"></audio>
@@ -9413,6 +9497,18 @@ search: true
 <td> højskoler </td>
 <td> højskolerne </td>
 <td> high school </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%B8jesteret"> en højesteret </a></td>
+<td>
+<audio id="højesteret" src="https://static.ordnet.dk/mp3/11022/11022340_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('højesteret');" style="cursor: pointer; color: blue;">[ˈhʌjˀəsdəˌʁad]</span>
+</td>
+<td> højesteretten </td>
+<td> højesteretter </td>
+<td> højesteretterne </td>
+<td> supreme court </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -14912,6 +15008,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=narkotikum"> et narkotikum </a></td>
+<td>
+<audio id="narkotikum" src="https://static.ordnet.dk/mp3/11035/11035309_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('narkotikum');" style="cursor: pointer; color: blue;">[nɑˈkoˀtikɔm]</span>
+</td>
+<td> narkotikummet </td>
+<td> narkotika </td>
+<td> narkotikaene </td>
+<td> narcotic </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=natklub"> en natklub </a></td>
 <td>
 <audio id="natklub" src="https://static.ordnet.dk/mp3/11035/11035401_1.mp3" style="display: none;"></audio>
@@ -15547,7 +15655,18 @@ search: true
 <td> extent </td>
 <td> 3 </td>
 </tr>
-<tr>
+<tr><tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omflytning"> en omflytning </a></td>
+<td>
+<audio id="omflytning" src="https://static.ordnet.dk/mp3/11037/11037104_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omflytning');" style="cursor: pointer; color: blue;">[ˈʌmˌflydneŋ]</span>
+</td>
+<td> omflytningen </td>
+<td> omflytninger </td>
+<td> omflytningerne </td>
+<td> relocation </td>
+<td> 1 </td>
+</tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=omgang"> en omgang </a></td>
 <td>
 <audio id="omgang" src="https://static.ordnet.dk/mp3/11037/11037112_1.mp3" style="display: none;"></audio>
@@ -15620,6 +15739,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omorganisering"> en omorganisering </a></td>
+<td>
+<audio id="omorganisering" src="https://static.ordnet.dk/mp3/51001/51001599_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omorganisering');" style="cursor: pointer; color: blue;">[ˈʌm-]</span>
+</td>
+<td> omorganiseringen </td>
+<td> omorganiseringer </td>
+<td> omorganiseringerne </td>
+<td> reorganization </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=omr%C3%A5de"> et område </a></td>
 <td>
 <audio id="område" src="https://static.ordnet.dk/mp3/11037/11037200_1.mp3" style="display: none;"></audio>
@@ -15653,6 +15784,18 @@ search: true
 <td> omstillinger </td>
 <td> omstillingerne </td>
 <td> adjustment/switchboard </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omst%C3%A6ndighed"> en omstændighed </a></td>
+<td>
+<audio id="omstændighed" src="https://static.ordnet.dk/mp3/11037/11037244_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omstændighed');" style="cursor: pointer; color: blue;">[ʌmˈsdεnˀdiˌheðˀ]</span>
+</td>
+<td> omstændigheden </td>
+<td> omstændigheder </td>
+<td> omstændighederne </td>
+<td> circumstance </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -18379,6 +18522,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=retspleje"> en retspleje </a></td>
+<td>
+<audio id="retspleje" src="https://static.ordnet.dk/mp3/11043/11043149_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('retspleje');" style="cursor: pointer; color: blue;">[ˈʁadsˌplɑjə]</span>
+</td>
+<td> retsplejen </td>
+<td> - </td>
+<td> - </td>
+<td> administration of justice </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=retssag"> en retssag </a></td>
 <td>
 <audio id="retssag" src="https://static.ordnet.dk/mp3/11043/11043155_1.mp3" style="display: none;"></audio>
@@ -19060,6 +19215,18 @@ search: true
 <td> sagsbehandlinger </td>
 <td> sagsbehandlingerne </td>
 <td> case processing </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sagsgang"> en sagsgang </a></td>
+<td>
+<audio id="sagsgang" src="https://static.ordnet.dk/mp3/11044/11044422_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sagsgang');" style="cursor: pointer; color: blue;">[ˈsæˀjsˌgɑŋ]</span>
+</td>
+<td> sagsgangen </td>
+<td> sagsgange </td>
+<td> sagsgangene </td>
+<td> case procedure </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -21955,6 +22122,30 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=straffesag"> en straffesag </a></td>
+<td>
+<audio id="straffesag" src="https://static.ordnet.dk/mp3/11050/11050641_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('straffesag');" style="cursor: pointer; color: blue;">[ˈsdʁɑfəˌsæˀj]</span>
+</td>
+<td> straffesagen </td>
+<td> straffesager </td>
+<td> straffesagerne </td>
+<td> criminal case </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=strafudm%C3%A5ling"> en strafudmåling </a></td>
+<td>
+<audio id="strafudmåling" src="https://static.ordnet.dk/mp3/11050/11050655_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('strafudmåling');" style="cursor: pointer; color: blue;">[-ˌuðˌmɔˀleŋ]</span>
+</td>
+<td> strafudmålingen </td>
+<td> strafudmålinger </td>
+<td> strafudmålingerne </td>
+<td> sentencing </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=strand"> en strand </a></td>
 <td>
 <audio id="strand" src="https://static.ordnet.dk/mp3/11050/11050667_1.mp3" style="display: none;"></audio>
@@ -22879,6 +23070,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=søgsmål"> et søgsmål </a></td>
+<td>
+<audio id="søgsmål" src="https://static.ordnet.dk/mp3/11052/11052344_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('søgsmål');" style="cursor: pointer; color: blue;">[ˈsøˀjsˌmɔˀl]</span>
+</td>
+<td> søgsmålet </td>
+<td> søgsmål </td>
+<td> søgsmålene </td>
+<td> lawsuit </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%B8le"> en søle </a></td>
 <td>
 <audio id="søle" src="https://static.ordnet.dk/mp3/11052/11052359_1.mp3" style="display: none;"></audio>
@@ -23670,7 +23873,18 @@ search: true
 <td> presence </td>
 <td> 1 </td>
 </tr>
-<tr>
+<tr><tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilståelse"> en tilståelse </a></td>
+<td>
+<audio id="tilståelse" src="https://static.ordnet.dk/mp3/12001/12001330_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilståelse');" style="cursor: pointer; color: blue;">[ˈtelˌsdɔˀəlsə]</span>
+</td>
+<td> tilståelsen </td>
+<td> tilståelser </td>
+<td> tilståelserne </td>
+<td> confession </td>
+<td> 1 </td>
+</tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilsyn"> et tilsyn </a></td>
 <td>
 <audio id="tilsyn" src="https://static.ordnet.dk/mp3/12001/12001337_1.mp3" style="display: none;"></audio>
@@ -26357,6 +26571,18 @@ search: true
 <td> - </td>
 <td> violence </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=voldt%C3%A6gt"> en voldtægt </a></td>
+<td>
+<audio id="voldtægt" src="https://static.ordnet.dk/mp3/12007/12007245_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('voldtægt');" style="cursor: pointer; color: blue;">[ˈvʌlˌtεgd]</span>
+</td>
+<td> voldtægten </td>
+<td> voldtægter </td>
+<td> voldtægterne </td>
+<td> rape </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=volleyballtr%C3%A6ner"> en volleyballtræner </a></td>

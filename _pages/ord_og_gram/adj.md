@@ -1662,6 +1662,18 @@ search: true
 <td> occupational </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=etisk"> etisk </a></td>
+<td>
+<audio id="etisk" src="https://static.ordnet.dk/mp3/11011/11011869_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('etisk');" style="cursor: pointer; color: blue;">[ˈeˀtisg]</span>
+</td>
+<td> etisk </td>
+<td> etiske </td>
+<td> mere etisk </td>
+<td> mest etisk </td>
+<td> ethical </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=europ%C3%A6isk"> europæisk </a></td>
 <td>
 <audio id="europæisk" src="https://static.ordnet.dk/mp3/11011/11011937_1.mp3" style="display: none;"></audio>

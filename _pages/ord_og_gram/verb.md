@@ -432,6 +432,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=afsige"> at afsige </a></td>
+<td>
+<audio id="afsige" src="https://static.ordnet.dk/mp3/11000/11000659_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('afsige');" style="cursor: pointer; color: blue;">[-ˌsiˀə]</span>
+</td>
+<td> afsiger </td>
+<td> afsagde </td>
+<td> har afsagt </td>
+<td> afsig </td>
+<td> to pronounce </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afskaffe"> at afskaffe </a></td>
 <td>
 <audio id="afskaffe" src="https://static.ordnet.dk/mp3/11000/11000665_1.mp3" style="display: none;"></audio>
@@ -3248,7 +3261,9 @@ search: true
 <td> dømmer </td>
 <td> dømte </td>
 <td> har dømt </td>
-<td> to sentence </td>
+<td> døm </td>
+<td> to judge, convict </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=efterf%C3%B8lge"> at efterfølge </a></td>
@@ -4275,6 +4290,19 @@ search: true
 <td> har forekommet </td>
 <td> forekom </td>
 <td> to occur </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=foreligge"> at foreligge </a></td>
+<td>
+<audio id="foreligge" src="https://static.ordnet.dk/mp3/11014/11014419_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('foreligge');" style="cursor: pointer; color: blue;">[ˈfɒːɒ-]</span>
+</td>
+<td> foreligger </td>
+<td> forelå </td>
+<td> har foreligget </td>
+<td> forelig </td>
+<td> to exist, be available </td>
 <td> 3 </td>
 </tr>
 <tr>
@@ -7709,6 +7737,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=koble"> at koble </a></td>
+<td>
+<audio id="koble" src="https://static.ordnet.dk/mp3/11026/11026780_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('koble');" style="cursor: pointer; color: blue;">[ˈkʌblə]</span>
+</td>
+<td> kobler </td>
+<td> koblede </td>
+<td> har koblet </td>
+<td> kobl </td>
+<td> to connect </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=koge"> at koge </a></td>
 <td>
 <audio id="koge" src="https://static.ordnet.dk/mp3/11026/11026812_1.mp3" style="display: none;"></audio>
@@ -9124,6 +9165,19 @@ search: true
 <td> modtag </td>
 <td> to receive </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=more"> at more </a></td>
+<td>
+<audio id="more" src="https://static.ordnet.dk/mp3/11034/11034346_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('more');" style="cursor: pointer; color: blue;">[ˈmoːʌ]</span>
+</td>
+<td> morer </td>
+<td> morede </td>
+<td> har moret </td>
+<td> mor </td>
+<td> to amuse </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?select=mose,2&amp;query=mose"> at mose </a></td>
@@ -14794,6 +14848,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=trawle"> at trawle </a></td>
+<td>
+<audio id="trawle" src="https://static.ordnet.dk/mp3/12002/12002184_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('trawle');" style="cursor: pointer; color: blue;">[ˈtʁɒːlə]</span>
+</td>
+<td> trawler </td>
+<td> trawlede </td>
+<td> har trawlet </td>
+<td> trawl </td>
+<td> to trawl </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?select=trille,2&amp;query=trille"> at trille </a></td>
 <td>
 <audio id="trille" src="https://static.ordnet.dk/mp3/12002/12002363_1.mp3" style="display: none;"></audio>
@@ -15767,6 +15834,19 @@ search: true
 <td> udvis </td>
 <td> to show </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udm%C3%A5le"> at udmåle </a></td>
+<td>
+<audio id="udmåle" src="https://static.ordnet.dk/mp3/12004/12004006_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udmåle');" style="cursor: pointer; color: blue;">[-ˌmɔˀlə]</span>
+</td>
+<td> udmåler </td>
+<td> udmålte </td>
+<td> har udmålt </td>
+<td> udmål </td>
+<td> to measure out </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=udmønte"> at udmønte </a></td>
