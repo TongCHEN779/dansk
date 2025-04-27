@@ -198,6 +198,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=aff%C3%B8ring"> en afføring </a></td>
+<td>
+<audio id="afføring" src="https://static.ordnet.dk/mp3/11000/11000350_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('afføring');" style="cursor: pointer; color: blue;">[ˈɑwˌføˀʁeŋ]</span>
+</td>
+<td> afføringen </td>
+<td> afføringer </td>
+<td> afføringerne </td>
+<td> stool </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afholdenhed"> en afholdenhed </a></td>
 <td>
 <audio id="afholdenhed" src="https://static.ordnet.dk/mp3/11000/11000454_1.mp3" style="display: none;"></audio>
@@ -4495,6 +4507,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=d%C3%B8mmekraft"> en dømmekraft </a></td>
+<td>
+<audio id="dømmekraft" src="https://static.ordnet.dk/mp3/11010/11010368_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dømmekraft');" style="cursor: pointer; color: blue;">[ˈdœməˌkʁɑfd]</span>
+</td>
+<td> dømmekraften </td>
+<td> - </td>
+<td> - </td>
+<td> judgment </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=efterl%C3%B8n"> en efterløn </a></td>
 <td>
 <audio id="efterløn" src="https://static.ordnet.dk/mp3/11010/11010581_1.mp3" style="display: none;"></audio>
@@ -5489,6 +5513,18 @@ search: true
 <td> faunaer </td>
 <td> faunerne </td>
 <td> fauna </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=favn"> en favn </a></td>
+<td>
+<audio id="favn" src="https://static.ordnet.dk/mp3/11012/11012527_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('favn');" style="cursor: pointer; color: blue;">[ˈfɑwˀn]</span>
+</td>
+<td> favnen </td>
+<td> favne </td>
+<td> favnene </td>
+<td> embrace </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -11804,6 +11840,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kostr%C3%A5d"> et kostråd </a></td>
+<td>
+<audio id="kostråd" src="https://static.ordnet.dk/mp3/40002/40002946_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kostråd');" style="cursor: pointer; color: blue;">[ˈkʌsdˌʁɔˀð]</span>
+</td>
+<td> kostrådet </td>
+<td> kostråd </td>
+<td> kostrådene </td>
+<td> dietary advice </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kraft"> et kraft </a></td>
 <td>
 <audio id="kraft" src="https://static.ordnet.dk/mp3/11027/11027868_1.mp3" style="display: none;"></audio>
@@ -13097,6 +13145,18 @@ search: true
 <td> lokaler </td>
 <td> lokalerne </td>
 <td> room </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lomme"> en lomme </a></td>
+<td>
+<audio id="lomme" src="https://static.ordnet.dk/mp3/11030/11030918_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lomme');" style="cursor: pointer; color: blue;">[ˈlʌmə]</span>
+</td>
+<td> lommen </td>
+<td> lommer </td>
+<td> lommerne </td>
+<td> pocket </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -15090,6 +15150,18 @@ search: true
 <td> narkotikaene </td>
 <td> narcotic </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nat"> en nat </a></td>
+<td>
+<audio id="nat" src="https://static.ordnet.dk/mp3/11035/11035339_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nat');" style="cursor: pointer; color: blue;">[ˈnad]</span>
+</td>
+<td> natten </td>
+<td> nætter </td>
+<td> nætterne </td>
+<td> night </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=natklub"> en natklub </a></td>
@@ -26175,6 +26247,18 @@ search: true
 <td> - </td>
 <td> weather </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vejrtrækning"> en vejrtrækning </a></td>
+<td>
+<audio id="vejrtrækning" src="https://static.ordnet.dk/mp3/12006/12006093_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vejrtrækning');" style="cursor: pointer; color: blue;">[ˈvεɐ̯ˌtʁagneŋ]</span>
+</td>
+<td> vejrtrækningen </td>
+<td> vejrtrækninger </td>
+<td> vejrtrækningerne </td>
+<td> breathing </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=velg%C3%B8renhed"> en velgørenhed </a></td>

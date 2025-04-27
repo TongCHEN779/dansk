@@ -2863,6 +2863,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=die"> at die </a></td>
+<td>
+<audio id="die" src="https://static.ordnet.dk/mp3/11009/11009020_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('die');" style="cursor: pointer; color: blue;">[ˈdiːə]</span>
+</td>
+<td> dier </td>
+<td> diede </td>
+<td> er diet </td>
+<td> di </td>
+<td> breastfeed </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=differentiere"> at differentiere </a></td>
 <td>
 <audio id="differentiere" src="https://static.ordnet.dk/mp3/11009/11009039_1.mp3" style="display: none;"></audio>
@@ -6398,6 +6411,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hindre"> at hindre </a></td>
+<td>
+<audio id="hindre" src="https://static.ordnet.dk/mp3/11020/11020764_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hindre');" style="cursor: pointer; color: blue;">[ˈhendʁʌ]</span>
+</td>
+<td> hindrer </td>
+<td> hindrede </td>
+<td> har hindret </td>
+<td> hindr </td>
+<td> to prevent </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hitte"> at hitte </a></td>
 <td>
 <audio id="hitte" src="https://static.ordnet.dk/mp3/11020/11020822_1.mp3" style="display: none;"></audio>
@@ -8712,6 +8738,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=l%C3%A6kke"> at lække </a></td>
+<td>
+<audio id="lække" src="https://static.ordnet.dk/mp3/11031/11031606_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lække');" style="cursor: pointer; color: blue;">[ˈlεgə]</span>
+</td>
+<td> lækker </td>
+<td> lækkede </td>
+<td> har lækket </td>
+<td> læk </td>
+<td> to leak </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=l%C3%A6ne"> at læne </a></td>
 <td>
 <audio id="læne" src="https://static.ordnet.dk/mp3/11031/11031619_1.mp3" style="display: none;"></audio>
@@ -9801,6 +9840,19 @@ search: true
 <td> har omskolet </td>
 <td> omskol </td>
 <td> to retrain </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omslutte"> at omslutte </a></td>
+<td>
+<audio id="omslutte" src="https://static.ordnet.dk/mp3/11037/11037217_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omslutte');" style="cursor: pointer; color: blue;">[ˈʌmˌsludə]</span>
+</td>
+<td> omslutter </td>
+<td> omsluttede </td>
+<td> har omsluttet </td>
+<td> omslut </td>
+<td> to enclose </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -12352,6 +12404,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skelne"> at skelne </a></td>
+<td>
+<audio id="skelne" src="https://static.ordnet.dk/mp3/11046/11046446_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skelne');" style="cursor: pointer; color: blue;">[ˈsgεlnə]</span>
+</td>
+<td> skelner </td>
+<td> skelnede </td>
+<td> har skelnet </td>
+<td> skeln </td>
+<td> to distinguish </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skifte"> at skifte </a></td>
 <td>
 <audio id="skifte" src="https://static.ordnet.dk/mp3/11046/11046540_1.mp3" style="display: none;"></audio>
@@ -14246,7 +14311,7 @@ search: true
 <td> sank </td>
 <td> har sunket </td>
 <td> synk </td>
-<td> to sink </td>
+<td> to sink, down </td>
 <td> 3 </td>
 </tr>
 <tr>
@@ -16483,6 +16548,19 @@ search: true
 <td> har vrimlet </td>
 <td> vriml </td>
 <td> to swarm </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=vugge,2&amp;query=vugge"> at vugge </a></td>
+<td>
+<audio id="vugge" src="https://static.ordnet.dk/mp3/12007/12007361_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vugge');" style="cursor: pointer; color: blue;">[ˈvɔgə]</span>
+</td>
+<td> vugger </td>
+<td> vuggede </td>
+<td> har vugget </td>
+<td> vug </td>
+<td> to rock </td>
 <td> 1 </td>
 </tr>
 <tr>

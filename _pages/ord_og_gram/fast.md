@@ -641,6 +641,11 @@ search: true
 <td> En nordsjællandsk sparekassebestyrer er blevet dømt for millionsvindel. </td>
 </tr>
 <tr>
+<td> jo ... desto ..., desto ... desto ... </td>
+<td> the more ... the more ... </td>
+<td> Jo bedre barnet sover om dagen, desto bedre bliver nattesøvnen ofte. </td>
+</tr>
+<tr>
 <td> klæde sig på </td>
 <td> dress </td>
 <td> Det meste af formiddagen er jeg i badekåbe, og jeg klæder mig først på til frokost. </td>

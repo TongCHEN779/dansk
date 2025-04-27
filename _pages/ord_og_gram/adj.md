@@ -906,6 +906,18 @@ search: true
 <td> mixed </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bleg"> bleg </a></td>
+<td>
+<audio id="bleg" src="https://static.ordnet.dk/mp3/11005/11005066_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bleg');" style="cursor: pointer; color: blue;">[ˈblɑjˀ]</span>
+</td>
+<td> blegt </td>
+<td> blege </td>
+<td> blegere </td>
+<td> blegest </td>
+<td> pale </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=blid"> blid </a></td>
 <td>
 <audio id="blid" src="https://static.ordnet.dk/mp3/11005/11005097_1.mp3" style="display: none;"></audio>
@@ -1336,6 +1348,18 @@ search: true
 <td> mere dødtræt </td>
 <td> mest dødtræt </td>
 <td> deadly tired </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=d%C3%B8sig"> døsig </a></td>
+<td>
+<audio id="døsig" src="https://static.ordnet.dk/mp3/11010/11010405_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('døsig');" style="cursor: pointer; color: blue;">[ˈdøːsi]</span>
+</td>
+<td> døsigt </td>
+<td> døsige </td>
+<td> mere døsig </td>
+<td> mest døsig </td>
+<td> drowsy </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=effektiv"> effektiv </a></td>
@@ -2838,6 +2862,18 @@ search: true
 <td> thorough </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=grynet"> grynet </a></td>
+<td>
+<audio id="grynet" src="https://static.ordnet.dk/mp3/11018/11018870_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('grynet');" style="cursor: pointer; color: blue;">[ˈgʁyːnəð]</span>
+</td>
+<td> grynet </td>
+<td> grynede </td>
+<td> mere grynet </td>
+<td> mest grynet </td>
+<td> grainy </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gr%C3%A6nsel%C3%B8s"> grænseløs </a></td>
 <td>
 <audio id="grænseløs" src="https://static.ordnet.dk/mp3/11018/11018894_1.mp3" style="display: none;"></audio>
@@ -2896,6 +2932,18 @@ search: true
 <td> gulere/mere gul </td>
 <td> gulst/mest gul </td>
 <td> yellow </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gullig"> gullig </a></td>
+<td>
+<audio id="gullig" src="https://static.ordnet.dk/mp3/11019/11019209_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gullig');" style="cursor: pointer; color: blue;">[ˈguli]</span>
+</td>
+<td> gulligt </td>
+<td> gullige </td>
+<td> mere gullig </td>
+<td> mest gullig </td>
+<td> yellowish </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gylden"> gylden </a></td>
@@ -6172,6 +6220,18 @@ search: true
 <td> mere pågældende </td>
 <td> mest pågældende </td>
 <td> relevant </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=p%C3%A5kl%C3%A6dt"> påklædt </a></td>
+<td>
+<audio id="påklædt" src="https://static.ordnet.dk/mp3/11041/11041795_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('påklædt');" style="cursor: pointer; color: blue;">[ˈpʌˌklεˀd]</span>
+</td>
+<td> påklædt </td>
+<td> påklædte </td>
+<td> mere påklædt </td>
+<td> mest påklædt </td>
+<td> dressed </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=p%C3%A5tr%C3%A6ngende"> påtrængende </a></td>
