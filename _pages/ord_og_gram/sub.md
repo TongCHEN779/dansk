@@ -2574,6 +2574,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ble"> en ble </a></td>
+<td>
+<audio id="ble" src="https://static.ordnet.dk/mp3/11005/11005063_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ble');" style="cursor: pointer; color: blue;">[ˈbleˀ]</span>
+</td>
+<td> bleen </td>
+<td> bleer </td>
+<td> bleerne </td>
+<td> diaper </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=blik"> et blik </a></td>
 <td>
 <audio id="blik" src="https://static.ordnet.dk/mp3/11005/11005099_1.mp3" style="display: none;"></audio>
