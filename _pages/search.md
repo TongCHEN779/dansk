@@ -34,7 +34,7 @@ permalink: /search/
         font-weight: bold;
     }
     .checkbox-container {
-        display: flex;
+        display: none;/* flex; */
         justify-content: center;
         gap: 20px;
     }
@@ -169,7 +169,7 @@ permalink: /search/
     });
 </script>
 
-<!-- <div class="checkbox-container">
+<div class="checkbox-container">
     <label><input type="checkbox" id="adj" checked> Adj. </label>
     <label><input type="checkbox" id="sub" checked> Sub. </label>
     <label><input type="checkbox" id="verb" checked> Verb. </label>
@@ -178,7 +178,7 @@ permalink: /search/
     <label><input type="checkbox" id="pron" checked> Pron. </label>
     <label><input type="checkbox" id="præp" checked> Præp. </label>
     <label><input type="checkbox" id="fast" checked> Udtryk </label>
-</div> -->
+</div>
 
 <input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()" onmouseenter="this.select()">
 <!-- <input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()" onclick="this.select()"> -->
