@@ -18954,6 +18954,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rovdyr"> et rovdyr </a></td>
+<td>
+<audio id="rovdyr" src="https://static.ordnet.dk/mp3/11043/11043693_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rovdyr');" style="cursor: pointer; color: blue;">[ˈʁoːˌdyɐ̯]</span>
+</td>
+<td> rovdyret </td>
+<td> rovdyr </td>
+<td> rovdyrene </td>
+<td> predator </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=rug"> et rug </a></td>
 <td>
 <audio id="rug" src="https://static.ordnet.dk/mp3/11043/11043737_1.mp3" style="display: none;"></audio>
@@ -20211,6 +20223,18 @@ search: true
 <td> skibsfarter </td>
 <td> skibsfarterne </td>
 <td> shipping </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skibsvrag"> et skibsvrag </a></td>
+<td>
+<audio id="skibsvrag" src="https://static.ordnet.dk/mp3/11046/11046507_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skibsvrag');" style="cursor: pointer; color: blue;">[ˈsgiˀbsˌvʁɑˀw]</span>
+</td>
+<td> skibsvraget </td>
+<td> skibsvrag </td>
+<td> skibsvragene </td>
+<td> shipwreck </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -26775,6 +26799,30 @@ search: true
 <td> volleyballtrænerne </td>
 <td> volleyball coach </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vrag"> et vrag </a></td>
+<td>
+<audio id="vrag" src="https://static.ordnet.dk/mp3/12007/12007302_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vrag');" style="cursor: pointer; color: blue;">[ˈvʁɑˀw]</span>
+</td>
+<td> vraget </td>
+<td> vrag </td>
+<td> vragene </td>
+<td> wreck </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vragdel"> en vragdel </a></td>
+<td>
+<audio id="vragdel" src="https://static.ordnet.dk/mp3/53005/53005505_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vragdel');" style="cursor: pointer; color: blue;">[ˈvʁɑːgˌdeˀl]</span>
+</td>
+<td> vragdelen </td>
+<td> vragdele </td>
+<td> vragdelene </td>
+<td> wreckage </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vrangbillede"> et vrangbillede </a></td>

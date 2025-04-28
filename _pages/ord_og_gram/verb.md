@@ -9388,6 +9388,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nedbringe"> at nedbringe </a></td>
+<td>
+<audio id="nedbringe" src="https://static.ordnet.dk/mp3/11035/11035620_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nedbringe');" style="cursor: pointer; color: blue;">[-ˌbʁεŋˀə]</span>
+</td>
+<td> nedbringer </td>
+<td> nedbragte </td>
+<td> har nedbragt </td>
+<td> nedbring </td>
+<td> to reduce </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=nedgrave"> at nedgrave </a></td>
 <td>
 <audio id="nedgrave" src="https://static.ordnet.dk/mp3/11035/11035676_1.mp3" style="display: none;"></audio>

@@ -2718,6 +2718,18 @@ search: true
 <td> ready to marry </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=giftig"> giftig </a></td>
+<td>
+<audio id="giftig" src="https://static.ordnet.dk/mp3/11017/11017976_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('giftig');" style="cursor: pointer; color: blue;">[ˈgifdi]</span>
+</td>
+<td> giftigt </td>
+<td> giftige </td>
+<td> mere giftig </td>
+<td> mest giftig </td>
+<td> poisonous, venomous </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=given"> given/givet </a></td>
 <td>
 <audio id="given" src="https://static.ordnet.dk/mp3/11018/11018054_1.mp3" style="display: none;"></audio>

@@ -49,6 +49,17 @@ Fire mænd og seks kvinder er klar til at dyste på sprøde bunde og bløde crem
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/9.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Forsvundne arvinger Special - Mysteriet om slaveskibene </h1>
+<span style="font-weight: normal">
+I 1710 forsvandt to danske slaveskibe efter et mytteri ombord. De var på vej fra Afrika til Dansk Vestindien, men skibene nåede aldrig frem. Nu er to skibsvrag dukket op ud for kysten i Costa Rica. Spørgsmålet er, om det er de forsvundne danske slaveskibe? Og hvad der skete med besætningen og de slavegjorte ombord?
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/saeson/forsvundne-arvinger-special-_-mysteriet-om-slaveskibene_517622">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/7.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hurra for det danske frisind </h1>
@@ -68,6 +79,17 @@ PFA Pension har investeringer i et af verdens største energiselskaber, TotalEne
 </span>
 </td>
 <td><a href="https://www.dr.dk/drtv/episode/jorden-kalder_-skal-vores-pension-investeres-i-olie_475206">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/8.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Kejserinde Sisi </h1>
+<span style="font-weight: normal">
+Året er 1870. I Frankrig er Napoleon III blevet afsat, og det skaber også tumult i Wien. Østrigs kejser Franz beslutter, at hans niårige søn Rudolf skal begynde sin militærtræning med det samme. Kejserinde Sisi er forfærdet over Franz' beslutning. Hun er bekymret for sin sensitive søn, og hun bestemmer sig for at befri ham fra barakken.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/saeson/kejserinde-sisi_513651">link</a></td>
 </tr>
 
 <tr>
