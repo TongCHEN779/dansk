@@ -3163,6 +3163,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bunker"> en bunker </a></td>
+<td>
+<audio id="bunker" src="https://static.ordnet.dk/mp3/11006/11006748_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bunker');" style="cursor: pointer; color: blue;">[ˈbɔŋgʌ]</span>
+</td>
+<td> bunkeren </td>
+<td> bunkere </td>
+<td> bunkerne </td>
+<td> bunker </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bus"> en bus </a></td>
 <td>
 <audio id="bus" src="https://static.ordnet.dk/mp3/11006/11006785_1.mp3" style="display: none;"></audio>
@@ -12680,6 +12692,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=landdistrikt"> et landdistrikt </a></td>
+<td>
+<audio id="landdistrikt" src="https://static.ordnet.dk/mp3/11029/11029585_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('landdistrikt');" style="cursor: pointer; color: blue;">[ˈlanˀdisˌdʁεgd]</span>
+</td>
+<td> landdistriktet </td>
+<td> landdistrikter </td>
+<td> landdistrikterne </td>
+<td> rural district </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=landsdel"> en landsdel </a></td>
 <td>
 <audio id="landsdel" src="https://static.ordnet.dk/mp3/11029/11029650_1.mp3" style="display: none;"></audio>
@@ -18282,6 +18306,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ration"> en ration </a></td>
+<td>
+<audio id="ration" src="https://static.ordnet.dk/mp3/11042/11042220_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ration');" style="cursor: pointer; color: blue;">[ʁɑˈɕoˀn]</span>
+</td>
+<td> rationen </td>
+<td> rationer </td>
+<td> rationerne </td>
+<td> ration </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=reaktion"> en reaktion (på) </a></td>
 <td>
 <audio id="reaktion" src="https://static.ordnet.dk/mp3/11042/11042267_1.mp3" style="display: none;"></audio>
@@ -19134,6 +19170,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rustur"> en rustur </a></td>
+<td>
+<audio id="rustur" src="https://static.ordnet.dk/mp3/53201/53201002_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rustur');" style="cursor: pointer; color: blue;">[ˈʁusˌtuɐ̯ˀ]</span>
+</td>
+<td> rusturen </td>
+<td> rusture </td>
+<td> rusturene </td>
+<td> intro trip </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=rutsjebane"> en rutsjebane </a></td>
 <td>
 <audio id="rutsjebane" src="https://static.ordnet.dk/mp3/11043/11043957_1.mp3" style="display: none;"></audio>
@@ -19168,6 +19216,18 @@ search: true
 <td> ryggene </td>
 <td> back </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rygrad"> en rygrad </a></td>
+<td>
+<audio id="rygrad" src="https://static.ordnet.dk/mp3/11043/11043996_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rygrad');" style="cursor: pointer; color: blue;">[-ˌʁɑˀð]</span>
+</td>
+<td> rygraden </td>
+<td> rygrad </td>
+<td> rygradene </td>
+<td> backbone </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=rygs%C3%A6k"> en rygsæk </a></td>

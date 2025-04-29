@@ -2694,6 +2694,18 @@ search: true
 <td> comprehensive </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gennemskuelig"> gennemskuelig </a></td>
+<td>
+<audio id="gennemskuelig" src="https://static.ordnet.dk/mp3/11017/11017677_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gennemskuelig');" style="cursor: pointer; color: blue;">[gεnəmˈsguˀəli]</span>
+</td>
+<td> gennemskueligt </td>
+<td> gennemskuelige </td>
+<td> mere gennemskuelig </td>
+<td> mest gennemskuelig </td>
+<td> transparent </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gensidig"> gensidig </a></td>
 <td>
 <audio id="gensidig" src="https://static.ordnet.dk/mp3/11017/11017780_1.mp3" style="display: none;"></audio>
@@ -5872,6 +5884,18 @@ search: true
 <td> mere overflødig </td>
 <td> mest overflødig </td>
 <td> superfluous </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=overkommelige"> overkommelige </a></td>
+<td>
+<audio id="overkommelige" src="https://static.ordnet.dk/mp3/11038/11038352_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('overkommelige');" style="cursor: pointer; color: blue;">[ɒwʌˈkʌmˀəli]</span>
+</td>
+<td> overkommelig </td>
+<td> overkommelige </td>
+<td> mere overkommelig </td>
+<td> mest overkommelig </td>
+<td> manageable </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=overraskende"> overraskende </a></td>
