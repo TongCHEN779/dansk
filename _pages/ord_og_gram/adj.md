@@ -7986,6 +7986,18 @@ search: true
 <td> sweet </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%B8lle"> sølle </a></td>
+<td>
+<audio id="sølle" src="https://static.ordnet.dk/mp3/11052/11052362_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sølle');" style="cursor: pointer; color: blue;">[ˈsølə]</span>
+</td>
+<td> sølle </td>
+<td> sølle </td>
+<td> mere sølle </td>
+<td> mest sølle </td>
+<td> miserable </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%B8rgelig"> sørgelig </a></td>
 <td>
 <audio id="sørgelig" src="https://static.ordnet.dk/mp3/11052/11052471_1.mp3" style="display: none;"></audio>
@@ -8488,6 +8500,18 @@ search: true
 <td> mere tvivlsom </td>
 <td> mest tvivlsom </td>
 <td> doubtful </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tv%C3%A6rg%C3%A5ende"> tværgående </a></td>
+<td>
+<audio id="tværgående" src="" style="display: none;"></audio>
+<span onclick="playSound('tværgående');" style="cursor: pointer; color: blue;">[ˈtvεɐ̯ˌgɔˀənə]</span>
+</td>
+<td> tværgående </td>
+<td> tværgående </td>
+<td> mere tværgående </td>
+<td> mest tværgående </td>
+<td> cross-cutting </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tydelig"> tydelig </a></td>

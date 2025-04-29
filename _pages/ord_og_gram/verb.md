@@ -1654,6 +1654,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=berede"> at berede </a></td>
+<td>
+<audio id="berede" src="https://static.ordnet.dk/mp3/11004/11004136_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('berede');" style="cursor: pointer; color: blue;">[beˈʁεˀðə]</span>
+</td>
+<td> bereder </td>
+<td> beredte </td>
+<td> har beredt </td>
+<td> bered </td>
+<td> to prepare </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=beregne"> at beregne </a></td>
 <td>
 <audio id="beregne" src="https://static.ordnet.dk/mp3/11004/11004143_1.mp3" style="display: none;"></audio>
@@ -7321,6 +7334,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indtr%C3%A6ffe"> at indtræffe </a></td>
+<td>
+<audio id="indtræffe" src="https://static.ordnet.dk/mp3/11023/11023611_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indtræffe');" style="cursor: pointer; color: blue;">[ˈenˌtʁaˀfə]</span>
+</td>
+<td> indtræffer </td>
+<td> indtraf </td>
+<td> har indtruffet </td>
+<td> indtræf </td>
+<td> to occur </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=indvie"> at indvie/indvi </a></td>
 <td>
 <audio id="indvie" src="https://static.ordnet.dk/mp3/11023/11023669_1.mp3" style="display: none;"></audio>
@@ -11023,6 +11049,19 @@ search: true
 <td> har pralet </td>
 <td> pral </td>
 <td> to boast </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=preppe"> at preppe </a></td>
+<td>
+<audio id="preppe" src="" style="display: none;"></audio>
+<span onclick="playSound('preppe');" style="cursor: pointer; color: blue;">[ˈpɹεbə]</span>
+</td>
+<td> prepper </td>
+<td> preppede </td>
+<td> har preppet </td>
+<td> prep </td>
+<td> to prepare </td>
 <td> 1 </td>
 </tr>
 <tr>

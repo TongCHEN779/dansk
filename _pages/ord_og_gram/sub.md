@@ -1926,6 +1926,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=beredskab"> et beredskab </a></td>
+<td>
+<audio id="beredskab" src="https://static.ordnet.dk/mp3/11004/11004138_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('beredskab');" style="cursor: pointer; color: blue;">[beˈʁεðˀˌsgæˀb]</span>
+</td>
+<td> beredskabet </td>
+<td> beredskaber </td>
+<td> beredskaberne </td>
+<td> preparedness </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=beregning"> en beregning </a></td>
 <td>
 <audio id="beregning" src="https://static.ordnet.dk/mp3/11004/11004146_1.mp3" style="display: none;"></audio>
@@ -4516,6 +4528,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> judgment </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=d%C3%A5se"> en dåse </a></td>
+<td>
+<audio id="dåse" src="https://static.ordnet.dk/mp3/11010/11010439_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dåse');" style="cursor: pointer; color: blue;">[ˈdɔːsə]</span>
+</td>
+<td> dåsen </td>
+<td> dåser </td>
+<td> dåserne </td>
+<td> can </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -9077,6 +9101,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> homeopathy </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=horisont"> en horisont </a></td>
+<td>
+<audio id="horisont" src="https://static.ordnet.dk/mp3/11021/11021272_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('horisont');" style="cursor: pointer; color: blue;">[hɒiˈsʌnˀd]</span>
+</td>
+<td> horisonten </td>
+<td> horisonter </td>
+<td> horisonterne </td>
+<td> horizon </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -15269,6 +15305,18 @@ search: true
 <td> navne </td>
 <td> navnene </td>
 <td> name </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nedbrud"> et nedbrud </a></td>
+<td>
+<audio id="nedbrud" src="https://static.ordnet.dk/mp3/11035/11035622_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nedbrud');" style="cursor: pointer; color: blue;">[ˈneðˌbʁuð]</span>
+</td>
+<td> nedbruddet </td>
+<td> nedbrud </td>
+<td> nedbruddene </td>
+<td> breakdown </td>
 <td> 2 </td>
 </tr>
 <tr>
@@ -24758,6 +24806,18 @@ search: true
 <td> turneringer </td>
 <td> turneringerne </td>
 <td> tournament </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tusm%C3%B8rke"> et tusmørke </a></td>
+<td>
+<audio id="tusmørke" src="https://static.ordnet.dk/mp3/12002/12002957_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tusmørke');" style="cursor: pointer; color: blue;">[ˈtus-]</span>
+</td>
+<td> tusmørket </td>
+<td> - </td>
+<td> - </td>
+<td> twilight </td>
 <td> 1 </td>
 </tr>
 <tr>
