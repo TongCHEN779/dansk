@@ -1434,6 +1434,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bagkant"> en bagkant </a></td>
+<td>
+<audio id="bagkant" src="https://static.ordnet.dk/mp3/11003/11003143_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bagkant');" style="cursor: pointer; color: blue;">[ˈbɑwˌkanˀd]</span>
+</td>
+<td> bagkanten </td>
+<td> bagkanter </td>
+<td> bagkanterne </td>
+<td> back edge </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=baglygte"> en baglygte </a></td>
 <td>
 <audio id="baglygte" src="https://static.ordnet.dk/mp3/11003/11003157_1.mp3" style="display: none;"></audio>
@@ -19338,6 +19350,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rådighed"> en rådighed </a></td>
+<td>
+<audio id="rådighed" src="https://static.ordnet.dk/mp3/11044/11044291_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rådighed');" style="cursor: pointer; color: blue;">[ˈʁɔːðiˌheðˀ]</span>
+</td>
+<td> rådigheden </td>
+<td> - </td>
+<td> - </td>
+<td> availability </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=råvare"> en råvare </a></td>
 <td>
 <audio id="råvare" src="https://static.ordnet.dk/mp3/11044/11044339_1.mp3" style="display: none;"></audio>
@@ -24569,6 +24593,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=trolling"> en trolling </a></td>
+<td>
+<audio id="trolling" src="https://static.ordnet.dk/mp3/12002/12002460_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('trolling');" style="cursor: pointer; color: blue;">[ˈtʁʌleŋ]</span>
+</td>
+<td> trollingen </td>
+<td> - </td>
+<td> - </td>
+<td> trolling </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tromme"> en tromme </a></td>
 <td>
 <audio id="tromme" src="https://static.ordnet.dk/mp3/12002/12002471_1.mp3" style="display: none;"></audio>
@@ -25529,6 +25565,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udskamning"> en udskamning </a></td>
+<td>
+<audio id="udskamning" src="" style="display: none;"></audio>
+<span onclick="playSound('udskamning');" style="cursor: pointer; color: blue;">[-ˌsgɑmˀneŋ]</span>
+</td>
+<td> udskamningen </td>
+<td> - </td>
+<td> - </td>
+<td> shaming </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=udskejelse"> en udskejelse </a></td>
 <td>
 <audio id="udskejelse" src="https://static.ordnet.dk/mp3/12004/12004096_1.mp3" style="display: none;"></audio>
@@ -25538,6 +25586,18 @@ search: true
 <td> udskejelser </td>
 <td> udskejelserne </td>
 <td> excess </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udskoling"> udskoling </a></td>
+<td>
+<audio id="udskoling" src="" style="display: none;"></audio>
+<span onclick="playSound('udskoling');" style="cursor: pointer; color: blue;">[-ˌsgoˀleŋ]</span>
+</td>
+<td> udskolingen </td>
+<td> udskolinger </td>
+<td> udskolingerne </td>
+<td> secondary education </td>
 <td> 1 </td>
 </tr>
 <tr>

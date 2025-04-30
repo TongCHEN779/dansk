@@ -546,6 +546,18 @@ search: true
 <td> wise after the event </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bagvedliggende"> bagvedliggende </a></td>
+<td>
+<audio id="bagvedliggende" src="https://static.ordnet.dk/mp3/30000/30000581_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bagvedliggende');" style="cursor: pointer; color: blue;">[ˈbɑwˌveðˌliˀəð]</span>
+</td>
+<td> bagvedliggende </td>
+<td> bagvedliggende </td>
+<td> mere bagvedliggende </td>
+<td> mest bagvedliggende </td>
+<td> underlying </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bange"> bange </a></td>
 <td>
 <audio id="bange" src="https://static.ordnet.dk/mp3/11003/11003397_1.mp3" style="display: none;"></audio>
@@ -4192,6 +4204,18 @@ search: true
 <td> mere kritisk </td>
 <td> mest kritisk </td>
 <td> critical </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kropslig"> kropslig </a></td>
+<td>
+<audio id="kropslig" src="https://static.ordnet.dk/mp3/11028/11028231_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kropslig');" style="cursor: pointer; color: blue;">[ˈkʁʌbsli]</span>
+</td>
+<td> kropsligt </td>
+<td> kropslige </td>
+<td> mere kropslig </td>
+<td> mest kropslig </td>
+<td> bodily </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=krydret"> krydret </a></td>
