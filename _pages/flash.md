@@ -5,10 +5,6 @@ permalink: /flash/
 ---
 
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        text-align: center;
-    }
     .flashcard {
         margin: 20px auto;
         padding: 20px;
@@ -36,6 +32,7 @@ permalink: /flash/
         margin-top: 10px;
         padding: 10px;
         cursor: pointer;
+        text-align: center;
     }
     .checkbox-container {
         display: flex;
