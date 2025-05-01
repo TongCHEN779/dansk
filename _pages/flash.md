@@ -29,10 +29,11 @@ permalink: /flash/
         width: 100%;
     }
     button {
-        margin-top: 10px;
+        margin: 10px auto; /* centers horizontally */
         padding: 10px;
         cursor: pointer;
         text-align: center;
+        display: block; /* block required for auto margin to work */
     }
     .checkbox-container {
         display: flex;
