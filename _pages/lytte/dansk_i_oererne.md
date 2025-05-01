@@ -41,6 +41,34 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode88.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 88 - Aalborg Karneval </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om Nordeuropas største karneval. Nemlig Aalborg Karneval, der afholdes hvert år i maj måned i Aalborg. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, downloade episoden, finde ordlister samt lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo.
+<br><br>
+Aalborg Karneval er en stor fest, der samler mennesker fra hele Danmark og mange andre lande. Det er Nordeuropas største karneval og foregår hvert år i Aalborg i uge 21, hvilket er i slutningen af maj. I år 1982 skulle der for første gang afholdes karneval i København, og derfor indkaldte en lille gruppe lokale ildsjæle til åbent møde i Aalborg, for at undersøge om der var stemning for at afholde karneval i Nordjylland. Da mere end 50 mennesker mødte op til mødet, besluttede man at prøve at afholde et lokalt karneval året efter. Aalborg Karneval blev afholdt for første gang i år 1983 og har vokset sig meget stort siden da. I dag varer det mere end en uge og har tre hovedbegivenheder: International Parade, Børnekarneval og Stjerneparaden.
+<br><br>
+International Parade er en konkurrence for karnevalsgrupper fra både Danmark og udlandet. Grupperne går i en parade gennem byen, og derefter viser de deres kostumer og dansetrin på en scene i Kildeparken. En jury vælger den bedste gruppe, som får titlen ”Årets bedste karnevalsgruppe”. Denne parade er specielt spændende, fordi man kan opleve flotte kostumer og høre musik fra hele verden.
+<br><br>
+Børnekarnevalet er for børn og familier. Her er stemningen mere rolig, men stadig meget sjov. Børnene kan klæde sig ud, gå i parade og opleve shows med musik og kunstnere, som for eksempel tidligere deltagere fra børnenes MGP. Optoget slutter i Kildeparken, som bliver omdannet til et eventyrland med aktiviteter og underholdning for børn i alle aldre.
+<br><br>
+Den største og mest kendte begivenhed er Stjerneparaden, som finder sted lørdag i uge 21. Her deltager op mod 80.000 mennesker i paraden, og der er mange tusinde tilskuere, som ser på langs ruten. Paraden starter tre forskellige steder i byen – Østerbro, Haraldslund og Nørresundby – og ender i Kildeparken. Her slutter dagen med en kæmpe fest med musik fra store danske og internationale kunstnere. I 2024 var der bl.a. koncerter med Tessa, Gobs og Ida Laurberg. For at deltage i festen i Kildeparken skal man købe et særligt karnevalsarmbånd. Der er nemlig begrænset plads i parken.
+<br><br>
+Hvert år har Aalborg Karneval et tema. Det kan være noget som ”Der var engang…” eller ”Norden i 1000 år.” Temaet inspirerer deltagerne til at klæde sig ud i kreative kostumer, men det er også helt normalt bare at finde på sit eget udenom temaet. Deltagerne har som regel trækvogne fyldt med drikkevarer og snacks med rundt på paraden, og alkohol er en stor del af festen for mange. Derfor er karnevallet mest populært blandt unge i alderen 16-30 år, men folk i alle aldre kan være med.
+<br><br>
+I år 2025 bliver karnevallet afholdt den 24. maj. Temaet og musikprogrammet er endnu ikke offentliggjort, når jeg indtaler denne episode. Men én ting er sikkert: Aalborg Karneval bliver igen en fest fyldt med farver, musik og glade mennesker.
+<br><br>
+Det var alt for denne episode. Tak fordi du lyttede med.
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode87.wav"></audio> </td>
 <td> 
 <details>
