@@ -1974,6 +1974,18 @@ search: true
 <td> nice </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=flytbar"> flytbar </a></td>
+<td>
+<audio id="flytbar" src="https://static.ordnet.dk/mp3/11013/11013779_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('flytbar');" style="cursor: pointer; color: blue;">[ˈflødˌbɑˀ]</span>
+</td>
+<td> flytbart </td>
+<td> flytbare </td>
+<td> mere flytbar </td>
+<td> mest flytbar </td>
+<td> movable </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=folkek%C3%A6r"> folkekær </a></td>
 <td>
 <audio id="folkekær" src="https://static.ordnet.dk/mp3/11014/11014067_1.mp3" style="display: none;"></audio>
@@ -7864,6 +7876,18 @@ search: true
 <td> sydligere </td>
 <td> sydligst </td>
 <td> southern </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sydvendt"> sydvendt </a></td>
+<td>
+<audio id="sydvendt" src="https://static.ordnet.dk/mp3/53200/53200321_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sydvendt');" style="cursor: pointer; color: blue;">[-ˌvεnˀd]</span>
+</td>
+<td> sydvendt </td>
+<td> sydvendte </td>
+<td> mere sydvendt </td>
+<td> mest sydvendt </td>
+<td> south-facing </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=syd%C3%B8stlig"> sydøstlig </a></td>

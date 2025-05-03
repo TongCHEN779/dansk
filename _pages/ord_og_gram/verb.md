@@ -1602,6 +1602,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bemande"> at bemande </a></td>
+<td>
+<audio id="bemande" src="https://static.ordnet.dk/mp3/11004/11004041_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bemande');" style="cursor: pointer; color: blue;">[beˈmanˀə]</span>
+</td>
+<td> bemander </td>
+<td> bemandede </td>
+<td> har bemandet </td>
+<td> bemand </td>
+<td> to man, provide people </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bem%C3%A6rke"> at bemærke </a></td>
 <td>
 <audio id="bemærke" src="https://static.ordnet.dk/mp3/11004/11004050_1.mp3" style="display: none;"></audio>
@@ -3120,6 +3133,19 @@ search: true
 <td> har drænet </td>
 <td> dræn </td>
 <td> to drain </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dr%C3%B8fte"> at drøfte </a></td>
+<td>
+<audio id="drøfte" src="https://static.ordnet.dk/mp3/11009/11009825_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('drøfte');" style="cursor: pointer; color: blue;">[ˈdʁœfdə]</span>
+</td>
+<td> drøfter </td>
+<td> drøftede </td>
+<td> har drøftet </td>
+<td> drøft </td>
+<td> to discuss </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -7734,6 +7760,19 @@ search: true
 <td> har kløet </td>
 <td> klø </td>
 <td> to scratch </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=knalde"> at knalde </a></td>
+<td>
+<audio id="knalde" src="https://static.ordnet.dk/mp3/11026/11026564_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('knalde');" style="cursor: pointer; color: blue;">[ˈknalə]</span>
+</td>
+<td> knalder </td>
+<td> knaldede </td>
+<td> har knaldet </td>
+<td> knald </td>
+<td> to bang </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -12622,6 +12661,19 @@ search: true
 <td> har skrydet </td>
 <td> skryd </td>
 <td> to boast </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skr%C3%A6ddersy"> at skræddersy </a></td>
+<td>
+<audio id="skræddersy" src="https://static.ordnet.dk/mp3/11047/11047070_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skræddersy');" style="cursor: pointer; color: blue;">[ˈsgʁaðɐˌsyˀ]</span>
+</td>
+<td> skræddersyr </td>
+<td> skræddersyede </td>
+<td> har skræddersyet </td>
+<td> skræddersy </td>
+<td> to tailor </td>
 <td> 1 </td>
 </tr>
 <tr>
