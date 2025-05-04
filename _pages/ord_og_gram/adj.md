@@ -2058,6 +2058,18 @@ search: true
 <td> compatible </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forfjamsket"> forfjamsket </a></td>
+<td>
+<audio id="forfjamsket" src="https://static.ordnet.dk/mp3/11014/11014488_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forfjamsket');" style="cursor: pointer; color: blue;">[fʌˈfjɑmˀsgəð]</span>
+</td>
+<td> forfjamsket </td>
+<td> forfjamskede </td>
+<td> mere forfjamsket </td>
+<td> mest forfjamsket </td>
+<td> flustered </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forfrossen"> forfrossen </a></td>
 <td>
 <audio id="forfrossen" src="https://static.ordnet.dk/mp3/11014/11014502_1.mp3" style="display: none;"></audio>
@@ -2548,6 +2560,18 @@ search: true
 <td> færre </td>
 <td> færrest </td>
 <td> few </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=f%C3%B8lelsesladet"> følelsesladet </a></td>
+<td>
+<audio id="følelsesladet" src="https://static.ordnet.dk/mp3/11016/11016830_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('følelsesladet');" style="cursor: pointer; color: blue;">[-ˌlæˀðəd]</span>
+</td>
+<td> følelsesladet </td>
+<td> følelsesladede </td>
+<td> mere følelsesladet </td>
+<td> mest følelsesladet </td>
+<td> emotional </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=f%C3%B8lelsesm%C3%A6ssig"> følelsesmæssig </a></td>
@@ -3172,6 +3196,18 @@ search: true
 <td> heldigere/mere heldig </td>
 <td> heldigst/mest heldig </td>
 <td> lucky </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hemmelig"> hemmelig </a></td>
+<td>
+<audio id="hemmelig" src="https://static.ordnet.dk/mp3/11020/11020389_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hemmelig');" style="cursor: pointer; color: blue;">[ˈhεməli]</span>
+</td>
+<td> hemmeligt </td>
+<td> hemmelige </td>
+<td> mere hemmelig </td>
+<td> mest hemmelig </td>
+<td> secret </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=henholdsvis"> henholdsvis </a></td>
@@ -4302,6 +4338,18 @@ search: true
 <td> coloured </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kummerlig"> kummerlig </a></td>
+<td>
+<audio id="kummerlig" src="https://static.ordnet.dk/mp3/11028/11028596_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kummerlig');" style="cursor: pointer; color: blue;">[ˈkɔmˀʌli]</span>
+</td>
+<td> kummerligt </td>
+<td> kummerlige </td>
+<td> mere kummerlig </td>
+<td> mest kummerlig </td>
+<td> miserable </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kvindelig"> kvindelig </a></td>
 <td>
 <audio id="kvindelig" src="https://static.ordnet.dk/mp3/11028/11028897_1.mp3" style="display: none;"></audio>
@@ -4552,6 +4600,30 @@ search: true
 <td> mere letforståelig </td>
 <td> mest letforståelig </td>
 <td> easy to understand </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?aselect=letp%C3%A5kl%C3%A6dt&amp;query=letp%C3%A5kl%C3%A6dt"> letpåklædt </a></td>
+<td>
+<audio id="letpåklædt" src="https://static.ordnet.dk/mp3/11030/11030250_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('letpåklædt');" style="cursor: pointer; color: blue;">[ˈlεdpʌˌklεˀdə]</span>
+</td>
+<td> letpåklædt </td>
+<td> letpåklædte </td>
+<td> mere letpåklædt </td>
+<td> mest letpåklædt </td>
+<td> scantily clad </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=letp%C3%A5virkelig"> letpåvirkelig </a></td>
+<td>
+<audio id="letpåvirkelig" src="https://static.ordnet.dk/mp3/11030/11030221_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('letpåvirkelig');" style="cursor: pointer; color: blue;">[ˈlεdˌpʌˌviɐ̯kəli]</span>
+</td>
+<td> letpåvirkeligt </td>
+<td> letpåvirkelige </td>
+<td> mere letpåvirkelig </td>
+<td> mest letpåvirkelig </td>
+<td> impressionable </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=liderlig"> liderlig </a></td>
@@ -8740,6 +8812,18 @@ search: true
 <td> mere tålmodig </td>
 <td> mest tålmodig </td>
 <td> patient </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=uagtsom"> uagtsom </a></td>
+<td>
+<audio id="uagtsom" src="" style="display: none;"></audio>
+<span onclick="playSound('uagtsom');" style="cursor: pointer; color: blue;">[uˈɑgdˌsʌmˀ]</span>
+</td>
+<td> uagtsomt </td>
+<td> uagtsomme </td>
+<td> mere uagtsom </td>
+<td> mest uagtsom </td>
+<td> negligent </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=uanende"> uanende </a></td>

@@ -326,6 +326,11 @@ search: true
 <td> Hans død var ikke ventet – der var ikke gået sygdom forud. </td>
 </tr>
 <tr>
+<td> gå fra snøvsen, tabe snøvsen </td>
+<td> lose self-control, become upset </td>
+<td> Hun gjorde noget ved ham. Kørte rundt med ham. Fik ham til at tabe snøvsen og føle sig komplet fåret. </td>
+</tr>
+<tr>
 <td> gå i den modsatte grøft </td>
 <td> go in the opposite direction </td>
 <td> Naturligvis skal man også have sine egne interesser, for man skal heller ikke gå i den modsatte grøft og blive afhængig af hinanden og ikke kunne finde ud af at være alene. </td>

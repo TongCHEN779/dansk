@@ -60,6 +60,17 @@ I 1710 forsvandt to danske slaveskibe efter et mytteri ombord. De var på vej fr
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/10.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Fra Gud til Guru: Find roen </h1>
+<span style="font-weight: normal">
+Hvorfor begyndte unge mennesker for 50 år siden af dyrke østlige religioner og guruer? Hvad blev de tiltrukket af og hvad fik de ud af det? I det her program skal vi møde Raja Bjarne, som tog østens mystik til sig og gennem en guru fandt stilhed og balance i livet. Og så yogalæreren Sisse, som bruger de samme teknikker i dag til at hjælpe FC Københavns Superligahold med at præstere bedst muligt.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/episode/fra-gud-til-guru_-find-roen_47785">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/7.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hurra for det danske frisind </h1>

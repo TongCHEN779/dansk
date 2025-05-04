@@ -939,6 +939,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=anmelde"> at anmelde </a></td>
+<td>
+<audio id="anmelde" src="https://static.ordnet.dk/mp3/11001/11001876_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('anmelde');" style="cursor: pointer; color: blue;">[ˈanˌmεlˀə]</span>
+</td>
+<td> anmelder </td>
+<td> anmeldte </td>
+<td> har anmeldt </td>
+<td> anmeld </td>
+<td> to report </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=annullere"> at annullere </a></td>
 <td>
 <audio id="annullere" src="https://static.ordnet.dk/mp3/11001/11001908_1.mp3" style="display: none;"></audio>
@@ -2093,6 +2106,19 @@ search: true
 <td> har betragtet </td>
 <td> betragt </td>
 <td> to consider </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=betrygge"> at betrygge </a></td>
+<td>
+<audio id="betrygge" src="https://static.ordnet.dk/mp3/11004/11004455_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('betrygge');" style="cursor: pointer; color: blue;">[beˈtʁœgə]</span>
+</td>
+<td> betrygger </td>
+<td> betryggede </td>
+<td> har betrygget </td>
+<td> betryg </td>
+<td> to reassure </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -11377,6 +11403,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pågribe"> at pågribe </a></td>
+<td>
+<audio id="pågribe" src="https://static.ordnet.dk/mp3/11041/11041770_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('pågribe');" style="cursor: pointer; color: blue;">[-ˌgʁiˀbə]</span>
+</td>
+<td> pågriber </td>
+<td> pågreb </td>
+<td> har pågrebet </td>
+<td> pågrib </td>
+<td> to arrest </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=påkræve"> at påkræve </a></td>
 <td>
 <audio id="påkræve" src="https://static.ordnet.dk/mp3/11041/11041799_1.mp3" style="display: none;"></audio>
@@ -12401,6 +12440,19 @@ search: true
 <td> har signaleret </td>
 <td> signaler </td>
 <td> to signal </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=sigte,3&amp;query=sigte"> at sigte </a></td>
+<td>
+<audio id="sigte" src="https://static.ordnet.dk/mp3/11045/11045927_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sigte');" style="cursor: pointer; color: blue;">[ˈsegdə]</span>
+</td>
+<td> sigter </td>
+<td> sigtede </td>
+<td> har sigtet </td>
+<td> sigt </td>
+<td> to aim </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -14729,6 +14781,19 @@ search: true
 <td> tilføj </td>
 <td> to add </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilf%C3%B8re"> at tilføre </a></td>
+<td>
+<audio id="tilføre" src="https://static.ordnet.dk/mp3/12001/12001120_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilføre');" style="cursor: pointer; color: blue;">[-ˌføˀʌ]</span>
+</td>
+<td> tilfører </td>
+<td> tilførte </td>
+<td> har tilført </td>
+<td> tilfør </td>
+<td> to supply </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilgodese"> at tilgodese </a></td>
