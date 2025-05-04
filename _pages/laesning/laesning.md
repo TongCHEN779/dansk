@@ -126,6 +126,17 @@ Elisabeth Perto vil fortsætte med at købe ind på Temu trods undersøgelse, de
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/34.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Et 'etisk minefelt': Enker og bedsteforældre får børn med afdøde mænds sæd </h1>
+<span style="font-weight: normal">
+Flere steder i verden skabes der liv efter døden, når sæd udtages fra afdøde mænd. Praksissen rejser komplekse etiske spørgsmål, men kan også give håb til dem, der har mistet.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/viden/et-etisk-minefelt-enker-og-bedsteforaeldre-faar-boern-med-afdoede-maends-saed">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/27.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Folketinget har vedtaget koranloven – hvad betyder den? </h1>
@@ -222,6 +233,28 @@ Københavns Kommune skyder næsten en halv milliard kroner i CO2-fangst i kontro
 </span>
 </td>
 <td><a href="https://www.dr.dk/nyheder/viden/klima/koebenhavns-kaempe-klimasatsning-faar-kritik-koster-knap-en-halv-milliard-men">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/33.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Lærere på dansk yogaskole beskyldes for i årevis at invitere kvinder til hemmelig seksuel indvielse hos guru </h1>
+<span style="font-weight: normal">
+Et ægtepar, der har tilhørt toppen af dansk yogaskole, er sigtet for menneskehandel.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/indland/laerere-paa-dansk-yogaskole-beskyldes-i-aarevis-invitere-kvinder-til-hemmelig">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/32.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Min hjerne siger 'Nej, nej, stop, stop': Elever på yogaskole følte sig presset til at overskride seksuelle grænser </h1>
+<span style="font-weight: normal">
+Tidligere kursister hos Natha Yoga Center fortæller om grænseoverskridende oplevelser.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/indland/min-hjerne-siger-nej-nej-stop-stop-elever-paa-yogaskole-foelte-sig-presset-til">link</a></td>
 </tr>
 
 <tr>
