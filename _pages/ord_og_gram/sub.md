@@ -9560,6 +9560,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hykleri"> et hykleri </a></td>
+<td>
+<audio id="hykleri" src="https://static.ordnet.dk/mp3/11022/11022067_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hykleri');" style="cursor: pointer; color: blue;">[hyglʌˈʁiˀ]</span>
+</td>
+<td> hykleriet </td>
+<td> hyklerier </td>
+<td> hyklerierne </td>
+<td> hypocrisy </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hyl"> et hyl </a></td>
 <td>
 <audio id="hyl" src="https://static.ordnet.dk/mp3/11022/11022069_1.mp3" style="display: none;"></audio>
@@ -13578,6 +13590,18 @@ search: true
 <td> - </td>
 <td> pneumonia </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ly"> et ly </a></td>
+<td>
+<audio id="ly" src="https://static.ordnet.dk/mp3/11031/11031273_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ly');" style="cursor: pointer; color: blue;">[ˈlyˀ]</span>
+</td>
+<td> lyet </td>
+<td> - </td>
+<td> - </td>
+<td> shelter </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=lyd"> en lyd </a></td>

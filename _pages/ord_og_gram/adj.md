@@ -8358,6 +8358,18 @@ search: true
 <td> enough, suitable </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilskadekommen"> tilskadekommen </a></td>
+<td>
+<audio id="tilskadekommen" src="https://static.ordnet.dk/mp3/12001/12001281_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilskadekommen');" style="cursor: pointer; color: blue;">[teˈsgæːðəˌkʌmˀən]</span>
+</td>
+<td> tilskadekommen </td>
+<td> tilskadekomne </td>
+<td> mere tilskadekommen </td>
+<td> mest tilskadekommen </td>
+<td> injured </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilstr%C3%A6kkelig"> tilstrækkelig </a></td>
 <td>
 <audio id="tilstrækkelig" src="https://static.ordnet.dk/mp3/12001/12001324_1.mp3" style="display: none;"></audio>

@@ -15407,6 +15407,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=t%C3%A6mme"> at tæmme </a></td>
+<td>
+<audio id="tæmme" src="https://static.ordnet.dk/mp3/12003/12003245_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tæmme');" style="cursor: pointer; color: blue;">[ˈtεmə]</span>
+</td>
+<td> tæmmer </td>
+<td> tæmmede </td>
+<td> har tæmmet </td>
+<td> tæm </td>
+<td> to tame </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=t%C3%A6nde"> at tænde </a></td>
 <td>
 <audio id="tænde" src="https://static.ordnet.dk/mp3/12003/12003246_1.mp3" style="display: none;"></audio>

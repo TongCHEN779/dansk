@@ -302,6 +302,17 @@ Den grønne dagsorden i Paris rykker ikke meget, mener forskere.
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/36.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> 'Patetisk' og 'dobbeltmoralsk': 'Klima'-kongens skib har højeste dieselforbrug i næsten 10 år </h1>
+<span style="font-weight: normal">
+Kongehuset erkender, at CO2-udledningen fra kongeskibet er et dilemma.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/politik/patetisk-og-dobbeltmoralsk-klima-kongens-skib-har-hoejeste-dieselforbrug-i-naesten">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/13.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Plastik er svært at genanvende: Vi brænder ofte de sorte kødbakker fra supermarkederne </h1>
@@ -332,6 +343,17 @@ Flere partier er åbne for at diskutere militære bidrag til USA’s stillehavsf
 </span>
 </td>
 <td><a href="https://www.dr.dk/nyheder/indland/politikere-aabner-militaere-bidrag-til-usa-kina-er-en-boelle">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/35.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Psykolog giver tre råd til at tæmme din indre dramaqueen (og et til hvordan du omgås en) </h1>
+<span style="font-weight: normal">
+Hvis man ikke fra barnsben har lært at regulere sine følelser, kan man stadig nå det som voksen, siger Rikke Papsøe.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/kultur/psykolog-giver-tre-raad-til-taemme-din-indre-dramaqueen-og-et-til-hvordan-du-omgaas">link</a></td>
 </tr>
 
 <tr>
