@@ -2174,6 +2174,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bevæbne"> at bevæbne </a></td>
+<td>
+<audio id="bevæbne" src="https://static.ordnet.dk/mp3/11004/11004526_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bevæbne');" style="cursor: pointer; color: blue;">[beˈvεˀbnə]</span>
+</td>
+<td> bevæbner </td>
+<td> bevæbnede </td>
+<td> har bevæbnet </td>
+<td> bevæbn </td>
+<td> to arm </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bev%C3%A6ge"> at bevæge </a></td>
 <td>
 <audio id="bevæge" src="https://static.ordnet.dk/mp3/11004/11004528_1.mp3" style="display: none;"></audio>
@@ -5954,6 +5967,19 @@ search: true
 <td> genopliv </td>
 <td> to revive </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=genoptage"> at genoptage </a></td>
+<td>
+<audio id="genoptage" src="https://static.ordnet.dk/mp3/11017/11017754_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('genoptage');" style="cursor: pointer; color: blue;">[ˈgεnʌbˌtæˀ]</span>
+</td>
+<td> genoptager </td>
+<td> genoptog </td>
+<td> har genoptaget </td>
+<td> genoptag </td>
+<td> to resume </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=genoptr%C3%A6ne"> at genoptræne </a></td>

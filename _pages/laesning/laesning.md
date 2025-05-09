@@ -291,6 +291,28 @@ Læger behøver ikke længere give forbyggende antibiotika eller 'stikke i blind
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/37.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> OVERBLIK: Hvem er på gæstelisten, når Rusland fejrer 80-året for sejren over nazisterne </h1>
+<span style="font-weight: normal">
+Med 29 ledere på gæstelisten ønsker Putin at sende signal til omverdenen om, at Rusland ikke er 'en paria', siger international korrespondent.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/overblik-hvem-er-paa-gaestelisten-naar-rusland-fejrer-80-aaret-sejren-over-nazisterne">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/38.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> OVERBLIK: Indien og Pakistan har bekriget hinanden, siden briterne forlod området </h1>
+<span style="font-weight: normal">
+Konflikten mellem Indien og Pakistan er de seneste uger blusset op på ny. Sent i aftes dansk tid kom et ventet modsvar fra Indien.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/overblik-indien-og-pakistan-har-bekriget-hinanden-siden-briterne-forlod-omraadet">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/8.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Pap-senge, kødfri hotdogs og solceller på taget: OL's grønne ambitioner får ikke en guldmedalje </h1>

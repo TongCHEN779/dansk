@@ -1161,6 +1161,11 @@ search: true
 <td> Politikerne skal tage endelig stilling til loven om Ørestaden, når Folketinget samles ordinært efter sommerferien. </td>
 </tr>
 <tr>
+<td> tage til fange </td>
+<td> capture </td>
+<td> Slaget om den saudiske by var blodigt: Flere hundrede irakiske soldater blev dræbt eller taget til fange. </td>
+</tr>
+<tr>
 <td> til daglig </td>
 <td> on a daily basis </td>
 <td> Til daglig er det mig der står for indkøb og aftensmadlavning. </td>

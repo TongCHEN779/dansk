@@ -16627,6 +16627,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opråb"> et opråb </a></td>
+<td>
+<audio id="opråb" src="https://static.ordnet.dk/mp3/11037/11037681_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opråb');" style="cursor: pointer; color: blue;">[ˈʌbˌʁɔˀb]</span>
+</td>
+<td> opråbet </td>
+<td> opråb </td>
+<td> opråbene </td>
+<td> outcry </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=opr%C3%B8r"> et oprør </a></td>
 <td>
 <audio id="oprør" src="https://static.ordnet.dk/mp3/11037/11037675_1.mp3" style="display: none;"></audio>
@@ -17020,6 +17032,18 @@ search: true
 <td> overgrebene </td>
 <td> abuse </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=overhoved"> et overhoved </a></td>
+<td>
+<audio id="overhoved" src="https://static.ordnet.dk/mp3/11038/11038322_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('overhoved');" style="cursor: pointer; color: blue;">[ˈɒwʌˌhoːəð]</span>
+</td>
+<td> overhovedet </td>
+<td> overhoveder </td>
+<td> overhovederne </td>
+<td> leader </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=overkrop"> en overkrop </a></td>
@@ -21340,6 +21364,18 @@ search: true
 <td> skålene </td>
 <td> bowl </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=slagmark"> en slagmark </a></td>
+<td>
+<audio id="slagmark" src="https://static.ordnet.dk/mp3/11047/11047564_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slagmark');" style="cursor: pointer; color: blue;">[ˈslɑgˌmɑˀg]</span>
+</td>
+<td> slagmarken </td>
+<td> slagmarker </td>
+<td> slagmarkerne </td>
+<td> battlefield </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=slags"> en slags </a></td>

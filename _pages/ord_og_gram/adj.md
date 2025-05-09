@@ -5754,6 +5754,18 @@ search: true
 <td> adaptable </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omstridt"> omstridt </a></td>
+<td>
+<audio id="omstridt" src="https://static.ordnet.dk/mp3/11037/11037239_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omstridt');" style="cursor: pointer; color: blue;">[-ˌsdʁid]</span>
+</td>
+<td> omstridt </td>
+<td> omstridte </td>
+<td> mere omstridt </td>
+<td> mest omstridt </td>
+<td> controversial </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=omt%C3%A6nksom"> omtænksom </a></td>
 <td>
 <audio id="omtænksom" src="https://static.ordnet.dk/mp3/11037/11037264_1.mp3" style="display: none;"></audio>
@@ -7444,6 +7456,18 @@ search: true
 <td> mere sorthåret </td>
 <td> mest sorthåret </td>
 <td> black-haired </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sovjetisk"> sovjetisk </a></td>
+<td>
+<audio id="sovjetisk" src="https://static.ordnet.dk/mp3/11048/11048870_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sovjetisk');" style="cursor: pointer; color: blue;">[sɒwˈjεdisg]</span>
+</td>
+<td> sovjetisk </td>
+<td> sovjetiske </td>
+<td> mere sovjetisk </td>
+<td> mest sovjetisk </td>
+<td> Soviet </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=spansk"> spansk </a></td>
@@ -10060,6 +10084,18 @@ search: true
 <td> mere vidtstrakt </td>
 <td> mest vidtstrakt </td>
 <td> extensive </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vidtr%C3%A6kkende"> vidtrækkende </a></td>
+<td>
+<audio id="vidtrækkende" src="https://static.ordnet.dk/mp3/12006/12006656_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vidtrækkende');" style="cursor: pointer; color: blue;">[ˈvidˌʁagənə]</span>
+</td>
+<td> vidtrækkende </td>
+<td> vidtrækkende </td>
+<td> mere vidtrækkende </td>
+<td> mest vidtrækkende </td>
+<td> far-reaching </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vigtig"> vigtig </a></td>
