@@ -1770,6 +1770,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bef%C3%B8jelse"> en beføjelse </a></td>
+<td>
+<audio id="beføjelse" src="https://static.ordnet.dk/mp3/11003/11003830_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('beføjelse');" style="cursor: pointer; color: blue;">[beˈfʌjˀəlsə]</span>
+</td>
+<td> beføjelsen </td>
+<td> beføjelser </td>
+<td> beføjelserne </td>
+<td> authority </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=begivenhed"> en begivenhed </a></td>
 <td>
 <audio id="begivenhed" src="https://static.ordnet.dk/mp3/11003/11003849_1.mp3" style="display: none;"></audio>
@@ -9680,6 +9692,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%A6ndelse"> en hændelse </a></td>
+<td>
+<audio id="hændelse" src="https://static.ordnet.dk/mp3/11022/11022230_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hændelse');" style="cursor: pointer; color: blue;">[ˈhεnəlsə]</span>
+</td>
+<td> hændelsen </td>
+<td> hændelser </td>
+<td> hændelserne </td>
+<td> event </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hærskare"> en hærskare </a></td>
 <td>
 <audio id="hærskare" src="https://static.ordnet.dk/mp3/11022/11022269_1.mp3" style="display: none;"></audio>
@@ -10350,6 +10374,30 @@ search: true
 <td> indsigelserne </td>
 <td> objection </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indsigt"> en indsigt </a></td>
+<td>
+<audio id="indsigt" src="https://static.ordnet.dk/mp3/11023/11023515_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indsigt');" style="cursor: pointer; color: blue;">[ˈenˌsegd]</span>
+</td>
+<td> indsigten </td>
+<td> indsigter </td>
+<td> indsigterne </td>
+<td> insight </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=indslag"> et indslag </a></td>
+<td>
+<audio id="indslag" src="https://static.ordnet.dk/mp3/11023/11023537_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('indslag');" style="cursor: pointer; color: blue;">[ˈenˌslɑj]</span>
+</td>
+<td> indslaget </td>
+<td> indslag </td>
+<td> indslagene </td>
+<td> feature, segment </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=indstilling"> en indstilling </a></td>
@@ -14216,6 +14264,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=meddelelse"> en meddelelse </a></td>
+<td>
+<audio id="meddelelse" src="https://static.ordnet.dk/mp3/11032/11032837_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('meddelelse');" style="cursor: pointer; color: blue;">[ˈmεðˌdeˀləlsə]</span>
+</td>
+<td> meddelelsen </td>
+<td> meddelelser </td>
+<td> meddelelserne </td>
+<td> message </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=medicin"> medicin </a></td>
 <td>
 <audio id="medicin" src="https://static.ordnet.dk/mp3/11032/11032874_1.mp3" style="display: none;"></audio>
@@ -17956,6 +18016,18 @@ search: true
 <td> - </td>
 <td> pragmatics </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=praj"> et praj </a></td>
+<td>
+<audio id="praj" src="https://static.ordnet.dk/mp3/11040/11040680_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('praj');" style="cursor: pointer; color: blue;">[ˈpʁɑjˀ]</span>
+</td>
+<td> prajet </td>
+<td> praj </td>
+<td> prajene </td>
+<td> signal </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=praktik"> en praktik </a></td>
@@ -24617,7 +24689,19 @@ search: true
 <td> presence </td>
 <td> 1 </td>
 </tr>
-<tr><tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilstr%C3%B8mning"> en tilstrømning </a></td>
+<td>
+<audio id="tilstrømning" src="https://static.ordnet.dk/mp3/12001/12001325_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilstrømning');" style="cursor: pointer; color: blue;">[-ˌsdʁɶmˀneŋ]</span>
+</td>
+<td> tilstrømningen </td>
+<td> tilstrømninger </td>
+<td> tilstrømningerne </td>
+<td> influx </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilståelse"> en tilståelse </a></td>
 <td>
 <audio id="tilståelse" src="https://static.ordnet.dk/mp3/12001/12001330_1.mp3" style="display: none;"></audio>
@@ -24639,7 +24723,7 @@ search: true
 <td> tilsynene </td>
 <td> supervision </td>
 <td> 2 </td>
-</tr>
+
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tiltag"> et tiltag </a></td>
 <td>
@@ -27209,6 +27293,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vink"> et vink </a></td>
+<td>
+<audio id="vink" src="https://static.ordnet.dk/mp3/12006/12006890_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vink');" style="cursor: pointer; color: blue;">[ˈveŋˀg]</span>
+</td>
+<td> vinket </td>
+<td> vink </td>
+<td> vinkene </td>
+<td> hint </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vinkel"> en vinkel </a></td>
 <td>
 <audio id="vinkel" src="https://static.ordnet.dk/mp3/12006/12006892_1.mp3" style="display: none;"></audio>
@@ -27339,6 +27435,18 @@ search: true
 <td> visakortene </td>
 <td> Visa card </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vished"> en vished </a></td>
+<td>
+<audio id="vished" src="https://static.ordnet.dk/mp3/12007/12007075_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vished');" style="cursor: pointer; color: blue;">[ˈvesˌheðˀ]</span>
+</td>
+<td> visheden </td>
+<td> visheder </td>
+<td> vishederne </td>
+<td> certainty </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=visning"> en visning </a></td>

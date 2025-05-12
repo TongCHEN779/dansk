@@ -1626,6 +1626,18 @@ search: true
 <td> one-sided </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ensom"> ensom </a></td>
+<td>
+<audio id="ensom" src="https://static.ordnet.dk/mp3/11011/11011508_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ensom');" style="cursor: pointer; color: blue;">[ˈeːnˌsʌmˀ]</span>
+</td>
+<td> ensomt </td>
+<td> ensomme </td>
+<td> ensommere </td>
+<td> ensomst </td>
+<td> lonely </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=entusiastisk"> entusiastisk </a></td>
 <td>
 <audio id="entusiastisk" src="https://static.ordnet.dk/mp3/11011/11011551_1.mp3" style="display: none;"></audio>
@@ -1768,6 +1780,18 @@ search: true
 <td> mere faldefærdig </td>
 <td> mest faldefærdig </td>
 <td> dilapidated </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=falsk,2&amp;query=falsk"> falsk </a></td>
+<td>
+<audio id="falsk" src="https://static.ordnet.dk/mp3/11012/11012206_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('falsk');" style="cursor: pointer; color: blue;">[ˈfalˀsg]</span>
+</td>
+<td> falsk/falskt </td>
+<td> falske </td>
+<td> mere falsk </td>
+<td> mest falsk </td>
+<td> false </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fantastisk"> fantastisk </a></td>
@@ -10266,7 +10290,7 @@ search: true
 <td> pathetic </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%A6gte"> ægte </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=%C3%A6gte,3&amp;query=%C3%A6gte"> ægte </a></td>
 <td>
 <audio id="ægte" src="https://static.ordnet.dk/mp3/12007/12007984_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('ægte');" style="cursor: pointer; color: blue;">[ˈεgdə]</span>
@@ -10348,6 +10372,18 @@ search: true
 <td> mere økonomisk </td>
 <td> mest økonomisk </td>
 <td> financial </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%B8m"> øm </a></td>
+<td>
+<audio id="øm" src="https://static.ordnet.dk/mp3/12008/12008302_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('øm');" style="cursor: pointer; color: blue;">[ˈœmˀ]</span>
+</td>
+<td> ømt </td>
+<td> ømme </td>
+<td> ømmere </td>
+<td> ømmest </td>
+<td> sore, tender </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%B8nskelig"> ønskelig </a></td>

@@ -4293,6 +4293,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fordufte"> at fordufte </a></td>
+<td>
+<audio id="fordufte" src="https://static.ordnet.dk/mp3/11014/11014356_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fordufte');" style="cursor: pointer; color: blue;">[fʌˈdɔfdə]</span>
+</td>
+<td> fordufter </td>
+<td> forduftede </td>
+<td> er forduftet </td>
+<td> forduft </td>
+<td> to vanish </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kupere"> at kupere </a></td>
 <td>
 <audio id="kupere" src="https://static.ordnet.dk/mp3/11028/11028673_1.mp3" style="display: none;"></audio>
@@ -10857,6 +10870,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=overvinde"> at overvinde </a></td>
+<td>
+<audio id="overvinde" src="https://static.ordnet.dk/mp3/11038/11038555_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('overvinde');" style="cursor: pointer; color: blue;">[-ˌvenˀə]</span>
+</td>
+<td> overvinder </td>
+<td> overvandt </td>
+<td> har overvundet </td>
+<td> overvind </td>
+<td> to overcome </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=overv%C3%A5ge"> at overvåge </a></td>
 <td>
 <audio id="overvåge" src="https://static.ordnet.dk/mp3/11038/11038568_1.mp3" style="display: none;"></audio>
@@ -15654,6 +15680,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=uddybe"> at uddybe </a></td>
+<td>
+<audio id="uddybe" src="https://static.ordnet.dk/mp3/12003/12003712_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('uddybe');" style="cursor: pointer; color: blue;">[-ˌdyˀbə]</span>
+</td>
+<td> uddyber </td>
+<td> uddybede </td>
+<td> har uddybet </td>
+<td> uddy </td>
+<td> to elaborate </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=udd%C3%B8"> at uddø </a></td>
 <td>
 <audio id="uddø" src="https://static.ordnet.dk/mp3/12003/12003714_1.mp3" style="display: none;"></audio>
@@ -16861,6 +16900,19 @@ search: true
 <td> væn </td>
 <td> to get used to </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=v%C3%A6rds%C3%A6tte"> at værdsætte </a></td>
+<td>
+<audio id="værdsætte" src="https://static.ordnet.dk/mp3/12007/12007518_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('værdsætte');" style="cursor: pointer; color: blue;">[ˈvεɐ̯-]</span>
+</td>
+<td> værdsætter </td>
+<td> værdsatte </td>
+<td> har værdsat </td>
+<td> værdsæt </td>
+<td> to appreciate </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=v%C3%A6re"> at være </a></td>
