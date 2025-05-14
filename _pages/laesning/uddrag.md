@@ -68,4 +68,8 @@ I Norden overlevede ordet 'jul' kristendommens indførelse, mens man i andre del
 <tr><td><span style="font-weight: normal">
 Vi bliver bombarderet med billeder af den perfekte krop. Flade maver, stramme baller og runde bryster. Men når det kommer til vores egen krop, vil 42 procent ikke engang vise sig i badetøj.
 </span></td></tr>
+
+<tr><td><span style="font-weight: normal">
+Siden tidernes morgen har menneskets vigtigste evne måske været, at vi kan tænke nyt. Vi kan få gode ideer og opfinde ting og løsninger, der gør livet bedre og driver os fremad. Vi forlod savannen. Vi fik ideen til skibet, så vi kunne sejle over havet. Senere opfandt vi hjulet og byggede vogne, så vi kunne fortsætte fremad. Vi fandt ud af at tælle de ting, vi havde med på vognene, så vi kunne handle og opfandt et sprog, så vi kunne beskrive, hvor mennesket kom hen, og hvad vi lærte på vejen. Senere fandt vi stadig mere avancerede måder at slå hinanden ihjel på. Vi rejste ud i rummet og har i dag en kur mod næsten alle sygdomme.
+</span></td></tr>
 </table>
