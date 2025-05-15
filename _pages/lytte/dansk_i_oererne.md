@@ -41,6 +41,32 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2025/05/Episode-89.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 89 - Faxe Kondi </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om den populære danske sodavand, Faxe Kondi, men også lidt om en meget populær dansk sang, som handler om netop Faxe Kondi. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskiorerne kan du downloade episoden, finde ordlister samt lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo.
+<br><br>
+Faxe Kondi er en af de mest populære sodavand i Danmark. Det er en lemon/lime-drik, der er blevet solgt i Danmark siden år 1971. Dengang var det Faxe Bryggeri, der stod bag. De udviklede drikken i samarbejde med lægen Knud Lundberg og danske landsholdsspillere i forskellige sportsgrene som fodbold og håndbold. Ideen var at lave en sodavand, som kunne give energi, fordi den indeholdt glukose – også kaldet druesukker. I starten hed drikken faktisk Koral Kondi, men senere blev den til Faxe Kondi. Navnet blev opfundet af Leif Terp, der arbejdede på et reklamebureau i København og senere blev ansat hos Faxe Bryggeri. Senere blev Faxe Bryggeri opkøbt af Royal Unibrew, som stadig producerer sodavanden i dag.
+<br><br>
+I mange år blev Faxe Kondi tappet på ølflasker, hvilket mange syntes var lidt sjovt. Forestil dig en sodavand i en flaske, der ligner en øl! Det blev dog ændret, og i dag kan man finde Faxe Kondi på dåser og plastflasker. I 2012 kom der en energidrik på markedet med navnet Faxe Kondi Booster. Der findes også flere andre varianter, som Faxe Kondi med appelsinsmag og versioner uden sukker. Der findes også en Faxe Kondi med bobler, som sælges i en champagne-lignende mørkegrøn flaske. Den blev udviklet i anledning af Faxe Kondis 50-års jubilæum. Den er bl.a. populær hos børn til nytår, fordi den er alkoholfri.
+<br><br>
+Faxe Kondi har gennem årene haft stor succes og er i dag Danmarks førende lemon/lime-sodavand. Drikken har også haft et sponsorat i Superligaen – Danmarks bedste fodboldrække – fra år 1996 til år 2001. Og Faxe Kondi er ikke bare kendt som en sodavand; den har også inspireret musik. I 2012 udgav de to danske kunstnere Klumben og Raske Penge sangen “Faxe Kondi”. Den blev en kæmpe succes og et af sommerens største hits. Sangen handler om glæden ved at drikke Faxe Kondi og har fået millioner af visninger på YouTube. Den sommer steg salget af Faxe Kondi i danske supermarkeder med hele 11%.
+<br><br>
+Selvom sangen var en stor reklame for sodavanden, fik Klumben og Raske Penge faktisk ikke nogen penge fra producenten Royal Unibrew. De prøvede at skrive til dem og spurgte, om de ikke kunne få noget som tak for reklamen. Men alt, de fik, var en sportstaske med Faxe Kondi-logo. Det synes de var lidt skuffende, fordi mange mente, at sangen havde gjort Faxe Kondi endnu mere populær.
+<br><br>
+Man kan finde Faxe Kondi næsten overalt i Danmark. Om sommeren sælges der ekstra mange flasker, og hvis du er stor fan, kan du endda købe tøj og andre sjove ting med Faxe Kondi-logo på deres hjemmeside.
+<br><br>
+Det var alt for denne episode. Hvis du ikke har smagt en Faxe Kondi endnu, så kan den købes i alle supermarkeder og kiosker – og ofte også på restauranterne. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2024/12/Episode88.wav"></audio> </td>
 <td> 
 <details>
