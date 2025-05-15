@@ -6944,6 +6944,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fortrin"> et fortrin </a></td>
+<td>
+<audio id="fortrin" src="https://static.ordnet.dk/mp3/11015/11015364_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fortrin');" style="cursor: pointer; color: blue;">[ˈfɒːˌtʁin]</span>
+</td>
+<td> fortrinet </td>
+<td> fortrin </td>
+<td> fortrinene </td>
+<td> advantage </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forudsætning"> en forudsætning (for) </a></td>
 <td>
 <audio id="forudsætning" src="https://static.ordnet.dk/mp3/11015/11015463_1.mp3" style="display: none;"></audio>
@@ -10016,6 +10028,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ild"> en ild </a></td>
+<td>
+<audio id="ild" src="https://static.ordnet.dk/mp3/11022/11022916_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ild');" style="cursor: pointer; color: blue;">[ˈilˀ]</span>
+</td>
+<td> ilden </td>
+<td> - </td>
+<td> - </td>
+<td> fire </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ildebrand"> en ildebrand </a></td>
 <td>
 <audio id="ildebrand" src="https://static.ordnet.dk/mp3/11022/11022920_1.mp3" style="display: none;"></audio>
@@ -11777,6 +11801,18 @@ search: true
 <td> komedier </td>
 <td> komedierne </td>
 <td> comedy </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=komfur"> et komfur </a></td>
+<td>
+<audio id="komfur" src="https://static.ordnet.dk/mp3/11027/11027016_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('komfur');" style="cursor: pointer; color: blue;">[kɔmˈfuɐ̯ˀ]</span>
+</td>
+<td> komfuret </td>
+<td> komfurer </td>
+<td> komfurerne </td>
+<td> stove </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -24723,7 +24759,6 @@ search: true
 <td> tilsynene </td>
 <td> supervision </td>
 <td> 2 </td>
-
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tiltag"> et tiltag </a></td>
 <td>
@@ -25670,6 +25705,18 @@ search: true
 <td> tørklæder </td>
 <td> tørklæderne </td>
 <td> scarf </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=t%C3%B8rv"> et tørv </a></td>
+<td>
+<audio id="tørv" src="https://static.ordnet.dk/mp3/12003/12003424_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tørv');" style="cursor: pointer; color: blue;">[ˈtɶɐ̯ˀw]</span>
+</td>
+<td> tørvet </td>
+<td> tørv </td>
+<td> tørvene </td>
+<td> peat </td>
 <td> 1 </td>
 </tr>
 <tr>

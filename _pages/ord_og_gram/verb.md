@@ -11572,6 +11572,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rage"> at rage </a></td>
+<td>
+<audio id="rage" src="https://static.ordnet.dk/mp3/11042/11042040_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rage');" style="cursor: pointer; color: blue;">[ˈʁɑːwə]</span>
+</td>
+<td> rager </td>
+<td> ragede </td>
+<td> har raget </td>
+<td> rag </td>
+<td> to protrude, stick out </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ramme"> at ramme </a></td>
 <td>
 <audio id="ramme" src="https://static.ordnet.dk/mp3/11042/11042091_1.mp3" style="display: none;"></audio>

@@ -2310,6 +2310,18 @@ search: true
 <td> understandable </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fortrinlig"> fortrinlig </a></td>
+<td>
+<audio id="fortrinlig" src="https://static.ordnet.dk/mp3/11015/11015365_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fortrinlig');" style="cursor: pointer; color: blue;">[fʌˈtʁiˀnli]</span>
+</td>
+<td> fortrinligt </td>
+<td> fortrinlige </td>
+<td> mere fortrinlig </td>
+<td> mest fortrinlig </td>
+<td> excellent </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forudsigelig"> forudsigelig </a></td>
 <td>
 <audio id="forudsigelig" src="https://static.ordnet.dk/mp3/11015/11015460_1.mp3" style="display: none;"></audio>
@@ -2404,6 +2416,18 @@ search: true
 <td> mere fremmest </td>
 <td> mest fremmest </td>
 <td> foremost </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fremragende"> fremragende </a></td>
+<td>
+<audio id="fremragende" src="https://static.ordnet.dk/mp3/11015/11015930_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fremragende');" style="cursor: pointer; color: blue;">[-ˌʁɑˀwənə]</span>
+</td>
+<td> fremragende </td>
+<td> fremragende </td>
+<td> mere fremragende </td>
+<td> mest fremragende </td>
+<td> excellent </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fremtidig"> fremtidig </a></td>
