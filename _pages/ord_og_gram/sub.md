@@ -16160,6 +16160,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=oldemor"> en oldemor </a></td>
+<td>
+<audio id="oldemor" src="https://static.ordnet.dk/mp3/11036/11036946_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('oldemor');" style="cursor: pointer; color: blue;">[ˈʌləˌmoɐ̯]</span>
+</td>
+<td> oldemoren </td>
+<td> oldemødre </td>
+<td> oldemødrene </td>
+<td> great-grandmother </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=oliefyr"> et oliefyr </a></td>
 <td>
 <audio id="oliefyr" src="https://static.ordnet.dk/mp3/11036/11036991_1.mp3" style="display: none;"></audio>
@@ -24806,6 +24818,18 @@ search: true
 <td> tingene </td>
 <td> thing </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tipoldemor"> en tipoldemor </a></td>
+<td>
+<audio id="tipoldemor" src="https://static.ordnet.dk/mp3/12001/12001450_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tipoldemor');" style="cursor: pointer; color: blue;">[-ˌmoɐ̯]</span>
+</td>
+<td> tipoldemoren </td>
+<td> tipoldemødre </td>
+<td> tipoldemødrene </td>
+<td> great-great-grandmother </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=titel"> en titel </a></td>
