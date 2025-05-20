@@ -4183,6 +4183,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dimittend"> en dimittend </a></td>
+<td>
+<audio id="dimittend" src="https://static.ordnet.dk/mp3/11009/11009106_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dimittend');" style="cursor: pointer; color: blue;">[dimiˈtεnˀd]</span>
+</td>
+<td> dimittenden </td>
+<td> dimittender </td>
+<td> dimittenderne </td>
+<td> graduate </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=direkt%C3%B8r"> en direktør </a></td>
 <td>
 <audio id="direktør" src="https://static.ordnet.dk/mp3/11009/11009156_1.mp3" style="display: none;"></audio>
@@ -9092,6 +9104,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hjemmel"> en hjemmel </a></td>
+<td>
+<audio id="hjemmel" src="https://static.ordnet.dk/mp3/11020/11020916_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hjemmel');" style="cursor: pointer; color: blue;">[ˈjεmˀəl]</span>
+</td>
+<td> hjemlen </td>
+<td> hjemler </td>
+<td> hjemlerne </td>
+<td> authority, basis </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hjemmeside"> en hjemmeside </a></td>
 <td>
 <audio id="hjemmeside" src="https://static.ordnet.dk/mp3/11020/11020930_1.mp3" style="display: none;"></audio>
@@ -13157,6 +13181,18 @@ search: true
 <td> ledelser </td>
 <td> ledelserne </td>
 <td> management </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ledighed"> en ledighed </a></td>
+<td>
+<audio id="ledighed" src="https://static.ordnet.dk/mp3/11030/11030031_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ledighed');" style="cursor: pointer; color: blue;">[ˈleːðiˌheðˀ]</span>
+</td>
+<td> ledigheden </td>
+<td> - </td>
+<td> - </td>
+<td> unemployment </td>
 <td> 1 </td>
 </tr>
 <tr>
