@@ -1615,6 +1615,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bel%C3%B8nne"> at belønne </a></td>
+<td>
+<audio id="belønne" src="https://static.ordnet.dk/mp3/11004/11004035_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('belønne');" style="cursor: pointer; color: blue;">[beˈlœnˀə]</span>
+</td>
+<td> belønner </td>
+<td> belønnede </td>
+<td> har belønnet </td>
+<td> beløn </td>
+<td> to reward </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bemande"> at bemande </a></td>
 <td>
 <audio id="bemande" src="https://static.ordnet.dk/mp3/11004/11004041_1.mp3" style="display: none;"></audio>

@@ -21126,6 +21126,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skrald"> et skrald </a></td>
+<td>
+<audio id="skrald" src="https://static.ordnet.dk/mp3/11046/11046904_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skrald');" style="cursor: pointer; color: blue;">[ˈsgʁɑlˀ]</span>
+</td>
+<td> skraldet </td>
+<td> - </td>
+<td> - </td>
+<td> garbage </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skridt"> et skridt </a></td>
 <td>
 <audio id="skridt" src="https://static.ordnet.dk/mp3/11046/11046946_1.mp3" style="display: none;"></audio>
