@@ -19338,6 +19338,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rigsm%C3%A5l"> et rigsmål </a></td>
+<td>
+<audio id="rigsmål" src="https://static.ordnet.dk/mp3/11043/11043353_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rigsmål');" style="cursor: pointer; color: blue;">[ˈʁiːˌsmɔˀl]</span>
+</td>
+<td> rigsmålet </td>
+<td> rigsmål </td>
+<td> rigsmålene </td>
+<td> standard language </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ring"> en ring </a></td>
 <td>
 <audio id="ring" src="https://static.ordnet.dk/mp3/11043/11043391_1.mp3" style="display: none;"></audio>
