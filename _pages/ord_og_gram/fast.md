@@ -661,6 +661,11 @@ search: true
 <td> I sorggruppen sættes man i direkte kontakt med sine følelser, så man kan mærke dem. </td>
 </tr>
 <tr>
+<td> komme ind på </td>
+<td> get into </td>
+<td> Lad være med selv at komme ind på emner, hvor du er svag. Lærer og censor kan tidsnok bringe sådanne områder ind. </td>
+</tr>
+<tr>
 <td> komme til </td>
 <td> result in </td>
 <td> De virksomheder, der er en idé i at ramme, går fri, mens vi andre kommer til at betale. </td>
@@ -724,6 +729,11 @@ search: true
 <td> løbe af stablen </td>
 <td> take place </td>
 <td> Det er netop i dag, at Dansk Flygtningehjælps store og meget omtalte landsindsamling løber af stablen. </td>
+</tr>
+<tr>
+<td> mane til eftertanke/besindighed/forsigtighed/tavshed/kritikerne </td>
+<td> give pause for thoughts/caution/carefulness/silence/critics </td>
+<td> I HK Danmark mener forbundsformand Anja C. Jensen, at den nye undersøgelser bør mane til eftertanke hos poltikerne. </td>
 </tr>
 <tr>
 <td> med andre ord </td>

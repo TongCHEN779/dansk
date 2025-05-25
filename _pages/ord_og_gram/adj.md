@@ -2562,6 +2562,18 @@ search: true
 <td> complete </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fuldst%C3%A6ndig"> fuldstændig </a></td>
+<td>
+<audio id="fuldstændig" src="https://static.ordnet.dk/mp3/11016/11016434_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fuldstændig');" style="cursor: pointer; color: blue;">[ˈfulˌsdεnˀdi]</span>
+</td>
+<td> fuldstændigt </td>
+<td> fuldstændige </td>
+<td> mere fuldstændig </td>
+<td> mest fuldstændig </td>
+<td> complete </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fysisk"> fysisk </a></td>
 <td>
 <audio id="fysisk" src="https://static.ordnet.dk/mp3/11016/11016612_1.mp3" style="display: none;"></audio>
@@ -3676,6 +3688,18 @@ search: true
 <td> mere idyllisk </td>
 <td> mest idyllisk </td>
 <td> idyllic </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=igangv%C3%A6rende"> igangværende </a></td>
+<td>
+<audio id="igangværende" src="https://static.ordnet.dk/mp3/11022/11022858_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('igangværende');" style="cursor: pointer; color: blue;">[iˈgɑŋˀˌvεˀʌnə]</span>
+</td>
+<td> igangværende </td>
+<td> igangværende </td>
+<td> mere igangværende </td>
+<td> mest igangværende </td>
+<td> ongoing </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ikonisk"> ikonisk </a></td>
@@ -7161,7 +7185,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sindssyg"> sindssyg </a></td>
 <td>
 <audio id="sindssyg" src="https://static.ordnet.dk/mp3/11046/11046059_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('sindssyg');" style="cursor: pointer; color: blue;">[ˈsinˀsˌsʌj]</span>
+<span onclick="playSound('sindssyg');" style="cursor: pointer; color: blue;">[ˈsinˀsˌsy]</span>
 </td>
 <td> sindssygt </td>
 <td> sindssyge </td>
@@ -7420,6 +7444,18 @@ search: true
 <td> smukkere </td>
 <td> smukkest </td>
 <td> beautiful </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=snedig"> snedig </a></td>
+<td>
+<audio id="snedig" src="https://static.ordnet.dk/mp3/11048/11048246_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('snedig');" style="cursor: pointer; color: blue;">[ˈsneːði]</span>
+</td>
+<td> snedigt </td>
+<td> snedige </td>
+<td> mere snedig </td>
+<td> mest snedig </td>
+<td> clever, cunning </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=snerpet"> snerpet </a></td>
