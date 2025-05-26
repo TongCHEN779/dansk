@@ -181,6 +181,17 @@ I denne uge besøger dronning Margrethe det danske mindretal i Sydslesvig. Forst
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/39.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Hovedstadsområdet kan mangle rent drikkevand i 2040 </h1>
+<span style="font-weight: normal">
+Vandmangel kan også blive en udfordring flere steder i landet, fortæller ekspert.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/indland/hovedstadsomraadet-kan-mangle-rent-drikkevand-i-2040">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/31.avif"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kina sætter hårdt mod hårdt med en ny stor told mod USA: 'Man er træt af at være Mr. Nice Guy’ </h1>
