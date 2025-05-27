@@ -91,23 +91,6 @@ search: false
 </table>
 
 <h1 style="text-align: center;"> Ubestemte pronominer </h1>
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    tr:nth-child(even) {
-        background-color: #f2f2f2; /* Light gray background for even rows */
-    }
-    tr:nth-child(odd) {
-        background-color: #ffffff; /* White background for odd rows */
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-</style>
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
@@ -155,23 +138,7 @@ search: false
 </table>
 
 <h1 id="spørg" style="text-align: center;"> Spørgeord </h1>
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    tr:nth-child(even) {
-        background-color: #f2f2f2; /* Light gray background for even rows */
-    }
-    tr:nth-child(odd) {
-        background-color: #ffffff; /* White background for odd rows */
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-</style>
+
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th> Spørgeord </th>
