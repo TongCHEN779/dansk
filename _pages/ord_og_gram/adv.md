@@ -1044,7 +1044,6 @@ search: true
 <audio id="først" src="https://static.ordnet.dk/mp3/11016/11016914_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('først');" style="cursor: pointer; color: blue;">[ˈfɶɐ̯sd]</span>
 </td>
-<td> først </td>
 <td> not until </td>
 <td> Katastrofens omfang kan .. først afgøres om tre-fire ugers tid. </td>
 </tr>
@@ -1157,109 +1156,148 @@ search: true
 <td> Du skal blot svare på spørgsmålene nedenfor og indsende kuponen. </td>
 </tr>
 <tr>
-<td> nogle gange </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nogle+gange"> nogle gange </a></td>
+<td></td>
 <td> sometimes </td>
 <td> Nogle gange ville jeg ønske min mor lignede din lidt. </td>
 </tr>
 <tr>
-<td> nu </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nu"> nu </a></td>
+<td>
+<audio id="nu" src="https://static.ordnet.dk/mp3/11036/11036235_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nu');" style="cursor: pointer; color: blue;">[ˈnu]</span>
+</td>
 <td> now </td>
 <td> Jeg har været væk en tid, men nu er jeg tilbage. </td>
 </tr>
 <tr>
-<td> ombord, om bord </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ombord"> ombord, om bord </a></td>
+<td>
+<audio id="ombord" src="" style="display: none;"></audio>
+<span onclick="playSound('ombord');" style="cursor: pointer; color: blue;">[ʌmˈboˀɐ̯]</span>
+</td>
 <td> on board </td>
 <td> En skitse over færgens indretning med anvisning af eventuelle flugtveje burde udleveres til hver passager inden man går eller kører om bord. </td>
 </tr>
 <tr>
-<td> omgående </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omgående"> omgående </a></td>
+<td>
+<audio id="omgående" src="https://static.ordnet.dk/mp3/11037/11037132_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omgående');" style="cursor: pointer; color: blue;">[-ˌgɔˀənə]</span>
+</td>
 <td> immediately </td>
 <td> Hvis barnet bliver bevidstløs, skal lægen omgående tilkaldes, eller barnet bringes på skadestuen. </td>
 </tr>
 <tr>
-<td> omsider </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omsider"> omsider </a></td>
+<td>
+<audio id="omsider" src="https://static.ordnet.dk/mp3/11037/11037205_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omsider');" style="cursor: pointer; color: blue;">[ʌmˈsiðʌ]</span>
+</td>
 <td> finally </td>
 <td> Havel ringede efter en taxi. Det tager lang tid, men omsider dukker den op dernede i den blæsende gade. </td>
 </tr>
 <tr>
-<td> overalt </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=overalt"> overalt </a></td>
+<td>
+<audio id="overalt" src="https://static.ordnet.dk/mp3/11038/11038173_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('overalt');" style="cursor: pointer; color: blue;">[ɒwʌˈalˀd]</span>
+</td>
 <td> everywhere </td>
 <td> Overalt, hvor vikingerne kom frem, blev der holdt øje med dem inde fra kysten. </td>
 </tr>
 <tr>
-<td> sandsynligvis </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sandsynligvis"> sandsynligvis </a></td>
+<td>
+<audio id="sandsynligvis" src="https://static.ordnet.dk/mp3/11044/11044880_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sandsynligvis');" style="cursor: pointer; color: blue;">[sanˈsyˀnliˈviˀs]</span>
+</td>
 <td> probably </td>
 <td> Sandsynligvis er volden Kovirke syd for Hedeby opført i 808 af kong Godfred. </td>
 </tr>
 <tr>
-<td> som regel, i reglen </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=som+regel"> som regel, i reglen </a></td>
+<td></td>
 <td> usually </td>
 <td> Gruppemøderne varede som regel en time. </td>
 </tr>
 <tr>
-<td> sommetider, somme tider </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sommetider"> sommetider, somme tider </a></td>
+<td>
+<audio id="sommetider" src="https://static.ordnet.dk/mp3/11048/11048756_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sommetider');" style="cursor: pointer; color: blue;">[ˈsʌməˈtiðʌ]</span>
+</td>
 <td> sometimes </td>
 <td> Sommetider greb han sig selv i at tænke: Bare det var mig der var Agnete og kunne gå hjemme med børnene. </td>
 </tr>
 <tr>
-<td> således </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=således"> således </a></td>
+<td>
+<audio id="således" src="https://static.ordnet.dk/mp3/11052/11052545_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('således');" style="cursor: pointer; color: blue;">[ˈsʌˌleðəs]</span>
+</td>
 <td> so, thus, in this way </td>
 <td> Skattesystemet er lagt om, således at de store indkomster slipper billigere. </td>
 </tr>
 <tr>
-<td> takket være </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=takket+v%C3%A6re"> takket være </a></td>
+<td></td>
 <td> thanks to </td>
 <td> Hun fik ord for at være løgnagtig takket være sit usikre flakkende blik. </td>
 </tr>
 <tr>
-<td> tilfældigvis </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilf%C3%A6ldigvis"> tilfældigvis </a></td>
+<td>
+<audio id="tilfældigvis" src="https://static.ordnet.dk/mp3/12001/12001116_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilfældigvis');" style="cursor: pointer; color: blue;">[teˈfεlˀdiˈviˀs]</span>
+</td>
 <td> coincidentally </td>
 <td> Jeg kom tilfældigvis til at stå ved siden af Anette. </td>
 </tr>
-<tr>
-<td> tilmed </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilmed"> tilmed </a></td>
+<td>
+<audio id="tilmed" src="https://static.ordnet.dk/mp3/12001/12001228_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilmed');" style="cursor: pointer; color: blue;">[ˈtelˌmεð]</span>
+</td>
 <td> even </td>
 <td> Det er sjovt og afslappende at køre med tog, og så er det tilmed billigt i Storbritannien. </td>
-</tr>
 <tr>
-<td> tilsammen (med) </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilsammen"> tilsammen (med) </a></td>
+<td>
+<audio id="tilsammen" src="" style="display: none;"></audio>
+<span onclick="playSound('tilsammen');" style="cursor: pointer; color: blue;">[teˈsɑmˀən]</span>
+</td>
 <td> together (with) </td>
 <td> Tilsammen udgjorde de et stærkt hold. Så længe de kunne enes. </td>
 </tr>
 <tr>
-<td> tværtimod </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tværtimod"> tværtimod </a></td>
+<td>
+<audio id="tværtimod" src="https://static.ordnet.dk/mp3/12003/12003090_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tværtimod');" style="cursor: pointer; color: blue;">[ˈtvæɐ̯diˈmoˀð]</span>
+</td>
 <td> on the contrary </td>
 <td> Jeg var slet ikke deprimeret, tværtimod, man skal se positivt på alting. </td>
 </tr>
 <tr>
-<td> undervejs </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=undervejs"> undervejs </a></td>
+<td>
+<audio id="undervejs" src="https://static.ordnet.dk/mp3/12004/12004903_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('undervejs');" style="cursor: pointer; color: blue;">[ɔnʌˈvɑjˀs]</span>
+</td>
 <td> along the way </td>
 <td> Vi købte en gammel spand af en bil og tilbagelagde i løbet af de næste ni måneder ca. 28.000 km. Undervejs arbejdede vi forskellige steder. </td>
 </tr>
 <tr>
-<td> ydermere </td>
-<td> furthermore </td>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ydermere"> ydermere </a></td>
+<td>
+<audio id="ydermere" src="https://static.ordnet.dk/mp3/12007/12007786_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ydermere');" style="cursor: pointer; color: blue;">[ˈyðʌˈmeːʌ]</span>
+</td>
 <td> Leksikonet leveres .. i en både smuk og slidstærk indbinding, som ydermere er forsynet med et smukt beskyttende yderomslag. </td>
 </tr>
 </table>
 <h1 style="text-align: center;"> Lang og kort form </h1>
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    tr:nth-child(even) {
-        background-color: #f2f2f2; /* Light gray background for even rows */
-    }
-    tr:nth-child(odd) {
-        background-color: #ffffff; /* White background for odd rows */
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-</style>
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th> Kort form </th>
