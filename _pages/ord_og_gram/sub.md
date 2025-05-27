@@ -8684,6 +8684,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=g%C3%B8dning"> en gødning </a></td>
+<td>
+<audio id="gødning" src="https://static.ordnet.dk/mp3/11019/11019417_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gødning');" style="cursor: pointer; color: blue;">[ˈgøðneŋ]</span>
+</td>
+<td> gødningen </td>
+<td> gødninger </td>
+<td> gødningerne </td>
+<td> fertilizer </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=g%C3%A5rd"> en gård </a></td>
 <td>
 <audio id="gård" src="https://static.ordnet.dk/mp3/11019/11019457_1.mp3" style="display: none;"></audio>
@@ -18339,6 +18351,18 @@ search: true
 <td> privatskoler </td>
 <td> privatskolerne </td>
 <td> private school </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=privilegium"> et privilegium/privilegie </a></td>
+<td>
+<audio id="privilegium" src="https://static.ordnet.dk/mp3/11040/11040912_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('privilegium');" style="cursor: pointer; color: blue;">[pʁiviˈleˀgjɔm]</span>
+</td>
+<td> privilegiet </td>
+<td> privilegier </td>
+<td> privilegierne </td>
+<td> privilege </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -28405,6 +28429,18 @@ search: true
 <td> ægteskaber </td>
 <td> ægteskaberne </td>
 <td> marriage </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%A6re"> en ære </a></td>
+<td>
+<audio id="ære" src="https://static.ordnet.dk/mp3/12008/12008068_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ære');" style="cursor: pointer; color: blue;">[ˈεːʌ]</span>
+</td>
+<td> æren </td>
+<td> - </td>
+<td> - </td>
+<td> honor </td>
 <td> 1 </td>
 </tr>
 <tr>
