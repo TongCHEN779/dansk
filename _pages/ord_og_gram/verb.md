@@ -43,6 +43,7 @@ search: true
         text-align: left;
     }
 </style>
+
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th> Infinitiv </th>
@@ -5189,6 +5190,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forvise"> at forvise </a></td>
+<td>
+<audio id="forvise" src="https://static.ordnet.dk/mp3/11015/11015519_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forvise');" style="cursor: pointer; color: blue;">[fʌˈviˀsə]</span>
+</td>
+<td> forviser </td>
+<td> forviste </td>
+<td> har forvist </td>
+<td> forvis </td>
+<td> to banish </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forvolde"> at forvolde </a></td>
 <td>
 <audio id="forvolde" src="https://static.ordnet.dk/mp3/11015/11015526_1.mp3" style="display: none;"></audio>
@@ -6642,6 +6656,19 @@ search: true
 <td> har hugget </td>
 <td> hug </td>
 <td> to chop </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hungre"> at hungre </a></td>
+<td>
+<audio id="hungre" src="https://static.ordnet.dk/mp3/11021/11021691_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hungre');" style="cursor: pointer; color: blue;">[ˈhɔŋʁʌ]</span>
+</td>
+<td> hungrer </td>
+<td> hungrede </td>
+<td> har hungret </td>
+<td> hungr </td>
+<td> to hunger </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -13210,6 +13237,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=slette,2&amp;query=slette"> at slette </a></td>
+<td>
+<audio id="slette" src="https://static.ordnet.dk/mp3/11047/11047685_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slette');" style="cursor: pointer; color: blue;">[ˈslεdə]</span>
+</td>
+<td> sletter </td>
+<td> slettede </td>
+<td> har slettet </td>
+<td> slet </td>
+<td> to delete </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=slide"> at slide </a></td>
 <td>
 <audio id="slide" src="https://static.ordnet.dk/mp3/11047/11047706_1.mp3" style="display: none;"></audio>
@@ -14715,6 +14755,19 @@ search: true
 <td> har sørget </td>
 <td> sørg </td>
 <td> to grieve </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%A5re"> at såre </a></td>
+<td>
+<audio id="såre" src="https://static.ordnet.dk/mp3/11052/11052556_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('såre');" style="cursor: pointer; color: blue;">[ˈsɒːɒ]</span>
+</td>
+<td> sårer </td>
+<td> sårede </td>
+<td> har såret </td>
+<td> sår </td>
+<td> to hurt </td>
 <td> 1 </td>
 </tr>
 <tr>

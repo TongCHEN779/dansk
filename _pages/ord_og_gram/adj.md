@@ -43,6 +43,7 @@ search: true
         text-align: left;
     }
 </style>
+
 <table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <tr>
 <th> N-form (ental) </th>

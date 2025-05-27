@@ -43,6 +43,7 @@ search: true
         text-align: left;
     }
 </style>
+
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th> Ental Ubestemt </th>
@@ -9776,6 +9777,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hy%C3%A6ne"> en hyæne </a></td>
+<td>
+<audio id="hyæne" src="https://static.ordnet.dk/mp3/11022/11022164_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hyæne');" style="cursor: pointer; color: blue;">[hyˈεːnə]</span>
+</td>
+<td> hyænen </td>
+<td> hyæner </td>
+<td> hyænerne </td>
+<td> hyena </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%A6k"> en hæk </a></td>
 <td>
 <audio id="hæk" src="https://static.ordnet.dk/mp3/11022/11022191_1.mp3" style="display: none;"></audio>
@@ -14213,6 +14226,30 @@ search: true
 <td> løsninger </td>
 <td> løsningerne </td>
 <td> solution </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=l%C3%B8v"> et løv </a></td>
+<td>
+<audio id="løv" src="https://static.ordnet.dk/mp3/11031/11031896_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('løv');" style="cursor: pointer; color: blue;">[ˈløˀw]</span>
+</td>
+<td> løvet </td>
+<td> - </td>
+<td> - </td>
+<td> foliage </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=l%C3%B8ve"> en løve </a></td>
+<td>
+<audio id="løve" src="https://static.ordnet.dk/mp3/11031/11031897_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('løve');" style="cursor: pointer; color: blue;">[ˈløːvə]</span>
+</td>
+<td> løven </td>
+<td> løver </td>
+<td> løverne </td>
+<td> lion </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -20454,6 +20491,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=savanne"> en savanne </a></td>
+<td>
+<audio id="savanne" src="https://static.ordnet.dk/mp3/11045/11045026_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('savanne');" style="cursor: pointer; color: blue;">[saˈvanə]</span>
+</td>
+<td> savannen </td>
+<td> savanner </td>
+<td> savannerne </td>
+<td> savanna </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=scenograf"> en scenograf </a></td>
 <td>
 <audio id="scenograf" src="https://static.ordnet.dk/mp3/11045/11045072_1.mp3" style="display: none;"></audio>
@@ -21795,6 +21844,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> slang </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=slette"> en slette </a></td>
+<td>
+<audio id="slette" src="https://static.ordnet.dk/mp3/11047/11047685_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slette');" style="cursor: pointer; color: blue;">[ˈslεdə]</span>
+</td>
+<td> sletten </td>
+<td> sletter </td>
+<td> sletterne </td>
+<td> plain </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -24246,6 +24307,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sår"> et sår </a></td>
+<td>
+<audio id="sår" src="https://static.ordnet.dk/mp3/11052/11052554_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sår');" style="cursor: pointer; color: blue;">[ˈsɒˀ]</span>
+</td>
+<td> såret </td>
+<td> sår </td>
+<td> sårene </td>
+<td> wound </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tab"> et tab </a></td>
 <td>
 <audio id="tab" src="https://static.ordnet.dk/mp3/12000/12000006_1.mp3" style="display: none;"></audio>
@@ -26077,6 +26150,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> patience </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=t%C3%A5re"> en tåre </a></td>
+<td>
+<audio id="tåre" src="https://static.ordnet.dk/mp3/12003/12003471_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tåre');" style="cursor: pointer; color: blue;">[ˈtɒːɒ]</span>
+</td>
+<td> tåren </td>
+<td> tårer </td>
+<td> tårerne </td>
+<td> tear </td>
 <td> 1 </td>
 </tr>
 <tr>
