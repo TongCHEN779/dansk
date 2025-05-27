@@ -1293,6 +1293,7 @@ search: true
 <td>
 <audio id="ydermere" src="https://static.ordnet.dk/mp3/12007/12007786_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('ydermere');" style="cursor: pointer; color: blue;">[ˈyðʌˈmeːʌ]</span>
+<td> furthermore </td>
 </td>
 <td> Leksikonet leveres .. i en både smuk og slidstærk indbinding, som ydermere er forsynet med et smukt beskyttende yderomslag. </td>
 </tr>
