@@ -43,7 +43,6 @@ search: true
         text-align: left;
     }
 </style>
-
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th> Ental Ubestemt </th>
@@ -844,6 +843,18 @@ search: true
 <td> antal </td>
 <td> antallene </td>
 <td> number </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=antilope"> en antilope </a></td>
+<td>
+<audio id="antilope" src="https://static.ordnet.dk/mp3/11002/11002070_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('antilope');" style="cursor: pointer; color: blue;">[antiˈloːbə]</span>
+</td>
+<td> antilopen </td>
+<td> antiloper </td>
+<td> antiloperne </td>
+<td> antelope </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -6081,6 +6092,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=flodhest"> en flodhest </a></td>
+<td>
+<audio id="flodhest" src="https://static.ordnet.dk/mp3/11013/11013633_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('flodhest');" style="cursor: pointer; color: blue;">[ˈfloðˌhεsd]</span>
+</td>
+<td> flodhesten </td>
+<td> flodheste </td>
+<td> flodhestene </td>
+<td> hippopotamus </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=flok"> en flok </a></td>
 <td>
 <audio id="flok" src="https://static.ordnet.dk/mp3/11013/11013642_1.mp3" style="display: none;"></audio>
@@ -8227,6 +8250,18 @@ search: true
 <td> glimtene </td>
 <td> glimpse </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gnu"> en gnu </a></td>
+<td>
+<audio id="gnu" src="https://static.ordnet.dk/mp3/11018/11018316_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gnu');" style="cursor: pointer; color: blue;">[ˈgnuˀ]</span>
+</td>
+<td> gnuen </td>
+<td> gnuer </td>
+<td> gnuerne </td>
+<td> gnu </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gods"> et gods </a></td>
@@ -12357,6 +12392,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kram"> et kram </a></td>
+<td>
+<audio id="kram" src="https://static.ordnet.dk/mp3/11027/11027912_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kram');" style="cursor: pointer; color: blue;">[ˈkʁɑmˀ]</span>
+</td>
+<td> krammet </td>
+<td> kram </td>
+<td> krammene </td>
+<td> hug </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=krat"> et krat </a></td>
 <td>
 <audio id="krat" src="https://static.ordnet.dk/mp3/11027/11027954_1.mp3" style="display: none;"></audio>
@@ -13027,6 +13074,18 @@ search: true
 <td> - </td>
 <td> meat </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=k%C3%B8d%C3%A6der"> en kødæder </a></td>
+<td>
+<audio id="kødæder" src="https://static.ordnet.dk/mp3/11029/11029202_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kødæder');" style="cursor: pointer; color: blue;">[-ˌεˀðʌ]</span>
+</td>
+<td> kødæderen </td>
+<td> kødædere </td>
+<td> kødæderne </td>
+<td> carnivore </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=k%C3%B8kken"> et køkken </a></td>
@@ -17983,6 +18042,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pistol"> en pistol </a></td>
+<td>
+<audio id="pistol" src="https://static.ordnet.dk/mp3/11039/11039856_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('pistol');" style="cursor: pointer; color: blue;">[piˈsdoˀl]</span>
+</td>
+<td> pistolen </td>
+<td> pistoler </td>
+<td> pistolerne </td>
+<td> pistol </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=pizza"> en pizza </a></td>
 <td>
 <audio id="pizza" src="https://static.ordnet.dk/mp3/11039/11039878_1.mp3" style="display: none;"></audio>
@@ -18077,6 +18148,18 @@ search: true
 <td> plantagerne </td>
 <td> plantation </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=planteæder"> en planteæder </a></td>
+<td>
+<audio id="planteæder" src="https://static.ordnet.dk/mp3/11040/11040029_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('planteæder');" style="cursor: pointer; color: blue;">[-ˌεːðʌ]</span>
+</td>
+<td> planteæderen </td>
+<td> planteædere </td>
+<td> planteæderne </td>
+<td> herbivore </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=plejehjem"> et plejehjem </a></td>
@@ -23371,6 +23454,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=stribe"> en stribe </a></td>
+<td>
+<audio id="stribe" src="https://static.ordnet.dk/mp3/11050/11050741_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('stribe');" style="cursor: pointer; color: blue;">[ˈsdʁiːbə]</span>
+</td>
+<td> striben </td>
+<td> striber </td>
+<td> striberne </td>
+<td> stripe </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=strid"> en strid </a></td>
 <td>
 <audio id="strid" src="https://static.ordnet.dk/mp3/11050/11050745_1.mp3" style="display: none;"></audio>
@@ -28481,6 +28576,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=zebra"> en zebra </a></td>
+<td>
+<audio id="zebra" src="https://static.ordnet.dk/mp3/12007/12007869_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('zebra');" style="cursor: pointer; color: blue;">[ˈseːbʁɑ]</span>
+</td>
+<td> zebraen </td>
+<td> zebraer </td>
+<td> zebraerne </td>
+<td> zebra </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%A6gtef%C3%A6lle"> en ægtefælle </a></td>
 <td>
 <audio id="ægtefælle" src="https://static.ordnet.dk/mp3/12007/12007990_1.mp3" style="display: none;"></audio>
@@ -28683,6 +28790,18 @@ search: true
 <td> øreringene </td>
 <td> earring </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%B8rken"> en ørken </a></td>
+<td>
+<audio id="ørken" src="https://static.ordnet.dk/mp3/12008/12008369_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ørken');" style="cursor: pointer; color: blue;">[ˈɶɐ̯gən]</span>
+</td>
+<td> ørkenen </td>
+<td> ørkener </td>
+<td> ørkenerne </td>
+<td> desert </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%B8velse"> en øvelse </a></td>

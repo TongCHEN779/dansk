@@ -43,7 +43,6 @@ search: true
         text-align: left;
     }
 </style>
-
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th> Infinitiv </th>
@@ -8229,6 +8228,19 @@ search: true
 <td> har kostet </td>
 <td> - </td>
 <td> to cost </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kramme"> at kramme </a></td>
+<td>
+<audio id="kramme" src="https://static.ordnet.dk/mp3/11027/11027916_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kramme');" style="cursor: pointer; color: blue;">[ˈkʁɑmə]</span>
+</td>
+<td> krammer </td>
+<td> krammede </td>
+<td> har krammet </td>
+<td> kram </td>
+<td> to hug </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -17226,6 +17238,19 @@ search: true
 <td> ytr </td>
 <td> to express </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%A6de"> at æde </a></td>
+<td>
+<audio id="æde" src="https://static.ordnet.dk/mp3/12007/12007929_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('æde');" style="cursor: pointer; color: blue;">[ˈεːðə]</span>
+</td>
+<td> æder </td>
+<td> åd </td>
+<td> har ædt </td>
+<td> æd </td>
+<td> to devour </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=%C3%A6ndre"> at ændre (sig) </a></td>
