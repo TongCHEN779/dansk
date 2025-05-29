@@ -8972,7 +8972,7 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=hede"> hede </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=hede,2&amp;query=hede"> hede </a></td>
 <td>
 <audio id="hede" src="https://static.ordnet.dk/mp3/11020/11020165_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('hede');" style="cursor: pointer; color: blue;">[ˈheːðə]</span>
@@ -8982,6 +8982,18 @@ search: true
 <td> - </td>
 <td> heat </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hedeb%C3%B8lge"> en hedebølge </a></td>
+<td>
+<audio id="hedebølge" src="https://static.ordnet.dk/mp3/11020/11020169_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hedebølge');" style="cursor: pointer; color: blue;">[ˈheːðəˌbœlˀjə]</span>
+</td>
+<td> hedebølgen </td>
+<td> hedebølger </td>
+<td> hedebølgerne </td>
+<td> heat wave </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hejre"> en hejre </a></td>

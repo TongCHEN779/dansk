@@ -43,7 +43,6 @@ search: true
         text-align: left;
     }
 </style>
-
 <table align="center" cellspacing="5" id="wordTable" style="text-align: left" width="100%">
 <tr>
 <th> N-form (ental) </th>
@@ -5141,6 +5140,18 @@ search: true
 <td> mildere </td>
 <td> mildest </td>
 <td> mild </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=mindelig"> mindelig </a></td>
+<td>
+<audio id="mindelig" src="https://static.ordnet.dk/mp3/11033/11033723_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mindelig');" style="cursor: pointer; color: blue;">[ˈmenəli]</span>
+</td>
+<td> mindeligt </td>
+<td> mindelige </td>
+<td> mere mindelig </td>
+<td> mest mindelig </td>
+<td> amicable </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=mindev%C3%A6rdig"> mindeværdig </a></td>

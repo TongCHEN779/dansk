@@ -666,6 +666,11 @@ search: true
 <td> Lad være med selv at komme ind på emner, hvor du er svag. Lærer og censor kan tidsnok bringe sådanne områder ind. </td>
 </tr>
 <tr>
+<td> komme overens </td>
+<td> come to an agreement </td>
+<td> Hvis de to familier kunne komme overens i mindelighed ville de undlade at rejse offentlig sag. </td>
+</tr>
+<tr>
 <td> komme til </td>
 <td> result in </td>
 <td> De virksomheder, der er en idé i at ramme, går fri, mens vi andre kommer til at betale. </td>
@@ -1059,6 +1064,11 @@ search: true
 <td> stamme fra </td>
 <td> originate from </td>
 <td> Han stammer fra Sønderjylland – har stadig charmerende sproglige reminiscenser derfra. </td>
+</tr>
+<tr>
+<td> stemme overens (med) </td>
+<td> be consistent (with) </td>
+<td> Hans forklaring havde stemt overens med vagtmesterens. </td>
 </tr>
 <tr>
 <td> stille et spørgsmål, et krav, en betingelse </td>
