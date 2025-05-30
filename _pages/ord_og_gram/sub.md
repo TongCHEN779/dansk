@@ -27592,6 +27592,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vejrudsigt"> en vejrudsigt </a></td>
+<td>
+<audio id="vejrudsigt" src="https://static.ordnet.dk/mp3/12006/12006095_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vejrudsigt');" style="cursor: pointer; color: blue;">[ˈvεɐ̯ˌuðsegd]</span>
+</td>
+<td> vejrudsigten </td>
+<td> vejrudsigter </td>
+<td> vejrudsigtene </td>
+<td> weather forecast </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=velg%C3%B8renhed"> en velgørenhed </a></td>
 <td>
 <audio id="velgørenhed" src="https://static.ordnet.dk/mp3/12006/12006194_1.mp3" style="display: none;"></audio>
