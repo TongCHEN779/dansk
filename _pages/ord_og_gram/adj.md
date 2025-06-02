@@ -7974,7 +7974,7 @@ search: true
 <td> super </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=sur"> sur </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=sur,2&amp;query=sur"> sur </a></td>
 <td>
 <audio id="sur" src="https://static.ordnet.dk/mp3/11051/11051512_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('sur');" style="cursor: pointer; color: blue;">[ˈsuɐ̯]</span>
@@ -7983,7 +7983,7 @@ search: true
 <td> sure </td>
 <td> surere </td>
 <td> surest </td>
-<td> sour </td>
+<td> angry, sour </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=surrealistisk"> surrealistisk </a></td>
@@ -8296,6 +8296,18 @@ search: true
 <td> taknemmeligere </td>
 <td> taknemmeligst </td>
 <td> grateful </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=taktisk"> taktisk </a></td>
+<td>
+<audio id="taktisk" src="https://static.ordnet.dk/mp3/12000/12000118_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('taktisk');" style="cursor: pointer; color: blue;">[ˈtɑgdisg]</span>
+</td>
+<td> taktisk </td>
+<td> taktiske </td>
+<td> mere taktisk </td>
+<td> mest taktisk </td>
+<td> tactical </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tavs"> tavs </a></td>

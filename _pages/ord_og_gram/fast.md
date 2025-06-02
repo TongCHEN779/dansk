@@ -716,6 +716,11 @@ search: true
 <td> Jeg kunne se, han ledte i sin hjerne efter noget at sige. </td>
 </tr>
 <tr>
+<td> leve (eksistere, trives, ...) i bedste velgående </td>
+<td> be alive and well </td>
+<td> Du bliver dum af at læse tegneserier. Sådan lyder en gammel myte, der stadig lever i bedste velgående. </td>
+</tr>
+<tr>
 <td> leve op til </td>
 <td> live up to </td>
 <td> Drengen lever fuldt op til sit øgenavn Palle Pophår. Det vigtigste i hans tilværelse er nemlig HÅRET! </td>
@@ -968,7 +973,12 @@ search: true
 <tr>
 <td> sidde i saksen </td>
 <td> be stuck </td>
-<td> Nu sidder vi i saksen, fordi rentebyrden tvinger os til at fortsætte låntagningen </td>
+<td> Nu sidder vi i saksen, fordi rentebyrden tvinger os til at fortsætte låntagningen. </td>
+</tr>
+<tr>
+<td> sidde om side </td>
+<td> side by side </td>
+<td> Side om side, med taskerne på ryggen, gik vi ned til vuggestuen. </td>
 </tr>
 <tr>
 <td> skridt for skridt </td>

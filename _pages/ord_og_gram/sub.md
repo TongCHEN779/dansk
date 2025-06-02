@@ -2046,6 +2046,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=berøring"> en berøring </a></td>
+<td>
+<audio id="berøring" src="https://static.ordnet.dk/mp3/11004/11004189_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('berøring');" style="cursor: pointer; color: blue;">[beˈʁɶˀɐ̯eŋ]</span>
+</td>
+<td> berøringen </td>
+<td> berøringer </td>
+<td> berøringerne </td>
+<td> touch </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=besiddelse"> en besiddelse </a></td>
 <td>
 <audio id="besiddelse" src="https://static.ordnet.dk/mp3/11004/11004203_1.mp3" style="display: none;"></audio>
@@ -2895,6 +2907,18 @@ search: true
 <td> bredder </td>
 <td> bredderne </td>
 <td> width </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=breddeidr%C3%A6t"> en breddeidræt </a></td>
+<td>
+<audio id="breddeidræt" src="https://static.ordnet.dk/mp3/11006/11006083_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('breddeidræt');" style="cursor: pointer; color: blue;">[ˈbʁɛðəˌidʁad]</span>
+</td>
+<td> breddeidrætten </td>
+<td> - </td>
+<td> - </td>
+<td> mass sport </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -4901,6 +4925,18 @@ search: true
 <td> elfenbenstårnene </td>
 <td> ivory tower </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=elite"> en elite </a></td>
+<td>
+<audio id="elite" src="https://static.ordnet.dk/mp3/11011/11011109_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('elite');" style="cursor: pointer; color: blue;">[eˈliːdə]</span>
+</td>
+<td> eliten </td>
+<td> eliter </td>
+<td> eliterne </td>
+<td> elite </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=elv%C3%A6rk"> et elværk </a></td>
@@ -20634,6 +20670,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=scout"> en scout </a></td>
+<td>
+<audio id="scout" src="" style="display: none;"></audio>
+<span onclick="playSound('scout');" style="cursor: pointer; color: blue;">[ˈskɑwd]</span>
+</td>
+<td> scouten </td>
+<td> - </td>
+<td> scouts </td>
+<td> scout </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=seddel"> en seddel </a></td>
 <td>
 <audio id="seddel" src="https://static.ordnet.dk/mp3/11045/11045134_1.mp3" style="display: none;"></audio>
@@ -24303,6 +24351,18 @@ search: true
 <td> sæsoner </td>
 <td> sæsonerne </td>
 <td> season </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%A6ter"> en sæter </a></td>
+<td>
+<audio id="sæter" src="https://static.ordnet.dk/mp3/11052/11052275_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sæter');" style="cursor: pointer; color: blue;">[ˈsεˀdʌ]</span>
+</td>
+<td> sæteren </td>
+<td> sætere </td>
+<td> sæterne </td>
+<td> mountain pasture </td>
 <td> 1 </td>
 </tr>
 <tr>

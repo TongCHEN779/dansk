@@ -16603,6 +16603,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=undlade"> at undlade </a></td>
+<td>
+<audio id="undlade" src="https://static.ordnet.dk/mp3/12004/12004936_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('undlade');" style="cursor: pointer; color: blue;">[ˈɔnˌlæˀðə]</span>
+</td>
+<td> undlader </td>
+<td> undlod </td>
+<td> har undladt </td>
+<td> undlad </td>
+<td> to omit </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=undre"> at undre (sig) </a></td>
 <td>
 <audio id="undre" src="https://static.ordnet.dk/mp3/12004/12004940_1.mp3" style="display: none;"></audio>
