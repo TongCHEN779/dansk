@@ -8288,6 +8288,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gnist"> en gnist </a></td>
+<td>
+<audio id="gnist" src="https://static.ordnet.dk/mp3/11018/11018305_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gnist');" style="cursor: pointer; color: blue;">[ˈgnisd]</span>
+</td>
+<td> gnisten </td>
+<td> gnister </td>
+<td> gnisterne </td>
+<td> spark </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gnu"> en gnu </a></td>
 <td>
 <audio id="gnu" src="https://static.ordnet.dk/mp3/11018/11018316_1.mp3" style="display: none;"></audio>
