@@ -330,11 +330,11 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 
 <tr>
 <td>2021 sommer</td>
-<td>mundtlig, mundt-censor</td>
+<td>mundtlig, <a href="https://tongchen779.github.io/dansk/files/pd3/202105_mdt_censor.pdf">mundt-censor</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes2_opgave.pdf">læse2-opg</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202105_skr.pdf">skriftlig</a></td>
-<td>rettenøgler</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202105_ret.pdf">rettenøgler</a></td>
 </tr>
 
 <tr>
@@ -366,7 +366,7 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 
 <tr>
 <td>2023 sommer</td>
-<td>mundtlig, mundt-censor</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202305_mdt.pdf">mundtlig</a>, mundt-censor</td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202305_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202305_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202305_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202305_laes2_opgave.pdf">læse2-opg</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202305_skr.pdf">skriftlig</a></td>
