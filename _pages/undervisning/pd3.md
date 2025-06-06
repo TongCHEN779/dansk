@@ -321,7 +321,7 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 
 <tr>
 <td>2020 vinter</td>
-<td>mundtlig, mundt-censor</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202011_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202011_mdt_censor.pdf">mundt-censor</a></td>
 <td>læse1-tekst, <a href="https://tongchen779.github.io/dansk/files/pd3/202011_laes2_tekst.pdf">læse2-tekst</a></td>
 <td>læse1-opg, <a href="https://tongchen779.github.io/dansk/files/pd3/202011_laes2_opgave.pdf">læse2-opg</a></td>
 <td>skriftlig</td>
@@ -330,7 +330,7 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 
 <tr>
 <td>2021 sommer</td>
-<td>mundtlig, <a href="https://tongchen779.github.io/dansk/files/pd3/202105_mdt_censor.pdf">mundt-censor</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202105_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202105_mdt_censor.pdf">mundt-censor</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202105_laes2_opgave.pdf">læse2-opg</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202105_skr.pdf">skriftlig</a></td>
@@ -339,16 +339,16 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 
 <tr>
 <td>2021 vinter</td>
-<td>mundtlig, <a href="https://tongchen779.github.io/dansk/files/pd3/202111_mdt_censor.pdf">mundt-censor</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202111_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202111_mdt_censor.pdf">mundt-censor</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202111_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202111_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202111_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202111_laes2_opgave.pdf">læse2-opg</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202111_skr.pdf">skriftlig</a></td>
-<td>rettenøgler</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202111_ret.pdf">rettenøgler</a></td>
 </tr>
 
 <tr>
 <td>2022 sommer</td>
-<td>mundtlig, <a href="https://tongchen779.github.io/dansk/files/pd3/202205_mdt_censor.pdf">mundt-censor</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202205_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202205_mdt_censor.pdf">mundt-censor</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202205_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202205_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202205_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202205_laes2_opgave.pdf">læse2-opg</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202205_skr.pdf">skriftlig</a></td>
@@ -366,7 +366,7 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 
 <tr>
 <td>2023 sommer</td>
-<td><a href="https://tongchen779.github.io/dansk/files/pd3/202305_mdt.pdf">mundtlig</a>, mundt-censor</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202305_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202305_mdt_censor.pdf">mundt-censor</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202305_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202305_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202305_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202305_laes2_opgave.pdf">læse2-opg</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202305_skr.pdf">skriftlig</a></td>
