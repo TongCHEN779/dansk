@@ -51,11 +51,11 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 
 <tr>
 <td>2005 vinter</td>
-<td><a href="https://tongchen779.github.io/dansk/files/pd3/200511_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/200511_mdt_censor.pdf">mundt-censor</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/200511_mdt.pdf">mundtlig</a>, mundt-censor</td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/200511_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/200511_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/200511_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/200511_laes2_opgave.pdf">læse2-opg</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/200511_skr.pdf">skriftlig</a></td>
-<td><a href="https://tongchen779.github.io/dansk/files/pd3/200511_ret.pdf">rettenøgler</a></td>
+<td>rettenøgler</td>
 </tr>
 
 <tr>
@@ -289,7 +289,7 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201811_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201811_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201811_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201811_laes2_opgave.pdf">læse2-opg</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201811_skr.pdf">skriftlig</a></td>
-<td><a href="https://tongchen779.github.io/dansk/files/pd3/201811_ret.pdf">rettenøgler</a></td>
+<td>rettenøgler</td>
 </tr>
 
 <tr>
@@ -388,6 +388,15 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 <td>læse1-tekst, læse2-tekst</td>
 <td>læse1-opg, læse2-opg</td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202405_skr.pdf">skriftlig</a></td>
+<td>rettenøgler</td>
+</tr>
+
+<tr>
+<td>2024 vinter</td>
+<td>mundtlig, mundt-censor</td>
+<td>læse1-tekst, læse2-tekst</td>
+<td>læse1-opg, læse2-opg</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202411_skr.pdf">skriftlig</a></td>
 <td>rettenøgler</td>
 </tr>
 </table>
