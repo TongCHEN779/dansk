@@ -858,4 +858,10 @@ search: false
 <td><h1> Verden af i går - Stefan Zweig </h1></td>
 <td><a href="https://tongchen779.github.io/dansk/files/boeger/verden.pdf">link</a></td>
 </tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/aeroe.png"/></p></td>
+<td><h1> Ærø Manifestet - Maj My Humaidan </h1></td>
+<td><a href="https://tongchen779.github.io/dansk/files/boeger/aeroe.pdf">link</a></td>
+</tr>
 </table>
