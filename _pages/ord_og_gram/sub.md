@@ -6296,6 +6296,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fodf%C3%A6ste"> et fodfæste </a></td>
+<td>
+<audio id="fodfæste" src="https://static.ordnet.dk/mp3/11013/11013952_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fodfæste');" style="cursor: pointer; color: blue;">[ˈfoðˌfæsdə]</span>
+</td>
+<td> fodfæstet </td>
+<td> - </td>
+<td> - </td>
+<td> foothold </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fodgængere"> en fodgænger </a></td>
 <td>
 <audio id="fodgænger" src="https://static.ordnet.dk/mp3/11013/11013953_1.mp3" style="display: none;"></audio>

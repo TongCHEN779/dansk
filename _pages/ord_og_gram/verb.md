@@ -5748,6 +5748,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=f%C3%A6ste,2&query=f%C3%A6ste"> at fæste </a></td>
+<td>
+<audio id="fæste" src="https://static.ordnet.dk/mp3/11016/11016746_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fæste');" style="cursor: pointer; color: blue;">[ˈfεsdə]</span>
+</td>
+<td> fæster </td>
+<td> fæstede </td>
+<td> har fæstet </td>
+<td> fæst </td>
+<td> to fasten, secure </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=f%C3%A5"> at få </a></td>
 <td>
 <audio id="få" src="https://static.ordnet.dk/mp3/11016/11016966_1.mp3" style="display: none;"></audio>
@@ -14312,6 +14325,19 @@ search: true
 <td> har styrket </td>
 <td> styrk </td>
 <td> to strengthen </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=styrte"> at styrte </a></td>
+<td>
+<audio id="styrte" src="https://static.ordnet.dk/mp3/11051/11051088_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('styrte');" style="cursor: pointer; color: blue;">[ˈsdyɐ̯də]</span>
+</td>
+<td> styrter </td>
+<td> styrtede </td>
+<td> har/er styrtet </td>
+<td> styrt </td>
+<td> to crash, rush </td>
 <td> 1 </td>
 </tr>
 <tr>
