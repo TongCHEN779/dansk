@@ -205,7 +205,7 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 <tr>
 <td>2014 sommer</td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201405_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201405_mdt_censor.pdf">mundt-censor</a></td>
-<td>læse1-tekst, <a href="https://tongchen779.github.io/dansk/files/pd3/201405_laes2_tekst.pdf">læse2-tekst</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/201405_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201405_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201405_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/201405_laes2_opgave.pdf">læse2-opg</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201405_skr.pdf">skriftlig</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/201405_ret.pdf">rettenøgler</a></td>
