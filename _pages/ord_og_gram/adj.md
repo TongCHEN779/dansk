@@ -7398,6 +7398,18 @@ search: true
 <td> gentle </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=slagen"> slagen </a></td>
+<td>
+<audio id="slagen" src="https://static.ordnet.dk/mp3/11047/11047553_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slagen');" style="cursor: pointer; color: blue;">[ˈslæːjən]</span>
+</td>
+<td> slagent </td>
+<td> slagne </td>
+<td> mere slagen </td>
+<td> mest slagen </td>
+<td> defeated </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?select=slem,2&amp;query=slem"> slem </a></td>
 <td>
 <audio id="slem" src="https://static.ordnet.dk/mp3/11047/11047669_1.mp3" style="display: none;"></audio>

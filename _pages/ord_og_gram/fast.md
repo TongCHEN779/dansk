@@ -146,6 +146,11 @@ search: true
 <td> Den rådne banan har været forskernes geografiske beskrivelse af de skrantende udkantsområder, der begynder i Vendsyssel, fortsætter ned gennem det vestlige Jylland, videre gennem den sydlige del af Sønderjylland over til de sydfynske øer, Langeland, Lolland-Falster og Bornholm. </td>
 </tr>
 <tr>
+<td> den slagne vej </td>
+<td> the beaten path </td>
+<td> Du er fristet til at følge den slagne vej, men den vil næppe føre til det mål, du har sat dig. </td>
+</tr>
+<tr>
 <td> det hvide ud af øjnene </td>
 <td> expensive </td>
 <td> Huawei har markeret sig stærkt de seneste år med en række prisvenlige mobiler for dem, der gerne vil have smarte funktioner, men ikke ønsker at betale det hvide ud af øjnene. </td>

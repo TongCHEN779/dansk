@@ -172,6 +172,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=affeje"> at affeje </a></td>
+<td>
+<audio id="affeje" src="https://static.ordnet.dk/mp3/11000/11000368_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('affeje');" style="cursor: pointer; color: blue;">[-ˌfɑjˀə]</span>
+</td>
+<td> affejer </td>
+<td> affejede </td>
+<td> har affejet </td>
+<td> affej </td>
+<td> to brush off </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afgive"> at afgive </a></td>
 <td>
 <audio id="afgive" src="https://static.ordnet.dk/mp3/11000/11000423_1.mp3" style="display: none;"></audio>
@@ -1925,6 +1938,19 @@ search: true
 <td> bestil </td>
 <td> to order </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bestride"> at bestride </a></td>
+<td>
+<audio id="bestride" src="https://static.ordnet.dk/mp3/11004/11004323_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bestride');" style="cursor: pointer; color: blue;">[beˈsdʁiðˀə]</span>
+</td>
+<td> bestrider </td>
+<td> bestred </td>
+<td> har bestridt </td>
+<td> bestrid </td>
+<td> to dispute, to hold (a position) </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bestr%C3%A6be"> at bestræbe (sig) </a></td>
@@ -5748,7 +5774,7 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?select=f%C3%A6ste,2&query=f%C3%A6ste"> at fæste </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=f%C3%A6ste,2&amp;query=f%C3%A6ste"> at fæste </a></td>
 <td>
 <audio id="fæste" src="https://static.ordnet.dk/mp3/11016/11016746_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('fæste');" style="cursor: pointer; color: blue;">[ˈfεsdə]</span>
@@ -8842,7 +8868,7 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=lukke"> at lukke </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=lukke,2&amp;query=lukke"> at lukke </a></td>
 <td>
 <audio id="lukke" src="https://static.ordnet.dk/mp3/11031/11031160_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('lukke');" style="cursor: pointer; color: blue;">[ˈlɔgə]</span>

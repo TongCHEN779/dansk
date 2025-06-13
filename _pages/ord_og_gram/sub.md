@@ -4963,6 +4963,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=embede"> et embede </a></td>
+<td>
+<audio id="embede" src="https://static.ordnet.dk/mp3/11011/11011203_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('embede');" style="cursor: pointer; color: blue;">[ˈεmˌbeːðə]</span>
+</td>
+<td> embedet </td>
+<td> embeder </td>
+<td> embedene </td>
+<td> office, position </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=embedsmand"> en embedsmand </a></td>
 <td>
 <audio id="embedsmand" src="https://static.ordnet.dk/mp3/11011/11011209_1.mp3" style="display: none;"></audio>
@@ -6401,6 +6413,18 @@ search: true
 <td> foranstaltninger </td>
 <td> foranstaltningerne </td>
 <td> measure </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forargelse"> en forargelse </a></td>
+<td>
+<audio id="forargelse" src="https://static.ordnet.dk/mp3/11014/11014201_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forargelse');" style="cursor: pointer; color: blue;">[fʌˈɑˀwəlsə]</span>
+</td>
+<td> forargelsen </td>
+<td> forargelser </td>
+<td> forargelserne </td>
+<td> indignation </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -9222,6 +9246,18 @@ search: true
 <td> hilsenerne </td>
 <td> greeting </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=himmel"> en himmel </a></td>
+<td>
+<audio id="himmel" src="https://static.ordnet.dk/mp3/11020/11020724_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('himmel');" style="cursor: pointer; color: blue;">[ˈheməl]</span>
+</td>
+<td> himlen </td>
+<td> himle </td>
+<td> himlene </td>
+<td> sky/heaven </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hipster"> en hipster </a></td>
@@ -13457,6 +13493,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> unemployment </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=legat"> et legat </a></td>
+<td>
+<audio id="legat" src="https://static.ordnet.dk/mp3/11030/11030055_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('legat');" style="cursor: pointer; color: blue;">[leˈgæˀd]</span>
+</td>
+<td> legatet </td>
+<td> legater </td>
+<td> legaterne </td>
+<td> grant, scholarship </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -27325,6 +27373,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> dislike, reluctance </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vagina"> en vagina </a></td>
+<td>
+<audio id="vagina" src="https://static.ordnet.dk/mp3/12005/12005479_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vagina');" style="cursor: pointer; color: blue;">[ˈvæˀgina]</span>
+</td>
+<td> vaginaen </td>
+<td> vaginaer </td>
+<td> vaginaerne </td>
+<td> vagina </td>
 <td> 1 </td>
 </tr>
 <tr>
