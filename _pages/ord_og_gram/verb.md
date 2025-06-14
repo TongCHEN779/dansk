@@ -6632,6 +6632,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hive"> at hive </a></td>
+<td>
+<audio id="hive" src="https://static.ordnet.dk/mp3/11020/11020833_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hive');" style="cursor: pointer; color: blue;">[ˈhiːvə]</span>
+</td>
+<td> hiver </td>
+<td> hev </td>
+<td> har hevet </td>
+<td> hiv </td>
+<td> to pull </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hj%C3%A6lpe"> at hjælpe </a></td>
 <td>
 <audio id="hjælpe" src="https://static.ordnet.dk/mp3/11021/11021083_1.mp3" style="display: none;"></audio>

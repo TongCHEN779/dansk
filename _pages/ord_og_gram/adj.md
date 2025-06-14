@@ -6126,6 +6126,18 @@ search: true
 <td> clear, manageable </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=overskydende"> overskydende </a></td>
+<td>
+<audio id="overskydende" src="" style="display: none;"></audio>
+<span onclick="playSound('overskydende');" style="cursor: pointer; color: blue;">[ˈɒwʌˌsgyˀðənə]</span>
+</td>
+<td> overskydende </td>
+<td> overskydende </td>
+<td> mere overskydende </td>
+<td> mest overskydende </td>
+<td> surplus, excess </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=overv%C3%A6gtig"> overvægtig </a></td>
 <td>
 <audio id="overvægtig" src="https://static.ordnet.dk/mp3/11038/11038561_1.mp3" style="display: none;"></audio>
