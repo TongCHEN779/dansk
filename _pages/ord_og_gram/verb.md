@@ -90,7 +90,7 @@ search: true
 <td> adskilte </td>
 <td> har adskilt </td>
 <td> adskil </td>
-<td> to separate </td>
+<td> to separate, distinguish </td>
 <td> 2 </td>
 </tr>
 <tr>
@@ -12857,6 +12857,19 @@ search: true
 <td> skildr </td>
 <td> to depict </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skille"> at skille </a></td>
+<td>
+<audio id="skille" src="https://static.ordnet.dk/mp3/11046/11046573_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skille');" style="cursor: pointer; color: blue;">[ˈsgelə]</span>
+</td>
+<td> skiller </td>
+<td> skilte </td>
+<td> har skilt </td>
+<td> skil </td>
+<td> to separate, distinguish </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skilte"> at skilte </a></td>

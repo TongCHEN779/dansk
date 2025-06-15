@@ -11360,6 +11360,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kalorie"> en kalorie </a></td>
+<td>
+<audio id="kalorie" src="https://static.ordnet.dk/mp3/11025/11025071_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kalorie');" style="cursor: pointer; color: blue;">[kaˈloɐ̯ˀjə]</span>
+</td>
+<td> kalorien </td>
+<td> kalorier </td>
+<td> kalorierne </td>
+<td> calorie </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kamera"> et kamera </a></td>
 <td>
 <audio id="kamera" src="https://static.ordnet.dk/mp3/11025/11025096_1.mp3" style="display: none;"></audio>
@@ -15341,6 +15353,18 @@ search: true
 <td> molekyler </td>
 <td> molekylerne </td>
 <td> molecule </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=monark"> en monark </a></td>
+<td>
+<audio id="monark" src="https://static.ordnet.dk/mp3/11034/11034234_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('monark');" style="cursor: pointer; color: blue;">[moˈnɑːg]</span>
+</td>
+<td> monarken </td>
+<td> monarker </td>
+<td> monarkerne </td>
+<td> monarch </td>
 <td> 1 </td>
 </tr>
 <tr>
