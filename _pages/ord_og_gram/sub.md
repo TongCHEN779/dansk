@@ -5422,8 +5422,8 @@ search: true
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=faktor"> en faktor </a></td>
 <td>
-<audio id="faktor" src="https://static.ordnet.dk/mp3/11012/11012160_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('faktor');" style="cursor: pointer; color: blue;">[ˈfɑgˌtʌɐ̯]</span>
+<audio id="faktor" src="https://static.ordnet.dk/mp3/11012/11012154_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('faktor');" style="cursor: pointer; color: blue;">[ˈfɑgtʌ]</span>
 </td>
 <td> faktoren </td>
 <td> faktorer </td>
@@ -11420,6 +11420,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kampagne"> en kampagne </a></td>
+<td>
+<audio id="kampagne" src="https://static.ordnet.dk/mp3/11025/11025144_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kampagne');" style="cursor: pointer; color: blue;">[kɑmˈpanjə]</span>
+</td>
+<td> kampagnen </td>
+<td> kampagner </td>
+<td> kampagnerne </td>
+<td> campaign </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kampesten"> en kampesten </a></td>
 <td>
 <audio id="kampesten" src="https://static.ordnet.dk/mp3/11025/11025149_1.mp3" style="display: none;"></audio>
@@ -12821,6 +12833,18 @@ search: true
 <td> kupéer </td>
 <td> kupéerne </td>
 <td> compartment </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kur"> en kur </a></td>
+<td>
+<audio id="kur" src="https://static.ordnet.dk/mp3/11028/11028689_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kur');" style="cursor: pointer; color: blue;">[ˈkuɐ̯ˀ]</span>
+</td>
+<td> kuren </td>
+<td> kure </td>
+<td> kurene </td>
+<td> cure </td>
 <td> 1 </td>
 </tr>
 <tr>

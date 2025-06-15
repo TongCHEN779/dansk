@@ -486,6 +486,18 @@ search: true
 <td> well-behaved </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=arvelig"> arvelig </a></td>
+<td>
+<audio id="arvelig" src="https://static.ordnet.dk/mp3/11002/11002583_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('arvelig');" style="cursor: pointer; color: blue;">[ˈɑːvəli]</span>
+</td>
+<td> arveligt </td>
+<td> arvelige </td>
+<td> mere arvelig </td>
+<td> mest arvelig </td>
+<td> hereditary </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=asynkron"> asynkron </a></td>
 <td>
 <audio id="asynkron" src="https://static.ordnet.dk/mp3/11002/11002728_1.mp3" style="display: none;"></audio>
@@ -10278,16 +10290,16 @@ search: true
 <td> virtual </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=vis"> vis </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=vis,2&query=vis"> vis </a></td>
 <td>
 <audio id="vis" src="https://static.ordnet.dk/mp3/12007/12007050_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('vis');" style="cursor: pointer; color: blue;">[ˈviˀs]</span>
 </td>
 <td> vist </td>
-<td> vise </td>
+<td> visse </td>
 <td> - </td>
 <td> - </td>
-<td> some </td>
+<td> some, certain </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vittig"> vittig </a></td>

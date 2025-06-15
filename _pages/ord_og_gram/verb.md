@@ -8426,6 +8426,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kure"> at kure </a></td>
+<td>
+<audio id="kure" src="https://static.ordnet.dk/mp3/11028/11028699_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kure');" style="cursor: pointer; color: blue;">[ˈkuːʌ]</span>
+</td>
+<td> kurer </td>
+<td> kurede </td>
+<td> har kuret </td>
+<td> kur </td>
+<td> to slide </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kurere"> at kurere </a></td>
 <td>
 <audio id="kurere" src="https://static.ordnet.dk/mp3/11028/11028701_1.mp3" style="display: none;"></audio>
