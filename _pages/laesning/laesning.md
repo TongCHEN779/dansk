@@ -390,6 +390,17 @@ Hvis man ikke fra barnsben har lært at regulere sine følelser, kan man stadig 
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/40.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> SE BILLEDERNE Kongelige besøg på Færøerne gennem mere end 100 år </h1>
+<span style="font-weight: normal">
+Kongehuset og Færøerne har en lang, fælles historie.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/indland/se-billederne-kongelige-besoeg-paa-faeroeerne-gennem-mere-end-100-aar">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/10.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Se kortet: Her kan Danmarks nye skove ligge </h1>
