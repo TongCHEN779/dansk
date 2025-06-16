@@ -4748,6 +4748,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forlange"> at forlange </a></td>
+<td>
+<audio id="forlange" src="https://static.ordnet.dk/mp3/11014/11014723_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forlange');" style="cursor: pointer; color: blue;">[fʌˈlɑŋˀə]</span>
+</td>
+<td> forlanger </td>
+<td> forlangte </td>
+<td> har forlangt </td>
+<td> forlang </td>
+<td> to demand </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forlove"> at forlove </a></td>
 <td>
 <audio id="forlove" src="https://static.ordnet.dk/mp3/11014/11014746_1.mp3" style="display: none;"></audio>
