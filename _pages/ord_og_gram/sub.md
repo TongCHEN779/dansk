@@ -1263,7 +1263,6 @@ search: true
 <td> au pairerne </td>
 <td> au pair </td>
 <td> 1 </td>
-
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=automat"> en automat </a></td>
 <td>
@@ -4047,6 +4046,18 @@ search: true
 <td> delikatesser </td>
 <td> delikatesserne </td>
 <td> delicacy </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=delstat"> en delstat </a></td>
+<td>
+<audio id="delstat" src="https://static.ordnet.dk/mp3/11008/11008667_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('delstat');" style="cursor: pointer; color: blue;">[ˈdeːl-]</span>
+</td>
+<td> delstaten </td>
+<td> delstater </td>
+<td> delstaterne </td>
+<td> federal state </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -10061,6 +10072,18 @@ search: true
 <td> - </td>
 <td> hay fever </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%B8jborg"> en højborg </a></td>
+<td>
+<audio id="højborg" src="https://static.ordnet.dk/mp3/11022/11022320_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('højborg');" style="cursor: pointer; color: blue;">[ˈhʌj-]</span>
+</td>
+<td> højborgen </td>
+<td> højborge </td>
+<td> højborgene </td>
+<td> stronghold </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%B8jde"> en højde </a></td>

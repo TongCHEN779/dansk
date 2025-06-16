@@ -3738,6 +3738,18 @@ search: true
 <td> iconic </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=illegal"> illegal </a></td>
+<td>
+<audio id="illegal" src="https://static.ordnet.dk/mp3/11022/11022959_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('illegal');" style="cursor: pointer; color: blue;">[ˈiləˌgæˀl]</span>
+</td>
+<td> illegalt </td>
+<td> illegale </td>
+<td> mere illegal </td>
+<td> mest illegal </td>
+<td> illegal </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=immateriel"> immateriel </a></td>
 <td>
 <audio id="immateriel" src="https://static.ordnet.dk/mp3/11023/11023013_1.mp3" style="display: none;"></audio>
@@ -4672,6 +4684,18 @@ search: true
 <td> ledigere </td>
 <td> ledigst </td>
 <td> vacant </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=legal"> legal </a></td>
+<td>
+<audio id="legal" src="https://static.ordnet.dk/mp3/11030/11030052_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('legal');" style="cursor: pointer; color: blue;">[leˈgæˀl]</span>
+</td>
+<td> legalt </td>
+<td> legale </td>
+<td> mere legal </td>
+<td> mest legal </td>
+<td> legal </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=let"> let </a></td>

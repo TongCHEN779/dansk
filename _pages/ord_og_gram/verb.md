@@ -185,6 +185,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=affyre"> at affyre </a></td>
+<td>
+<audio id="affyre" src="https://static.ordnet.dk/mp3/11000/11000389_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('affyre');" style="cursor: pointer; color: blue;">[ˈɑwˌfyˀʌ]</span>
+</td>
+<td> affyrer </td>
+<td> affyrede </td>
+<td> har affyret </td>
+<td> affyr </td>
+<td> to fire (a gun, etc.) </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afgive"> at afgive </a></td>
 <td>
 <audio id="afgive" src="https://static.ordnet.dk/mp3/11000/11000423_1.mp3" style="display: none;"></audio>
@@ -2952,6 +2965,19 @@ search: true
 <td> deltag </td>
 <td> to participate </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=deportere"> at deportere </a></td>
+<td>
+<audio id="deportere" src="https://static.ordnet.dk/mp3/11008/11008758_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('deportere');" style="cursor: pointer; color: blue;">[depɒˈteˀʌ]</span>
+</td>
+<td> deporterer </td>
+<td> deporterede </td>
+<td> har deporteret </td>
+<td> deporter </td>
+<td> to deport </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=designe"> at designe </a></td>
@@ -16900,6 +16926,19 @@ search: true
 <td> vedhæft </td>
 <td> to attach </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vedkomme"> at vedkomme </a></td>
+<td>
+<audio id="vedkomme" src="https://static.ordnet.dk/mp3/12006/12006004_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vedkomme');" style="cursor: pointer; color: blue;">[-ˌkʌmˀə]</span>
+</td>
+<td> vedkommer </td>
+<td> vedkom </td>
+<td> har vedkommet </td>
+<td> vedkom </td>
+<td> to concern, relate </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vedligeholde"> at vedligeholde </a></td>
