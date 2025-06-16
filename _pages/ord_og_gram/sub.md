@@ -1242,6 +1242,17 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=attentat"> et attentat </a></td>
+<td>
+<audio id="attentat" src="https://static.ordnet.dk/mp3/11002/11002821_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('attentat');" style="cursor: pointer; color: blue;">[adənˈtæˀd]</span>
+</td>
+<td> attentatet </td>
+<td> attentater </td>
+<td> attentaterne </td>
+<td> attack/assassination attempt </td>
+<td> 1 </td>
+</tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=pair"> en au pair </a></td>
 <td>
 <audio id="au pair" src="https://static.ordnet.dk/mp3/11002/11002871_1.mp3" style="display: none;"></audio>
@@ -1252,7 +1263,7 @@ search: true
 <td> au pairerne </td>
 <td> au pair </td>
 <td> 1 </td>
-</tr>
+
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=automat"> en automat </a></td>
 <td>
@@ -9992,6 +10003,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%A6r"> en hær </a></td>
+<td>
+<audio id="hær" src="https://static.ordnet.dk/mp3/11022/11022256_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hær');" style="cursor: pointer; color: blue;">[ˈhεˀɐ̯]</span>
+</td>
+<td> hæren </td>
+<td> hære </td>
+<td> hærene </td>
+<td> army </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hærskare"> en hærskare </a></td>
 <td>
 <audio id="hærskare" src="https://static.ordnet.dk/mp3/11022/11022269_1.mp3" style="display: none;"></audio>
@@ -10793,6 +10816,18 @@ search: true
 <td> indvielsesritualer </td>
 <td> indvielsesritualerne </td>
 <td> initiation ritual </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=infanteri"> et infanteri </a></td>
+<td>
+<audio id="infanteri" src="https://static.ordnet.dk/mp3/11023/11023697_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('infanteri');" style="cursor: pointer; color: blue;">[enfandʌˈʁiˀ]</span>
+</td>
+<td> infanteriet </td>
+<td> infanterier </td>
+<td> infanterierne </td>
+<td> infantry </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -13325,6 +13360,18 @@ search: true
 <td> lagre/lagere </td>
 <td> lagrene/lagerne </td>
 <td> storage </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lagmand"> en lagmand </a></td>
+<td>
+<audio id="lagmand" src="https://static.ordnet.dk/mp3/11029/11029450_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lagmand');" style="cursor: pointer; color: blue;">[ˈlɑw-]</span>
+</td>
+<td> lagmanden </td>
+<td> lagmænd </td>
+<td> lagmændene </td>
+<td> lawman, chief magistrate </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -16975,6 +17022,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opfyldelse"> en opfyldelse </a></td>
+<td>
+<audio id="opfyldelse" src="https://static.ordnet.dk/mp3/11037/11037425_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opfyldelse');" style="cursor: pointer; color: blue;">[-ˌfylˀəlsə]</span>
+</td>
+<td> opfyldelsen </td>
+<td> - </td>
+<td> - </td>
+<td> fulfillment </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=opførelse"> en opførelse </a></td>
 <td>
 <audio id="opførelse" src="https://static.ordnet.dk/mp3/11037/11037431_1.mp3" style="display: none;"></audio>
@@ -17320,6 +17379,18 @@ search: true
 <td> optimeringer </td>
 <td> optimeringerne </td>
 <td> optimization </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=optr%C3%A6den"> en optræden </a></td>
+<td>
+<audio id="optræden" src="https://static.ordnet.dk/mp3/11037/11037822_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('optræden');" style="cursor: pointer; color: blue;">[-ˌtʁεˀðən]</span>
+</td>
+<td> optrædenen </td>
+<td> optrædener </td>
+<td> optrædenerne </td>
+<td> performance, appearance </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -19803,6 +19874,18 @@ search: true
 <td> rigsmål </td>
 <td> rigsmålene </td>
 <td> standard language </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rigsm%C3%B8de"> et rigsmøde </a></td>
+<td>
+<audio id="rigsmøde" src="" style="display: none;"></audio>
+<span onclick="playSound('rigsmøde');" style="cursor: pointer; color: blue;">[ˈʁiːˌsmøˀðə]</span>
+</td>
+<td> rigsmødet </td>
+<td> rigsmøder </td>
+<td> rigsmøderne </td>
+<td> national assembly </td>
 <td> 1 </td>
 </tr>
 <tr>

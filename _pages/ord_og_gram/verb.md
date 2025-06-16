@@ -10090,6 +10090,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omfortolke"> at omfortolke </a></td>
+<td>
+<audio id="omfortolke" src="https://static.ordnet.dk/mp3/11037/11037110_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omfortolke');" style="cursor: pointer; color: blue;">[ˈʌmˌfɒˀtʌlgə]</span>
+</td>
+<td> omfortolker </td>
+<td> omfortolkede </td>
+<td> har omfortolket </td>
+<td> omfortolk </td>
+<td> to reinterpret </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=omg%C3%A6rde"> at omgærde </a></td>
 <td>
 <audio id="omgærde" src="https://static.ordnet.dk/mp3/11037/11037128_1.mp3" style="display: none;"></audio>
@@ -15004,6 +15017,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilbageholde"> at tilbageholde </a></td>
+<td>
+<audio id="tilbageholde" src="https://static.ordnet.dk/mp3/12001/12001027_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilbageholde');" style="cursor: pointer; color: blue;">[-ˌhʌlˀə]</span>
+</td>
+<td> tilbageholder </td>
+<td> tilbageholdt </td>
+<td> har tilbageholdt </td>
+<td> tilbagehold </td>
+<td> to withhold </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilbagetr%C3%A6kke"> at tilbagetrække </a></td>
 <td>
 <audio id="tilbagetrække" src="https://static.ordnet.dk/mp3/12001/12001053_1.mp3" style="display: none;"></audio>
@@ -15431,6 +15457,19 @@ search: true
 <td> tjen </td>
 <td> to earn </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tolke"> at tolke </a></td>
+<td>
+<audio id="tolke" src="https://static.ordnet.dk/mp3/12001/12001684_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tolke');" style="cursor: pointer; color: blue;">[ˈtʌlgə]</span>
+</td>
+<td> tolker </td>
+<td> tolkede </td>
+<td> har tolket </td>
+<td> tolk </td>
+<td> to interpret </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tone"> at tone </a></td>
@@ -16457,6 +16496,19 @@ search: true
 <td> har udtrykt </td>
 <td> udtryk </td>
 <td> to express </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udtømme"> at udtømme </a></td>
+<td>
+<audio id="udtømme" src="https://static.ordnet.dk/mp3/12004/12004260_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udtømme');" style="cursor: pointer; color: blue;">[-ˌtœmˀə]</span>
+</td>
+<td> udtømmer </td>
+<td> udtømte </td>
+<td> har udtømt </td>
+<td> udtøm </td>
+<td> to exhaust, deplete </td>
 <td> 2 </td>
 </tr>
 <tr>

@@ -1938,6 +1938,18 @@ search: true
 <td> Finnish </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=firkantet"> firkantet </a></td>
+<td>
+<audio id="firkantet" src="https://static.ordnet.dk/mp3/11013/11013153_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('firkantet');" style="cursor: pointer; color: blue;">[ˈfiɐ̯ˌkanˀdəð]</span>
+</td>
+<td> firkantet </td>
+<td> firkantede </td>
+<td> mere firkantet </td>
+<td> mest firkantet </td>
+<td> square, boxy, straightforward </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fjern"> fjern </a></td>
 <td>
 <audio id="fjern" src="https://static.ordnet.dk/mp3/11013/11013351_1.mp3" style="display: none;"></audio>
@@ -5898,6 +5910,18 @@ search: true
 <td> evil </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opadvendt"> opadvendt </a></td>
+<td>
+<audio id="opadvendt" src="https://static.ordnet.dk/mp3/11037/11037317_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opadvendt');" style="cursor: pointer; color: blue;">[ˈʌbaðˌvεnˀd]</span>
+</td>
+<td> opadvendt </td>
+<td> opadvendte </td>
+<td> mere opadvendt </td>
+<td> mest opadvendt </td>
+<td> upward-facing </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ophedet"> ophedet </a></td>
 <td>
 <audio id="ophedet" src="https://static.ordnet.dk/mp3/11037/11037453_1.mp3" style="display: none;"></audio>
@@ -7744,6 +7768,18 @@ search: true
 <td> mere stakkels </td>
 <td> mest stakkels </td>
 <td> poor </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=statsejet"> statsejet </a></td>
+<td>
+<audio id="statsejet" src="https://static.ordnet.dk/mp3/11049/11049916_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('statsejet');" style="cursor: pointer; color: blue;">[-ˌɑjəð]</span>
+</td>
+<td> statsejet </td>
+<td> statsejede </td>
+<td> mere statsejet </td>
+<td> mest statsejet </td>
+<td> state-owned </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=statslig"> statslig </a></td>
@@ -10290,7 +10326,7 @@ search: true
 <td> virtual </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?select=vis,2&query=vis"> vis </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=vis,2&amp;query=vis"> vis </a></td>
 <td>
 <audio id="vis" src="https://static.ordnet.dk/mp3/12007/12007050_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('vis');" style="cursor: pointer; color: blue;">[ˈviˀs]</span>
