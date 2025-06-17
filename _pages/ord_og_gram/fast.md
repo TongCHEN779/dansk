@@ -386,8 +386,8 @@ search: true
 <td> Lad os få nogle flere folkeafstemninger, det er der i høj grad brug for. </td>
 </tr>
 <tr>
-<td> have det svært, godt, dårligt, dejligt, bedst, ... </td>
-<td> feel difficult, good, bad, great, best, ... </td>
+<td> have det svært/godt/dårligt/dejligt/bedst, ... </td>
+<td> feel difficult/good/bad/great/best, ... </td>
 <td> Hjælp et barn som har det svært i Rwanda, eller i Mexico, Indien og Kenya eller et andet fattigt land. </td>
 </tr>
 <tr>
@@ -451,8 +451,8 @@ search: true
 <td> Indtagelse af fedt er meget omdiskuteret, både hvad angår fedttypen og fedtmængden. </td>
 </tr>
 <tr>
-<td> hvad (hvem, hvilken/hvilket, hvor, ingen/intet, nogen/noget, når) som helst </td>
-<td> anything (anyone, any, anywhere, nothing, anything, anytime) </td>
+<td> hv-, ingen/intet, nogen/noget, når som helst </td>
+<td> any-, nothing, anything, anytime </td>
 <td> Hun gabte og så ud til at kunne falde i søvn når som helst. </td>
 </tr>
 <tr>
@@ -556,7 +556,7 @@ search: true
 <td> Der er en glidende overgang mellem professionelle og amatører. Og det hele fungerer – ikke på trods af forskellen, men i kraft af den. </td>
 </tr>
 <tr>
-<td> i løbet af natten/dagen/året = i natten/dagen/året- s løbet </td>
+<td> i løbet af natten/dagen/året </td>
 <td> during the night/day/year </td>
 <td> Søndag kommer der en del sol, men i løbet af dagen antagelig mere skyet fra vest. </td>
 </tr>
@@ -651,7 +651,7 @@ search: true
 <td> Lene er i lære som advokatsekretær, og Mette arbejder for tiden som kassedame i et supermarked. </td>
 </tr>
 <tr>
-<td> idømme nogen straf / dømme nogen til straf </td>
+<td> idømme nogen straf, dømme nogen til straf </td>
 <td> impose a penalty on sb </td>
 <td> En nordsjællandsk sparekassebestyrer er blevet dømt for millionsvindel. </td>
 </tr>
@@ -926,7 +926,7 @@ search: true
 <td> Vi skal samarbejde på tværs af kommunegrænser i regionen. </td>
 </tr>
 <tr>
-<td> påtvinge nogen noget / tvinge nogen til noget / tvinge noget ned over nogen </td>
+<td> påtvinge nogen noget, tvinge nogen til noget, tvinge noget ned over nogen </td>
 <td> force sth on sb </td>
 <td> Jeg vil finde det forkert at påtvinge København en styreform, som kommunen ikke selv ønsker. </td>
 </tr>
@@ -1071,7 +1071,7 @@ search: true
 <td> Hun proppede ørerne fulde af tørret græs for at spærre lydene ude. </td>
 </tr>
 <tr>
-<td> stable (stille, få, sætte, ...) på benene </td>
+<td> stable/stille/få/sætte på benene </td>
 <td> set up </td>
 <td> En ting er at få stablet et kammerorkester på benene, noget andet at få det til at løbe rundt. </td>
 </tr>
@@ -1096,7 +1096,7 @@ search: true
 <td> Hans forklaring havde stemt overens med vagtmesterens. </td>
 </tr>
 <tr>
-<td> stille et spørgsmål, et krav, en betingelse </td>
+<td> stille en/et spørgsmål/krav/betingelse </td>
 <td> ask a question, a demand, a condition </td>
 <td> De ekstroverte har lettere ved at leve op til de krav, der bliver stillet på arbejdsmarkedet og på et studium. </td>
 </tr>
@@ -1246,7 +1246,7 @@ search: true
 <td> Der har i mange år lydt kritiske røster i forbindelse med de trange kår en del af dyrene i Zoo må leve under. </td>
 </tr>
 <tr>
-<td> træffe en afgørelse/beslutning, et valg </td>
+<td> træffe en/et afgørelse/beslutning/valg </td>
 <td> make a decision, a choice </td>
 <td> Tonny Sørensens beslutning om at slutte karrieren blev truffet inden VM. </td>
 </tr>
