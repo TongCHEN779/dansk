@@ -354,6 +354,18 @@ search: true
 <td> amoral </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=anatomisk"> anatomisk </a></td>
+<td>
+<audio id="anatomisk" src="https://static.ordnet.dk/mp3/11001/11001649_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('anatomisk');" style="cursor: pointer; color: blue;">[anaˈtoˀmisg]</span>
+</td>
+<td> anatomisk </td>
+<td> anatomiske </td>
+<td> mere anatomisk </td>
+<td> mest anatomisk </td>
+<td> anatomical </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=anderledes"> anderledes </a></td>
 <td>
 <audio id="anderledes" src="https://static.ordnet.dk/mp3/11001/11001706_1.mp3" style="display: none;"></audio>
@@ -5742,6 +5754,18 @@ search: true
 <td> next </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=n%C3%A6vnev%C3%A6rdig"> nævneværdig </a></td>
+<td>
+<audio id="nævneværdig" src="https://static.ordnet.dk/mp3/11036/11036616_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nævneværdig');" style="cursor: pointer; color: blue;">[-ˌvæɐ̯ˀdi]</span>
+</td>
+<td> nævneværdigt </td>
+<td> nævneværdige </td>
+<td> mere nævneværdig </td>
+<td> mest nævneværdig </td>
+<td> notable, noteworthy </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=n%C3%B8dvendig"> nødvendig </a></td>
 <td>
 <audio id="nødvendig" src="https://static.ordnet.dk/mp3/11036/11036670_1.mp3" style="display: none;"></audio>
@@ -8358,6 +8382,18 @@ search: true
 <td> miserable </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%B8mmelig"> sømmelig </a></td>
+<td>
+<audio id="sømmelig" src="https://static.ordnet.dk/mp3/11052/11052411_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sømmelig');" style="cursor: pointer; color: blue;">[ˈsœməli]</span>
+</td>
+<td> sømmeligt </td>
+<td> sømmelige </td>
+<td> mere sømmelig </td>
+<td> mest sømmelig </td>
+<td> decent, proper </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=s%C3%B8rgelig"> sørgelig </a></td>
 <td>
 <audio id="sørgelig" src="https://static.ordnet.dk/mp3/11052/11052471_1.mp3" style="display: none;"></audio>
@@ -10000,6 +10036,18 @@ search: true
 <td> mere utvetydig </td>
 <td> mest utvetydig </td>
 <td> unambiguous </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ut%C3%A6nkelig"> utænkelig </a></td>
+<td>
+<audio id="utænkelig" src="https://static.ordnet.dk/mp3/12005/12005382_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('utænkelig');" style="cursor: pointer; color: blue;">[uˈtεŋˀgəli]</span>
+</td>
+<td> utænkeligt </td>
+<td> utænkelige </td>
+<td> mere utænkelig </td>
+<td> mest utænkelig </td>
+<td> unthinkable </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=utæt"> utæt </a></td>

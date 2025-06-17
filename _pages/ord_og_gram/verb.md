@@ -3058,6 +3058,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dissekere"> at dissekere </a></td>
+<td>
+<audio id="dissekere" src="https://static.ordnet.dk/mp3/11009/11009258_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dissekere');" style="cursor: pointer; color: blue;">[disəˈkeˀʌ]</span>
+</td>
+<td> dissekerer </td>
+<td> dissekerede </td>
+<td> har dissekeret </td>
+<td> disseker </td>
+<td> to dissect </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dividere"> at dividere </a></td>
 <td>
 <audio id="dividere" src="https://static.ordnet.dk/mp3/11009/11009310_1.mp3" style="display: none;"></audio>
@@ -5722,6 +5735,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fuldf%C3%B8re"> at fuldføre </a></td>
+<td>
+<audio id="fuldføre" src="https://static.ordnet.dk/mp3/11016/11016415_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fuldføre');" style="cursor: pointer; color: blue;">[-ˌføˀʌ]</span>
+</td>
+<td> fuldfører </td>
+<td> fuldførte </td>
+<td> har fuldført </td>
+<td> fuldfør </td>
+<td> to complete </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fundere"> at fundere </a></td>
 <td>
 <audio id="fundere" src="https://static.ordnet.dk/mp3/11016/11016465_1.mp3" style="display: none;"></audio>
@@ -7071,6 +7097,19 @@ search: true
 <td> har illustreret </td>
 <td> illustrer </td>
 <td> to illustrate </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=immatrikulere"> at immatrikulere </a></td>
+<td>
+<audio id="immatrikulere" src="https://static.ordnet.dk/mp3/11023/11023015_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('immatrikulere');" style="cursor: pointer; color: blue;">[imatʁikuˈleːʌ]</span>
+</td>
+<td> immatrikulerer </td>
+<td> immatrikulerede </td>
+<td> har immatrikuleret </td>
+<td> immatrikuler </td>
+<td> to matriculate/enroll </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -12430,6 +12469,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=rygte,2&amp;query=rygte"> at rygte </a></td>
+<td>
+<audio id="rygte" src="https://static.ordnet.dk/mp3/11044/11044006_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rygte');" style="cursor: pointer; color: blue;">[ˈʁœgdə]</span>
+</td>
+<td> rygter </td>
+<td> rygtede </td>
+<td> har rygtet </td>
+<td> rygt </td>
+<td> to rumor </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=rykke"> at rykke </a></td>
 <td>
 <audio id="rykke" src="https://static.ordnet.dk/mp3/11044/11044015_1.mp3" style="display: none;"></audio>
@@ -15443,6 +15495,19 @@ search: true
 <td> har tiltrængt </td>
 <td> tiltræng </td>
 <td> to urgently need </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilt%C3%A6nke"> at tiltænke </a></td>
+<td>
+<audio id="tiltænke" src="https://static.ordnet.dk/mp3/12001/12001371_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tiltænke');" style="cursor: pointer; color: blue;">[-ˌtεŋˀgə]</span>
+</td>
+<td> tiltænker </td>
+<td> tiltænkte </td>
+<td> har tiltænkt </td>
+<td> tiltænk </td>
+<td> to intend, to mean for </td>
 <td> 2 </td>
 </tr>
 <tr>

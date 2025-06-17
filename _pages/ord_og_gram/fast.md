@@ -81,6 +81,11 @@ search: true
 <td> Englænderne bakker op om indførelsen af demokratiske reformer i Hong Kong. </td>
 </tr>
 <tr>
+<td> bane vej/vejen </td>
+<td> pave the way </td>
+<td> Trods alle forhindringer endte KU's to første kvindelige studerende med en kandidatgrad og blev de pionerer, der banede vejen for kvinder i dansk akademia. </td>
+</tr>
+<tr>
 <td> beklage sig </td>
 <td> complain </td>
 <td> Mor beklager sig over alt, hvad der kan være at klage over. </td>
@@ -649,6 +654,11 @@ search: true
 <td> idømme nogen straf / dømme nogen til straf </td>
 <td> impose a penalty on sb </td>
 <td> En nordsjællandsk sparekassebestyrer er blevet dømt for millionsvindel. </td>
+</tr>
+<tr>
+<td> ingen vegne, ikke nogen vegne </td>
+<td> nowhere </td>
+<td> Man kommer ingen vegne med løftede pegefingre. Det handler om at være åben og lytte. </td>
 </tr>
 <tr>
 <td> jo ... desto ..., desto ... desto ... </td>

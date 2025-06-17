@@ -90,6 +90,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=adkomst"> en adkomst (til) </a></td>
+<td>
+<audio id="adkomst" src="https://static.ordnet.dk/mp3/11000/11000195_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('adkomst');" style="cursor: pointer; color: blue;">[ˈaðˌkʌmˀsd]</span>
+</td>
+<td> adkomsten </td>
+<td> adkomster </td>
+<td> adkomsterne </td>
+<td> title, right of ownership </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=adresse"> en adresse </a></td>
 <td>
 <audio id="adresse" src="https://static.ordnet.dk/mp3/11000/11000222_1.mp3" style="display: none;"></audio>
@@ -4268,7 +4280,7 @@ search: true
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dobbeltmoral"> en dobbeltmoral </a></td>
 <td>
 <audio id="dobbeltmoral" src="https://static.ordnet.dk/mp3/11009/11009381_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('dobbeltmoral');" style="cursor: pointer; color: blue;"></span>
+<span onclick="playSound('dobbeltmoral');" style="cursor: pointer; color: blue;">[ˈdɔbəldmoˌʁɑˀl]</span>
 </td>
 <td> dobbeltmoralen </td>
 <td> dobbeltmoraler </td>
@@ -5250,6 +5262,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=erindring"> en erindring </a></td>
+<td>
+<audio id="erindring" src="https://static.ordnet.dk/mp3/11011/11011709_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('erindring');" style="cursor: pointer; color: blue;">[eˈʁεnˀdʁεŋ]</span>
+</td>
+<td> erindringen </td>
+<td> erindringer </td>
+<td> erindringerne </td>
+<td> memory </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=erotik"> en erotik </a></td>
 <td>
 <audio id="erotik" src="https://static.ordnet.dk/mp3/11011/11011741_1.mp3" style="display: none;"></audio>
@@ -6148,6 +6172,18 @@ search: true
 <td> - </td>
 <td> flexibility </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=flertal"> et flertal </a></td>
+<td>
+<audio id="flertal" src="https://static.ordnet.dk/mp3/11013/11013556_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('flertal');" style="cursor: pointer; color: blue;">[ˈfleɐ̯ˌtal]</span>
+</td>
+<td> flertallet </td>
+<td> flertal </td>
+<td> flertallene </td>
+<td> majority </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=flig"> en flig </a></td>
@@ -11922,6 +11958,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kirurgi"> en kirurgi </a></td>
+<td>
+<audio id="kirurgi" src="https://static.ordnet.dk/mp3/11026/11026050_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kirurgi');" style="cursor: pointer; color: blue;">[kiʁuɐ̯ˈgiˀ]</span>
+</td>
+<td> kirurgien </td>
+<td> - </td>
+<td> - </td>
+<td> surgery </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=klasse"> en klasse </a></td>
 <td>
 <audio id="klasse" src="https://static.ordnet.dk/mp3/11026/11026177_1.mp3" style="display: none;"></audio>
@@ -12414,6 +12462,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=konsistorium"> et konsistorium </a></td>
+<td>
+<audio id="konsistorium" src="https://static.ordnet.dk/mp3/11027/11027386_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('konsistorium');" style="cursor: pointer; color: blue;">[kʌnsiˈsdoˀɐ̯iɔm]</span>
+</td>
+<td> konsistoriet </td>
+<td> konsistorier </td>
+<td> konsistorierne </td>
+<td> consistory </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=konstellation"> en konstellation </a></td>
 <td>
 <audio id="konstellation" src="https://static.ordnet.dk/mp3/11027/11027408_1.mp3" style="display: none;"></audio>
@@ -12903,6 +12963,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> cultural heritage </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kundskab"> en kundskab </a></td>
+<td>
+<audio id="kundskab" src="https://static.ordnet.dk/mp3/11028/11028608_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kundskab');" style="cursor: pointer; color: blue;">[ˈkɔnˌsgæˀb]</span>
+</td>
+<td> kundskaben </td>
+<td> kundskaber </td>
+<td> kundskaberne </td>
+<td> knowledge </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -13420,6 +13492,18 @@ search: true
 <td> lagmændene </td>
 <td> lawman, chief magistrate </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lakmus"> en lakmus </a></td>
+<td>
+<audio id="lakmus" src="https://static.ordnet.dk/mp3/11029/11029464_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lakmus');" style="cursor: pointer; color: blue;">[ˈlɑgmus]</span>
+</td>
+<td> lakmussen </td>
+<td> - </td>
+<td> - </td>
+<td> litmus </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=lampe"> en lampe </a></td>
@@ -15210,6 +15294,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=mindretal"> et mindretal </a></td>
+<td>
+<audio id="mindretal" src="https://static.ordnet.dk/mp3/11033/11033738_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mindretal');" style="cursor: pointer; color: blue;">[ˈmendʁʌˌtal]</span>
+</td>
+<td> mindretallet </td>
+<td> mindretal </td>
+<td> mindretallene </td>
+<td> minority </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=miniserie"> en miniserie </a></td>
 <td>
 <audio id="miniserie" src="https://static.ordnet.dk/mp3/11033/11033808_1.mp3" style="display: none;"></audio>
@@ -16937,6 +17033,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omvej"> en omvej </a></td>
+<td>
+<audio id="omvej" src="https://static.ordnet.dk/mp3/11037/11037268_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omvej');" style="cursor: pointer; color: blue;">[ˈʌmˌvɑj]</span>
+</td>
+<td> omvejen </td>
+<td> omveje </td>
+<td> omvejene </td>
+<td> detour </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=omverden"> en omverden </a></td>
 <td>
 <audio id="omverden" src="https://static.ordnet.dk/mp3/11037/11037273_1.mp3" style="display: none;"></audio>
@@ -18013,6 +18121,18 @@ search: true
 <td> parasitter </td>
 <td> parasitterne </td>
 <td> parasite </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=parathed"> parathed </a></td>
+<td>
+<audio id="parathed" src="https://static.ordnet.dk/mp3/51001/51001807_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('parathed');" style="cursor: pointer; color: blue;">[pɑˈʁɑˀdˌheðˀ]</span>
+</td>
+<td> paratheden </td>
+<td> - </td>
+<td> - </td>
+<td> readiness </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -20593,6 +20713,18 @@ search: true
 <td> sagaer </td>
 <td> sagaerne </td>
 <td> saga </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sagkundskab"> en sagkundskab </a></td>
+<td>
+<audio id="sagkundskab" src="https://static.ordnet.dk/mp3/11044/11044404_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sagkundskab');" style="cursor: pointer; color: blue;">[ˈsɑw-]</span>
+</td>
+<td> sagkundskaben </td>
+<td> - </td>
+<td> - </td>
+<td> expertise </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -28067,6 +28199,18 @@ search: true
 <td> videreførelser </td>
 <td> videreførelserne </td>
 <td> continuation </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vidnesbyrd"> et vidnesbyrd </a></td>
+<td>
+<audio id="vidnesbyrd" src="https://static.ordnet.dk/mp3/12006/12006643_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vidnesbyrd');" style="cursor: pointer; color: blue;">[-ˌbyɐ̯ˀd]</span>
+</td>
+<td> vidnesbyrdet </td>
+<td> vidnesbyrd </td>
+<td> vidnesbyrdene </td>
+<td> testimony </td>
 <td> 1 </td>
 </tr>
 <tr>

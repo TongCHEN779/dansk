@@ -76,4 +76,12 @@ Siden tidernes morgen har menneskets vigtigste evne måske været, at vi kan tæ
 <tr><td><span style="font-weight: normal">
 Gift dig, du vil fortryde det; gift dig ikke, du vil også fortryde det; gift dig eller gift dig ikke, du vil fortryde begge dele; enten du gifter dig, eller du ikke gifter dig, du vil fortryde begge dele.
 </span></td></tr>
+
+<tr><td><span style="font-weight: normal">
+De skulle være bedre end deres mandlige medstudende. De var få, og de vidste, at de blev set som repræsentanter for alle kvinder.
+</span></td></tr>
+
+<tr><td><span style="font-weight: normal">
+Historien om kvinder på universitet er en påmindelse om, at adgang ikke er det samme som lighed. Men den viser også, hvor meget der kan vindes, når man tør åbne dørene.
+</span></td></tr>
 </table>
