@@ -26,9 +26,9 @@ search: true
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th> Udtryk </th>
-<th> Engelsk </th>
-<th> Eksempler </th>
+<th style="width: 30%;"> Udtryk </th>
+<th style="width: 30%;"> Engelsk </th>
+<th style="width: 40%;"> Eksempler </th>
 </tr>
 <tr>
 <td> aber dabei </td>
