@@ -5418,6 +5418,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fagforbund"> et fagforbund </a></td>
+<td>
+<audio id="fagforbund" src="https://static.ordnet.dk/mp3/11012/11012099_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fagforbund');" style="cursor: pointer; color: blue;">[ˈfɑwfʌˌbɔnˀ]</span>
+</td>
+<td> fagforbundet </td>
+<td> fagforbund </td>
+<td> fagforbundene </td>
+<td> trade union federation </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fagforening"> en fagforening </a></td>
 <td>
 <audio id="fagforening" src="https://static.ordnet.dk/mp3/11012/11012100_1.mp3" style="display: none;"></audio>
@@ -7036,6 +7048,18 @@ search: true
 <td> forstæderne </td>
 <td> suburb </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forstand"> en forstand </a></td>
+<td>
+<audio id="forstand" src="https://static.ordnet.dk/mp3/11015/11015175_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forstand');" style="cursor: pointer; color: blue;">[fʌˈsdanˀ]</span>
+</td>
+<td> forstanden </td>
+<td> - </td>
+<td> - </td>
+<td> sense, understanding </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forstkandidat"> en forstkandidat </a></td>

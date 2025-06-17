@@ -8886,6 +8886,18 @@ search: true
 <td> doubtful </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tv%C3%A6rfaglig"> tværfaglig </a></td>
+<td>
+<audio id="tværfaglig" src="https://static.ordnet.dk/mp3/12003/12003073_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tværfaglig');" style="cursor: pointer; color: blue;">[ˈtvεɐ̯-]</span>
+</td>
+<td> tværfagligt </td>
+<td> tværfaglige </td>
+<td> mere tværfaglig </td>
+<td> mest tværfaglig </td>
+<td> interdisciplinary </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tv%C3%A6rg%C3%A5ende"> tværgående </a></td>
 <td>
 <audio id="tværgående" src="" style="display: none;"></audio>

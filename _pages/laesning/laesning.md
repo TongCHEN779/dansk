@@ -60,6 +60,17 @@ De internationale klimaforhandlinger er ramt af, at USA og Kina på hver sin fro
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/41.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Bekymrende forhold på USA's militærbase i Grønland fik fagforbund til at slå alarm </h1>
+<span style="font-weight: normal">
+Basale ting som sikkerhedssko og arbejdstøj har været en mangelvare på amerikansk militærbase i Grønland. Det har skabt frustration blandt medarbejderne og kritik af ledelsen.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/indland/bekymrende-forhold-paa-usas-militaerbase-i-groenland-fik-fagforbund-til-slaa-alarm">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/1.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Chatbots sviner klimaet: Kæmpe datacentre kan om få år sluge hele Japans strømforbrug </h1>
