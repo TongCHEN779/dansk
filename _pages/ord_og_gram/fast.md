@@ -26,9 +26,9 @@ search: true
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<th style="width: 30%;"> Udtryk </th>
-<th style="width: 30%;"> Engelsk </th>
-<th style="width: 40%;"> Eksempler </th>
+<th> Udtryk </th>
+<th> Engelsk </th>
+<th> Eksempler </th>
 </tr>
 <tr>
 <td> aber dabei </td>
@@ -451,8 +451,8 @@ search: true
 <td> Indtagelse af fedt er meget omdiskuteret, både hvad angår fedttypen og fedtmængden. </td>
 </tr>
 <tr>
-<td> hv-, ingen/intet, nogen/noget, når som helst </td>
-<td> any-, nothing, anything, anytime </td>
+<td> hvad (hvem, hvor, hvilken/hvilket, ingen/intet, nogen/noget, når) som helst </td>
+<td> anything, anybody, anywhere, any, no one/nothing, anyone/anything, anytime </td>
 <td> Hun gabte og så ud til at kunne falde i søvn når som helst. </td>
 </tr>
 <tr>
