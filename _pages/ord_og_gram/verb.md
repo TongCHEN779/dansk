@@ -692,6 +692,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=afvige"> at afvige </a></td>
+<td>
+<audio id="afvige" src="https://static.ordnet.dk/mp3/11000/11000886_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('afvige');" style="cursor: pointer; color: blue;">[-ˌviˀə]</span>
+</td>
+<td> afviger </td>
+<td> afveg </td>
+<td> har afveget </td>
+<td> afvig </td>
+<td> to deviate </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afvikle"> at afvikle </a></td>
 <td>
 <audio id="afvikle" src="https://static.ordnet.dk/mp3/11000/11000890_1.mp3" style="display: none;"></audio>
