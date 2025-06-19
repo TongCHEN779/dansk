@@ -1194,6 +1194,18 @@ search: true
 <td> lovely </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=delvis"> delvis </a></td>
+<td>
+<audio id="delvis" src="https://static.ordnet.dk/mp3/11008/11008676_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('delvis');" style="cursor: pointer; color: blue;">[ˈdeːlˌviˀs]</span>
+</td>
+<td> delvist </td>
+<td> delvise </td>
+<td> mere delvis </td>
+<td> mest delvis </td>
+<td> partial </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=deprimeret"> deprimeret </a></td>
 <td>
 <audio id="deprimeret" src="https://static.ordnet.dk/mp3/11008/11008770_1.mp3" style="display: none;"></audio>
