@@ -4709,6 +4709,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=d%C3%A5b"> en dåb </a></td>
+<td>
+<audio id="dåb" src="https://static.ordnet.dk/mp3/11010/11010418_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dåb');" style="cursor: pointer; color: blue;">[ˈdɔˀb]</span>
+</td>
+<td> dåben </td>
+<td> - </td>
+<td> dåbene </td>
+<td> baptism </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=d%C3%A5se"> en dåse </a></td>
 <td>
 <audio id="dåse" src="https://static.ordnet.dk/mp3/11010/11010439_1.mp3" style="display: none;"></audio>
