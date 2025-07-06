@@ -3695,6 +3695,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ernære"> at ernære (sig) </a></td>
+<td>
+<audio id="ernære" src="https://static.ordnet.dk/mp3/11011/11011730_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ernære');" style="cursor: pointer; color: blue;">[æɐ̯ˈnεˀʌ]</span>
+</td>
+<td> ernærer </td>
+<td> ernærede </td>
+<td> har ernæret </td>
+<td> ernær </td>
+<td> to nourish, support oneself </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=erstatte"> at erstatte </a></td>
 <td>
 <audio id="erstatte" src="https://static.ordnet.dk/mp3/11011/11011757_1.mp3" style="display: none;"></audio>
@@ -11702,6 +11715,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=purere"> at purere </a></td>
+<td>
+<audio id="purere" src="https://static.ordnet.dk/mp3/11041/11041602_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('purere');" style="cursor: pointer; color: blue;">[pyˈʁεˀʌ]</span>
+</td>
+<td> purerer </td>
+<td> purerede </td>
+<td> har pureret </td>
+<td> purer </td>
+<td> to puree </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=puste"> at puste </a></td>
 <td>
 <audio id="puste" src="https://static.ordnet.dk/mp3/11041/11041630_1.mp3" style="display: none;"></audio>
@@ -12648,6 +12674,19 @@ search: true
 <td> har samtykket </td>
 <td> samtyk </td>
 <td> to consent </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sanse"> at sanse </a></td>
+<td>
+<audio id="sanse" src="https://static.ordnet.dk/mp3/11044/11044946_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sanse');" style="cursor: pointer; color: blue;">[ˈsansə]</span>
+</td>
+<td> sanser </td>
+<td> sansede </td>
+<td> har sanset </td>
+<td> sans </td>
+<td> to sense </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -15457,6 +15496,19 @@ search: true
 <td> tilsted </td>
 <td> to allow </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tils%C3%A6tte"> at tilsætte </a></td>
+<td>
+<audio id="tilsætte" src="https://static.ordnet.dk/mp3/12001/12001347_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilsætte');" style="cursor: pointer; color: blue;">[ˈtelˌsεdə]</span>
+</td>
+<td> tilsætter </td>
+<td> tilsatte </td>
+<td> har tilsat </td>
+<td> tilsæt </td>
+<td> to add </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tiltale"> at tiltale </a></td>

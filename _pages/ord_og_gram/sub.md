@@ -6114,6 +6114,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fjerkr%C3%A6"> fjerkræ </a></td>
+<td>
+<audio id="fjerkræ" src="https://static.ordnet.dk/mp3/11013/11013348_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fjerkræ');" style="cursor: pointer; color: blue;">[ˈfjeɐ̯ˌkʁεˀ]</span>
+</td>
+<td> fjerkræet </td>
+<td> - </td>
+<td> - </td>
+<td> poultry </td>
+<td> A </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fjernsyn"> et fjernsyn </a></td>
 <td>
 <audio id="fjernsyn" src="https://static.ordnet.dk/mp3/11013/11013367_1.mp3" style="display: none;"></audio>
@@ -8703,6 +8715,18 @@ search: true
 <td> græsrødder </td>
 <td> græsrødderne </td>
 <td> grassroots </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gr%C3%B8d"> en grød </a></td>
+<td>
+<audio id="grød" src="https://static.ordnet.dk/mp3/11018/11018946_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('grød');" style="cursor: pointer; color: blue;">[ˈgʁœðˀ]</span>
+</td>
+<td> grøden </td>
+<td> - </td>
+<td> - </td>
+<td> porridge </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -15663,6 +15687,18 @@ search: true
 <td> mormødre </td>
 <td> mormødrene </td>
 <td> grandmother </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=mos,2&amp;query=mos"> en mos </a></td>
+<td>
+<audio id="mos" src="https://static.ordnet.dk/mp3/11034/11034418_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mos');" style="cursor: pointer; color: blue;">[ˈmɔs]</span>
+</td>
+<td> mosen </td>
+<td> - </td>
+<td> - </td>
+<td> mush </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -28704,6 +28740,30 @@ search: true
 <td> - </td>
 <td> anger </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vugge"> en vugge </a></td>
+<td>
+<audio id="vugge" src="https://static.ordnet.dk/mp3/12007/12007361_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vugge');" style="cursor: pointer; color: blue;">[ˈvɔgə]</span>
+</td>
+<td> vuggen </td>
+<td> vugger </td>
+<td> vuggerne </td>
+<td> cradle </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vugged%C3%B8d"> en vuggedød </a></td>
+<td>
+<audio id="vuggedød" src="https://static.ordnet.dk/mp3/12007/12007363_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vuggedød');" style="cursor: pointer; color: blue;">[ˈvɔgəˌdøð]</span>
+</td>
+<td> vuggedøden </td>
+<td> - </td>
+<td> - </td>
+<td> sudden infant death </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vuggestue"> en vuggestue </a></td>
