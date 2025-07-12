@@ -387,7 +387,7 @@ search: true
 <td> angivelige </td>
 <td> mere angivelig </td>
 <td> mest angivelig </td>
-<td> alleged </td>
+<td> alleged, apparently </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ansp%C3%A6ndt"> anspændt </a></td>

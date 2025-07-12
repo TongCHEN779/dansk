@@ -726,6 +726,30 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=anklagemyndighed"> en anklagemyndighed </a></td>
+<td>
+<audio id="anklagemyndighed" src="https://static.ordnet.dk/mp3/11001/11001846_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('anklagemyndighed');" style="cursor: pointer; color: blue;">[ˈanˌklæːjə-]</span>
+</td>
+<td> anklagemyndigheden </td>
+<td> anklagemyndigheder </td>
+<td> anklagemyndighederne </td>
+<td> prosecution authority </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=anklageskrift"> et anklageskrift </a></td>
+<td>
+<audio id="anklageskrift" src="https://static.ordnet.dk/mp3/11001/11001849_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('anklageskrift');" style="cursor: pointer; color: blue;">[ˈanˌklæːjə-]</span>
+</td>
+<td> anklageskriftet </td>
+<td> anklageskrifter </td>
+<td> anklageskrifterne </td>
+<td> indictment </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=anledning"> en anledning (til) </a></td>
 <td>
 <audio id="anledning" src="https://static.ordnet.dk/mp3/11001/11001855_1.mp3" style="display: none;"></audio>
@@ -5007,6 +5031,18 @@ search: true
 <td> e-mailene </td>
 <td> e-mail </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=emballage"> en emballage </a></td>
+<td>
+<audio id="emballage" src="https://static.ordnet.dk/mp3/11011/11011199_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('emballage');" style="cursor: pointer; color: blue;">[ɑmbaˈlæːɕə]</span>
+</td>
+<td> emballagen </td>
+<td> emballager </td>
+<td> emballagerne </td>
+<td> packaging </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=embede"> et embede </a></td>
@@ -9964,6 +10000,18 @@ search: true
 <td> hverdagstingene </td>
 <td> everyday thing </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hvidvask"> en hvidvask </a></td>
+<td>
+<audio id="hvidvask" src="https://static.ordnet.dk/mp3/11021/11021941_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hvidvask');" style="cursor: pointer; color: blue;">[ˈviðˌvasg]</span>
+</td>
+<td> hvidvasken </td>
+<td> hvidvasker </td>
+<td> hvidvaskerne </td>
+<td> money laundering </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hykleri"> et hykleri </a></td>
@@ -19972,6 +20020,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=retningslinje"> en retningslinje </a></td>
+<td>
+<audio id="retningslinje" src="https://static.ordnet.dk/mp3/11043/11043078_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('retningslinje');" style="cursor: pointer; color: blue;">[ˈʁadneŋsˌliˀnjə]</span>
+</td>
+<td> retningslinjen </td>
+<td> retningslinjer </td>
+<td> retningslinjerne </td>
+<td> guideline </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=retorik"> en retorik </a></td>
 <td>
 <audio id="retorik" src="https://static.ordnet.dk/mp3/11043/11043080_1.mp3" style="display: none;"></audio>
@@ -19981,6 +20041,18 @@ search: true
 <td> retorikker </td>
 <td> retorikkerne </td>
 <td> rhetoric </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=retsdag"> en retsdag </a></td>
+<td>
+<audio id="retsdag" src="https://static.ordnet.dk/mp3/49159/49159481_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('retsdag');" style="cursor: pointer; color: blue;">[ˈʁadsˌdæˀ]</span>
+</td>
+<td> retsdagen </td>
+<td> retsdage </td>
+<td> retsdagene </td>
+<td> court day </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -21640,6 +21712,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skattely"> et skattely </a></td>
+<td>
+<audio id="skattely" src="https://static.ordnet.dk/mp3/11046/11046395_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skattely');" style="cursor: pointer; color: blue;">[ˈsgadəˌlyˀ]</span>
+</td>
+<td> skattelyet </td>
+<td> skattely </td>
+<td> skattelyene </td>
+<td> tax haven </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skavank"> en skavank </a></td>
 <td>
 <audio id="skavank" src="https://static.ordnet.dk/mp3/11046/11046427_1.mp3" style="display: none;"></audio>
@@ -22010,6 +22094,18 @@ search: true
 <td> skridtene </td>
 <td> step </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skrift"> en/et skrift </a></td>
+<td>
+<audio id="skrift" src="https://static.ordnet.dk/mp3/11046/11046952_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skrift');" style="cursor: pointer; color: blue;">[ˈsgʁεfd]</span>
+</td>
+<td> skriften/skriftet </td>
+<td> skrifter </td>
+<td> skrifterne </td>
+<td> writing/script </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skruetrækker"> en skruetrækker </a></td>
@@ -26015,6 +26111,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> urge </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=transaktion"> en transaktion </a></td>
+<td>
+<audio id="transaktion" src="https://static.ordnet.dk/mp3/12002/12002066_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('transaktion');" style="cursor: pointer; color: blue;">[tʁɑnsɑgˈɕoˀn]</span>
+</td>
+<td> transaktionen </td>
+<td> transaktioner </td>
+<td> transaktionerne </td>
+<td> transaction </td>
 <td> 1 </td>
 </tr>
 <tr>
