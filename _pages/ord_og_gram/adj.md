@@ -9150,6 +9150,18 @@ search: true
 <td> unlimited </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ubegrundet"> ubegrundet </a></td>
+<td>
+<audio id="ubegrundet" src="https://static.ordnet.dk/mp3/12003/12003553_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ubegrundet');" style="cursor: pointer; color: blue;">[ˈubeˌgʁɔnˀəð]</span>
+</td>
+<td> ubegrundet </td>
+<td> ubegrundede </td>
+<td> mere ubegrundet </td>
+<td> mest ubegrundet </td>
+<td> unfounded </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ubehagelig"> ubehagelig </a></td>
 <td>
 <audio id="ubehagelig" src="https://static.ordnet.dk/mp3/12003/12003556_1.mp3" style="display: none;"></audio>
