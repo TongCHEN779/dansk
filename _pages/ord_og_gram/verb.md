@@ -5774,6 +5774,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fumle"> at fumle </a></td>
+<td>
+<audio id="fumle" src="https://static.ordnet.dk/mp3/11016/11016450_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fumle');" style="cursor: pointer; color: blue;">[ˈfɔmlə]</span>
+</td>
+<td> fumler </td>
+<td> fumlede </td>
+<td> har fumlet </td>
+<td> fuml </td>
+<td> to fumble </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fundere"> at fundere </a></td>
 <td>
 <audio id="fundere" src="https://static.ordnet.dk/mp3/11016/11016465_1.mp3" style="display: none;"></audio>
@@ -13767,6 +13780,19 @@ search: true
 <td> smør </td>
 <td> to lubricate </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=snage"> at snage </a></td>
+<td>
+<audio id="snage" src="https://static.ordnet.dk/mp3/11048/11048201_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('snage');" style="cursor: pointer; color: blue;">[ˈsnæːjə]</span>
+</td>
+<td> snager </td>
+<td> snagede </td>
+<td> har snaget </td>
+<td> snag </td>
+<td> to pry, snoop </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=snakke"> at snakke </a></td>

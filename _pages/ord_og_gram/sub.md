@@ -8358,6 +8358,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gerningsmand"> gerningsmand </a></td>
+<td>
+<audio id="gerningsmand" src="https://static.ordnet.dk/mp3/11017/11017885_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gerningsmand');" style="cursor: pointer; color: blue;">[ˈgæɐ̯neŋsˌmɛnˀ]</span>
+</td>
+<td> gerningsmanden </td>
+<td> gerningsmænd </td>
+<td> gerningsmændene </td>
+<td> perpetrators </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gerningsperson"> en gerningsperson </a></td>
 <td>
 <audio id="gerningsperson" src="" style="display: none;"></audio>
@@ -14190,6 +14202,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lommeur"> et lommeur </a></td>
+<td>
+<audio id="lommeur" src="https://static.ordnet.dk/mp3/11030/11030934_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lommeur');" style="cursor: pointer; color: blue;">[ˈlʌməˌuɐ̯]</span>
+</td>
+<td> lommeuret </td>
+<td> lommeure </td>
+<td> lommeurene </td>
+<td> pocket watch </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=lov"> en lov </a></td>
 <td>
 <audio id="lov" src="https://static.ordnet.dk/mp3/11030/11030985_1.mp3" style="display: none;"></audio>
@@ -15063,6 +15087,30 @@ search: true
 <td> medtrafikanter </td>
 <td> medtrafikanterne </td>
 <td> fellow road user </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=medvirken"> medvirken </a></td>
+<td>
+<audio id="medvirken" src="https://static.ordnet.dk/mp3/11032/11032984_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('medvirken');" style="cursor: pointer; color: blue;">[-ˌviɐ̯gən]</span>
+</td>
+<td> - </td>
+<td> - </td>
+<td> - </td>
+<td> participation </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=medvirkning"> en medvirkning </a></td>
+<td>
+<audio id="medvirkning" src="https://static.ordnet.dk/mp3/11032/11032985_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('medvirkning');" style="cursor: pointer; color: blue;">[-ˌviɐ̯gneŋ]</span>
+</td>
+<td> medvirkningen </td>
+<td> - </td>
+<td> - </td>
+<td> participation, involvement </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -18292,6 +18340,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=patron"> en patron </a></td>
+<td>
+<audio id="patron" src="https://static.ordnet.dk/mp3/11039/11039168_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('patron');" style="cursor: pointer; color: blue;">[paˈtʁoˀn]</span>
+</td>
+<td> patronen </td>
+<td> patroner </td>
+<td> patronerne </td>
+<td> cartridge, patron </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=patrulje"> en patrulje </a></td>
 <td>
 <audio id="patrulje" src="https://static.ordnet.dk/mp3/11039/11039176_1.mp3" style="display: none;"></audio>
@@ -20101,6 +20161,18 @@ search: true
 <td> rettigheder </td>
 <td> rettighederne </td>
 <td> right </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=revolver"> en revolver </a></td>
+<td>
+<audio id="revolver" src="https://static.ordnet.dk/mp3/11043/11043247_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('revolver');" style="cursor: pointer; color: blue;">[ʁεˈvʌlˀvʌ]</span>
+</td>
+<td> revolveren </td>
+<td> revolvere </td>
+<td> revolverne </td>
+<td> revolver </td>
 <td> 1 </td>
 </tr>
 <tr>

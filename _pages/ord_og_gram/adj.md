@@ -1254,6 +1254,18 @@ search: true
 <td> lazy </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=drabelig"> drabelig </a></td>
+<td>
+<audio id="drabelig" src="https://static.ordnet.dk/mp3/11009/11009569_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('drabelig');" style="cursor: pointer; color: blue;">[ˈdʁɑːbəli]</span>
+</td>
+<td> drabeligt </td>
+<td> drabelige </td>
+<td> mere drabelig </td>
+<td> mest drabelig </td>
+<td> fierce, daring </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=drikf%C3%A6ldig"> drikfældig </a></td>
 <td>
 <audio id="drikfældig" src="https://static.ordnet.dk/mp3/11009/11009685_1.mp3" style="display: none;"></audio>
@@ -6304,6 +6316,18 @@ search: true
 <td> mere permanent </td>
 <td> mest permanent </td>
 <td> permanent </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=personf%C3%B8lsom"> personfølsom </a></td>
+<td>
+<audio id="personfølsom" src="https://static.ordnet.dk/mp3/11039/11039526_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('personfølsom');" style="cursor: pointer; color: blue;">[pæɐ̯ˈsoːnˌføˀlsʌm]</span>
+</td>
+<td> personfølsomt </td>
+<td> personfølsomme </td>
+<td> mere personfølsom </td>
+<td> mest personfølsom </td>
+<td> sensitive (personal data) </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=perspektivrig"> perspektivrig </a></td>
