@@ -1672,6 +1672,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=basalt"> et basalt </a></td>
+<td>
+<audio id="basalt" src="https://static.ordnet.dk/mp3/11003/11003579_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('basalt');" style="cursor: pointer; color: blue;">[baˈsalˀd]</span>
+</td>
+<td> basaltet </td>
+<td> basalter </td>
+<td> basalterne </td>
+<td> basalt </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bassist"> en bassist </a></td>
 <td>
 <audio id="bassist" src="https://static.ordnet.dk/mp3/11003/11003617_1.mp3" style="display: none;"></audio>
@@ -2641,6 +2653,30 @@ search: true
 <td> bjerge </td>
 <td> bjergene </td>
 <td> mountain </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bjergart"> en bjergart </a></td>
+<td>
+<audio id="bjergart" src="https://static.ordnet.dk/mp3/11004/11004946_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bjergart');" style="cursor: pointer; color: blue;">[ˈbjæɐ̯ˀwˌɑˀd]</span>
+</td>
+<td> bjergarten </td>
+<td> bjergarter </td>
+<td> bjergarterne </td>
+<td> rock type </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bj%C3%B8rn"> en bjørn </a></td>
+<td>
+<audio id="bjørn" src="https://static.ordnet.dk/mp3/11004/11004977_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bjørn');" style="cursor: pointer; color: blue;">[ˈbjɶɐ̯ˀn]</span>
+</td>
+<td> bjørnen </td>
+<td> bjørne </td>
+<td> bjørnene </td>
+<td> bear </td>
 <td> 2 </td>
 </tr>
 <tr>
@@ -4994,6 +5030,18 @@ search: true
 <td> elfenbenstårne </td>
 <td> elfenbenstårnene </td>
 <td> ivory tower </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=elg"> en elg </a></td>
+<td>
+<audio id="elg" src="https://static.ordnet.dk/mp3/11011/11011102_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('elg');" style="cursor: pointer; color: blue;">[ˈεlˀj]</span>
+</td>
+<td> elgen </td>
+<td> elge </td>
+<td> elgene </td>
+<td> elk/moose </td>
 <td> 2 </td>
 </tr>
 <tr>
@@ -8658,6 +8706,30 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=grizzly"> en grizzly </a></td>
+<td>
+<audio id="grizzly" src="https://static.ordnet.dk/mp3/41000/41000367_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('grizzly');" style="cursor: pointer; color: blue;">[ˈgʁisli]</span>
+</td>
+<td> grizzlyen </td>
+<td> grizzlyer </td>
+<td> grizzlyerne </td>
+<td> grizzly bear </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=grizzlybj%C3%B8rn"> en grizzlybjørn </a></td>
+<td>
+<audio id="grizzlybjørn" src="https://static.ordnet.dk/mp3/41000/41000362_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('grizzlybjørn');" style="cursor: pointer; color: blue;">[ˈgʁisli-]</span>
+</td>
+<td> grizzlybjørnen </td>
+<td> grizzlybjørne </td>
+<td> grizzlybjørnene </td>
+<td> grizzly bear </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=grube"> en grube </a></td>
 <td>
 <audio id="grube" src="https://static.ordnet.dk/mp3/11018/11018703_1.mp3" style="display: none;"></audio>
@@ -11370,6 +11442,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=jordsk%C3%A6lv"> et jordskælv </a></td>
+<td>
+<audio id="jordskælv" src="https://static.ordnet.dk/mp3/11024/11024649_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('jordskælv');" style="cursor: pointer; color: blue;">[ˈjoɐ̯ˌsgεlw]</span>
+</td>
+<td> jordskælvet </td>
+<td> jordskælv </td>
+<td> jordskælvene </td>
+<td> earthquake </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=journalist"> en journalist </a></td>
 <td>
 <audio id="journalist" src="https://static.ordnet.dk/mp3/11024/11024669_1.mp3" style="display: none;"></audio>
@@ -13746,6 +13830,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lava"> lava </a></td>
+<td>
+<audio id="lava" src="https://static.ordnet.dk/mp3/11029/11029907_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lava');" style="cursor: pointer; color: blue;">[ˈlæːva]</span>
+</td>
+<td> lavaen </td>
+<td> lavaer </td>
+<td> lavaerne </td>
+<td> lava </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=lavtryk"> et lavtryk </a></td>
 <td>
 <audio id="lavtryk" src="https://static.ordnet.dk/mp3/11029/11029958_1.mp3" style="display: none;"></audio>
@@ -14764,6 +14860,18 @@ search: true
 <td> - </td>
 <td> food </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=magma"> magma </a></td>
+<td>
+<audio id="magma" src="https://static.ordnet.dk/mp3/11032/11032045_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('magma');" style="cursor: pointer; color: blue;">[ˈmɑwma]</span>
+</td>
+<td> magmaet </td>
+<td> magmaer </td>
+<td> magmaerne </td>
+<td> magma </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=magt"> en magt </a></td>
@@ -19369,6 +19477,18 @@ search: true
 <td> puljer </td>
 <td> puljerne </td>
 <td> pool </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=puma"> en puma </a></td>
+<td>
+<audio id="puma" src="https://static.ordnet.dk/mp3/11041/11041552_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('puma');" style="cursor: pointer; color: blue;">[ˈpuːma]</span>
+</td>
+<td> pumaen </td>
+<td> pumaer </td>
+<td> pumaerne </td>
+<td> puma </td>
 <td> 1 </td>
 </tr>
 <tr>

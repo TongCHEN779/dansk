@@ -5754,6 +5754,18 @@ search: true
 <td> nearby </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=n%C3%A6rtforest%C3%A5ende"> nærtforestående </a></td>
+<td>
+<audio id="nærtforestående" src="https://static.ordnet.dk/mp3/11036/11036550_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nærtforestående');" style="cursor: pointer; color: blue;">[ˈnεɐ̯ˀdˌfɒːɒˌsdɔˀənə]</span>
+</td>
+<td> nærtforestående </td>
+<td> nærtforestående </td>
+<td> mere nærtforestående </td>
+<td> mest nærtforestående </td>
+<td> imminent </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?select=n%C3%A6rv%C3%A6rende,2&amp;query=n%C3%A6rv%C3%A6rende"> nærværende </a></td>
 <td>
 <audio id="nærværende" src="https://static.ordnet.dk/mp3/11036/11036558_1.mp3" style="display: none;"></audio>

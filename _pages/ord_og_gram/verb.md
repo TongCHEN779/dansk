@@ -4592,6 +4592,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forest%C3%A5"> at forestå </a></td>
+<td>
+<audio id="forestå" src="https://static.ordnet.dk/mp3/11014/11014448_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forestå');" style="cursor: pointer; color: blue;">[ˈfɒːɒˌsdɔˀ]</span>
+</td>
+<td> forestår </td>
+<td> forestod </td>
+<td> har forestået </td>
+<td> forestå </td>
+<td> to be responsible for, to oversee </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=foretage"> at foretage (sig) </a></td>
 <td>
 <audio id="foretage" src="https://static.ordnet.dk/mp3/11014/11014452_1.mp3" style="display: none;"></audio>
