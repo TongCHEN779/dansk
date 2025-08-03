@@ -15858,6 +15858,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=morfem"> et morfem </a></td>
+<td>
+<audio id="morfem" src="https://static.ordnet.dk/mp3/11034/11034349_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('morfem');" style="cursor: pointer; color: blue;">[mɒˈfeˀm]</span>
+</td>
+<td> morfemet </td>
+<td> morfemer </td>
+<td> morfemerne </td>
+<td> morpheme </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=morgen"> en morgen </a></td>
 <td>
 <audio id="morgen" src="https://static.ordnet.dk/mp3/11034/11034356_1.mp3" style="display: none;"></audio>
@@ -17138,6 +17150,18 @@ search: true
 <td> omgangsformer </td>
 <td> omgangsformerne </td>
 <td> manner of interaction </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=omgangskreds"> en omgangskreds </a></td>
+<td>
+<audio id="omgangskreds" src="https://static.ordnet.dk/mp3/11037/11037115_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('omgangskreds');" style="cursor: pointer; color: blue;">[ˈʌmgɑŋs-]</span>
+</td>
+<td> omgangskredsen </td>
+<td> omgangskredse </td>
+<td> omgangskredsene </td>
+<td> circle of acquaintances </td>
 <td> 1 </td>
 </tr>
 <tr>
