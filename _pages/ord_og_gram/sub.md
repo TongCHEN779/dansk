@@ -4637,6 +4637,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dvale"> en dvale </a></td>
+<td>
+<audio id="dvale" src="https://static.ordnet.dk/mp3/11010/11010012_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dvale');" style="cursor: pointer; color: blue;">[ˈdvæːlə]</span>
+</td>
+<td> dvalen </td>
+<td> - </td>
+<td> - </td>
+<td> hibernation </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dvd"> en dvd </a></td>
 <td>
 <audio id="dvd" src="https://static.ordnet.dk/mp3/11010/11010014_1.mp3" style="display: none;"></audio>
@@ -13719,6 +13731,18 @@ search: true
 <td> landdistrikter </td>
 <td> landdistrikterne </td>
 <td> rural district </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=landsby"> en landsby </a></td>
+<td>
+<audio id="landsby" src="https://static.ordnet.dk/mp3/11029/11029646_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('landsby');" style="cursor: pointer; color: blue;">[ˈlanˀsˌbyˀ]</span>
+</td>
+<td> landsbyen </td>
+<td> landsbyer </td>
+<td> landsbyerne </td>
+<td> village </td>
 <td> 1 </td>
 </tr>
 <tr>
