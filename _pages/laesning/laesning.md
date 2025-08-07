@@ -27,6 +27,28 @@ search: false
 (Alle tekster og billeder er kopieret [herfra](https://www.dr.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/44.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> 80 år efter Hiroshima og Nagasaki: Disse rystende fotos fortæller historien </h1>
+<span style="font-weight: normal">
+Vi advarer mod flere meget voldsomme billeder i denne artikel.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/kultur/historie/75-aar-efter-hiroshima-og-nagasaki-disse-rystende-fotos-fortaeller-historien">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/42.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> 80 år siden Hiroshima: Her er 3 øjenvidners historier, som du ikke glemmer lige foreløbig </h1>
+<span style="font-weight: normal">
+OBS: Vi advarer mod flere meget voldsomme beskrivelser i denne artikel.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/kultur/historie/75-aar-siden-hiroshima-her-er-3-oejenvidners-historier-som-du-ikke-glemmer">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/22.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> AI-skabt overgrebsmateriale skal kunne hjælpe politiet ind i lukkede netværk, men professor ser 'reel risiko' ved forslag </h1>
@@ -200,6 +222,17 @@ Vandmangel kan også blive en udfordring flere steder i landet, fortæller ekspe
 </span>
 </td>
 <td><a href="https://www.dr.dk/nyheder/indland/hovedstadsomraadet-kan-mangle-rent-drikkevand-i-2040">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/43.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Hvad nu hvis Hiroshima og Nagasaki IKKE var blevet bombet: En atombombe over Korea og et splittet Japan? </h1>
+<span style="font-weight: normal">
+I denne uge er det 75 år siden, at USA kastede to atombomber over Japan.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/kultur/historie/hvad-nu-hvis-hiroshima-og-nagasaki-ikke-var-blevet-bombet-en-atombombe-over">link</a></td>
 </tr>
 
 <tr>
