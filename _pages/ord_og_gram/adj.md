@@ -822,6 +822,18 @@ search: true
 <td> troublesome </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=besynderlig"> besynderlig </a></td>
+<td>
+<audio id="besynderlig" src="https://static.ordnet.dk/mp3/11004/11004365_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('besynderlig');" style="cursor: pointer; color: blue;">[beˈsønˀʌli]</span>
+</td>
+<td> besynderligt </td>
+<td> besynderlige </td>
+<td> mere besynderlig </td>
+<td> mest besynderlig </td>
+<td> peculiar </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=betonet"> betonet </a></td>
 <td>
 <audio id="betonet" src="https://static.ordnet.dk/mp3/11004/11004438_1.mp3" style="display: none;"></audio>
