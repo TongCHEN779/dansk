@@ -9126,6 +9126,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=halsbrand"> en halsbrand </a></td>
+<td>
+<audio id="halsbrand" src="https://static.ordnet.dk/mp3/11019/11019599_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('halsbrand');" style="cursor: pointer; color: blue;">[ˈhalsˌbʁanˀ]</span>
+</td>
+<td> halsbranden </td>
+<td> - </td>
+<td> - </td>
+<td> heartburn </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=halst%C3%B8rkl%C3%A6de"> et halstørklæde </a></td>
 <td>
 <audio id="halstørklæde" src="https://static.ordnet.dk/mp3/11019/11019620_1.mp3" style="display: none;"></audio>
@@ -13599,6 +13611,18 @@ search: true
 <td> køkkener </td>
 <td> køkkenerne </td>
 <td> kitchen </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=k%C3%B8leskab"> et køleskab </a></td>
+<td>
+<audio id="køleskab" src="https://static.ordnet.dk/mp3/11029/11029260_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('køleskab');" style="cursor: pointer; color: blue;">[ˈkøːləˌsgæˀb]</span>
+</td>
+<td> køleskabet </td>
+<td> køleskabe </td>
+<td> køleskabene </td>
+<td> refrigerator </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -18842,6 +18866,18 @@ search: true
 <td> - </td>
 <td> room/space </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=plakat"> en plakat </a></td>
+<td>
+<audio id="plakat" src="https://static.ordnet.dk/mp3/11039/11039964_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('plakat');" style="cursor: pointer; color: blue;">[plaˈkæˀd]</span>
+</td>
+<td> plakaten </td>
+<td> plakater </td>
+<td> plakaterne </td>
+<td> poster </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=plan"> en plan </a></td>

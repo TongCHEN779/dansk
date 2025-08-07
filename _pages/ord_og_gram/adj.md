@@ -10542,6 +10542,18 @@ search: true
 <td> angry </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vældig"> vældig </a></td>
+<td>
+<audio id="vældig" src="https://static.ordnet.dk/mp3/12007/12007472_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vældig');" style="cursor: pointer; color: blue;">[ˈvεldi]</span>
+</td>
+<td> vældigt </td>
+<td> vældige </td>
+<td> mere vældig </td>
+<td> mest vældig </td>
+<td> tremendous </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=væsentlig"> væsentlig </a></td>
 <td>
 <audio id="væsentlig" src="https://static.ordnet.dk/mp3/12007/12007582_1.mp3" style="display: none;"></audio>

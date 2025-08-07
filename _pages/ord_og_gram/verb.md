@@ -9193,6 +9193,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=l%C3%A6sse"> at læsse </a></td>
+<td>
+<audio id="læsse" src="https://static.ordnet.dk/mp3/11031/11031733_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('læsse');" style="cursor: pointer; color: blue;">[ˈlεsə]</span>
+</td>
+<td> læsser </td>
+<td> læssede </td>
+<td> har læsset </td>
+<td> læs </td>
+<td> to load </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=l%C3%B8be"> at løbe </a></td>
 <td>
 <audio id="løbe" src="https://static.ordnet.dk/mp3/11031/11031740_1.mp3" style="display: none;"></audio>
