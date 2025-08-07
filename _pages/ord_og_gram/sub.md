@@ -9402,6 +9402,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hemmelighed"> en hemmelighed </a></td>
+<td>
+<audio id="hemmelighed" src="https://static.ordnet.dk/mp3/11020/11020390_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hemmelighed');" style="cursor: pointer; color: blue;">[ˈhεməliˌheðˀ]</span>
+</td>
+<td> hemmeligheden </td>
+<td> hemmeligheder </td>
+<td> hemmelighederne </td>
+<td> secret </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hensigt"> en hensigt (med) </a></td>
 <td>
 <audio id="hensigt" src="https://static.ordnet.dk/mp3/11020/11020449_1.mp3" style="display: none;"></audio>
