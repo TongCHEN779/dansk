@@ -3450,6 +3450,18 @@ search: true
 <td> historic </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hjemlig"> hjemlig </a></td>
+<td>
+<audio id="hjemlig" src="https://static.ordnet.dk/mp3/11020/11020870_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hjemlig');" style="cursor: pointer; color: blue;">[ˈjεmli]</span>
+</td>
+<td> hjemligt </td>
+<td> hjemlige </td>
+<td> mere hjemlig </td>
+<td> mest hjemlig </td>
+<td> homely, domestic, private </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hjemmehørende"> hjemmehørende </a></td>
 <td>
 <audio id="hjemmehørende" src="https://static.ordnet.dk/mp3/11020/11020911_1.mp3" style="display: none;"></audio>

@@ -10779,6 +10779,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opsnappe"> at opsnappe </a></td>
+<td>
+<audio id="opsnappe" src="https://static.ordnet.dk/mp3/11037/11037723_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opsnappe');" style="cursor: pointer; color: blue;">[ˈʌbˌsnɑbə]</span>
+</td>
+<td> opsnapper </td>
+<td> opsnappede </td>
+<td> har opsnappet </td>
+<td> opsnap </td>
+<td> to overhear, pick up </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=opspare"> at opspare </a></td>
 <td>
 <audio id="opspare" src="https://static.ordnet.dk/mp3/11037/11037725_1.mp3" style="display: none;"></audio>
@@ -13818,6 +13831,19 @@ search: true
 <td> har snakket </td>
 <td> snak </td>
 <td> to talk </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=snappe"> at snappe </a></td>
+<td>
+<audio id="snappe" src="https://static.ordnet.dk/mp3/11048/11048217_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('snappe');" style="cursor: pointer; color: blue;">[ˈsnɑbə]</span>
+</td>
+<td> snapper </td>
+<td> snappede </td>
+<td> har snappet </td>
+<td> snap </td>
+<td> to snap </td>
 <td> 1 </td>
 </tr>
 <tr>
