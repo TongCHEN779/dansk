@@ -1036,6 +1036,11 @@ search: true
 <td> De strammere kreditvilkår smittede af på aktiemarkedet: det dykkede. </td>
 </tr>
 <tr>
+<td> smutte en tur </td>
+<td> go for a walk </td>
+<td> Jeg har bare benyttet et par fritimer til at smutte en tur i byen. </td>
+</tr>
+<tr>
 <td> som nævnt </td>
 <td> as (earlier) mentioned </td>
 <td> Det er som nævnt tilladt og kan oven i købet i visse tilfælde begrundes pædagogisk. </td>

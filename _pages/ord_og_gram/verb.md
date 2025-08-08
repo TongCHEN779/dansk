@@ -1212,6 +1212,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bage"> at bage </a></td>
+<td>
+<audio id="bage" src="https://static.ordnet.dk/mp3/11003/11003094_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bage');" style="cursor: pointer; color: blue;">[ˈbæːjə]</span>
+</td>
+<td> bager </td>
+<td> bagte </td>
+<td> har bagt </td>
+<td> bag </td>
+<td> to bake </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bandlyse"> at bandlyse </a></td>
 <td>
 <audio id="bandlyse" src="https://static.ordnet.dk/mp3/11003/11003374_1.mp3" style="display: none;"></audio>
@@ -9050,6 +9063,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=luve"> at luve </a></td>
+<td>
+<audio id="luve" src="https://static.ordnet.dk/mp3/11031/11031263_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('luve');" style="cursor: pointer; color: blue;">[ˈluːvə]</span>
+</td>
+<td> luver </td>
+<td> luvede </td>
+<td> har luvet </td>
+<td> luv </td>
+<td> to luff </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=lyde"> at lyde </a></td>
 <td>
 <audio id="lyde" src="https://static.ordnet.dk/mp3/11031/11031291_1.mp3" style="display: none;"></audio>
@@ -13548,6 +13574,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=slibe"> at slibe </a></td>
+<td>
+<audio id="slibe" src="https://static.ordnet.dk/mp3/11047/11047691_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slibe');" style="cursor: pointer; color: blue;">[ˈsliːbə]</span>
+</td>
+<td> sliber </td>
+<td> sleb </td>
+<td> har slebet </td>
+<td> slib </td>
+<td> to grind, sand </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=slide"> at slide </a></td>
 <td>
 <audio id="slide" src="https://static.ordnet.dk/mp3/11047/11047706_1.mp3" style="display: none;"></audio>
@@ -14846,6 +14885,19 @@ search: true
 <td> svigt </td>
 <td> to let ... down, fail </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=svinde"> at svinde </a></td>
+<td>
+<audio id="svinde" src="https://static.ordnet.dk/mp3/11051/11051709_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('svinde');" style="cursor: pointer; color: blue;">[ˈsvenə]</span>
+</td>
+<td> svinder </td>
+<td> svandt </td>
+<td> er svundet </td>
+<td> svind </td>
+<td> to dwindle, decrease </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=svine"> at svine </a></td>

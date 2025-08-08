@@ -5142,6 +5142,18 @@ search: true
 <td> significant </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=mat,3&query=mat"> mat </a></td>
+<td>
+<audio id="mat" src="https://static.ordnet.dk/mp3/11032/11032694_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mat');" style="cursor: pointer; color: blue;">[ˈmad]</span>
+</td>
+<td> mat </td>
+<td> matte </td>
+<td> mattere </td>
+<td> matest </td>
+<td> dull, matte </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=mavesur"> mavesur </a></td>
 <td>
 <audio id="mavesur" src="https://static.ordnet.dk/mp3/11032/11032782_1.mp3" style="display: none;"></audio>
@@ -7600,6 +7612,18 @@ search: true
 <td> mere slesvigsk </td>
 <td> mest slesvigsk </td>
 <td> Schleswigian </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sl%C3%B8j"> sløj </a></td>
+<td>
+<audio id="sløj" src="https://static.ordnet.dk/mp3/11047/11047884_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sløj');" style="cursor: pointer; color: blue;">[ˈslʌjˀ]</span>
+</td>
+<td> sløjt </td>
+<td> sløje </td>
+<td> sløjere </td>
+<td> sløjst </td>
+<td> poorly, sickly </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=smart"> smart </a></td>

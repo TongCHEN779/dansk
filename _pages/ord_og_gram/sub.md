@@ -4001,6 +4001,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dam"> en dam </a></td>
+<td>
+<audio id="dam" src="https://static.ordnet.dk/mp3/11008/11008299_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dam');" style="cursor: pointer; color: blue;">[ˈdɑmˀ]</span>
+</td>
+<td> dammen </td>
+<td> damme </td>
+<td> dammene </td>
+<td> pond </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dankort"> et dankort </a></td>
 <td>
 <audio id="dankort" src="https://static.ordnet.dk/mp3/11008/11008352_1.mp3" style="display: none;"></audio>
@@ -4083,6 +4095,18 @@ search: true
 <td> debatterne </td>
 <td> debate </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dej"> en dej </a></td>
+<td>
+<audio id="dej" src="https://static.ordnet.dk/mp3/11008/11008591_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dej');" style="cursor: pointer; color: blue;">[ˈdɑjˀ]</span>
+</td>
+<td> dejen </td>
+<td> deje </td>
+<td> dejene </td>
+<td> dough </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=del"> en del </a></td>
@@ -6894,6 +6918,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fork%C3%B8lelse"> en forkølelse </a></td>
+<td>
+<audio id="forkølelse" src="https://static.ordnet.dk/mp3/11014/11014706_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forkølelse');" style="cursor: pointer; color: blue;">[fʌˈkøˀləlsə]</span>
+</td>
+<td> forkølelsen </td>
+<td> forkølelser </td>
+<td> forkølelserne </td>
+<td> cold (illness) </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forlygte"> en forlygte </a></td>
 <td>
 <audio id="forlygte" src="https://static.ordnet.dk/mp3/11014/11014753_1.mp3" style="display: none;"></audio>
@@ -7059,6 +7095,18 @@ search: true
 <td> forretninger </td>
 <td> forretningerne </td>
 <td> shop/business </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forr%C3%A5d"> et forråd </a></td>
+<td>
+<audio id="forråd" src="https://static.ordnet.dk/mp3/11015/11015016_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forråd');" style="cursor: pointer; color: blue;">[ˈfɒːˌʁɔˀð]</span>
+</td>
+<td> forrådet </td>
+<td> forråd </td>
+<td> forrådene </td>
+<td> supply, stock </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -9222,6 +9270,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hane"> en hane </a></td>
+<td>
+<audio id="hane" src="https://static.ordnet.dk/mp3/11019/11019873_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hane');" style="cursor: pointer; color: blue;">[ˈhæːnə]</span>
+</td>
+<td> hanen </td>
+<td> haner </td>
+<td> hanerne </td>
+<td> rooster, tap </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=harme"> en harme </a></td>
 <td>
 <audio id="harme" src="https://static.ordnet.dk/mp3/11019/11019935_1.mp3" style="display: none;"></audio>
@@ -9987,6 +10047,18 @@ search: true
 <td> huller </td>
 <td> hullerne </td>
 <td> hole </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hule"> en hule </a></td>
+<td>
+<audio id="hule" src="https://static.ordnet.dk/mp3/11021/11021553_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hule');" style="cursor: pointer; color: blue;">[ˈhuːlə]</span>
+</td>
+<td> hulen </td>
+<td> huler </td>
+<td> hulerne </td>
+<td> cave </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -12798,6 +12870,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kor"> et kor </a></td>
+<td>
+<audio id="kor" src="https://static.ordnet.dk/mp3/11027/11027638_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kor');" style="cursor: pointer; color: blue;">[ˈkoˀɐ̯]</span>
+</td>
+<td> koret </td>
+<td> kor </td>
+<td> korene </td>
+<td> choir </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=korridor"> en korridor </a></td>
 <td>
 <audio id="korridor" src="https://static.ordnet.dk/mp3/11027/11027718_1.mp3" style="display: none;"></audio>
@@ -14418,6 +14502,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lue"> en lue </a></td>
+<td>
+<audio id="lue" src="https://static.ordnet.dk/mp3/11031/11031058_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lue');" style="cursor: pointer; color: blue;">[ˈluːə]</span>
+</td>
+<td> luen </td>
+<td> luer </td>
+<td> luerne </td>
+<td> flame </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=luft"> luft </a></td>
 <td>
 <audio id="luft" src="https://static.ordnet.dk/mp3/11031/11031065_1.mp3" style="display: none;"></audio>
@@ -14452,6 +14548,18 @@ search: true
 <td> luftvejene </td>
 <td> airway </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=luge"> en luge </a></td>
+<td>
+<audio id="luge" src="https://static.ordnet.dk/mp3/11031/11031144_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('luge');" style="cursor: pointer; color: blue;">[ˈluːə]</span>
+</td>
+<td> lugen </td>
+<td> luger </td>
+<td> lugerne </td>
+<td> hatch </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=luksus"> en luksus </a></td>
@@ -17882,6 +17990,30 @@ search: true
 <td> optrædener </td>
 <td> optrædenerne </td>
 <td> performance, appearance </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opvask"> en opvask </a></td>
+<td>
+<audio id="opvask" src="https://static.ordnet.dk/mp3/11037/11037851_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opvask');" style="cursor: pointer; color: blue;">[ˈʌbˌvasg]</span>
+</td>
+<td> opvasken </td>
+<td> opvaske </td>
+<td> opvaskene </td>
+<td> washing-up, dishes </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opvaskemaskine"> en opvaskemaskine </a></td>
+<td>
+<audio id="opvaskemaskine" src="https://static.ordnet.dk/mp3/11037/11037853_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opvaskemaskine');" style="cursor: pointer; color: blue;">[ˈʌbvasgə-]</span>
+</td>
+<td> opvaskemaskinen </td>
+<td> opvaskemaskiner </td>
+<td> opvaskemaskinerne </td>
+<td> dishwasher </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -23824,6 +23956,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=stakit"> et stakit </a></td>
+<td>
+<audio id="stakit" src="https://static.ordnet.dk/mp3/11049/11049737_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('stakit');" style="cursor: pointer; color: blue;">[sdaˈkid]</span>
+</td>
+<td> stakittet </td>
+<td> stakitter </td>
+<td> stakitterne </td>
+<td> fence/picket fence </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=stamgæst"> en stamgæst </a></td>
 <td>
 <audio id="stamgæst" src="https://static.ordnet.dk/mp3/11049/11049772_1.mp3" style="display: none;"></audio>
@@ -24085,6 +24229,18 @@ search: true
 <td> stilladser </td>
 <td> stilladserne </td>
 <td> scaffold </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=stinkdyr"> et stinkdyr </a></td>
+<td>
+<audio id="stinkdyr" src="https://static.ordnet.dk/mp3/11050/11050360_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('stinkdyr');" style="cursor: pointer; color: blue;">[ˈsdeŋg-]</span>
+</td>
+<td> stinkdyret </td>
+<td> stinkdyr </td>
+<td> stinkdyrene </td>
+<td> skunk </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -24745,6 +24901,18 @@ search: true
 <td> supermarkeder </td>
 <td> supermarkederne </td>
 <td> supermarket </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=surdej"> en surdej </a></td>
+<td>
+<audio id="surdej" src="https://static.ordnet.dk/mp3/11051/11051519_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('surdej');" style="cursor: pointer; color: blue;">[ˈsuɐ̯ˀ-]</span>
+</td>
+<td> surdejen </td>
+<td> surdeje </td>
+<td> surdejene </td>
+<td> sourdough </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -28176,6 +28344,18 @@ search: true
 <td> - </td>
 <td> water </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vandhane"> en vandhane </a></td>
+<td>
+<audio id="vandhane" src="https://static.ordnet.dk/mp3/12005/12005666_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vandhane');" style="cursor: pointer; color: blue;">[ˈvanˌhɑːnə]</span>
+</td>
+<td> vandhanen </td>
+<td> vandhaner </td>
+<td> vandhanerne </td>
+<td> faucet/tap </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vandkant"> en vandkant </a></td>
