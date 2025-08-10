@@ -3293,6 +3293,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bur"> et bur </a></td>
+<td>
+<audio id="bur" src="https://static.ordnet.dk/mp3/11006/11006754_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bur');" style="cursor: pointer; color: blue;">[ˈbuɐ̯ˀ]</span>
+</td>
+<td> buret </td>
+<td> bure </td>
+<td> burene </td>
+<td> cage </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bus"> en bus </a></td>
 <td>
 <audio id="bus" src="https://static.ordnet.dk/mp3/11006/11006785_1.mp3" style="display: none;"></audio>
@@ -3435,6 +3447,18 @@ search: true
 <td> byrådene </td>
 <td> city council </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bytte"> et bytte </a></td>
+<td>
+<audio id="bytte" src="https://static.ordnet.dk/mp3/11007/11007002_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bytte');" style="cursor: pointer; color: blue;">[ˈbydə]</span>
+</td>
+<td> byttet </td>
+<td> - </td>
+<td> - </td>
+<td> exchange, prey </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=byvandring"> en byvandring </a></td>
@@ -4659,6 +4683,18 @@ search: true
 <td> duftene </td>
 <td> scent </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dug"> en dug </a></td>
+<td>
+<audio id="dug" src="https://static.ordnet.dk/mp3/11009/11009906_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('dug');" style="cursor: pointer; color: blue;">[ˈduˀ]</span>
+</td>
+<td> dugen </td>
+<td> duge </td>
+<td> dugene </td>
+<td> tablecloth </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dusin"> et dusin </a></td>
@@ -7842,6 +7878,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fugl"> en fugl </a></td>
+<td>
+<audio id="fugl" src="https://static.ordnet.dk/mp3/11016/11016359_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fugl');" style="cursor: pointer; color: blue;">[ˈfuˀl]</span>
+</td>
+<td> fuglen </td>
+<td> fugle </td>
+<td> fuglene </td>
+<td> bird </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fugt"> en fugt </a></td>
 <td>
 <audio id="fugt" src="https://static.ordnet.dk/mp3/11016/11016388_1.mp3" style="display: none;"></audio>
@@ -10419,6 +10467,18 @@ search: true
 <td> hævelser </td>
 <td> hævelserne </td>
 <td> swelling </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=h%C3%A6vning"> en hævning </a></td>
+<td>
+<audio id="hævning" src="https://static.ordnet.dk/mp3/11022/11022291_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hævning');" style="cursor: pointer; color: blue;">[ˈhεːwneŋ]</span>
+</td>
+<td> hævningen </td>
+<td> hævninger </td>
+<td> hævningerne </td>
+<td> rising (e.g. of dough) </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -13266,6 +13326,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kugle"> en kugle </a></td>
+<td>
+<audio id="kugle" src="https://static.ordnet.dk/mp3/11028/11028431_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kugle');" style="cursor: pointer; color: blue;">[ˈkuːlə]</span>
+</td>
+<td> kuglen </td>
+<td> kugler </td>
+<td> kuglerne </td>
+<td> ball, sphere </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kuglepen"> en kuglepen </a></td>
 <td>
 <audio id="kuglepen" src="https://static.ordnet.dk/mp3/11028/11028437_1.mp3" style="display: none;"></audio>
@@ -14980,6 +15052,18 @@ search: true
 <td> løfterne </td>
 <td> promise </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=l%C3%B8g"> et løg </a></td>
+<td>
+<audio id="løg" src="https://static.ordnet.dk/mp3/11031/11031776_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('løg');" style="cursor: pointer; color: blue;">[ˈlʌjˀ]</span>
+</td>
+<td> løget </td>
+<td> løg </td>
+<td> løgene </td>
+<td> onion </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=l%C3%B8gn"> en løgn </a></td>
@@ -22444,6 +22528,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skjorte"> en skjorte </a></td>
+<td>
+<audio id="skjorte" src="https://static.ordnet.dk/mp3/11046/11046671_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skjorte');" style="cursor: pointer; color: blue;">[ˈsgjoɐ̯də]</span>
+</td>
+<td> skjorten </td>
+<td> skjorter </td>
+<td> skjorterne </td>
+<td> shirt </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sko"> en sko </a></td>
 <td>
 <audio id="sko" src="https://static.ordnet.dk/mp3/11046/11046682_1.mp3" style="display: none;"></audio>
@@ -23054,6 +23150,18 @@ search: true
 <td> slottene </td>
 <td> castle </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sludder"> et sludder </a></td>
+<td>
+<audio id="sludder" src="https://static.ordnet.dk/mp3/11047/11047781_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sludder');" style="cursor: pointer; color: blue;">[ˈsluðˀʌ]</span>
+</td>
+<td> sludret </td>
+<td> sludder </td>
+<td> sludderne </td>
+<td> nonsense </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=slum"> en slum </a></td>

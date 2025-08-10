@@ -4530,6 +4530,18 @@ search: true
 <td> miserable </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kvik"> kvik </a></td>
+<td>
+<audio id="kvik" src="https://static.ordnet.dk/mp3/11028/11028869_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kvik');" style="cursor: pointer; color: blue;">[ˈkvig]</span>
+</td>
+<td> kvikt </td>
+<td> kvikke </td>
+<td> kvikkere </td>
+<td> kvikkest </td>
+<td> quick, smart </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kvindelig"> kvindelig </a></td>
 <td>
 <audio id="kvindelig" src="https://static.ordnet.dk/mp3/11028/11028897_1.mp3" style="display: none;"></audio>

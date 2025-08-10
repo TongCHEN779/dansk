@@ -13860,6 +13860,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=smugle"> at smugle </a></td>
+<td>
+<audio id="smugle" src="https://static.ordnet.dk/mp3/11048/11048051_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('smugle');" style="cursor: pointer; color: blue;">[ˈsmuːlə]</span>
+</td>
+<td> smugler </td>
+<td> smuglede </td>
+<td> har smuglet </td>
+<td> smugl </td>
+<td> to smuggle </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=smutte"> at smutte </a></td>
 <td>
 <audio id="smutte" src="https://static.ordnet.dk/mp3/11048/11048068_1.mp3" style="display: none;"></audio>
