@@ -3365,6 +3365,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=byge"> en byge </a></td>
+<td>
+<audio id="byge" src="https://static.ordnet.dk/mp3/11006/11006871_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('byge');" style="cursor: pointer; color: blue;">[ˈbyːə]</span>
+</td>
+<td> bygen </td>
+<td> byger </td>
+<td> bygerne </td>
+<td> shower (rain) </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=byggeri"> et byggeri </a></td>
 <td>
 <audio id="byggeri" src="https://static.ordnet.dk/mp3/11006/11006908_1.mp3" style="display: none;"></audio>
@@ -6099,6 +6111,18 @@ search: true
 <td> fiaskoer </td>
 <td> fiaskoerne </td>
 <td> failure </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=filial"> en filial </a></td>
+<td>
+<audio id="filial" src="https://static.ordnet.dk/mp3/11012/11012905_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('filial');" style="cursor: pointer; color: blue;">[filiˈæˀl]</span>
+</td>
+<td> filialen </td>
+<td> filialer </td>
+<td> filialerne </td>
+<td> branch (of a company) </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -12126,6 +12150,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kedel"> en kedel </a></td>
+<td>
+<audio id="kedel" src="https://static.ordnet.dk/mp3/11025/11025714_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kedel');" style="cursor: pointer; color: blue;">[ˈkeðəl]</span>
+</td>
+<td> kedlen </td>
+<td> kedler </td>
+<td> kedlerne </td>
+<td> kettle, boiler </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kemiker"> en kemiker </a></td>
 <td>
 <audio id="kemiker" src="https://static.ordnet.dk/mp3/11025/11025763_1.mp3" style="display: none;"></audio>
@@ -12339,6 +12375,18 @@ search: true
 <td> klummer </td>
 <td> klummerne </td>
 <td> column </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=klump"> en klump </a></td>
+<td>
+<audio id="klump" src="https://static.ordnet.dk/mp3/11026/11026466_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('klump');" style="cursor: pointer; color: blue;">[ˈklɔmˀb]</span>
+</td>
+<td> klumpen </td>
+<td> klumper </td>
+<td> klumperne </td>
+<td> lump, clump </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -23197,6 +23245,30 @@ search: true
 <td> smykker </td>
 <td> smykkerne </td>
 <td> jewelry </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=snegl"> en snegl </a></td>
+<td>
+<audio id="snegl" src="https://static.ordnet.dk/mp3/11048/11048260_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('snegl');" style="cursor: pointer; color: blue;">[ˈsnɑjˀl]</span>
+</td>
+<td> sneglen </td>
+<td> snegle </td>
+<td> sneglene </td>
+<td> snail </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sneglehus"> et sneglehus </a></td>
+<td>
+<audio id="sneglehus" src="https://static.ordnet.dk/mp3/11048/11048265_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sneglehus');" style="cursor: pointer; color: blue;">[ˈsnɑjlə-]</span>
+</td>
+<td> sneglehuset </td>
+<td> sneglehuse </td>
+<td> sneglehusene </td>
+<td> snail shell </td>
 <td> 1 </td>
 </tr>
 <tr>

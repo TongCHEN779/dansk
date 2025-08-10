@@ -1110,6 +1110,18 @@ search: true
 <td> brown </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bundløs"> bundløs </a></td>
+<td>
+<audio id="bundløs" src="https://static.ordnet.dk/mp3/11006/11006725_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bundløs');" style="cursor: pointer; color: blue;">[ˈbɔnˌløˀs]</span>
+</td>
+<td> bundløst </td>
+<td> bundløse </td>
+<td> mere bundløs </td>
+<td> mest bundløs </td>
+<td> bottomless </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bynær"> bynær </a></td>
 <td>
 <audio id="bynær" src="https://static.ordnet.dk/mp3/50001/50001062_1.mp3" style="display: none;"></audio>
@@ -5142,7 +5154,7 @@ search: true
 <td> significant </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?select=mat,3&query=mat"> mat </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=mat,3&amp;query=mat"> mat </a></td>
 <td>
 <audio id="mat" src="https://static.ordnet.dk/mp3/11032/11032694_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('mat');" style="cursor: pointer; color: blue;">[ˈmad]</span>

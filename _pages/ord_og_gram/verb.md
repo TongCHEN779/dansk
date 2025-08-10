@@ -5449,6 +5449,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=framelde"> at framelde (sig) </a></td>
+<td>
+<audio id="framelde" src="https://static.ordnet.dk/mp3/11015/11015711_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('framelde');" style="cursor: pointer; color: blue;">[-ˌmεlˀə]</span>
+</td>
+<td> framelder </td>
+<td> frameldte </td>
+<td> har frameldt </td>
+<td> frameld </td>
+<td> to deregister, unsubscribe </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=frar%C3%A5de"> at fraråde </a></td>
 <td>
 <audio id="fraråde" src="https://static.ordnet.dk/mp3/11015/11015735_1.mp3" style="display: none;"></audio>
@@ -5590,6 +5603,19 @@ search: true
 <td> fremlæg </td>
 <td> to present </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fremmale"> at fremmale </a></td>
+<td>
+<audio id="fremmale" src="https://static.ordnet.dk/mp3/11015/11015894_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fremmale');" style="cursor: pointer; color: blue;">[-ˌmæˀlə]</span>
+</td>
+<td> fremmaler </td>
+<td> fremmalede </td>
+<td> har fremmalet </td>
+<td> fremmal </td>
+<td> to depict vividly </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fremme"> at fremme </a></td>
@@ -8125,6 +8151,19 @@ search: true
 <td> knejs </td>
 <td> to rise </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=knibe,2&amp;query=knibe"> at knibe </a></td>
+<td>
+<audio id="knibe" src="https://static.ordnet.dk/mp3/11026/11026616_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('knibe');" style="cursor: pointer; color: blue;">[ˈkniːbə]</span>
+</td>
+<td> kniber </td>
+<td> kneb </td>
+<td> har knebet </td>
+<td> knib </td>
+<td> to struggle </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=knokle"> at knokle </a></td>
@@ -13691,7 +13730,7 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=sl%C3%A5"> at slå </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=sl%C3%A5,2&amp;query=sl%C3%A5"> at slå </a></td>
 <td>
 <audio id="slå" src="https://static.ordnet.dk/mp3/11047/11047900_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('slå');" style="cursor: pointer; color: blue;">[ˈslɔˀ]</span>
