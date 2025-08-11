@@ -13574,6 +13574,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=slanke"> at slanke (sig) </a></td>
+<td>
+<audio id="slanke" src="https://static.ordnet.dk/mp3/11047/11047627_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slanke');" style="cursor: pointer; color: blue;">[ˈslɑŋgə]</span>
+</td>
+<td> slanker (sig) </td>
+<td> slankede (sig) </td>
+<td> har slanket (sig) </td>
+<td> slank </td>
+<td> to slim, lose weight </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=slappe"> at slappe af </a></td>
 <td>
 <audio id="slappe" src="https://static.ordnet.dk/mp3/11047/11047633_1.mp3" style="display: none;"></audio>
