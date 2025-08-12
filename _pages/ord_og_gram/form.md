@@ -5,6 +5,8 @@ permalink: /ord_og_gram/form/
 search: false
 ---
 
+(Her kan du finde et [skema over morfemer](https://tongchen779.github.io/dansk/files/morfemer.pdf).)
+
 <h1 id="adj" style="text-align: center;"> Adjektivernes former </h1>
 <style>
     table {
@@ -94,8 +96,6 @@ search: false
 <td> spændende </td>
 </tr>
 </table>
-
-(Her kan du finde et [skema over morfemer](https://tongchen779.github.io/dansk/files/morfemer.pdf).)
 
 <h1 id="sub" style="text-align: center;"> Substantivernes former </h1>
 <style>
