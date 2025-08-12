@@ -15784,6 +15784,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tindre"> at tindre </a></td>
+<td>
+<audio id="tindre" src="https://static.ordnet.dk/mp3/12001/12001413_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tindre');" style="cursor: pointer; color: blue;">[ˈtendʁʌ]</span>
+</td>
+<td> tindrer </td>
+<td> tindrede </td>
+<td> har tindret </td>
+<td> tindr </td>
+<td> to twinkle, sparkle </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tisse"> at tisse </a></td>
 <td>
 <audio id="tisse" src="https://static.ordnet.dk/mp3/12001/12001472_1.mp3" style="display: none;"></audio>
