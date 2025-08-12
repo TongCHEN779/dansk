@@ -270,7 +270,7 @@ search: false
     }
 </style>
 
-(Her kan du finde en pdf-fil af en [undervisningsvejledning](https://tongchen779.github.io/dansk/files/dansk_udtale.pdf) til dansk udtale.)
+(Her kan du finde en pdf-fil af en [undervisningsvejledning](https://tongchen779.github.io/dansk/files/dansk_udtale.pdf) til dansk udtale, og [stavning lydfølgeregler](https://tongchen779.github.io/dansk/files/lydfoelgeregler.pdf).)
 <br><br>
 
 <h1 style="text-align: center;"> Dansk Alfabet </h1>

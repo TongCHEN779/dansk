@@ -95,6 +95,8 @@ search: false
 </tr>
 </table>
 
+(Her kan du finde et [skema over morfemer](https://tongchen779.github.io/dansk/files/morfemer.pdf).)
+
 <h1 id="sub" style="text-align: center;"> Substantivernes former </h1>
 <style>
     table {
