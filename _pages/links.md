@@ -52,5 +52,6 @@ permalink: /links/
 - [Anders Basby Hjemmeside](http://basby.dk/)
 - [Dansk Her & Nu](https://danskherognu.dk/)
 - [Jørgen Ebert Hjemmeside](https://ugle.dk/)
+- [Kongevej](http://kongevej.dk/)
 - [Learn Authentic Danish Online](https://dansk.ninja/)
 - [Nexus Learning](https://learning.nexus.dk/)
