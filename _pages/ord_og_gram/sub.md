@@ -3160,18 +3160,6 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=br%C3%B8d"> et brød </a></td>
-<td>
-<audio id="brød" src="https://static.ordnet.dk/mp3/11006/11006523_1.mp3" style="display: none;"></audio>
-<span onclick="playSound('brød');" style="cursor: pointer; color: blue;">[ˈbʁœðˀ]</span>
-</td>
-<td> brødet </td>
-<td> brød </td>
-<td> brødene </td>
-<td> bread </td>
-<td> 3 </td>
-</tr>
-<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=br%C3%A6ndevin"> en brændevin </a></td>
 <td>
 <audio id="brændevin" src="https://static.ordnet.dk/mp3/11006/11006501_1.mp3" style="display: none;"></audio>
@@ -3194,6 +3182,30 @@ search: true
 <td> brændslerne </td>
 <td> fuel </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=br%C3%B8d"> et brød </a></td>
+<td>
+<audio id="brød" src="https://static.ordnet.dk/mp3/11006/11006523_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('brød');" style="cursor: pointer; color: blue;">[ˈbʁœðˀ]</span>
+</td>
+<td> brødet </td>
+<td> brød </td>
+<td> brødene </td>
+<td> bread </td>
+<td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=br%C3%B8nd"> en brønd </a></td>
+<td>
+<audio id="brønd" src="https://static.ordnet.dk/mp3/11006/11006555_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('brønd');" style="cursor: pointer; color: blue;">[ˈbʁɶnˀ]</span>
+</td>
+<td> brønden </td>
+<td> brønde </td>
+<td> brøndene </td>
+<td> well </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bud"> et bud </a></td>
