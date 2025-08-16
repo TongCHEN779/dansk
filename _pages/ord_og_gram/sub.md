@@ -14418,6 +14418,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=leverand%C3%B8r"> en leverandør </a></td>
+<td>
+<audio id="leverandør" src="https://static.ordnet.dk/mp3/11030/11030265_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('leverandør');" style="cursor: pointer; color: blue;">[levəʁɑnˈdøˀɐ̯]</span>
+</td>
+<td> leverandøren </td>
+<td> leverandører </td>
+<td> leverandørerne </td>
+<td> supplier </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=levevilk%C3%A5r"> levevilkår </a></td>
 <td>
 <audio id="levevilkår" src="https://static.ordnet.dk/mp3/11030/11030280_1.mp3" style="display: none;"></audio>

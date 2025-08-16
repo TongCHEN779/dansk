@@ -3955,6 +3955,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fernisere"> at fernisere </a></td>
+<td>
+<audio id="fernisere" src="https://static.ordnet.dk/mp3/11012/11012764_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fernisere');" style="cursor: pointer; color: blue;">[fæɐ̯niˈseˀʌ]</span>
+</td>
+<td> ferniserer </td>
+<td> ferniserede </td>
+<td> har ferniseret </td>
+<td> ferniser </td>
+<td> to varnish </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=feste"> at feste </a></td>
 <td>
 <audio id="feste" src="https://static.ordnet.dk/mp3/11012/11012786_1.mp3" style="display: none;"></audio>
