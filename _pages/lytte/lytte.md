@@ -27,6 +27,17 @@ search: false
 (Alle tekster og billeder er kopieret [herfra](https://www.dr.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/11.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Danmarks næste klassiker </h1>
+<span style="font-weight: normal">
+Fem fantastisk dygtige møbeldesignere skal i de kommende seks programmer forsøge at skabe Danmarks næste klassiker - og de får deres sag for i første afsnit, hvor vi starter med en af de allersværeste; nemlig spisebordsstolen! Vært Mette Bluhme Rieck styrer slagets gang, mens de to dommere Anne-Louise Sommer og Kasper Salto står klar til at bedømme kreationerne. Designerne presses til det yderste i løbet af de blot tre uger de har til at lave stolen, men viser til sidst også på flotteste vis, hvorfor Danmark er kendt i hele verden for vores smukke design. 
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/saeson/danmarks-naeste-klassiker_83127">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/3.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> De superriges privatfly </h1>

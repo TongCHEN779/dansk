@@ -222,6 +222,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=afgift"> en afgift </a></td>
+<td>
+<audio id="afgift" src="https://static.ordnet.dk/mp3/11000/11000413_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('afgift');" style="cursor: pointer; color: blue;">[ˈɑwˌgifd]</span>
+</td>
+<td> afgiften </td>
+<td> afgifter </td>
+<td> afgifterne </td>
+<td> tax, fee </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afholdenhed"> en afholdenhed </a></td>
 <td>
 <audio id="afholdenhed" src="https://static.ordnet.dk/mp3/11000/11000454_1.mp3" style="display: none;"></audio>
@@ -21148,6 +21160,30 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rus"> rus </a></td>
+<td>
+<audio id="rus" src="https://static.ordnet.dk/mp3/11043/11043902_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rus');" style="cursor: pointer; color: blue;">[ˈʁuˀs]</span>
+</td>
+<td> rusen </td>
+<td> - </td>
+<td> - </td>
+<td> intoxication </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rusmiddel"> et rusmiddel </a></td>
+<td>
+<audio id="rusmiddel" src="https://static.ordnet.dk/mp3/11043/11043914_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rusmiddel');" style="cursor: pointer; color: blue;">[ˈʁus-]</span>
+</td>
+<td> rusmidlet </td>
+<td> rusmidler </td>
+<td> rusmidlerne </td>
+<td> intoxicant </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=rust"> en rust </a></td>
 <td>
 <audio id="rust" src="https://static.ordnet.dk/mp3/11043/11043922_1.mp3" style="display: none;"></audio>
@@ -26413,6 +26449,18 @@ search: true
 <td> tilbøjeligheder </td>
 <td> tilbøjelighederne </td>
 <td> tendency </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilegnelse"> en tilegnelse </a></td>
+<td>
+<audio id="tilegnelse" src="https://static.ordnet.dk/mp3/12001/12001094_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilegnelse');" style="cursor: pointer; color: blue;">[-ˌɑjˀnəlsə]</span>
+</td>
+<td> tilegnelsen </td>
+<td> tilegnelser </td>
+<td> tilegnelserne </td>
+<td> acquisition </td>
 <td> 1 </td>
 </tr>
 <tr>
