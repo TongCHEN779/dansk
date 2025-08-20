@@ -41,6 +41,142 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2025/07/Episode-93.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 93 - Det danske skattesystem </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg tale om et emne, som I lyttere har efterspurgt mange gange – nemlig det danske skattesystem. Jeg vil gerne starte denne episode med en ”disclaimer”. Jeg er ikke skatterådgiver. Denne episode gennemgår det danske skattesystem så godt som muligt, men du skal altid kontakte Skat direkte, hvis du har spørgsmål til din egen økonomi og skat. Det er en ret svær episode, så hvis du kun lige er begyndt at lytte til podcasten, så skal du måske vente lidt med at lytte til denne. Som altid kan du finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, finde ordlister, downloade episoden og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo.
+<br><br>
+I Danmark betaler man skat, hvis man bor eller arbejder her. Det gælder både for danske og udenlandske borgere. Man kan være fuldt skattepligtig eller begrænset skattepligtig. Hvis man er fuldt skattepligtig, skal man betale skat af hele sin indkomst – både det man tjener i Danmark og i udlandet. Hvis man er begrænset skattepligtig, betaler man kun skat af den indkomst, man tjener i Danmark.
+<br><br>
+Det danske skattesystem er progressivt. Det betyder, at jo mere man tjener, jo mere betaler man i skat. Den danske skat består af flere dele. Først betaler man et arbejdsmarkedsbidrag på 8 procent. Det bliver trukket fra lønnen, før de andre skatter beregnes. Derefter betaler man bundskat og eventuelt topskat til staten. Man betaler også kommuneskat, som går til den kommune, man bor i. Kommuneskatten er forskellig fra kommune til kommune. Hvis man er medlem af Folkekirken, betaler man også kirkeskat. Hvis man ejer en bolig, skal man betale ejendomsværdiskat og nogle gange også ejendomsskat.
+<br><br>
+Når man har indkomst i Danmark, bliver den delt op i A-indkomst og B-indkomst. A-indkomst er for eksempel løn, SU, pension eller dagpenge. Her er skatten allerede trukket fra, når man får pengene. Når man modtager sin lønseddel, kan man se hvor meget der er trukket fra til Skat, og hvor meget man selv beholder. B-indkomst er for eksempel penge, man tjener som selvstændig eller ved foredrag. Her skal man selv sørge for at betale skat. Med B-indkomst skal man ofte også selv indberette til Skat, hvor meget man har tjent.
+<br><br>
+Man betaler skat af sin skattepligtige indkomst. Det er summen af ens personlige indkomst og kapitalindkomst minus fradrag. Personlig indkomst er for eksempel løn, pension, SU og personalegoder som fri telefon eller firmabil. Kapitalindkomst kan være renteindtægter, for eksempel fra penge i banken, eller lejeindtægter, hvis man udlejer et værelse. Har man renteudgifter, kan det give negativ kapitalindkomst.
+<br><br>
+Der findes også ligningsmæssige fradrag. Det er udgifter, som man må trække fra i sin skattepligtige indkomst. Det kan for eksempel være fradrag for transport til og fra arbejde (et såkaldt befordringsfradrag), fagforeningskontingent og pensionsindbetalinger. Alle personer har også et personfradrag – det betyder, at en del af ens indkomst er skattefri.
+<br><br>
+Skattestyrelsen beregner hvert år, hvor meget man skal betale i skat. Det gør de på baggrund af oplysninger fra for eksempel ens arbejdsgiver og bank. Man får en årsopgørelse, hvor man kan se, om man har betalt for meget eller for lidt i skat. Hvis oplysningerne i årsopgørelsen ikke passer, kan man selv rette dem på TastSelv på Skats hjemmeside.
+<br><br>
+Man får også en forskudsopgørelse. Det er en slags budget, hvor man skriver, hvad man forventer at tjene i det kommende år. På den måde kan Skat beregne, hvor meget man skal betale hver måned. Det er vigtigt at opdatere forskudsopgørelsen, hvis ens situation ændrer sig. For eksempel hvis man får nyt job, begynder at studere eller får højere løn. Så undgår man at få en ekstra regning fra Skat senere – det, man kalder et skattesmæk. Hvert år omkring midten af marts offentliggør Skat årsopgørelsen. Det er altså her man får svar på, om man regnede rigtigt i sin forskudsopgørelse. Hvis man har regnet forkert, skal man enten betale penge tilbage eller modtage penge.
+<br><br>
+I Danmark er der en topskat, som man betaler hvis man har en meget høj indkomst. Det er en del af det danske princip om, at de, der tjener mest, skal bidrage mest til fællesskabet. I år 2025 skal man betale topskat, hvis man tjener over 611.000 kroner efter arbejdsmarkedsbidraget på 8%. Topskatten er en ekstra skat oven i bundskatten.
+<br><br>
+Både staten og kommunerne får penge fra skatten. Staten bruger pengene på blandt andet sygehuse, politi og uddannelse. Kommunerne bruger pengene på skoler, ældrepleje, daginstitutioner og andre lokale tilbud.
+<br><br>
+Skatten bliver trukket automatisk, hvis man er lønmodtager. Det kaldes kildeskat. Det betyder, at man ikke selv skal sende penge til Skat hver måned – det gør ens arbejdsgiver. Før år 1970 skulle man selv betale skatten året efter.
+<br><br>
+Skattesystemet har ændret sig gennem tiden. I dag spiller grønne afgifter og moms også en stor rolle i statens indtægter. Der har været flere skattereformer, som har ændret reglerne for fradrag, satser og opdelingen mellem arbejdsindkomst og kapitalindkomst.
+<br><br>
+Endelig er der kirkeskatten. Den betaler man kun, hvis man er medlem af Folkekirken. Den ligger typisk på omkring 0,7 procent og går til kirkens udgifter. Hvis man melder sig ud af Folkekirken, betaler man ikke denne skat.
+<br><br>
+Det danske skattesystem kan virke lidt kompliceret, men det er bygget op, så det er retfærdigt og sikrer, at alle er med til at betale til velfærdssamfundet. Samtidig giver systemet mulighed for fradrag, så man ikke betaler for meget. Derfor er det en god idé at forstå sin forskudsopgørelse og tjekke sin årsopgørelse hvert år.
+<br><br>
+Det var alt for denne episode. Jeg håber det har givet en bedre forståelse af det danske skattesystem, selvom det er et kompliceret emne. Husk at du kan kontakte skattestyrelsen, hvis du har brug for hjælp til din skat. Der findes også virksomheder, der tilbyder skatterådgivning mod betaling. Tusind tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2025/07/Episode-92.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 92 - Spejderbevægelsen </h1>
+</summary>
+<span style="font-weight: normal">
+Hej og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om spejderbevægelsen. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du finde ordlister, downloade episoden, støtte podcasten og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo.
+<br><br>
+Spejderbevægelsen er en stor, international børne- og ungdomsbevægelse. Den blev startet i England i år 1907 af en mand, der hed Robert Baden-Powell. Han bliver kaldt ”BP” af alle verdens spejdere. Han var officer i militæret og havde arbejdet i Indien og Afrika. Her havde han lært meget om naturen og om, hvordan man klarer sig udenfor. Under krigene i Afrika mødte han en amerikansk militærmand, der hed Burnham, og han lærte BP mange brugbare ting. For eksempel hvordan man finder vand i naturen og hvordan man læser kort og kompas. Det inspirerede BP til at bruge disse færdigheder til at lære unge mennesker at blive selvstændige og ansvarlige.
+<br><br>
+I år 1907 lavede han en spejderlejr med 21 drenge på en lille engelsk ø, der hedder Brownsea Island. Det var den første spejderlejr nogensinde, og man siger, at det var begyndelsen på spejderbevægelsen. BP troede på at hvis han viste børnene tillid og gav dem udfordringer, så ville de selv klare opgaverne. Det var en helt ny måde at tænke på dengang. I lejren arbejdede drengene sammen i små grupper, som blev kaldt patruljer. Hver gruppe havde en leder, og det var drengene selv, der havde valgt lederen. Denne måde at arbejde på bruges stadig i spejderbevægelsen i dag. Børnene på BP’s første spejderlejr havde uniformer på. Man ved ikke hvorfor BP gav drengene uniform på. Nogle mener det var fordi han forberedte dem på militæret, mens andre mener at det var en strategi til at fjerne forskellen mellem rig og fattig, og fordi en uniform er praktisk i naturen.
+<br><br>
+BP skrev en bog til drenge, der hed Scouting for Boys. Bogen handlede om friluftsliv, førstehjælp, kort og kompas og mange andre ting, som man har brug for, når man er spejder. Bogen blev meget populær, og snart begyndte drenge i hele England at danne deres egne spejdergrupper. Hurtigt spredte ideen sig til andre lande. Allerede i år 1910 var der spejdere i mange lande, også i Danmark. BP selv besøgte den allerførste spejderlejr i Danmark, der blev afholdt i år 1911.
+<br><br>
+I starten var spejderbevægelsen kun for drenge, men der kom hurtigt også spejdergrupper for piger. BP’s kone arbejdede meget med at udvikle pigespejderforbundet. I dag er de fleste spejderkorps åbne for både piger og drenge.
+<br><br>
+Spejderbevægelsen har tre grundprincipper. Det første er pligt overfor sig selv – altså at man skal udvikle sig som menneske. Det andet er pligt overfor andre – man skal hjælpe og tage ansvar. Det tredje er pligt overfor Gud. Eller mere bredt forstået: at have respekt for liv og tro. I nogle lande er spejderkorpsene religiøse, men i andre lande er ikke alle spejderkorps knyttet til en tro.
+<br><br>
+En vigtig del af spejderlivet er lejre og aktiviteter i naturen. Spejdere sover i telt, laver mad over bål, bygger med reb og rafter, går på vandreture med rygsæk og kort, og lærer at samarbejde. De lærer også førstehjælp, miljøhensyn, og hvordan man klarer sig uden mobil og strøm. Alt dette kaldes spejdermetoden. Det er ikke skoleundervisning, men læring gennem oplevelser og leg. I Danmark fungerer det på den måde, at man ”går til spejder”. Det betyder at man mødes med de andre spejdere i ens lokale spejderkorps 1-2 gange i ugen, og nogle gange i weekenderne.
+<br><br>
+Spejdere har en uniform, ofte med skjorte og tørklæde, og nogle steder også spejderhat. Uniformen viser, at man er en del af en gruppe, og at alle er lige – uanset baggrund. På uniformen har man mærker, som man får, når man har lært noget eller deltaget i bestemte aktiviteter.
+<br><br>
+Der findes spejderkorps i næsten alle lande i verden. Mange af dem er medlem af to store internationale organisationer: WOSM for drenge og blandede grupper og WAGGGS for piger og blandede grupper. Der findes også mindre, uafhængige organisationer.
+<br><br>
+I Danmark findes seks spejderkorps: Det Danske Spejderkorps, KFUM-Spejderne, De Grønne Pigespejdere, Danske Baptisters Spejderkorps, De Gule Spejdere og Dansk Spejderkorps Sydslesvig. De fleste af disse korps er både for piger og drenge, men De Grønne Pigespejdere er kun for piger. Der findes også små korps, som er startet i kirker eller frikirker.
+<br><br>
+Alle danske spejderkorps bruger patruljesystemet – altså “unge leder unge”. Selv små børn lærer at tage ansvar og hjælpe hinanden. Spejderbevægelsen i Danmark er bred og mangfoldig, og der er plads til alle – både i byen og på landet, både med og uden religiøs tro.
+<br><br>
+Spejdere fra hele verden mødes på store spejderlejre. Den største af disse blev holdt i 2007 i England, hvor mere end 38.000 spejdere fra 158 lande deltog. Det var i anledning af 100-årsjubilæet for den første spejderlejr. Også i Danmark blev der i 2007 holdt en stor spejderbegivenhed, som hed Reload07, hvor over 10.000 spejdere mødtes i Roskilde.
+<br><br>
+Spejderbevægelsen har eksisteret i over 100 år og er stadig populær. Mange børn og unge er spejdere, og mange voksne vælger at blive ledere og hjælpe de unge med at lære, vokse og få gode oplevelser i naturen og med hinanden.
+<br><br>
+Det var alt for denne episode. Her til slut vil jeg gerne sige tusind tak til alle jer søde lyttere, der støtter min podcast. I dag, hvor jeg optager denne episode, har podcasten rundet 800.000 afspilninger. Det havde jeg aldrig forestillet mig, da jeg indtalte den første episode for 3,5 år siden. Men jeres afspilninger, kommentarer, e-mails og abonnementer betyder utroligt meget for mig, og motiverer mig til at blive ved med at lave nye episoder til jer. Så tusind tak for det, og tak fordi du lyttede til denne episode.
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2025/06/Episode-91.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 91 - Danskernes morgenmad </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om danskernes morgenmadsvaner. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, finde ordlister, downloade episoderne og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo.
+<br><br>
+Danskernes morgenmad er ofte et simpelt og hurtigt måltid, som skal være nemt at forberede, men stadig mættende og velsmagende. Mange danskere starter dagen med en skål havregryn med mælk eller en skive brød med ost eller syltetøj. Havregryn har en lang historie i Danmark. Oprindeligt blev havre mest brugt som foder til heste, men i dag er det en vigtig del af danskernes morgenmad. Faktisk spiser danskere i gennemsnit 6 kg havregryn om året, og vi er det eneste land i verden, hvor havregryn typisk spises rå med mælk. En anden populær morgenmad er yoghurt, ofte med mysli, som består af havregryn blandet med nødder og tørret frugt.
+<br><br>
+Mange danskere spiser morgenmad alene i hverdagen, måske fordi de har travlt om morgenen. De fleste bruger under 15 minutter på at lave og spise morgenmad. Nogle springer morgenmaden helt over – især personer mellem 18 og 39 år. Men det er altså 85% af alle voksne danskere, der spiser morgenmad. Især de ældre danskere foretrækker brød med smør, ost eller syltetøj både i hverdagen og i weekenden. Rugbrød er en vigtig del af den danske madkultur, men det spises oftere til frokost end til morgenmad. Danskerne spiser sjældent grøntsager, bælgfrugter, kød og kødpålæg til morgenmad.
+<br><br>
+Til morgenmaden drikker seks ud af ti danskere en varm drik, typisk kaffe eller te. En tredjedel drikker vand, mens andre vælger juice eller mælk. I weekenden er der tid til at nyde en lidt langsommere morgenmad, og her vælger flere danskere at spise brød med smør, ost og marmelade. Nogle familier har en tradition for at hente friskbagt brød fra bageren i weekenden, ofte rundstykker. Et rundstykke er en hvedebolle med en sprød skorpe, og en af de mest kendte typer er håndværkeren, som er et rundstykke drysset med birkes.
+<br><br>
+I weekenden er det også populært at mødes med venner eller familie til brunch på en café. Her kan man få en større morgenmad med flere forskellige retter – for eksempel æg, pandekager, avocado, frugt, yoghurt og friskpresset juice. De seneste år er det blevet moderne at købe en surdejsbolle med smør og ost, som ofte kaldes en “BMO”. Det er forkortelsen for ”bolle med ost”. Hvis du vil mødes med en dansk ven om formiddagen, kan du for eksempel spørge: “Skal vi købe en kop kaffe og en BMO?”
+<br><br>
+Det var alt for denne episode. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2025/05/Episode-90.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 90 - Matador </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om en af Danmarks mest sete og berømte tv-serier, Matador. Jeg vil også fortælle lidt om tv-seriens manuskriptforfatter, Lise Nørgaard. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, downloade episoden, finde ordlister og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo.
+<br><br>
+Matador er en dansk tv-serie, der blev sendt første gang fra år 1978 til år 1982. Serien er en af Danmarks mest elskede og kendte tv-serier. Den blev skabt af manuskriptforfatteren Lise Nørgaard og instrueret af Erik Balling. Matador består af 24 afsnit og følger livet i den fiktive danske by Korsbæk fra år 1929 til år 1947. Serien giver et billede af Danmark under 1930’ernes økonomiske krise og tiden under Anden Verdenskrig. Den viser både hverdagslivet og de store samfundsændringer, der påvirkede mennesker i de forskellige sociale klasser.
+<br><br>
+Hovedpersonen i serien er Mads Skjern, en handelsmand, der kommer til Korsbæk i 1929. Han åbner en tøjforretning og udfordrer den traditionelle butik Damernes Magasin. Byens gamle overklasse, især familien Varnæs, er skeptiske overfor Mads Skjern og hans moderne forretningsmetoder. Men Mads Skjern er dygtig og stædig, og det lykkes ham at udkonkurrere Damernes Magasin og blive en vigtig og indflydelsesrig person i byen.
+<br><br>
+Man følger også mange andre personer og familier i serien. Familien Varnæs består af bankdirektøren Hans Christian Varnæs og hans kone Maude. De er en del af byens overklasse. På den anden side af samfundet møder man blandt andet grisehandler Oluf Larsen og den kommunistiske arbejder med kælenavnet “Røde”. Der er også tjenestepigerne Agnes og Laura, som arbejder for familien Varnæs. Agnes er ambitiøs og ender med at starte sin egen virksomhed. Serien viser både de konflikter og venskaber, der opstår mellem byens beboere.
+<br><br>
+En af de ting, der gør Matador så populær, er de stærke karakterer og de mange spændende historier. Skuespillerne leverer fantastiske præstationer, og serien blev hurtigt en stor succes i Danmark. Faktisk blev Matador sendt flere gange i fjernsynet og har altid haft mange seere. Den er også blevet solgt til udlandet og udgivet på DVD. Da den blev genudsendt i fjernsynet for første gang, havde en af episoderne 3,6 millioner seere! Det er det højeste seertal målt i Danmark nogensinde.
+<br><br>
+Lise Nørgaard, der skrev manuskriptet, er en vigtig del af seriens succes. Hun ville lave en serie om virkelige mennesker og vise, hvordan deres liv blev påvirket af overgangen fra landbrugssamfund til industrisamfund. Hun var meget omhyggelig med manuskriptet og sørgede for, at dialogerne var troværdige og passede til karaktererne. Lise Nørgaard blev født i år 1917 i Roskilde og døde i år 2023 i en alder af 105 år! Hun er kendt som en af Danmarks største manuskriptforfattere og har også skrevet bøger og essays.
+<br><br>
+Hvis du er fan af Matador, kan du faktisk besøge byen Korsbæk i virkeligheden. På Bakken, som er en stor forlystelsespark nord for København, har man bygget Korsbæk som en attraktion. Her kan man gå rundt mellem de kendte bygninger fra serien og møde skuespillere, der spiller rollerne fra serien. Der er også restauranter, hvor man kan spise mad, som passer til tiden i serien. Korsbæk på Bakken åbnede i 2015 og er blevet et populært sted at besøge for både Matador-fans og turister.
+<br><br>
+Matador er en klassiker, som stadig fascinerer mange danskere og giver et spændende indblik i en vigtig periode i Danmarks historie. Hvis du ikke allerede har set den, kan du finde alle afsnit gratis på DRTV. Da serien har 24 afsnit, er der nogle danskere der bruger den som julekalender og ser én episode fra 1. december og frem mod jul.
+<br><br>
+Det var alt for denne episode. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2025/05/Episode-89.wav"></audio> </td>
 <td> 
 <details>
