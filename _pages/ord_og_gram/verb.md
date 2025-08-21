@@ -4916,6 +4916,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forn%C3%A6rme"> at fornærme </a></td>
+<td>
+<audio id="fornærme" src="https://static.ordnet.dk/mp3/11014/11014924_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fornærme');" style="cursor: pointer; color: blue;">[fʌˈnæɐ̯ˀmə]</span>
+</td>
+<td> fornærmer </td>
+<td> fornærmede </td>
+<td> har fornærmet </td>
+<td> fornærm </td>
+<td> to offend </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forn%C3%B8je"> at fornøje </a></td>
 <td>
 <audio id="fornøje" src="https://static.ordnet.dk/mp3/11014/11014931_1.mp3" style="display: none;"></audio>
