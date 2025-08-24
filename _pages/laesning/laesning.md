@@ -93,6 +93,17 @@ Basale ting som sikkerhedssko og arbejdstøj har været en mangelvare på amerik
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/45.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Billeder viser, hvordan Svalbards gletsjere er skrumpet de seneste 100 år </h1>
+<span style="font-weight: normal">
+Mere end 60 milliarder ton is smeltede fra Svalbard under rekordvarm sommer sidste år, viser nyt studie.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/viden/klima/billeder-viser-hvordan-svalbards-gletsjere-er-skrumpet-de-seneste-100-aar">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/1.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Chatbots sviner klimaet: Kæmpe datacentre kan om få år sluge hele Japans strømforbrug </h1>
