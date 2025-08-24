@@ -13288,6 +13288,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skrumpe"> at skrumpe </a></td>
+<td>
+<audio id="skrumpe" src="https://static.ordnet.dk/mp3/11047/11047050_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skrumpe');" style="cursor: pointer; color: blue;">[ˈsgʁɔmbə]</span>
+</td>
+<td> skrumper </td>
+<td> skrumpede </td>
+<td> har skrumpet </td>
+<td> skrumpe </td>
+<td> to shrink </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skryde"> at skryde </a></td>
 <td>
 <audio id="skryde" src="https://static.ordnet.dk/mp3/11047/11047064_1.mp3" style="display: none;"></audio>
