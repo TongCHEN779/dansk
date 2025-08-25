@@ -304,4 +304,53 @@ I København vendte stemningen i 90'erne. Kommunens økonomi blev bedre, arbejds
 </span>
 </td>
 </tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/13.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Lynetten banede vejen </h1>
+<span style="font-weight: normal">
+En forudsætning for at havnens vand blev renere i 90'erne, var udvidelse af renseprocessen på Renseanlæg Lynetten, som er opført på en opfyldning på Refshalesen.
+<br><br>
+BIOFOS-anlægget blev sat i drift i 1980 efter fem års byggeri, og blev allerede dengang betragtet som et af verdens mest avancerede renseanlæg. Senere er anlægget opgraderet og udvidet flere gange, så det i dag fylder næsten fem gange så meget, som det gjorde i begyndelsen. Før opførelsen of Lynetten blev hovedparten af byens spildevand ledt direkte ud i Kongedybet i Øresund.
+<br><br>
+Et rensealæg som Lynetten har forskellige typer af rensetrin, som renser spildevandet mekanisk, biologisk og kemisk, før vandet ledes ud i Øresund via et halvanden kilometer langt rør. Den biologiske og kemiske renseproces kom til i 1996. De to rensetrin fjerner næringssalte som kvælstof og fosfor, men også mængden af e-coli bakterier nedbringes i det rensede spildevand. Har vandet et for højt indhold af næringssalte, kan det føre til iltsvind og en uønsket opblomstring af alger. For hej koncentration af e-coli bakterier kan gøre os syge, hvis vi bader i vandet.
+<br><br>
+Det slam, som er tilbage efter den mekaniske og biologiske rensning, tørres i øvrigt og bruges til produktion af biogas. Biogassen sælges til HOFOR, der bruger det i deres bygas, som anvendes i hovedstadens mange gaskomfurer. Den biogas, som HOFOR ikke aftager, kan BIOFOS bruge til at lave varme, som også sendes retur til forbrugerne via fjernvarmenettet.
+<br><br>
+I alt driver BIOFOS tre renseanlæg. Foruden Lynetten er det Renseanlægget Damhusåen ved Valbyparken og Renseanlægget Avedøre ved Avedøre Holme i Hvidovre.
+</span>
+<br><br>
+<h1> HOFORs gigantiske hemmelighed </h1>
+<span style="font-weight: normal">
+Hovedstadsområdets Forsyningsselskab, HOFOR, står bag nogle af Københavns allerstørste hemmeligheder - men også nogle af byens vigtigste byggerier over-hovedet. For de har stor betydning for vandkvaliteten i Københavns Havn.
+<br><br>
+Under jorden på Østerbro ved Dampfærgevej ligger Colosseum. Det er det sterste af i alt 2l underjordiske bassiner, der opsamler regn- og kloakvand i stedet for at lede det ud i havnen.
+<br><br>
+Colosseum alene har en volumen på 30.000 kubikmeter, svarende til 12 olympiske badebossiner eller 310 HT-busser. 
+<br><br>
+Når det regner i København, ledes regn- og kloakvand bl.a. ned i bassinerne. Her ligger det opblandede spildevand, til der igen er plads i kloakkerne, så det kan ledes kontrolleret ud til bl.a. Renseanlægget Lynetten. Udover bassiner findes der også underjordiske tunneler, der kan opbevare vandet, til der igen er plads i kloak-systemet. Også regnbede og grenne overfladeløsninger med skybrudsporker, fx Enghaveparken på Vesterbro og Karens Minde Aksen, er med til at tilbageholde vandet, når de voldsomme regnmængder rammer hovedstaden.
+<br><br>
+På grund af det ændrede klima oplever Danmark og København voldsommere regnskyl end for bare få år siden. Det betyder, at der sommetider er rødt flag ved byens badesteder, fordi mængden af forurenet regnvand overstiger den nuværende kapacitet i bassinerne og på renseanlægget. Derfor er HOFOR og BIOFOS også ved at udvide deres anlag yderligere og tage ny teknologi i brug, så vandet kan renses hurtigere og ledes ud i havet som rent vand.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/14.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Havnens biodiversitet </h1>
+<span style="font-weight: normal">
+Det er afgørende, at havnevandet forbliver rent og fuldt af liv. Fra By & Havns side er der taget en række initiativer, som skal sikre og udvikle biodiversiteten i fremtiden.
+<br><br>
+Men en gammel havn består mestendels af et ensartet miljø med lodrette spunsvægge, sejlrender, bropiller, trækonstruktioner og stensætninger, der som udgangspunkt passer til en havns formål, men som er mindre egnet som levested for dyr og planter. Alligevel er Københavns Havn fuld af liv under overfladen.
+<br><br>
+By & Havn har i partnerskab med WWF Verdensnaturfonden iværksat flere konkrete initiativer, der hjælper havnens dyr og fisk. I sommeren 2022 udkom rapporten KØBENHAVNS HAVN - EN NATURBESKRIVELSE AF LIVET I HAVNEN, som afdækker havnens biodiversitet og bl.a. refererer en undersøgelse fra 2015, der viser, at havnens alger (tang) og blomsterplanter (bl.a. ålegræs) trives godt i havnen. I alt er der observeret mindst 4l typer makroalger og 4 typer blomsterplanter. Særligt ålegræs og havgræs har det godt og findes mange steder. Ålegræs kaldes "havets superhelt", fordi det hurtigt kan optage store mængder af CO2. Faktisk helt op til 35 gange hurtigere end de tropiske regnskove. I en anden undersøgelse er der observeret 34 forskel-lige fiskearter i havnen, men Københavns Kommune estimerer, at der findes op til 100 forskellige fiskearter. Hundestejle, sortkutling, toplettet kutling, torsk, skrubber, ål, ålekvabber, sild, hornfisk, makrel, ulke, ørred, tangnåle, multe, savgylte, havkarrusse og aborre er de mest almindelige.
+<br><br>
+Det er vigtigt at hjælpe biodiversiteten på vej ved at etablere kunstige levesteder for fisk, alger og andet liv. Det gør partnerskabet mellem WWF Verdensnaturfonden og By & Havn på mange måder: ålegrus, flydende haver, etablering af stenrev og opsætning af biohuts - en slags børnehaver for fisk, som består af stålbure med en gitterkasse, som er fyldt op med østersskaller. Her kan småfisk og fiskeyngel spise sig mætte og være i sikker-hed for de større, sultne rovfisk i en ekstremt sårbar del af fiskenes livscyklus. Erfaringer med lignende projekter fra Middelhavet viser, at en øget fiskebestand i havnene også kan have en positiv effekt på fiskebestandene uden for havnene, da mange fiskearter vandrer over afstande.
+<br><br>
+De første fiskebørnehaver blev installeret i havnen i juni 2021, og medregnet en række biohuts, som er sat i vandet af Strömma, Mærsk og IDA, huser Københavns Havn nu i alt 200 biohuts - en verdensrekord.<br>
+</span>
+</td>
+</tr>
 </table>
