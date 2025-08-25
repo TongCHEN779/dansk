@@ -278,23 +278,23 @@ I slutningen af 80'erne reagerede politikerne på Københavns forarmelse. En ini
 <br><br>
 Initiativgruppen udgav rapporten 'Hovedstaden - hvad vil vi med den?' som foreslog en lang række initiativer og investeringer for at genrejse København. Bl.a.:
 <br>
-Øresundsbroen
+1. Øresundsbroen
 <br>
-Udvidelse af Københavns Lufthavn
+2. Udvidelse af Københavns Lufthavn
 <br>
-Udvidelse af erhvervshavnen
+3. Udvidelse af erhvervshavnen
 <br>
-Byggeri af 'tunnelbaneprojekt' (metro) 
+4. Byggeri af 'tunnelbaneprojekt' (metro) 
 <br>
-Tiltrækning af internationale virksomheder
+5. Tiltrækning af internationale virksomheder
 <br>
-Udvidelse af kongresfaciliteter 
+6. Udvidelse af kongresfaciliteter 
 <br>
-Hovedstaden som sports- og kulturby (Kulturby 96)
+7. Hovedstaden som sports- og kulturby (Kulturby 96)
 <br>
-Oprettelse af Ørestadsselskabet og igangsættelse af byudviklingen i Ørestad
+8. Oprettelse af Ørestadsselskabet og igangsættelse af byudviklingen i Ørestad
 <br>
-Anvendelse af visse havnearealer til i kreative formäl
+9. Anvendelse af visse havnearealer til i kreative formäl
 <br><br>
 Der var enighed mellem stat og kommune, og alle initiativerne blev faktisk gennemført i de efterfølgende år.
 <br><br>
