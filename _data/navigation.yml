@@ -142,10 +142,12 @@ lytte:
 laesning:
   - title: "Læsning"
     children:
-      - title: "Af Møns historie - F. Bojsen"
+      - title: "Af Møns Historie - F. Bojsen"
         url: /laesning/moens/
       - title: "Against All Odds - SMK"
         url: /laesning/against_all_odds/
+      - title: "By og Havn"
+        url: /laesning/by_og_havn/
       - title: "Bøger"
         url: /laesning/boeger/
       - title: "Børnenes Bogsamling"

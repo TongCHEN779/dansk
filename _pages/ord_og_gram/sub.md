@@ -13254,6 +13254,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=krokodille"> en krokodille </a></td>
+<td>
+<audio id="krokodille" src="https://static.ordnet.dk/mp3/11028/11028174_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('krokodille');" style="cursor: pointer; color: blue;">[kʁogəˈdilə]</span>
+</td>
+<td> krokodillen </td>
+<td> krokodiller </td>
+<td> krokodillerne </td>
+<td> crocodile </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=krom"> et krom </a></td>
 <td>
 <audio id="krom" src="https://static.ordnet.dk/mp3/11028/11028179_1.mp3" style="display: none;"></audio>
@@ -16371,6 +16383,18 @@ search: true
 <td> muligheder </td>
 <td> mulighederne </td>
 <td> possibility </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=mumie"> en mumie </a></td>
+<td>
+<audio id="mumie" src="https://static.ordnet.dk/mp3/11034/11034613_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('mumie');" style="cursor: pointer; color: blue;">[ˈmuˀmjə]</span>
+</td>
+<td> mumien </td>
+<td> mumier </td>
+<td> mumierne </td>
+<td> mummy </td>
 <td> 1 </td>
 </tr>
 <tr>
