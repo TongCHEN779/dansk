@@ -353,4 +353,19 @@ De første fiskebørnehaver blev installeret i havnen i juni 2021, og medregnet 
 </span>
 </td>
 </tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/15.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Igangværende opfyld </h1>
+<span style="font-weight: normal">
+Her ses det igongvarende arbejde med ot fylde Lynetteholm op med overskudsjord. Den første jord blev kørt til i juni 2023, og hele Lynetteholm ventes at være helf opfyldt omkring 2050.
+<br><br>
+Overskudsjorden graves op i forbindelse med bygge-og anlægsprojekter i Københawn og omegn. Det sparer transporttid og dermed CO2, när overskudsjord fra lokale byggepladser ikke skal transporteres langt udenfor København, men i de næste mange år kan nyttiggøres som opfyld i Lynetteholm.
+<br><br>
+Omkring 2029 åbner ca. syv hektar af det område, som fyldes op nu, for offentligheden. Det betyder, at københavnerne om fire til fem år får glæde af et helt nyt grønt og rekreativt område på Lynetieholm med udsigt til Øresund.
+<br>
+</span>
+</td>
+</tr>
 </table>

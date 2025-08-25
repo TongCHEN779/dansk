@@ -14814,6 +14814,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=luns"> en luns </a></td>
+<td>
+<audio id="luns" src="https://static.ordnet.dk/mp3/11031/11031219_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('luns');" style="cursor: pointer; color: blue;">[ˈlɔnˀs]</span>
+</td>
+<td> lunsen </td>
+<td> lunser </td>
+<td> lunserne </td>
+<td> chunk, piece </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ly"> et ly </a></td>
 <td>
 <audio id="ly" src="https://static.ordnet.dk/mp3/11031/11031273_1.mp3" style="display: none;"></audio>

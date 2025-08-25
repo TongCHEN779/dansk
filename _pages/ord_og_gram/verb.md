@@ -15004,6 +15004,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=svindle"> at svindle </a></td>
+<td>
+<audio id="svindle" src="https://static.ordnet.dk/mp3/11051/11051711_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('svindle');" style="cursor: pointer; color: blue;">[ˈsvenlə]</span>
+</td>
+<td> svindler </td>
+<td> svindlede </td>
+<td> har svindlet </td>
+<td> svindl </td>
+<td> to cheat, defraud </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=svine"> at svine </a></td>
 <td>
 <audio id="svine" src="https://static.ordnet.dk/mp3/11051/11051715_1.mp3" style="display: none;"></audio>
