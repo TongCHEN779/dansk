@@ -364,13 +364,18 @@ Her ses det igongvarende arbejde med ot fylde Lynetteholm op med overskudsjord. 
 Overskudsjorden graves op i forbindelse med bygge-og anlægsprojekter i Københawn og omegn. Det sparer transporttid og dermed CO2, når overskudsjord fra lokale byggepladser ikke skal transporteres langt udenfor København, men i de næste mange år kan nyttiggøres som opfyld i Lynetteholm.
 <br><br>
 Omkring 2029 åbner ca. syv hektar af det område, som fyldes op nu, for offentligheden. Det betyder, at københavnerne om fire til fem år får glæde af et helt nyt grønt og rekreativt område på Lynetieholm med udsigt til Øresund.
-<br>
+<br><br>
+Figur 1: Hele Lynetteholms omkreds bygges som stendæmninger. I alt skal der anlægges syv kilometer stendæmning. I februar 2023 var det for første gang muligt for københavnerne at gå en tur på stendæmningerne.
+<br><br>
+Figur 2: Fremtidsvisualisering af Lynetteholm, hvor halvøen er cirka halvt fyldt op. Det er den politiske vision, at Lynetteholm skal udvikles til en ny bydel med metro og en østlig ringvej. Bydelen ventes først færdigudviklet omkring 2070. Lynetteholms kystlandskab vil beskytte halvøens egen bydel mod oversvømmelse og samtidig være et vigtigt bidrag til den samlede stormflodssikring af København.
+<br><br>
+Figur 3: Fremtidsvisualisering af Lynetteholms kystlandskab. Ca. 30 år efter etablering vil kystlandskabets skovområder kunne opleves som en høj skov, som kan nydes i forbindelse med gåture langs vandet.<br>
 </span>
 </td>
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/13.jpg"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/16.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Verdenshavene stiger - og det får betydning for København </h1>
 <span style="font-weight: normal">
@@ -383,11 +388,12 @@ Beregninger tra Kystdirektoratet og Danmarks Meteorologiske Institut (DMI) viser
 <br><br>
 Tabellen viser de beregnede fysisk maksimale vandstande uden tilæg for bølger (designvandstande) i Øresund og den vestlige del af Østersøen.
 <br>
-| Lokalitet | År 1990 | År 2023 | År 2075 | År 2125 |
-| --- | --- | --- | --- | --- |
-| Designvandstand Nord | 2,8 m | 2,9 m | 3,4 m | 4,0 m |
-| Designvandstand Midt | 3,3 m | 3,4 m | 3,9 m | 4,5 m |
-| Designvandstand Syd | 3,8 m | 3,9 m | 4,4 m | 5,0 m |
+<table border="1" cellspacing="0" cellpadding="6">
+<tr><th>Lokalitet</th><th>År 1990</th><th>År 2023</th><th>År 2075</th><th>År 2125</th></tr>
+<tr><td>Designvandstand Nord</td><td>2,8 m</td><td>2,9 m</td><td>3,4 m</td><td>4,0 m</td></tr>
+<tr><td>Designvandstand Midt</td><td>3,3 m</td><td>3,4 m</td><td>3,9 m</td><td>4,5 m</td></tr>
+<tr><td>Designvandstand Syd</td><td>3,8 m</td><td>3,9 m</td><td>4,4 m</td><td>5,0 m</td></tr>
+</table>
 </span>
 <br><br>
 <h1> Årsager til stigende havniveau på verdensplan </h1>
@@ -406,6 +412,32 @@ Størrelsen på fremtidens vandstandsstigninger afhænger af den fremtidige udle
 Lynetteholm indgår i en forundersøgelse af en samlet stormflodssikring for den centrale del af hovedstaden. Forundersøgelsen foretages af Transportministeriet og omfatter kyststrækningen fra Hvidovre i syd til København i nord.
 <br><br>
 Kyststrækningen er inddelt i 14 delstrækninger, og Lynetteholm er delstrækning nr. 11.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/17.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Kystlandskab som stormflodssikring </h1>
+<span style="font-weight: normal">
+Lynetteholms stendæmninger og kystlandskab er designet til at fungere som stormflodssikring - det kaldes naturbaseret stormflodssikring. Kystlandskabet får både sandstrande, stenstrande, kystfremspring og skovområder, der anlægges, så det kan tåle at blive oversvømmet ved stormflod.
+<br><br>
+Kystlandskabet bliver cirka 60 hektar stort, og kanten mod Øresund bliver anlagt som en bugtet kystlinje. Hvis man går langs den bugtede kyst, er turen 4,7 km lang. Kystlandskabets natur er konstrueret til at være modstandsdygtigt overfor oversvømmelser og vil med tiden ændre sig naturligt i takt med vandstandsstigningerne. Landskabet kan efter behov forhøjes og udbygges lokalt, så stormflodssikringen bliver stærkere, uden der skabes en større barriere til vandet.
+<br><br>
+Med skov strand og åbent land vil det kommende kystlandskab på Lynetteholm også understøtte biodiversitet og naturoplevelser langs kysten. Landskabet vil blive udviklet gradvist og beplantet tidligt, så det kan vokse til og udvikle sig.
+</span>
+<br><br>
+<h1> Fra lodret kajkant til åben kyst </h1>
+<span style="font-weight: normal">
+I stedet for lodrette kanter, som vi kender tra Københavns gamle havneindustriområder, bliver Lynetteholms kant anlagt som et åbent kystlandskab. En innovativ måde at stormflodssikre på, der gør det muligt for københavnerne at komme tæt på vandet.
+<br><br>
+En lodret kant ville få bølgerne til at slå højt op. En fiad kyst trækker i stedet krafien ud af bølgerne. Ved en lodret kant, ville der løbende blive behov for at hæve kajkanten i takt med, at vandstanden stiger. Det ville skabe en større barriere til vandet.
+</span>
+<br><br>
+<h1> Rekreativt område og stormflodssikring </h1>
+<span style="font-weight: normal">
+Kystlandskabet får både sandstrande, stenstrande, kystfremspring og skovområder, der anlægges, så det kan tåle at blive oversvømmet. Når vejret er godt, vil kystlandskabet give københavnerne nye, rekreative strand- og skovområder tæt ved vandet, og når det blæser op, vil samme landskab udgøre en effektiv sikring mod fremtidige stormfloder.<br>
 </span>
 </td>
 </tr>
