@@ -456,7 +456,7 @@ Kystlandskabet får både sandstrande, stenstrande, kystfremspring og skovområd
 <tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/18.jpg"/></p></td>
 <td style="vertical-align: top;">
-<h1> Fra princip til skitse til rekreativ halvø</h1>
+<h1> Fra princip til skitse til rekreativ halvø </h1>
 <span style="font-weight: normal">
 Forud for Folketingets beslutning om at anlægge Lynetteholm i juni 2021 var der en bred dialog om projektet. Både i offentligheden og i professionelle kredse blev den oprindelige skitse, som var blevet fremlagt i forbindelse med principaftalen i 2018, diskuteret.
 <br><br>
@@ -498,6 +498,87 @@ Siden middelalderen er København vokset ud i vandet, og det gør byen stadig de
 Københavns Havn har altid taget form efter byens behov, og hver landvinding i havnen er et spejl på sin tid. Nogle opfyldningsprojekter blev til nye kajkanter med plads til oplagring af eksotiske varer fra nær og fjern. Andet opfyld gav plads til kongernes ekspanderende sømagt eller industriens pulserende fabrikker.
 <br><br>
 Vor tids opfyld giver plads til boliger, arbejdspladser eller sikrer byen mod klimaforandringerne.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/20.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Nordhavn 1891-2022 </h1>
+<span style="font-weight: normal">
+Nordhavn blev anlagt som Frihavn i 1890'erne og mere opfyld er sicen kommet til. Senest i 2022, hvor Nordhavnsudvidelsen stod færdig.
+</span>
+<br><br>
+<h1> Frederiksstaden ca. 1700-1750 </h1>
+<span style="font-weight: normal">
+Oprindeligt var Frederiksstaden et sumpet vådområde, der lå uforstyrret uden for byens volde. Det var den perfekte losseplads for middelalderens københavnere, og kongens og overklassens marmorhvide bydel blev fra 1748 rejst på et fundament af københavnsk affald.
+</span>
+<br><br>
+<h1> Slotsholmen, Gammelholm og Gammel Stand ca. 1580-1880 </h1>
+<span style="font-weight: normal">
+Den første havn opstod ved Gammel Strand, som lå beskyttet bag små holme i farvandet ud for kysten. I senmiddelalderen voksede holmene gennem opfyld og blev til Slotsholmen og Gammelholm.
+</span>
+<br><br>
+<h1> Sydhavnen 1880-1965 </h1>
+<span style="font-weight: normal">
+Kalvebod Brygge, Enghave Brygge og Gasværkshavnen blev primært opfyldt med jord fra anlægget af Hovedbanegården og andre sporarbejder i 1880'erne og 1890'erne. I 1920'erne opstod Teglholmen af opfyld fra uddybningerne i havneløbet og københavnsk affald. Sluseholmen blev indvundet mellem 1941 og 1965.
+</span>
+<br><br>
+<h1> Refshaleøen 1868-1960 </h1>
+<span style="font-weight: normal">
+I 1868 begyndte Københavns Havnevæsen at opfylde et lille område i vandet nord for Nyholm. Øen TiK sit navn efter den aflange, lavvandede sandbanke, der lå syd for opfyldet. Disse lave sandbanker, der kom og gik med tidevandet, blev kaldt refshaler (rævehaler). Refshaleøen blev senest udvidet gennem landvinding i 1960.
+</span>
+<br><br>
+<h1> Prøvestenen 1713-2016 </h1>
+<span style="font-weight: normal">
+Fortet Prøvestenen blev nedlagt i 1922, og i 1933 blev det solgt til Københavns Havnevæsen, som anlagde en kunstig ø omkring fortet med et benzin og olieanlæg. Prøvestenen blev senest udvidet gennem opfyld i 2016.
+</span>
+<br><br>
+<h1> Holmen 1690-1781 </h1>
+<span style="font-weight: normal">
+Nyholm blev anlagt som ny flådehavn i det lavvandede farvand over for Toldboden i 1690. Christiansholm blev anlagt i 1696. I takt med at flåden voksede gennem 1700-tallet, blev øerne Frederiksholm og Arsenaløen også til. Senere fik københavnerne også udsigt til Ankerø, som siden skiftede navn til Dokø.
+</span>
+<br><br>
+<h1> Christianshavn 1617-1897 </h1>
+<span style="font-weight: normal">
+Christianshavn bliv anlagt midt i farvandet mellem Amager og Sjælland i 1617. Den nye by var Christian IV's påfund og blev anlagt med hollandske kanalbyer som forbillede. Grundene blev udstykket med pæle, der blev rammet ned i vandet fra en båd og opfyldt med københavnernes affald og mudder fra havnen.
+</span>
+<br><br>
+<h1> Islands Brygge 1903-1933 </h1>
+<span style="font-weight: normal">
+Islands Brygge blev opfyldt mellem 1903 og 1905 for at skaffe mere kajstrækning i den travle havn. Efterspørgslen på kajpladser var så stor, at Islands Brygge måtte udvides ved landvinding fire gange i de efterfølgende tre årtier. Bryggen har navn efter de Islandsbåde, der lagde til kaj der.
+</span>
+<br><br>
+<h1> Kalvebod Fælled 1939-1943 </h1>
+<span style="font-weight: normal">
+I 1930'erne var samfundsekønomien i bund og arbejdsløsheden tårnhøj. For at skaffe arbejdspladser satte regeringen gang i et enormt inddæmningsprojekt i Kalveboderne, og på få år, fra 1939 til 1943, blev Amager en tredjedel større.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/21.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Nordhavn 1891-2022 </h1>
+<span style="font-weight: normal">
+I 1887 igangsatte den tyske kejser udgravningen af Kielerkanalen. Det var en trussel mod den danske andel i den østersøiske transithandel. Kielerkanalen forbandt Frihavnen i Hamborg med Østersøen, og skibene behøvede ikke længere gå nord om Jylland. Dermed risikerede Danmark at blive en handelsmæssig udørk.
+<br><br>
+Som modsvar satte regeringen gang i et af datidens største anlægsprojekter: En dansk frihavn, der toldmæssigt blev betragtet som udland. Frihavnen stod færdig i 1894 og blev hurtigt en af havnens store drivkræfter. Men al begyndelse er hård, og selv om Frihavnen stod færdig i 1894, stod den også gabende tom. For hver dag, der gik, tabte Frihavnen penge. Samtidig flød Kielerkanalen og Hamborgs Frihavn nærmest over af international bevågenhed.
+<br><br>
+Danmark satte ind med et større lobbyarbejde, og i 1895 lykkedes det at lokke en betragtelig del af den internationale presse til Københavns Frihavn til en genlancering af det nye funklende havneanlæg. Markedsføringsfremstødet blev en succes, og snart blev oplagringspladsen i Frihavnen så utilstrækkelig, at skibe måtte ligge og vente i flere dage, før de kunne komme af med deres last. Løsningen biev en frihavnsudvidelse, og i 1918 kunne Sundmolen, Redmolen og Kronløbsbassinet indvies.
+<br><br>
+Frihavnens storhedstid varede frem til 1960'erne. Men fra 1970'erne skabte ændrede fragtformer og containertransport nye behov i Frihavnen, og landvindinger flyttede havnefunktionerne længere mod nord.
+<br><br>
+Det gav Nordhavn sin moderne form, og området vokser stadig. Senest med Nordhavnsudvidelse (2012-2022) på 1 mio. m2.
+<br><br>
+Figur 1: Stor travlhed og skibe i Vestbassinet mellem Midtermolen og Vest Kaj ved den nuværende Amerika Plods.
+<br><br>
+Figur 2: Det enorme silopakhus på Midtermolen dominerede Frihavnen. Bygningen var tegnet of Vilhelm Dahlerup med inspiration fra Christion IV.'S renæssance-bygninger og bestod af en høj kornsilo som kerne og almindelige pakhuse i siderne. Fra 1909 og frem til 2. Verdenskrig var det officielle tidssignal placeret på toppen af bygningen, idet en kugle hver morgen blev hejst op og faldt ned igen præcis kl. 13.00. Silopakhuset blev revet ned efter en brand i 1969. 
+<br><br>
+Figur 3: Kort over det helt nye frihavnsanlæg er dateret 1894/1995. Det nye areal er tydeligt markeret med gult.
+<br><br>
+Figur 4: Maleri fra 1928 giver et godt overblik over Frihavnens område. I forgrunden ses Amerika Plads, Midtermolen og Langelinie. Længere ude i Frihavnen ses Marmormolen, det nuværende Århusgadekvarter, Redmolen og helt bagved Sundmolen med Orientbassinet.<br>
 </span>
 </td>
 </tr>
