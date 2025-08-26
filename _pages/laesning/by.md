@@ -361,10 +361,51 @@ De første fiskebørnehaver blev installeret i havnen i juni 2021, og medregnet 
 <span style="font-weight: normal">
 Her ses det igongvarende arbejde med ot fylde Lynetteholm op med overskudsjord. Den første jord blev kørt til i juni 2023, og hele Lynetteholm ventes at være helf opfyldt omkring 2050.
 <br><br>
-Overskudsjorden graves op i forbindelse med bygge-og anlægsprojekter i Københawn og omegn. Det sparer transporttid og dermed CO2, när overskudsjord fra lokale byggepladser ikke skal transporteres langt udenfor København, men i de næste mange år kan nyttiggøres som opfyld i Lynetteholm.
+Overskudsjorden graves op i forbindelse med bygge-og anlægsprojekter i Københawn og omegn. Det sparer transporttid og dermed CO2, når overskudsjord fra lokale byggepladser ikke skal transporteres langt udenfor København, men i de næste mange år kan nyttiggøres som opfyld i Lynetteholm.
 <br><br>
 Omkring 2029 åbner ca. syv hektar af det område, som fyldes op nu, for offentligheden. Det betyder, at københavnerne om fire til fem år får glæde af et helt nyt grønt og rekreativt område på Lynetieholm med udsigt til Øresund.
 <br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/13.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Verdenshavene stiger - og det får betydning for København </h1>
+<span style="font-weight: normal">
+Vandstanden i havene stiger, og derfor er det nødvendigt at sikre en lang række byer - herunder København - så man undgår oversvømmelser af byen. Der er flere årsager til, at verdenshavene stiger. De væsentligste faktorer er stigende vandtemperaturer, der får vandet til at udvide sig, og afsmeltning fra iskapper og gletsjere, men mængden af ferskvand på land spiller også ind.
+</span>
+<br><br>
+<h1> Hvor voldsomme kan fremtidens stormfloder blive? </h1>
+<span style="font-weight: normal">
+Beregninger tra Kystdirektoratet og Danmarks Meteorologiske Institut (DMI) viser de maksimale vandstande, som vil kunne indtræffe ved ekstrem stormflod i københavnsområdet frem mod 2125. Ifalge beregningerne vil den maksimale vandstand ved en stormflod være op til 4 meter i nord og 5 meter i syd. Dertil kommer påvirkning fra bølger, som skal lægges oveni.
+<br><br>
+Tabellen viser de beregnede fysisk maksimale vandstande uden tilæg for bølger (designvandstande) i Øresund og den vestlige del af Østersøen.
+<br>
+| Lokalitet | År 1990 | År 2023 | År 2075 | År 2125 |
+| --- | --- | --- | --- | --- |
+| Designvandstand Nord | 2,8 m | 2,9 m | 3,4 m | 4,0 m |
+| Designvandstand Midt | 3,3 m | 3,4 m | 3,9 m | 4,5 m |
+| Designvandstand Syd | 3,8 m | 3,9 m | 4,4 m | 5,0 m |
+</span>
+<br><br>
+<h1> Årsager til stigende havniveau på verdensplan </h1>
+<span style="font-weight: normal">
+Fra 1900 og frem til i dag er det gennemsnitlige globale havniveau steget med 20 cm.
+<br><br>
+I Øresund - langs Københavns kyster - er vandstanden i samme periode steget med 7-8 cm.
+<br><br>
+Havvandsstigningen ud for København er mindre end andre steder, fordi landhævninger, der har fundet sted siden istiden, indtil for nylig har betydet, at landet har hævet sig mere end havvandet er steget. Men nu har havvandsstigningerne taget fart.
+<br><br>
+Størrelsen på fremtidens vandstandsstigninger afhænger af den fremtidige udledning af drivhusgasser på verdensplan, men forventes ifølge DMI at nå op til 60 cm i Øresund frem mod 2100, hvis den globale opvarmning resulterer i en forøget gennemsnitstemperatur på knap 4 grader. Dette scenarie indebærer at udledningerne fortsætter som hidtil.
+</span>
+<br><br>
+<h1> Lynetteholm er en vigtig brik i puslespillet </h1>
+<span style="font-weight: normal">
+Lynetteholm indgår i en forundersøgelse af en samlet stormflodssikring for den centrale del af hovedstaden. Forundersøgelsen foretages af Transportministeriet og omfatter kyststrækningen fra Hvidovre i syd til København i nord.
+<br><br>
+Kyststrækningen er inddelt i 14 delstrækninger, og Lynetteholm er delstrækning nr. 11.<br>
 </span>
 </td>
 </tr>
