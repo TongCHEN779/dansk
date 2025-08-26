@@ -26,12 +26,25 @@ search: false
     }
 
     /* Small table: no fixed widths, just content-based */
-    table.small-table {
-        width: auto; /* shrink to fit */
+    table.small-table th:nth-child(1),
+    table.small-table td:nth-child(1) {
+        width: 40%;
     }
-    table.small-table th,
-    table.small-table td {
-        width: auto; /* remove forced width */
+    table.small-table th:nth-child(2),
+    table.small-table td:nth-child(2) {
+        width: 15%;
+    }
+    table.small-table th:nth-child(3),
+    table.small-table td:nth-child(3) {
+        width: 15%;
+    }
+    table.small-table th:nth-child(4),
+    table.small-table td:nth-child(4) {
+        width: 15%;
+    }
+    table.small-table th:nth-child(5),
+    table.small-table td:nth-child(5) {
+        width: 15%;
     }
 </style>
 
@@ -579,6 +592,160 @@ Figur 2: Det enorme silopakhus på Midtermolen dominerede Frihavnen. Bygningen v
 Figur 3: Kort over det helt nye frihavnsanlæg er dateret 1894/1995. Det nye areal er tydeligt markeret med gult.
 <br><br>
 Figur 4: Maleri fra 1928 giver et godt overblik over Frihavnens område. I forgrunden ses Amerika Plads, Midtermolen og Langelinie. Længere ude i Frihavnen ses Marmormolen, det nuværende Århusgadekvarter, Redmolen og helt bagved Sundmolen med Orientbassinet.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/22.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Christianshavn 1617-1897 </h1>
+<span style="font-weight: normal">
+En oversvømmet by, hvor kragerne vender.
+<br><br>
+Christianshavn blev anlagt midt i farvandet mellem Amager og Sjælland i 1617. Den nye by var Christian IV's påfund, og blev anlagt med hollandske kanalbyer som forbillede. Christianshavn skulle beskytte de flådemilitære anlæg på Gammelholm og Slotsholmen og blev anlagt på aflange sandbanker kaldet refshaler (rævehaler), som lå ca. en meter under havoverfladen. Grundene blev udstykket med pæle, der blev rammet ned i vandet fra en båd og opfyldt med københavnernes affald og mudder fra havnen.
+<br><br>
+Gaderne blev indvundet og anlagt efter en retvinklet symmetri med Christianshavns Kanal i midten. Overgaden Neden Vandet og Overgaden Oven Vandet er en fordanskning af det tyske Ufergasse, som betyder en gade langs med en kanal.
+<br><br>
+Kongens nye by var i de første år ikke en stor succes. Indbyggerne lod vente på sig, da byen, som lå langt ude i vandet, forekom københavnerne uendeligt langt væk. De små robåde, der færgede københavnere og christianshavnere over havneløbet, var for upraktiske. Der måtte en bro til, og sådan fik havneløbet sin første bro: Knippelsbro. Desuden var grundene stadig meget sumpede og krævede mere opfyld og pilotering med træpæle. Om den ufærdige landvinding sagde Christianshavns byfoged, at det om vinteren sommetider var så højvandet.
+<br><br>
+"... at man næppe tør sig vove udendørs en drik fersk vand at hente eller et stykke brød."
+</span>
+<br><br>
+<h1> Holmen 1690-1781 </h1>
+<span style="font-weight: normal">
+En afsidesliggende statshemmelighed.
+<br><br>
+I 1692 stod en stor, ny befæstningsvold færdig midt ude i havnen. Den slog en stor beskyttende bue rundt om Christianshavn og strakte sig ud i havet mod Kastellet. Volden lagde en beskyttende ring om det farvand, der strakte sig fra Gammelholm til Kastellet, og indlemmede det i havneløbet. Dermed var fundamentet lagt for en udflytning af flåden.
+<br><br>
+I midten af 1600-tallet voksede flåden hastigt, og pladsmanglen var presserende, når de store linjeskibe skulle bygges og udrustes. Desuden var både brand og industrispionage en konstant trussel på det gamle orlogsværft i byens hjerte. På opfordring fra søhelten Admiral Niels Juel blev det derfor anlagt som ny flådehavn i det lavvandede farvand over for Toldboden i 1690. I 1696 anlagde brødrene Motzmann endnu en kunstig ø i havnen og etablerede et skibsværft på øen, som de kaldte Motzmanns Plads. Men på grund af en penibel pengeknibe måtte brødrene overgive øen til Staten, som omdøbte den til Christiansholm. I 1740 stod generaladmiralløjtnant grev Samsøe-Danneskiold bag en helhedsplan, der i takt med at flåden voksede, blev til øerne Frederiksholm og Arsenaløen. Senere fik københavnerne også udsigt til Ankerø, som siden skiftede navn til Dokø.
+<br><br>
+Figur 1: Strandgade på Christianshavn har sit navn efter gadens oprindelige placering. Ved anlæggelsen i 1617 udgjorde gaden nemlig en strand, hvor Christianshavns storkøbmænd kunne lade bådene lægge til kajs langs strandens landtanger
+<br><br>
+Figur 2: I dag er Asiatisk Plads og Eigtveds Pakhus hjemsted for et mylder af embedsmænd. Men fra 1739-1919 genlød havneløbet ved Christianshavn af travle skibsbyggere, for her lå byens tørdok. I tørdokken blev Holmens orlogsflåde vedligeholdt. Dokkens sidevægge af egetræ findes stadig under
+Asiatisk Plads
+<br><br>
+Figur 3: Farvandet, hvor Holmen senere blev anlagt, kaldtes oprindeligt for Hukken og var ankerplads for den danske orlogsflåde
+<br><br>
+Figur 4: I 1690 gik arbejdet med at anlægge Nyholm i gang. Men det nye orlogsværft kunne ikke ligge ubeskyttet ude i havet. Derfor stod en ny befæstningsvold færdig i 1692. Volden favnede hele farvandet mellem Christianshavn og Nyholm og lagde grunden til, at resten af Holmen kunne begynde at skyde op af vandet<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/23.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Nordhavnskonkurencen forandrede alting </h1>
+<span style="font-weight: normal">
+Opgaven blev stillet helt åbent i maj 2008; By & Havn og Købennavns Kommune ønskede at tiltrække både de yngre, faglige arkitektfællesskaber såvel som de mere etablerede rådgivere af forskellig nationalitet, der kunne bidrage med ideer og visioner til Københavns nye, bæredygtige bydel.
+<br><br>
+Parametrene i konkurrencen var desuden, at man ønskede en tæt by, en blanding af nyt og gammelt og ikke mindst en bæredygtig by - både miljømæssigt og socialt. Og samtidig skulle der bevares plads til, at Københavns erhvervshavn stadig kunne udvikle sig i området.
+<br><br>
+Man ønskede både at modtage bud på en strukturplan. et rumliat konceot oc en stratedi Tor recliserinden •1 hele Nordhavn samt en konkret plan med retningslinjer for byudviklingen i Indre Nordhavn (Århusaadekvarteret og Sundmolen), som skulle udvikles først.
+<br><br>
+Arkitekter, landskabsarkitekter, byplanlæggere og ingeniører over hele verden gik i gang ved tegneborden for at give bud på, hvordan Nordhavn kunne udformes på et bæredygtigt grundlag, bl.a. i torm at en tæt, kompakt by med forskellige bebyggelses- og boformer og grønne tratikløsninger. Og ikke mindst; hvordan kunne Nordhavns unikke beliggenhed med vand på tre sider udnyttes bedst muligt?
+<br><br>
+Ambitionerne for konkurrencen var skyhøje for det, der på tidspunktet var Skandinaviens største byudviklingsprojekt. Og ved deadline på konkurrencen i slutningen af 2008 var der da også indkommet 180 forslag. Nogle af besvarelserne var stærke på den overordnede strukturplan, mens andre var inspirerende i forhold til den konkrete plan for Indre Nordhavn eller rummede et nyskabende landskabsprojekt.
+<br><br>
+I sidste ende valgte man at hædre tre projekter med en delt 1. plads, og i december 2008 - januar 2009 blev københavnerne inviteret inden for i et af Sundmolens pakhuse til en kæmpe udstilling, som rummede samtlige indkomne forslag; både de præmierede og dem, der var blevet valgt fra i processen.
+<br><br>
+I næste fase gik By & Havns og Københavns Kommunes fagmedarbejdere ind og nærstuderede projekterne og forhandlede med afsenderne. Og den 26. juni 2009 kunne man underskrive en aftale med ingeniørvirksomheden Rambøll med arkitektvirksomhederne COBE, SLETH og daværende Polyform som rådgivere.
+<br><br>
+Det forslag, der primært blev arbejdet videre med, var "Nordholmene Urban Delta" skabt af COBE, SLETH og Rambøll. Polyform kom med i teamet på baggrund af deres eget forslags landskabelige kvaliteter.
+<br><br>
+Med det endelige vinderforslag blev en stribe principper og retningslinjer lagt fast, som stadig er gældende i dag. F.eks. princippet om etablering af yderligere holme og kanaler samt princippet om en relativt lav by, som vi kender fra "gamle" København, mens der skulle placeres attraktive, grønne arealer langs vandet. Desuden princippet om en metro på højbane, bæredygtig transport som f.eks. supercykelstier, der er synlige i det offentlige rum og prioritet til gående frem for biltrafik samt princippet om, at byen skal være en "5 minutters by" - der vil side kort atstand til alt.
+<br><br>
+Et byprojekt på størrelse med Nordhavn udvikles over mange år, så det var ligeledes vigtigt at give plads til udvikling og indpasning af nye tendenser gennem den lange udviklingsperiode.
+<br><br>
+Figur 1: Filmen er fra 2012 - før byggeriet i Århusgadekvarteret gik i gang. Den er produceret af COBE og SLETH for at illustrere de forskellige principper for Århusgadekvarterets udvikling
+<br><br>
+Figur 2: Samtlige 180 forslag fra Nordhavnskonkurrencen kom på udstilling i december 2008
+<br><br>
+Figur 3: Det reviderede vinderforslag. Nordholmene Urban Delta af COBE SLETH og Rambøl
+<br><br>
+Figur 4: Seneste strukturplan for Nordhavn stammer fra 2023, hvor den erstattede den forrige fra 2018. Strukturplanerne tager udgangspunkt i vinderforslaget fra konkurencen. Der er sket ændringer undervejs, men de overordnede linjer i vinderforslaget følges stadig i byudviklingen<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/24.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Strukturplan 2023 for Nordhavn </h1>
+<span style="font-weight: normal">
+Det tager cirka 40 år at udvikle Nordhavn som bydel fra første til sidste spadestik.
+<br><br>
+Det er en langstrakt proces at udvikle en ny bydel, og derfor bliver de overordnede linjer for byudviklingen® samlet i en såkaldt strukturplan, der løbende justeres til i takt med at der træffes nye beslutninger for området. og at tankerne om den gode by forandrer sig.
+<br><br>
+En strukturplan er IKKE en lokalplan. Når der tegnes bygninger, vejforløb, kajkanter osv. ind i en strukturplan, så er det ikke ensbetydende med, at kvarteret kommer til at så sådan ud. Strukturplanen for Nordhavn er alene et arbejdsværktøj for By & Havn, der sætter retning for, hvordan arealerne i Nordhavn anvendes og de mange delprojekter samles, så bydelen fortsat, har en god sammenhæng og helhed.
+<br><br>
+Den seneste strukturplan for Nordhavn fra 2023 er tredie revision af det vindende konkurrenceforslag fra den åbne, internationale arkitektkonkurrence fra 2009 om fremtidens bæredygtige by i Nordhavn.
+<br><br>
+Med strukturplanen har By & Havn et arbejdsværktøj til at sikre værdier og principper for sammenhænge i de arealer, der skal udvikles. Strukturplanen skal sikre, at planen og byudviklingen lever op til de politiske aftaler. Den fastlægger, hvordan arealer skal bebygges og anvendes og skal sikre infrastruktur og kvaliteter i det, fremtidige byområde.
+<br><br>
+Herunder kan du læse mere om nogle af de vigtigste greb i strukturplanen for Nordhavn.
+<br><br>
+Strukturplanrevisionen er udarbejdet af By & Havn med COBE, SLETH og Raw Mobility som rådgivere.
+</span>
+<br><br>
+<h1> Tema nr.1: Den blå og grønne struktur </h1>
+<span style="font-weight: normal">
+Yderst i Nordhavn bindes Nordhavnstippen og Nord-havnsparken sammen med Indre Nordhavn af flere store og små grønne arealer, som tilsammen udgør et sammenhængende grønt og blåt landskab. Der etableres en rekreativ rute, som binder Kranparken på Svanemølleholm og Skudehavnen sammen med Nordhavnsparken.
+<br><br>
+Det grønne loop er en gang- og cykelsti langs metroen, som fortsætter rundt i et loop, binder hele Nordhavn sammen og samtidig sørger for effektive forbindelser mellem kvartererne og metroen. Ud over at fungere som en transportrute er det grønne loop også en grøn struktur, fordi der etableres beplantning langs hele strækningen.
+</span>
+<br><br>
+<h1> Tema nr.2: Infrastruktur </h1>
+<span style="font-weight: normal">
+Strukturplanen skal medvirke til at skabe sammenhæng i området.
+<br><br>
+Metroen, gang- og cykelstier og veje skal skabe et sammenhængende og velfungerende trafiksystem, der giver god adgang til alle dele af området, understøtter en tryg og sikker færdsel og fremmer mere miljøvenlig mobilitet.
+<br><br>
+Det skal også sikres, at Nordhavn kan forsynes med energi. Derfor skal strukturplanen medvirke til at sikre, at energianlæg og forsyningsledninger tænkes ind fra starten af planlægningen.
+</span>
+<br><br>
+<h1> Tema nr.3: Kvarterstruktur og tæthed </h1>
+<span style="font-weight: normal">
+Nordhavn er en bydel, der består af flere bykvarterer, og et lag i strukturplanen er bykvarterernes afgrænsning og opbygning. Laget udspringer af arbejdet med de øvrige strukturer - det grønne, det blå og infrastrukturens mange lag.
+<br><br>
+Bykvarterernes afgrænsning er grundlag for det videre arbeide med udvikling af byen på kvarterniveau i form af masterplaner og lokalplaner.
+<br><br>
+For at teste strukturplanens fleksibilitet og afdække muligheder for variation af bl.a. bygningstyper, bebyggelsestætheder og -højder samt forskellige fordelinger mellem lokale grønne og bebyggede arealer er der udarbeidet en rækker studier, som har til formål at vise fordele og ulemper ved forskellige scenarier.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/25.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Havnens historie lever fortsat </h1>
+<span style="font-weight: normal">
+De folk, der i slutningen af 1800-tallet stod i deres ansigts sved og gravede bassiner ud, ville nok falde bagover, hvis de så dages udvikling i selvsamme område. I dag er det primært badegæsterne, der har det varmt, når de nyder solen på de lange havnekanter og tager sig en svalende dukkert i det rene, blå vand.
+<br><br>
+De lange kajstrækninger blev i sin tid udformet, så mange skibe kunne lægge til på samme tid. I moderne byudvikling repræsenterer kajkanterne naturligvis også en særlig kvalitet, da man har visuel og fysisk kontakt med vandet. Det gør Nordhavn til en attraktiv bydel, der i dag udvikles bæredygtigt med boliger, erhverv, badezone, butikker, idræt og kultur.
+<br><br>
+Baggrunden for nordhavnsudviklingen fra frihavns- og industriområde til en integreret bydel i København er især ønsket om at skaffe boliger og arbejdspladser til et stigende antal beboere i hovedstaden. I 1955 var indbyggertallet i København på sit højeste niveau nogensinde med over 750.000. Herefter faldt tallet drastisk frem til 1991, hvor der kun boede godt 450.000. Men siden er tallet steget støt igen, og i dag bor der godt 640.000 indbyggere i København, og tallet stiger hele tiden. Derfor er der brug for boliger og arbejdspladser, og de tidligere havne- og industriarealer i Nordhavn er en ideel mulighed for, at København kan vokse og udvikle sig på sine egne arealer.
+<br><br>
+Nordhavn ånder stadig af havnens industrihistorie. Den særlige atmosfære fastholdes og integreres i bydelen ved at bevare udvalgte bygninger og kulturhistoriske træk. Nye materialer og inventar i bydelen er valgt, så de er i tråd med havnens oprindelige karakter. Der er tale om robuste materialer såsom betonoverflader, støbejern, brosten, cortenstål og hårdt træ, der tåler klimaet ved vandet, patinerer smukt og også lever op til bydelens funktionelle behov.
+<br><br>
+I det første kvarter, Århusgadekvarteret, som er udviklet nærmest Østerbro, kan man f.eks. gå på opdagelse i den historiske "Den Røde By", som kaldes sådan på grund af de mange historiske huse. De udgør en væsentlig del af hele kvarterets identitet og danner sammen med kvarterets ombyggede siloer grundlag for den øvrige arkitektur i kvarteret. Den Røde By blev opført løbende i 1900-tallet, og mange af bygningerne gemmer på fortællinger fra fortiden. F.eks. lå en del af Nordisk Film engang på Billedvej 2-4 - der af det særlige vejnavn, som stadig er bevaret.
+<br><br>
+En anden arkitektonisk kommentar til fortiden findes på Göteborg Plads foran de to ombyggede, 52 meter høje cementsiloer, der oprindeligt blev opført i 1979. Midt på pladsen er seks store bakker af beton anlagt. Betonbakkerne er en historisk reference til tiden, hvor cementvirksomheden Aalborg Portland opbevarede bunker af sand og sten på kajen.
+<br><br>
+Lige ved Göteborg Plads ligger Københavns mest populære badezone ved Sandkaj, som hvert år tiltrækker hundredtusinder af badegæster, hvor der engang blev losset byggematerialer. Og rundt om hjørnet ligger en anden internationalt anerkendt attraktion, nemlig det multifunktionelle P-hus og Konditaget Lüders tegnet af JAJA Architects og opført i 2016. I stueetagen ligger en dagligvarebutik, en nærgenbrugsstation og en facilitet til opbevaring af kajakker. Konditaget i 24 meters højde er indrettet som aktivitetsplads med faciliteter til leg og træning - bl.a. trampoliner og crossgym. Bygningens røde facade rummer en billedfrise, der fortæller Nordhavns historie, og to trapper fører hele vejen til toppen. Taget er åbent for alle - også for dem, der bare vil sidde og nye udsigten over Københavns Havn og Århusgadekvarteret. Bygningen er opkaldt efter F.V.W. Lüders, som var havnebygmester og efterfølgende havnekaptajn i Københavns Havnevæsen.
+<br><br>
+Besøger man Indre Nordhavn i dag, er det næsten ikke til at begribe, hvor meget området er forvandlet på få år. I 2014 blev gitteret rundt om frihavnen revet ned og først da kunne man gå ture langs kajkanterne eller måske tage en svømmetur i Nordbassinet. Og samme år flyttede de første beboere til Århusgadekvarterets nye boliger.
+<br><br>
+Figur 1: Det foto over Århusgadekvarteret og Nordbassinet. Badezonen ved Sandkaj er et særdeles populært udflugtsmål, når solen skinner
+<br><br>
+Figur 2: I Den Røde By i Århusgadekvarteret er de gamle bygninger bevaret
+<br><br>
+Figur 3: Århusgadekvarteret i 2022 og 2011
+<br><br>
+Figur 4: Pả Göteborg Plads er der fri leg på betonbakkerne. Oprindeligt opbevarede Aalborg Portland bunker af sand foran deres siloer
+<br><br>
+Figur 5: Der bliver brugt robuste materialer til inventar i Nordhavn. Her cykelstativerne på Göteborg Plads. I baggrunden ses FN Byen på Marmormolen
+<br>
 </span>
 </td>
 </tr>
