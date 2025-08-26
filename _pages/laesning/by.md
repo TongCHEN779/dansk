@@ -15,12 +15,23 @@ search: false
         padding: 8px;
         text-align: left;
     }
-    /* Customize width for specific columns */
-    th:nth-child(1), td:nth-child(1) {
-        width: 30%; /* First column */
+    /* Column width rules for your main tables */
+    table.main-table th:nth-child(1),
+    table.main-table td:nth-child(1) {
+        width: 30%;
     }
-    th:nth-child(2), td:nth-child(2) {
-        width: 70%; /* Second column */
+    table.main-table th:nth-child(2),
+    table.main-table td:nth-child(2) {
+        width: 70%;
+    }
+
+    /* Small table: no fixed widths, just content-based */
+    table.small-table {
+        width: auto; /* shrink to fit */
+    }
+    table.small-table th,
+    table.small-table td {
+        width: auto; /* remove forced width */
     }
 </style>
 
@@ -31,7 +42,7 @@ search: false
 <p align="center"><img src="https://tongchen779.github.io/dansk/images/by/1.jpg"/></p>
 <br>
 
-<table align="center" cellspacing="5" style="text-align: left" width="100%">
+<table class="main-table" align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/2.jpg"/></p></td>
 <td style="vertical-align: top;">
@@ -361,7 +372,7 @@ De første fiskebørnehaver blev installeret i havnen i juni 2021, og medregnet 
 <span style="font-weight: normal">
 Her ses det igongvarende arbejde med ot fylde Lynetteholm op med overskudsjord. Den første jord blev kørt til i juni 2023, og hele Lynetteholm ventes at være helf opfyldt omkring 2050.
 <br><br>
-Overskudsjorden graves op i forbindelse med bygge-og anlægsprojekter i Københawn og omegn. Det sparer transporttid og dermed CO2, når overskudsjord fra lokale byggepladser ikke skal transporteres langt udenfor København, men i de næste mange år kan nyttiggøres som opfyld i Lynetteholm.
+Overskudsjorden graves op i forbindelse med bygge og anlægsprojekter i Københawn og omegn. Det sparer transporttid og dermed CO2, når overskudsjord fra lokale byggepladser ikke skal transporteres langt udenfor København, men i de næste mange år kan nyttiggøres som opfyld i Lynetteholm.
 <br><br>
 Omkring 2029 åbner ca. syv hektar af det område, som fyldes op nu, for offentligheden. Det betyder, at københavnerne om fire til fem år får glæde af et helt nyt grønt og rekreativt område på Lynetieholm med udsigt til Øresund.
 <br><br>
@@ -388,7 +399,7 @@ Beregninger tra Kystdirektoratet og Danmarks Meteorologiske Institut (DMI) viser
 <br><br>
 Tabellen viser de beregnede fysisk maksimale vandstande uden tilæg for bølger (designvandstande) i Øresund og den vestlige del af Østersøen.
 <br>
-<table border="1" cellspacing="0" cellpadding="6">
+<table class="small-table" border="1" cellspacing="0" cellpadding="6">
 <tr><th>Lokalitet</th><th>År 1990</th><th>År 2023</th><th>År 2075</th><th>År 2125</th></tr>
 <tr><td>Designvandstand Nord</td><td>2,8 m</td><td>2,9 m</td><td>3,4 m</td><td>4,0 m</td></tr>
 <tr><td>Designvandstand Midt</td><td>3,3 m</td><td>3,4 m</td><td>3,9 m</td><td>4,5 m</td></tr>
@@ -438,6 +449,55 @@ En lodret kant ville få bølgerne til at slå højt op. En fiad kyst trækker i
 <h1> Rekreativt område og stormflodssikring </h1>
 <span style="font-weight: normal">
 Kystlandskabet får både sandstrande, stenstrande, kystfremspring og skovområder, der anlægges, så det kan tåle at blive oversvømmet. Når vejret er godt, vil kystlandskabet give københavnerne nye, rekreative strand- og skovområder tæt ved vandet, og når det blæser op, vil samme landskab udgøre en effektiv sikring mod fremtidige stormfloder.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/18.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Fra princip til skitse til rekreativ halvø</h1>
+<span style="font-weight: normal">
+Forud for Folketingets beslutning om at anlægge Lynetteholm i juni 2021 var der en bred dialog om projektet. Både i offentligheden og i professionelle kredse blev den oprindelige skitse, som var blevet fremlagt i forbindelse med principaftalen i 2018, diskuteret.
+<br><br>
+Skulle Lynetteholm brydes ned i mindre holme? Skulle den i højere grad fokusere på rekreativ nærhed til Øresund, eller skulle den ændres i størrelse og udformning for at skabe mere plads til havmiljø og rekreative aktiviteter?
+<br><br>
+På den baggrund indbød By & Havn i 2019 arkitekter og rådgivere til en række workshops om Lynetteholm, som bidrog til at indpasse halvøen i Københavns grønne kyststrækning mod Øresund.
+<br><br>
+De tre workshops med rådgivere og arkitekter betød, at Lynetteholm ændrede udformning, både i størrelse og i form. I det forslag, som kom frem på baggrund af de tre workshops, blev der således større afstand til det fredede Trekroner af hensyn til arkitektoniske og marinbiologiske forhold, herunder særligt de store ålegræsenge nær Trekroner. Derudover blev et af resultaterne fra workshoppene et kystlandskab, som med sine bugtede former danner fundamentet til Lynetteholms kystlandskab med skov- og strandområder.
+</span>
+<br><br>
+<h1> Principaftale </h1>
+<span style="font-weight: normal">
+I Principaftalen, som Københavns Kommune og den daværende regering indgik i oktober 2018, var det planen, ot Lynetteholm skulle fylde 182 hektar og på længere sigt huse omkring 35.000 beboere og et tilsvarende antal arbejdspladser. Den oprindelige skitse af øen minder i sit udtryk meget om opfyldet i Ydre Nordhavn, hvor stålspuns giver udvidelsen et meget robust og kantet udtryk. Lynetteholm anlægges i dag med et areal på 271 hektar.
+</span>
+<br><br>
+<h1> Workshops </h1>
+<span style="font-weight: normal">
+Arkitekterne og rådgiverne som deltog i By & Havns workshops tegnede en række forslag til Lynetteholms form og størrelse. Billederne er eksempler på, hvordan de deltagende især kiggede på de store træk ved halvøens udformning og den funktion, som en ny halvø kunne tilbyde i form af grønne områder, klimasikring og marin natur.
+</span>
+<br><br>
+<h1> Rekreativ halvø </h1>
+<span style="font-weight: normal">
+Udformningen og beliggenheden af Lynetteholm, som vi kender den i dag, blev et resultat af de workshops, som blev foretaget med arkitekter og rådgivere. På visualiseringen af den endelige halvø, kan man se, hvordan kystlandskabet på Lynetteholms østlige side med sine bugtede strande og skovområder vil give københavnerne mulighed for at bruge område rekreatiat landskabet indgår som en integreret del af stormflodssikringen mod Øresund.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/19.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> København er bygget på opfyld siden 1617 </h1>
+<span style="font-weight: normal">
+Ved du, at du lige nu står på 2,5 meter gammelt affald, latrin, dyreknogler, glas og keramikskår, udslidte lædersko, jernværktøj, sand og ler?
+<br><br>
+Faktisk er hver eneste centimeter i Københavns Havn menneskeskabt. Under dine fødder ligger fire århundreders opfyld, som københavnske hænder møjsommeligt har fyldt i havnen for at vriste nyt land fra havet.
+<br><br>
+Siden middelalderen er København vokset ud i vandet, og det gør byen stadig den dag i dag. En gang var Gammel Strand en strandbred, Christianshavn var et vadested og Holmen var en sandbanke, der kom og gik med tidevandet.
+<br><br>
+Københavns Havn har altid taget form efter byens behov, og hver landvinding i havnen er et spejl på sin tid. Nogle opfyldningsprojekter blev til nye kajkanter med plads til oplagring af eksotiske varer fra nær og fjern. Andet opfyld gav plads til kongernes ekspanderende sømagt eller industriens pulserende fabrikker.
+<br><br>
+Vor tids opfyld giver plads til boliger, arbejdspladser eller sikrer byen mod klimaforandringerne.<br>
 </span>
 </td>
 </tr>
