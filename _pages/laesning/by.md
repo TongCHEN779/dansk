@@ -744,8 +744,137 @@ Figur 3: Århusgadekvarteret i 2022 og 2011
 <br><br>
 Figur 4: Pả Göteborg Plads er der fri leg på betonbakkerne. Oprindeligt opbevarede Aalborg Portland bunker af sand foran deres siloer
 <br><br>
-Figur 5: Der bliver brugt robuste materialer til inventar i Nordhavn. Her cykelstativerne på Göteborg Plads. I baggrunden ses FN Byen på Marmormolen
-<br>
+Figur 5: Der bliver brugt robuste materialer til inventar i Nordhavn. Her cykelstativerne på Göteborg Plads. I baggrunden ses FN Byen på Marmormolen<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/26.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Sundmolens pakhuse </h1>
+<span style="font-weight: normal">
+Går man tur på Sundmolen i dag, vil man opleve en holm i Nordhavn, der kombinerer nyt og gammelt.
+<br><br>
+Nær metrostationen Orientkaj er en række boligbebyggelser opført, og folk er for længst flyttet ind. Og helt ude på spidsen er BIG - Bjarke Ingels Group - flyttet ind i deres nye domicil. Men det meste af Sundmolen er fortsat domineret af enorme pakhuse. Pakhus 47 og 48 ligger ud mod Kronlebsbassinet mod syd, og Pakhus 52, 53 og 54 ligger ud mod Orientbassinet mod nord.
+<br><br>
+Områderne Redmolen, Kronløbsbassinet og Sundmolen blev anlagt i årene 1915-1918 og blev inkluderet i Frihavnen, fordi oplagringspladsen i Frihavnen var blevet så utilstrækkelig, at indgående skibe måtte ligge i flere dage, før de kunne komme af med deres last. Der manglede kajplads og dybe havnebassiner, men særligt manglen på pakhuse kunne mærkes i Frihavnen.
+<br><br>
+Året efter, i 1919, gik anlægget af 10-meter bassinet også i gang. Bassinet skulle rumme de største skibe med en dybgang på op til 10 meter og i funktionalitetens ånd blev det derfor døbt 1O-meter bassinet.
+<br><br>
+Men allerede i 1921 måtte arbejdet indstilles. Krisetider havde ramt den internationale handel, og skibstrafikken stilnede af. I mellemtiden blev bassinet oplagsplads for fragtskibe, der var taget ud af drift og et miljø af bådebyggere, sejlklubber, fiskere og badeanstalter spirede omkring bassinet.
+<br><br>
+Først i 1931 stod bassinet færdigt og i de første år var Orientkaj blot bebygget med enkelte små skure. Men i 1946 opferte Østasiatisk Kompagni det første pakhus - Pakhus 47 - hvorfra skibene kunne laste og losse inden turen gik østpå. Fra pakhuset blandede en eksotisk duft sig på Sundmolen. Pakhus 47 blev nemlig især benyttet til opbevaring af kaffebønner og krydderier.
+<br><br>
+I 1955 kom pakhus 48 til - også kendt som "frugtpakkerhuset" eller "banankælderen". Her hang tusindvis af bananer og ventede på at få deres modne gule farve, inden de blev sendt ud i de danske butikker. Samme år opførte Østasiatisk Kompagni også pakhus 53 og pakhus 54 hvor Kompagniet havde administrationslokaler. I dag er pakhusene befolket af virksomheder, som er lejere hos By & Havn. Selskabet har nemlig besluttet at bevare og konvertere alle på nær ét af de robuste pakhuse til moderne og effektive erhvervsbyggerier, der istandsættes nænsomt og i respekt for områdets historie. Pakhusenes tunge udtryk, vandrette linjer og røde teglfacader bevares - ikke kun for historiens skyld, men også fordi mange moderne virksomheder netop efterspørger den industrielle arkitektur med store rum og højt til loftet. Desuden er det en vigtig del af renoveringen, at pakhusene konverteres bæredygtigt.
+<br><br>
+Hvor det tidligere var havnearbejdere, som lossede skibe og betjente kraner, der dominerede Sundmolen, er det nu primært medarbejderne fra videns- og designvirksomheder, som befolker Sundmolen.
+<br><br>
+Figur 1: Sundmolen 2024
+<br><br>
+Figur 2: Sundmolen 1970
+<br><br>
+Figur 3: Overalt på de robuste pakhuse findes fine detaljer. Her Pakhus 47
+<br><br>
+Figur 4: Sundmolen udvikles til et kvarter domineret af historiske pakhuse og moderne boligbyggerier
+<br><br>
+Figur 5: Interiør fra Pakhus 47, 2024<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/27.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Slusebro hen over langebro eller tunnel under havnen </h1>
+<span style="font-weight: normal">
+Syv år før forslaget om en skibsfartskanal gennem Amager blev fremlagt, havde man de samme problemer i havnen med, at Langebro og Knippelsbro hæmmede udviklingen og infrastrukturen i København. På dette tidspunkt var der 34 daglige åbninger af broerne, og tallet var i kraftig stigning. Det betød lange ventetider og hæmmede udviklingen af Amagers befolkningstal og virksomheder.
+<br><br>
+Derfor var der i 1930 en stor diskussion i medierne om. hvorledes en løsning kunne se ud. Den københavnske ingeniør ROBERT ERSBAK fremlagde sin løsning på problemet med en slusebro, som ville lade havnens trafik vige for gadens trafik og føre skibene højt op over kørebanen ved hjælp af et sluseværk samtidig med, at biler og gående kunne passere frit under.
+<br><br>
+Dagbladet BT citerer 26. juni 1930 under titlen Hypermoderne Langebro-Projekt til 26 mio. kr. den daværende havnebygmester GODFRED LORENZ for, at proiektet er "interessant". Hans løsningsforslag er dog at føre gadetrafikken i en tunnel under havnen, og derfor får dette forslag i folkemunde hurtigt navnet "Den omvendte tunnelplan".
+<br><br>
+Havnebygmester Lorenz forklarer, at løsningen indebærer, at skibene skal løftes op i en højde af 80 fod (24 meter) for at kunne seile hen over broen, og han bliver af BT spurgt til prisen: Det er dyrt. 26 millioner. Alene denne sum gør det til et stykke fremtidsmusik.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/28.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Hængefærgebro ved nordre toldbod </h1>
+<span style="font-weight: normal">
+Også længere mod nord i havnen - faktisk ud for Nordre Toldbod, hvor du befinder dig nu - har man lagt spektakulære planer for, hvordan havneløbet mest effektivt skulle kunne passeres. I 18XX ville man bygge en såkaldt hangefærgebro, der skulle forbinde Nordre Toldbod Plads - præcis ved havnebussens nuværende stoppested - med molen 'Elephanten', der ligger skråt nord for den gamle mastekran på Flådestation Holmen.
+<br><br>
+En hangefærgebro (også kaldet en svævefærge) er en platform til passagerer, der er ophængt under en brodrager, og som kan trækkes fra side til side. Hængefærgebroer har været en sjælden løsning på at passere havneløb, sejlbare floder eller andre vandmasser, hvor der har været et krav om, at skibstrafik skulle have første prioritet. I dag findes der kun 12 lignende konstruktioner i verden.
+<br><br>
+Planerne for en hængefærgebro ved Nordre Toldbod viser en metalkonstruktion ophængt i to smukke tårne, der arkitekturmæssigt passer godt til den gamle Toldbod. Ophavsmanden til forslaget er ukendt, men foruden det praktisk formål har det tydeligvis været vigtigt at skabe et samlet bygningsværk - en port til Københavns Havn for skibe, der ankom og tog afsted nordfra.
+<br><br>
+Afsættet for forslaget kan ses i en anden planche fra Havnebygmesterens Studiesamling. Broen var nemlig en del af en ny vej til et nyt, inddæmmet område på 'bagsiden' af Flådens Leje og den sydligste del af daværende Refshaleøen. Her skulle der etableres en havn med 24 fods vanddybde, hvilket giver mulighed for, at store skibe kan anløbe havnen.
+<br><br>
+Det indvundne område svarer nogenlunde til området ved Margretheholm i dag, så på en måde kan man sige, at mens visionen om hængefærgebroen ikke blev realiseret, så blev til gengæld Østhavnen realiseret - med de nuværende havnebassiner ved Refshaleøen, Kraftværksøen og Prøvestenen.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/29.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Kulfyret kraftvarmeværk ved trekroner </h1>
+<span style="font-weight: normal">
+Det er ikke nyt, at havnebygmesteren har set et potentiale i at udvikle området nord for Trekroner i Københavns Havn. I Havnebygmesterens Studiesamling fandt vi tegninger af en stor ø, der skulle ligge nord for Trekroner og huse et kulfyret kraftvarmeværk, som skulle være med til at forsyne københavnerne med varme og elektricitet.
+<br><br>
+Tegningen er fra 1974, og uden at vide det præcist, kan man formode, at planerne er et resultat af den oliekrise. der huserede i Danmark årene forinden, hvor der blev indført bilfrie søndage og forbud mod at have butiksbelysning om aftenen. 90 procent af al energi i Danmark var på dette tidspunkt baseret på olie, og derfor er det nærliggende at tro, at et kulfyret kraftvarmeværk med egen kajadgang ville gøre det nemt at komme ind med brændsel til værket.
+<br><br>
+Værket blev aldrig til noget, men det fortæller en historie om, at når behovene i København har været der, har man kigget mod løsningerne i havnen. En gang byggede man fortifikationer her for at beskytte sig mod fjender. Da truslen om mangel på ressourcer opstod, fik man denne idé for at komme problemet til livs, og i dag, hvor de havnenære områder er truet af fremtidens stormfloder, anlægger man en ø, der skal fungere som klimasikring - Lynetteholm er på den måde svaret på nutidens udfordringer.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/30.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Fra handelscentrum til slumkvarter til kulturperle 1639-2025 </h1>
+<span style="font-weight: normal">
+I 1639 fik Christianshavn købstadsrettigheder, egen borgmester og egen kirke. Selv om byen var tyndt befolket i de første årtier, blev den efterhånden til en driftig købmandsstad, hvor handelsskibe lagde til langs Strandgaden og pramme og både myldrede ind og ud af Christianshavns Kanal med kurs mod dens mange købmandsgårde.
+<br><br>
+I 1674 blev Christianshavn igen indlemmet i København, og i 1700-tallet blev kvarteret udvidet mod nord med nye nandetspladser. De statslige handelskompagnier fik tildelt hele områder, hvor de kunne opføre pakhuse, etablere kajanlæg og anlægge skibsværfter.
+<br><br>
+De største grunde lå ud tit havnen of til kanalen, så den driftige og præsentable trafik kunne imponere i de finere gader, alt imens arbeidskørslen og livet i de små baghuse foregik i alt ubemærkethed i sidegaderne.
+<br><br>
+1700-tallet var storkøbmændenes århundrede, men ved indgangen til 1800-tallet var handelseventyret forbi, og Christianshavns deroute til fattigmandskvarter tog sin begyndelse.
+<br><br>
+Christianshavn blev en nedslidt kolerabule, hvor storfamilier boede under nogle af Københavns ringeste boligforhold. Det var et kvarter, hvor drukkenskab, sygdom og trange kår var dagens orden.
+<br><br>
+I 1920'erne og 1930'erne igangsatte Københavns Kommune omfattende saneringsprogrammer i kvarteret, men langt op i 1970'erne var forholdene fortsat blandt de mest ilde i hovedstaden.
+<br><br>
+Samtidig truede saneringsprogrammerne med at nedrive Christianshavns historiske bygninger, som - i modsætning til resten af København - havde overlevet uskadt siden 1600-tallet. Så fra 1970'erne begyndte kommunen at udarbeide bevaringsplaner sammen med saneringsprogrammerne, og bydelen blev sikret mod yderligere nedrivning.
+<br><br>
+Og det var lykkeligt, for gennem 1990'erne blev netop Christianshavns historiske arkitektur en eftertragtet perle i København. Og bydelen, der havde tilbragt det meste af sit liv som udskældt byggeprojekt eller lurvet slumkvarter blev nu et af byens mest attraktive boligområder.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/31.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Hollændere, sømænd, købmænd eller håndværkere? 1616-1618 </h1>
+<span style="font-weight: normal">
+I 1616 gav Christian IV en københavnsk storkøbmand med nederlandsk afstamning besked om "i al stilhed og ubemærkethed [at, red.] få et godt antal velformåede nederlandske købmænd og gode håndværkere til at komme til Danmark."
+<br><br>
+Den hollandske republik gennemlevede i de sidste tiår af 1500-tallet og op gennem 1600-tallet en guldalder og blev verdens første moderne økonomi. Ingen andre steder i Europa var handelen så omfattende og rigdommen så stor i borgerstanden.
+<br><br>
+Penge skiftede hænder som aldrig før, og Christian IV drømte om at efterligne modellen. Men kongens idérigdom havde en slagside: Omskiftelighed og vægelsind.
+<br><br>
+Året efter, i 1617, blev planerne ændret til at være garnisons- eller sømandsby. Flåden havde vokseværk, Danmark var ved at udvikle sig til en dominerende sømagt i Østersøen og svenskerne truede. Det betød, at det ikke skortede på søens folk i København, og de skulle alle huses.
+<br><br>
+Snart ændrede kongen mening igen.
+<br><br>
+Flådens folk fik til huse på Gammelholm - og senere Nyboder, og i 1618 skulle et nyt udkast til Christianshavn i stedet tilgodese danske købmænd og håndværkere - selv om tyskere og hollændere stadig var velkomne. Christianshavn blev udtænkt efter renæssancens princip om symmetri og retvinklede gadenet, og den nye bys udformning var helt i tråd med tidens idealer for byplanlægning.
+<br><br>
+For at lokke de rette folk til blev københavnerne lovet 12 års skattefrihed samt syv års frihed for udførselstold. Men tilflyttere i den nye by var garanteret våde fødder og besvær med byggeriet. I 1629 noterede en fransk rejsende at "Christianshavn er fyldt med moradser og man må overalt bygge på pæle."
+<br><br>
+Det store arbejde med pilotering og opfyldning gav Christianshavn en fodslæbende start, og der var langt mellem nybyggere med gåpåmod.<br>
 </span>
 </td>
 </tr>
