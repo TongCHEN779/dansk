@@ -894,4 +894,432 @@ Asiatisk Kompagni blev så velhavende på handelen med bl.a. Kina, at kompagniet
 </span>
 </td>
 </tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/33.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> "[...] Paa den bare strand at indhegne" 1617 </h1>
+<span style="font-weight: normal">
+Da Christian IV satte sig på tronen i 1599, overtog han en hovedstad, som lå trygt beskyttet af volde og fæstningsværker mod landsiden. Men mod havet lå byen åben, og historien var allerede ved indgangen tit 1600-tallet fyldt med eksempler på angreb fra fjendtlige flåder. Dét satte kongen sig for at ændre på.
+<br><br>
+Kongen tilkaldte den hollandske fæstningsingeniør og byplanlægger Johan Semp, og i 1617 tegnede Semp det første udkast tit kongens nye by: Christianshavn. Christianshavn blev antagt med hollandske kanalbyer som forbillede.
+<br><br>
+I modsætning til det middelalderlige Københavns labyrintiske snoede gader skulle Christianshavn have et retvinklet gadenet, en central plads og en gennemskærende kanal.
+<br><br>
+Kongen lod byen omkranse af grave og volde med bastioner, men arbejdet med opfyldning, vejanlæg, bolværker og øvrigt byggeri blev overladt til eventyrlystne borgere. For at tiltrække indbyggere, der kunne realisere kongens vision om en handelsby, blev grundene udstykket i store arealer med plads til pakhuse.
+<br><br>
+Selv om grundene blev givet væk ganske gratis til enhver, der ville rejse gedigne grundmurede borgerhuse, var det svært at få folk til at slå sig ned på Christianshavn.
+<br><br>
+Dengang lå området som en fjern og fugtig forpost uden for det egentlige København - mere sump end by.
+<br><br>
+Grundene var vandlidende og krævede både opfyldning og hundredevis af træpæle for overhovedet at kunne bære en bygning. Oven i det manglede helt basale fornødenheder som drikkevand og en kirke. Om den ufærdige landvinding sagde Christianshavns byfoged, at det om vinteren sommetider var så højvandet "[...] at man næppe tør sig vove udendørs en drik fersk vand at hente eller et stykke brød."
+<br><br>
+Så selv med økonomiske lokkemidler og løfter om skattefrihed tog det mange år, før Christianshavn for alvor fik liv.
+<br><br>
+Figur (øverst): De første borgere, der slog sig ned i Christianshavn, var kongens embedsmænd og byens velstillede købmænd. De velbjergede nye borgere stod i skarp kontrast til den sumpede strand som deres købmandsgårde stod på.
+<br><br>
+Figur (nederst t.v.): Den første fæstningsvold omsluttede kun en lille del af det nuværende Christianshavn, der var langt mindre og strakte sig fra Wilders Kanal tit Hammershøis Kaj, og fra Strandgade til Christianshavns vold.
+<br><br>
+Figur (nederst t.h.): Christianshavn blev anlagt på en refshale - en flad sandbanke formet som en rævehale - og krævede enorme mængder opfyld, før der kunne bygges på grundene. Christianshavn er bygget på gammelt affald og havnemudder.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/34.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Blå pakhus 1781 </h1>
+<span style="font-weight: normal">
+Med sine fem etager og røde teglsten ligner Blå Pakhus til forveksling Vestindisk Pakhus. Og arkitekten var da også den selv samme. Ligesom sin tvilling har Blå Pakhus hejseværk midt i bygningens langside.
+<br><br>
+Det i virkeligheden meget lidt blå pakhus har sit navn fra sine oprindeligt mørkeblå vinduesskodder og blå tagtegl.
+<br><br>
+Blå Pakhus blev opført til Østersoisk-Guineisk Selskab, som havde særrettigheder på handelen på Guinea i Vestafrika og handelen med slavegjorte mennesker til Vestindien. Fra skibenes lastrum flød en lind strøm af tobak, sukker og bomuld ind i pakhuset.
+<br><br>
+Samtidig var selskabet forpligtet af Staten til også at handle i Østersøen for at sikre kornforsyningen til København. Hver vinter, indtil havet var isfrit, havde Østersøisk-Guineisk Selskab nemlig kongelig pligt til at ligge inde med mindst 30.000 tønder korn. Og fra 1796 blev Blå Pakhus først og fremmest brugt som korntørringsmagasin.
+</span>
+<br><br>
+<h1> Gule Pakhus 1777 </h1>
+<span style="font-weight: normal">
+I 1776 fik Den Kongelige Grønlandske Handel eneret på handelen med Grønland. Privilegiet krævede opmagasi-neringsplads, og året efter opførte handelskompagniet Gule Pakhus.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/35.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Vestindisk pakhus 1780 </h1>
+<span style="font-weight: normal">
+Det syv etager høje røde teglstenspakhus, der knejser over Larsens Plads, blev opført for Vestindisk Handelsselskab i 1780.
+<br><br>
+Der var en vældig aktivitet i pakhuset, som var endestation for de kolonialvarer, der ankom i lasten på de store sejlskibe, som krydsede Atlanterhavets handelsruter og hjembragte sukker, rom, kaffe, elfenben, guld og byggematerialer fra Afrikas vestkyst og De Vestindiske Øer. Pakhusets store hejseværk løftede de eksotiske varer ind gennem de brede dørpartier i pakhuset, hvor godset blev opbevaret, indtil det kunne sælges videre.
+<br><br>
+København var nemlig stabelplads for hele Østersøen og nordeuropæisk centrum for sukker- og kaffehandelen.
+<br><br>
+Vestindisk Handelssetskabs direktion havde mødelokale på pakhusets øverste etage, og det prægtige lokale er bevaret endnu med sit tapet, der er udsmykket med guavablade og -bær og 12 velbevarede medaljonstole, som i 1780'erne lagde sæde til direktørerne.
+<br><br>
+Ifølge overleveringen iagttog kronprinsen - den senere Frederik VI - Slaget på Reden fra dette værelse i 1801.
+<br><br>
+Om historien har noget på sig, fortaber sig i fortiden.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/36.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Grønlandske handels pakhus 1766 </h1>
+<span style="font-weight: normal">
+Med sine 23 vinduesfag er Grønlandske Handels Pakhus en markant bygning. Oprindeligt bar det navnet Islandske Pakhus, men det blev senere omdøbt til Grønlandske Pakhus.
+<br><br>
+I over to århundreder var pakhuset og de omkringliggende bygninger på pladsen knudepunkt for handelen på Grønland, Island, Færøerne og Finnmarken.
+<br><br>
+Handelskompagniet Den Kongelige Grønlandske Handel, der havde opført pakhuset, lagde også navn til pladsen Grønlandske Handels Plads, som var et mylder af skibsbyggeri, værksteder, pakhuse og skure.
+<br><br>
+Helt frem til 1950 havde handelskompagniet monopol på handelen med Grønland, og sælolie, fisk og skind fandt vej til kajen på Grønlandske Handels Plads langt op i 1900-tallet.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/37.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Prøvestenen 1713 </h1>
+<span style="font-weight: normal">
+Det første Prøvestenen blev opført under Store Nordiske Krig i 1713 og bestod af et kanonbatteri placeret på et udtjent linjeskib og en flydende dok med navnet Prøvestenen. Skibene blev sat på grund et par hundrede meter fra det sted, hvor det moderne søfort senere blev bygget. Efter krigens afslutning gik anlægget i forfald og blev endeligt opgivet i 1767.
+<br><br>
+Et nyt Prøvestensbatteri så dagens lys i 1802, kort efter Slaget på Reden, hvor truslen fra den britiske flåde stadig lurede. Men batteriet blev hurtigt overflødiggjort af mere moderne anlæg, og da Trekroner stod færdigt i 1828, var det enden på Prøvestenens anden akt. Den tredje og nuværende version af Prøvestenen blev grundlagt i 1859. omtrent en kilometer fra Amagers daværende kyst.
+<br><br>
+Fortet blev opført på lavt vand som det første i Danmark med bombesikre betonkasematter.
+<br><br>
+I de følgende årtier blev anlægget udbygget som en del af styrkelsen af Københavns befæstning. Men de militære behov ændrede sig, og fortet blev nedlagt i 1922. Nogle år senere overtog Københavns Havnevæsen området og gik i gang med opfyldningerne, som skabte det, man i dag kender som Benzinøen - en del af havnens industriområde.
+<br><br>
+I dag er resterne af fortet stadig synlige mellem Benzinøens gamle rørledninger, der slynger sig om fortet som industriel efeu.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/38.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Trekroner 1713 </h1>
+<span style="font-weight: normal">
+Det oprindelige Trekroner var et kanonbatteri, som blev etableret i 1713 under Store Nordiske Krig. Det blev bygget på tre udtjente linjeskibe - heriblandt ét med navnet Trekroner - som blev sænket et par hundrede meter nord for den placering, hvor fortet ligger i dag. Efter krigens afslutning forfaldt batteriet og blev endeligt nedlagt i 1731.
+<br><br>
+Byggeriet af det nuværende Trekroner tog sin begyndelse i 1787, men i 1792 gik arbejdet i stå.
+<br><br>
+Alligevel spillede det ufærdige fort en rolle i byens forsvar, da Slaget på Reden rasede i 1801.
+<br><br>
+Først i 1827, efter årtier i venteposition, blev Trekroner endelig færdiggjort, tro mod de oprindelige planer. Senere, i takt med udbygningen af byens moderne fæstningsværk, blev fortet løbende opgraderet. Fra 1864 og frem mod slutningen af århundredet gennemgik Trekroner flere moderniseringer.
+<br><br>
+Under Første Verdenskrig havde det en fast besætning på op mod 750 kystartillerister.
+<br><br>
+I 1922 blev fortet taget ud af aktiv tjeneste som søfort, men fik nyt liv som skole for uddannelse af kystartillerister frem til 1932. Efter at militæret trak sig tilbage, blev Trekroner et populært udflugtsmål for københavnerne i sommermånederne. Den civile brug ophørte dog i 1939, da tiderne blev mørke.
+<br><br>
+Under den tyske besættelse overtog værnemagten nemlig fortet og brugte det til egne formål.
+<br><br>
+Efter krigen stod det forladt og forfaldt gennem årene. Men i 1984 overtog Staten Trekroner og besluttede at frede anlægget. Siden er det blevet sat i stand og fungerer i dag som et offentligt kulturminde.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/39.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Middelgrundsfortet 1895 </h1>
+<span style="font-weight: normal">
+Midt i Øresund, lige uden for Københavns Havn, ligger Middelgrundsfortet - en kunstig ø og verdens største af sin slags uden landforbindelse. Fortet blev bygget mellem 1890 og 1895 som led i styrkelsen af hovedstadens forsvar. Sammen med Kastrup Fort skulle det beskytte byen mod angreb fra søsiden og kontrollere sejlruterne mod syd.
+<br><br>
+Søfortet forblev aktivt i sin oprindelige rolle frem til 1962, og blev siden brugt som missilplatform under Flyvevåbnet, hvor seks Hawk-affyringsramper blev opstillet i perioden 1968 til 1984.
+<br><br>
+Senere blev fortet brugt midlertidigt til blandt andet indkvartering af asylansøgere.
+<br><br>
+Da militæret forlod øen, gik fortet hurtigt i forfald. Indvendigt blev det udsat for hærværk, og stenfiskere fjernede dele af den ydre konstruktion. I 1998 overgik øen til det statslige ejendomsselskab Freja, som solgte den videre til en privat køber i 2002. Et nyt kapitel begyndte i 2015, da Det Danske Spejderkorps overtog øen.
+<br><br>
+Målet var at skabe et samlingssted for unge - og det blev til virkelighed i 2017 med åbningen af Ungdommens Ø.
+<br><br>
+I dag bruges øen til lejre, aktiviteter og fællesskab for børn og unge fra hele landet.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/40.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Flakfortet 1916 </h1>
+<span style="font-weight: normal">
+Flakfortet er det yngste af Københavns søforter og blev anlagt på en kunstig ø i årene 1910 til 1916. Fortet skulle fungere som fremskudt forsvarsværk og beskytte hovedstaden mod angreb fra søsiden samtidig med, at det skulle kontrollere indsejlingen til byen. I sin aktive tid var fortet bemandet med omkring 550 soldater.
+<br><br>
+Fortets militære funktion ophørte i 1957, men få år senere - fra 1965 til 1968 - blev det igen taget i brug, denne gang af Flyvevåbnet, som etablerede en Hawk-missilbase på øen. Da raketbatterierne blev fjernet, blev fortet overladt til vind og vejr. Både bygninger og inventar blev over tid ødelagt af hærværk og manglende vedligeholdelse.
+<br><br>
+Selv om mange i dag forbinder navnet med det tyske luftværnsartilleri fra Anden Verdenskrig - "Flak" - har navnet en helt anden oprindelse. Det stammer fra det gamle danske ord for et lavt vandområde, et flak, som netop kendetegner det sted, hvor fortet blev opført: Saltholms flak.
+<br><br>
+I 1975 fik Københavns Sejlunion mulighed for at bruge øen, og offentligheden fik adgang. Det blev begyndelsen på en ny rolle for Flakfortet som udflugtsmål. I 1998 blev anlægget overdraget til det statslige ejendomsselskab Freja, som tre år senere solgte det til det svenske selskab
+Malmökranen AB.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/41.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Havneløbets livsvidne </h1>
+<span style="font-weight: normal">
+Den første bro, der forbandt København med det lavvandede område ud for Amagers kyst, byggedes i 1618-1620. For her - ude i midten af ingenting - var Christian VI's nye bydel ved at rejse sig af vandet. Og dermed opstod det første egentlige havneløb.
+<br><br>
+Broen fik de ligefremme navne 'Den Store Amagerbro' eller Den Lange Bro'. Senere opstod tilnavnet 'Knippelsbro, måske fordi rådmand Hans Knip havde bropasseransvaret for broen. I begyndelsen af 1700-tallet var broen i så ussel forfatning, at der måtte udstedes forbud mod at fortøje fartøjer til den.
+<br><br>
+Men takket være en totalrenovering i 1725 fik broen et langt liv, og den erstattedes først rigtigt i 1816.
+<br><br>
+Den nye Knippelsbro pensioneredes allerede i 1869 til fordel for en slidstærk jernbro bygget af Burmeister & Wain. I 1908 erstattedes også den af endnu en jernbro med pavillonbygninger i tidens skønvirkestil. Den nuværende bro stod færdig i 1937, og med sit funktionalistiske udtryk opnåede den hurtigt status som københavnsk vartegn.
+<br><br>
+Figur (øverst): Den første Knippelsbro blev anlagt samtidig med Christianshavn mellem 1618 og 1620. Med anlæggelsen af Christianshavn opstod et egentligt havneløb, med by på begge sider. Det krævede en ny færdselsåre: Knippelsbro. Dengang var der dog langt mellem broen og Christianshavn, da bydelens havnefront blot var sandbanker. 
+<br><br>
+Figur (midten t.v.): I 1712 var broen så faldefærdig at det blev forbudt at fortøje fartøjer til den,og i 1725 måtte den totalrenoveres og blev udsmykket med fire herkulesskulpturer. Der findes dog ingen afbildninger af de fire skulturer.
+<br><br>
+Figur (midten): I 1816 blev Knippelsbro genopført. Endnu engang i træ, men denne gang udsmykket med De Fire Vinde.
+<br><br>
+Figur (midten t.h.): De Fire Vinde.
+<br><br>
+Figur (nederst t.v.): I 1869 blev Knippelsbro endnu engang afløst. Denne gang af en jernbro bygget af Burmeister & Wain.
+<br><br>
+Figur (nederst i.m.): Den fjerde Knippelsbro stod færdig i 1908.
+<br><br>
+Figur (nederst t.h.): Vore dages Knippelsbro er et ikonisk københavnsk vartegn med en 400 år gammel historie. Men selve broen stammer fra 1937.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/42.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Den tyske trussel </h1>
+<span style="font-weight: normal">
+Den tyske kejsers sabel raslede i anden halvdel af 1800-tallet, og lilleputstaten Danmark kunne ikke følge med den teknologiske udvikling, som nærmest løb fra krigsskibene hurtigere, end man kunne bygge dem.
+<br><br>
+Flåden, som briterne ellers var løbet med i 1807, havde igen nået en fornuftig størrelse. Men den økonomiske byrde ved oprustningen var for stor, og Danmark måtte slå ind på en defensiv sikkerhedspolitisk kurs. Efter
+nederlaget til lyskland I 1864 blev det klart, at hvis det dårlige forhold til Tyskland igen skulle bryde ud i lys lue, ville Danmark ikke kunne stå mål med den tyske militære overlegenhed.
+<br><br>
+Hvis tysken kom, var Danmarks eneste håb et modstandsdygtigt forsvarsværk. Det blev startskuddet til Københavns moderne søbefæstning.
+<br><br>
+Egentlig var der mere tale om afskrækkelse end forsvar. Med de københavnske søfort forsøgte den danske regering at gore det så møjsommeligt som muligt at angribe København i håbet om, at den store fjende mod syd ikke ville finde det besværet værd. Mellem 1885 og 1894 pågik arbejdet med at udbygge Københavns eksisterende forter og bygge nye forsvarsværker. Søbefæstningen bestod af tre linjer af søforter og batterier, som kom til, efterhånden som langtrækkende artilleri gjorde det nødvendigt at flytte kamppladsen længere væk fra byen. Men da Første Verdenskrig sluttede i 1918, var de mange forter og kanonbatterier blevet teknologisk overhalet.
+<br><br>
+Man erkendte, at befæstningen var blevet funktionsløs. og nedlagde forterne.
+</span>
+<br><br>
+<h1> Den indre linje </h1>
+<span style="font-weight: normal">
+Nen indre linie bestod af Søfortet Trekroner Søbatterie Lynetten, Kystbatteriet Strickers Batteri, Kystbatteriet Kalkbrænderi Batteri. Søfortet Mellemfortet oq Søforte Prøvestenen. Linjens formål var at beskytte København og Holmen mod bombardement fra søsiden og at forhindre fjenden i at blokere sejlløbet ind til havnen.
+</span>
+<br><br>
+<h1> Den mellemste linje </h1>
+<span style="font-weight: normal">
+Udviklingen af langtrækkende artilleri gjorde det nødvendigt at holde fjenden på større afstand af København. Den mellemste linje bestod af Søbatteriet Charlottenlund Batteri, Søfortet Middelgrundsfortet og Kystbatteriet Kastrup Fort.
+<br><br>
+Linjens formål var at forsvare sejlrenderne mellem Middelgrunden og Saltholm og den nordlige indsejling til København samt at holde en fjendtlig flåde med moderne artilleri på behørig afstand af København.
+</span>
+<br><br>
+<h1> Den Ydre linje </h1>
+<span style="font-weight: normal">
+Den ydre linje bestod af Kystfortet Taarbæk Fort, Armeringsbatteriet Taarbæk Udkigsbatteri, Søfortet Flakfort, kystbatterier på Saltholm, Søfortet Dragør Fort, Kystbatteriet Kongelunds Batteri samt Kystbatteriet Mosede Batteri.
+<br><br>
+Formålet med den ydre linje var at dække den sjællandske kyst mod nord samt Amagers vestkyst og dele af Køge Bugt oa samtidig sikre den centrale del af Øresund.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/43.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> En købmandsstad </h1>
+<span style="font-weight: normal">
+Christian IV havde ganske vist sat rammerne for Christianshavn, men arbejdet med at omdanne kongens ingeniørprojekt til en rigtig levende by blev overladt til borgere med viljen til at skabe noget ud af ingenting - og til embedsmænd, der ikke ønskede at fornærme kongen.
+<br><br>
+Kongen afkrævede nemlig mange af byens førende profiler lovning på, at de ville slå sig ned i den nye ensomme og våde afkrog uden for byens trygge favn.
+<br><br>
+Grænserne mellem stand og profession var flydende, og mange var på én gang embedsmand, skibsredere og driftige storkøbmænd.
+<br><br>
+Op gennem 1700-tallet blev Christianshavn for alvor byens handelscentrum. Langs Strandgade og ned langs kanalen rejste pakhusene sig i hurtig takt. Velstanden blev synlig på Christianshavn; ikke blot i mursten, men også blandt bydelens beboere.
+<br><br>
+Selv om mange stadig stod i vand til anklerne i den sumpede bydel, var rigdommen til at få øje på blandt de mange storkøbmænd.
+<br><br>
+Fra morgen til aften var kanalen fyldt med skibe og pramme, der lossede og lastede uden pause. Silke, tobak, krydderier, vin, hvalkød, bomuld, porcelæn, salt, korn og skind hejstes fra skibsdækkene og direkte ind i de dybe købmandsgårde.
+<br><br>
+Figur (nederst t.v.): Christianshavns købmænd gik klædt i stofrige mørke dragter med tunge kåber, posede ærmer, kniplinger og støvler med firkantede snuder.
+<br><br>
+Figur (nederst t.h.): Vin var en stor importvare på Christianshavn, og skibe stod ofte ind i havnen med lasten fuld af vintønder. I købmandsgårdene blev vinen tappet over på runde vinflakoner og videresolgt til private borgere og byens krostuer.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/44.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Et københavnsk overflødighedshorn "Sikkerhed og velstand" </h1>
+<span style="font-weight: normal">
+Det blev Overhofmarskal Moltkes råd til Frederik V, da den danske udenrigspolitiske linje skulle lægges i 1750'erne. Danmark skulle pleje neutraliteten og fokusere på at opbygge gode forhold for handelen. Det ville give riget både sikkerhed og velstand. Og det gjorde det. Moltkes motto giorde anden halvdel af 1700-tallet til en luksustid.
+<br><br>
+Aldrig nogensinde før eller siden har den danske statskasse været så klingende fuld af guld, som den var i de sidste tre årtier af dette århundrede.
+<br><br>
+Og Københavns Havn blev et overflødighedshorn af eksotiske luskusvarer som kaffe, te, kakao, sukker, tobak, krydderier, porcelæn, silke og bomuldsstoffer.
+<br><br>
+Selv om stormagtskrigene rasede, skulle den europæiske appetit på luksus stilles, og handelen fandt andre ruter og nye havne.
+<br><br>
+Dermed blev den danske neutralitetspolitik, der skulle sikre rigets sikkerhed, også til landets største indtægtskilde.
+<br><br>
+Frem mod 1750'erne var den oversøiske luksus stadig forbeholdt de rigeste, men de enorme varemængder, der indløb i Københavns Havn, betød, at de så småt fandt vej ned ad samfundets stiaer.
+<br><br>
+Figur (øverst t.v.): I de christianshavnske borgerhjem blev der drukket krydret vin af importerede vinglas fra Tyskland. De såkaldte rømerglas har deres navn fra det gamle tyske ord 'roemen', som betyder 'at prale'. Glassets spiralformet stilk havde ofte påsmeltede "hindbærrosetter".
+<br><br>
+Figur (øverst i.m.): Christianshavns første borgere led under manglende vandforsyning. Senere indlæg af vandrør i træ skaffede bydelens borgere vand til madlavning og husdyrhold.
+<br><br>
+Figur (nederst t.v.): Høj som lav røg tobak af kridtpiber i 1600-tallet og 1700-tallet. Kridtpiberne var oftest dansk produceret. Men tobakken kom fra verdens fjerneste egne.
+<br><br>
+Figur (nederst t.h.): De såkaldte Perl Kelchen-vinglas blev importeret fra Tyskland og fandt vej ind i hjemmet hos det bedre borgerskab og adelen.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/45.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Enden på en guldalder </h1>
+<span style="font-weight: normal">
+I 1700-tallets europæiske stormagtskrige blev Danmarks neutralitet en økonomisk fordel, og den danske handelsflåde sejlede uforstyrret af de ruter, som de krigsførende magter - især Frankrig og Storbritannien - havde måttet opgive. Så længe Dannebrog vajede i masten, kunne danske skibe manøvrere trygt mellem stormagternes konflikter og hilse venligt på både britiske og franske skibe, når de krydsede hinanden på det blå verdenshav.
+<br><br>
+Det var en tid med økonomisk medvind og intens aktivitet i Københavns Havn. Men under overfladen var det også en risikabel balancegang.
+<br><br>
+Danmark udnyttede sin neutralitet maksimalt og tillod andre nationer at bruge Dannebrog som bekvemmelighedsflag, og danske stråmænd var næsten til fri afbenyttelse for fremmede magter.
+<br><br>
+Det vakte stigende vrede - især hos briterne. Og inden længe blev Danmark ufrivilligt trukket ind i et væbnet neutralitetsforbund med Rusland og Frankrig. Og dét tålte Storbritannien ikke.
+<br><br>
+Konflikten kulminerede i 1801, da den britiske flåde angreb København ved Slaget på Reden og tilføjede Danmark et knusende nederlag.
+<br><br>
+I 1807 vendte briterne tilbage, bombarderede København og beslaglagde hele den danske flåde. Det var enden på Københavns Havns storhedstid. Guldalderen var forbi.
+<br><br>
+Figur (øverst t.h.): Da de britiske kanoner bragede over København i 1807, var By & Havns kommunikationschefs tiptiptipoldefar udkommanderet ved en af byens brandsprøjter i indre by, da denne kanonkugle raserede en brændende bygning. Kanonkuglen har været i familiens eje lige siden, og har i generationer været brugt til at runke sennepsfrø til sennep.
+<br><br>
+Figur (midten t.v.): Kakao, te og kaffe var blandt de varer, der nåede til Københavns havn i den florissante handelsperiode og blev drukket ved hoffet og i byens adelspalæer.
+<br><br>
+Figur (nederst t.v.): Sukker var den florissante handelsperiodes mest indbringende handelsvare.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/46.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Sikkerhed og velstand </h1>
+<span style="font-weight: normal">
+I sidste halvdel af 1700-tallet stod København i fuldt flor. Fra havnen stævnede de store sejlskibe ud på et handelseventyr, der førte dem til verdens fjerneste egne. Når de igen dukkede op i horisonten, flød eksotiske luksusvarer lindt fra lastrummene, og enorme formuer strømmede ind i statskassen og ned i lommerne på foretagsomme københavnske handelsmænd. 'Den florissante handelsperiode* var en guldalder for Københavns Havn.
+<br><br>
+Men den var også en leg med ilden.
+<br><br>
+Danmark erklærede neutralt flag i de mange krige, der hærgede Europa i 1700-tallet. Dermed kunne den danske handelsflåde fokusere på at få mønten til at klinge i statskassen ved at handle på de ruter, som de stridende stormagter ikke længere kunne besejle.
+<br><br>
+Det var risikabelt, for man kunne let skabe sig magtfulde fjender. Til gengæld var gevinsten stor.
+<br><br>
+Men de glade dage i Københavns Havn havde en dyster bagside. For den rentable sukkerproduktion i de vestindiske kolonier hvilede på skuldrene af slavegjorte ghanesere.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/47.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> I skyggen af kejserens Tyskland </h1>
+<span style="font-weight: normal">
+Det danske nederlag til Tyskland i 1864 i De Slesvigske Krige blev et brutalt vendepunkt i Danmarks forsvarspolitik. Danmark var for alvor blevet en lilleputstat, og det stod kun alt for klart at skulle konflikten blusse op igen, ville Danmark være magtesløs over for den tyske militærmaskine.
+<br><br>
+Sadan blev idéen om Københavns moderne søbefæstning født - som et desperat bolværk mod stormagten mod syd.
+<br><br>
+Efter det svigende nederlag greb en stemning af undergangsangst Danmark og kastede lange skygger over tidens politiske og militære landskab. Endnu en krig med Tyskland ville blive skæbnesvanger.
+<br><br>
+Man måtte forskanse sig - bogstaveligt talt - bag mure og voldanlæg, der kunne udligne styrkeforskellene. København blev det strategiske omdrejningspunkt: Landets hovedstad, hærens og flådens kerne og symbolet på nationens fortsatte eksistens.
+<br><br>
+Så længe et befæstet København kunne holde stand, var der håb.
+<br><br>
+Måske kunne hjælp komme udefra. Og hvis ikke, kunne man i det mindste kæmpe til det sidste - og falde med æren i behold.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/48.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Christianshavn </h1>
+<span style="font-weight: normal">
+På opfyldt land og mellem kanaler og retvinklede gader lige efter Christian IV's renæssancehjerte voksede en ny bydel frem og blev hjem for købmænd, søfolk og eventyrLystne sjæle.
+<br><br>
+Christianshavn er en vaskeægte københavnerperle og et stykke danmarkshistorie. Efter kongelig befaling blev bydelen grundlagt i 1618 som en moderne handels- og søfartsby inspireret af hollandske kanalbyer som Amsterdam. Christianshavn blev anlagt på opfyldt land uden for Københavns volde og skulle både fungere som havneområde og boligkvarter for købmand, håndværkere og søfolk. Gennem århundrederne har Christianshavn haft mange ansigter, og bydelen har både været rammen om Fristaden Christiania, slumstormere, husbåde og kulørte købmandsgårde, industri- og arbejderkvarter, byens bedste adresser, kunstværksteder, caféer og gallerier; Christianshavn er mange ting.
+<br><br>
+Men først var Christianshavn en selvstændig havneby på dybt vand.
+<br><br>
+Og i dag bærer bydelen stadig præg af sin rige historie - med brostensgader, gamle pakhuse og sin karakteristiske kanal, der fortæller om en fortid, hvor vandet bandt handel, håndværk og hverdagsliv sammen.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/49.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Med vinden i ryggen </h1>
+<span style="font-weight: normal">
+1700-tallets Europa var præget af stormagtskrige og endeløse konflikter på tværs af de europæiske grænser. Men i Danmark forholdt det sig ganske anderledes. Her var gode kår, og danskerne formåede at slå mønt på stormagternes konflikter.
+<br><br>
+Efterspørgslen på oversøiske varer forblev upåvirket af de mange krige, og neutrale stater som Danmark så sit snit til at udfylde tomrummet, når de stridende parter ikke længere var i stand til at besejle handelsruterne. Og Danmark formåede at strakke neutraliteten langt. Danske købmænd og redere solgte skibspapirer og ladningsdokumenter med navne på danske stråmænd til de krigsførende parter. På den måde lod skibe fra de stridende nationer sig "neutralisere". Når de sejlede under dansk flag, kunne de nemlig omgå krigens begrænsninger og opretholde handelen på de ellers utilgængelige ruter. Den danske regering så gennem fingre med det og støttede endda politisk og diplomatisk op om ordningen. For neutraliteten var en guldgrube, som man ikke var villig til at gå af med.
+<br><br>
+Værdien af ladningerne fra Asien i perioden fra 1772 til 1807 svarede i sig selv til hele kongeriget Danmarks samlede statsindtægter i samme tidsrum.
+<br><br>
+De enorme mængder af varer, der blev losset i Københavns Havn, kunne ikke afsættes på det lille københavnske hjemmemarked - men det var heller ikke meningen. Det florissante handelsliv byggede nemlig på import af luksusvarer til reeksport og på indbringende international søfart. Og det vidner de stolte pakhuse i Københavns inderhavn stadig om i vor tid.
+<br><br>
+Den florissante handelsperiode førte til en professionalisering af erhvervslivet og et større politisk og handelsmæssigt internationalt udsyn.
+<br><br>
+Den voksende velstand styrkede også selvtilliden hos det københavnske borgerskab og gav dem en ny tyngde på den politiske scene. Men danskernes provokerende optræden på verdenshavene fik også utilsigtede konsekvenser: i 1801 fik Danmark viklet sig ind i et internationalt politisk rod, der kulminerede i Slaget på Reden.
+<br><br>
+I 1807 satte briterne et endegyldigt punktum for det københavnske handelseventyr.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/50.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Slavegjort i Danmarks tjeneste </h1>
+<span style="font-weight: normal">
+Overalt i inderhavnen knejser pakhusene fra havnens storhedstid. De stolte kæmper stammer fra en tid, hvor havnen bugnede af eksotiske varer fra fjerne egne, og mønten klingede i kassen som aldrig nogensinde før eller siden i byens historie. Men pakhusene vidner også om Danmarkshistoriens mørkeste kapitel.
+<br><br>
+I løbet af 1650'erne etablerede Danmark handelsstationer langs Guldkysten, i det der i dag er Ghana. I 1672 indledte Vestindisk-Guineisk Kompagni koloniseringen af øen Sankt Thomas. Sammen med øerne Sankt Jan og Sankt Croix blev de tre øer til den danske koloni Dansk Vestindien - også kaldet Jomfruøerne.
+<br><br>
+Mellem 1670 og 1802 kidnappede den danske stat omtrent 110.000 mennesker fra Vestafrika og fragtede de slavegjorte afrikanere over Atlanterhavet som led i den såkaldte trekantshandel.
+<br><br>
+1 1600-tallet og 1700-tallet havde den økonomiske politik fokus på, at eksporten skulle overstige importen. Det blev en drivkraft bag de mange europæiske kolonier i disse århundreder.
+<br><br>
+Når de europæiske stater kom i besiddelse af kolonier, kunne de handle med sig selv via de varer, som de slavegjorte kolonier producerede ganske omkostningsfrit.
+<br><br>
+Det krævede handelskompagnier med statslig koncession. En statslig koncession var en tilladelse til at drive en bestemt form for virksomhed uden konkurrence fra anden side.
+<br><br>
+Og på den måde kom 1700-tallets mange handelskompagnier til at præge ikke bare handelen, men også Københavns Havn, hvor deres pakhuse og velstand formede havnens arkitektur. Men det er et værk bygget på slaveri.<br>
+</span>
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/51.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Frihed </h1>
+<span style="font-weight: normal">
+Fra København sejlede skibene til Vestafrika og opkøbte guld, elfenben og slavegjorte mennesker. Derfra sejlede de mod de dansk-vestindiske øer, hvor de slavegjorte mennesker brutalt blev gjort til handelsvarer og tvunget til at arbejde under nådesløse forhold på sukkerplantager.
+<br><br>
+I de danske kolonier udgjorde de slavegjorte langt størstedelen af befolkningen. De levede et liv præget af undertrykkelse og systematisk vold, frataget enhver form for juridisk beskyttelse under en lovgivning, der sikrede, at de forblev retsløse. Selv om der kom et dansk forbud mod selve handelen med slavegjorte mennesker i 1792, varede slaveriet i de danske kolonier alligevel ved i et halvt århundrede.
+<br><br>
+Men den 3. juli 1848 rejste tusindvis af slavegjorte sig i protest. De nedlagde arbejdet, samledes i gaderne og truede med at sætte ild til plantagerne, hvis deres frihed ikke blev respekteret. De slavegjorte var i massivt overtal, og i et forsøg på at undgå blodige sammenstød valgte guvernør Peter von Scholten at handle på egen hånd.
+<br><br>
+Uden godkendelse fra de danske myndigheder i København erklærede han de slavegjortes frihed.
+<br><br>
+Den kontroversielle beslutning førte senere til, at Von Scholten blev retsforfulgt - men der var ingen vej tilbage for den danske kolonistat. Slaveriet var ophørt.<br>
+</span>
+</td>
+</tr>
 </table>
