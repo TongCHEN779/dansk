@@ -878,4 +878,20 @@ Det store arbejde med pilotering og opfyldning gav Christianshavn en fodslæbend
 </span>
 </td>
 </tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/by/32.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Eigtveds pakhus og asiatisk plads 1748 </h1>
+<span style="font-weight: normal">
+Nicolai Eigtved var arkitekten bag Eigtveds Pakhus, som tilhorte Asiatisk Kompagni. Han var også manden bag Frederiksstaden og rokokoens indførelse i Danmark. Nicolai Eigtved var elitens mand. Han var kongelig bygmester, og luksus prægede hans byggerier. Og pakhuset på Christianshavn var ingen undtagelse. Pakhuset var nemlig et overflødighedshorn af eksotiske varer fra Asien.
+<br><br>
+I stueetagen var der 'kramkammer', hvor byens indbyggere og købmand kunne få syn for silke, porcelæn, te, peber, sukker, kaffe, rabarber, indigofarver, salpeter og meget andet fra verdens fjerneste egne.
+<br><br>
+Eigtveds Pakhus var en del af et større kompleks kaldet Asiatisk Plads. Pladsen bestod af pakhuse, beddinger for skibsbyggeri og administrationsbygninger for Asiatisk Kompagni.
+<br><br>
+Asiatisk Kompagni blev så velhavende på handelen med bl.a. Kina, at kompagniet kunne forære enevælden en hyldest til - den i øvrigt stangdrukne og moralsk anløbne Frederik Vi form af rytterstatuen på Amalienborg.<br>
+</span>
+</td>
+</tr>
 </table>
