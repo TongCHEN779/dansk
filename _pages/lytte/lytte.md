@@ -146,4 +146,15 @@ Mads Andersen-Skjern kommer til Korsbæk som handelsrejsende sammen med sønnen 
 </td>
 <td><a href="https://www.dr.dk/drtv/serie/matador_130149">link</a></td>
 </tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/12.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Store danske kunstnere </h1>
+<span style="font-weight: normal">
+Allerede fra barnsben var Hammershøi udset til noget stort. I dag er han en af de mest internationalt anerkendte danske kunstnere, og hans malerier med de stille stuer sælges for millioner af kroner. I sin samtid skubbede moren på med høje ambitioner, mens publikum afviste ham som en særegen enspænder.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/saeson/store-danske-kunstnere_534647">link</a></td>
+</tr>
 </table>
