@@ -247,6 +247,17 @@ I denne uge er det 75 år siden, at USA kastede to atombomber over Japan.
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/46.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> Kan man synge med på 'lad mig kneppe dig, for din skede spjætter' den ene dag og gå ind for ligestilling den næste? </h1>
+<span style="font-weight: normal">
+Ifølge debattør taler populærmusikkens sexistiske sprogbrug imod ligestillingssagen. Men netop det er med til at gøre musikken populær, påpeger ekspert.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/kultur/kan-man-synge-med-paa-lad-mig-kneppe-dig-din-skede-spjaetter-den-ene-dag-og-gaa-ind">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/31.avif"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kina sætter hårdt mod hårdt med en ny stor told mod USA: 'Man er træt af at være Mr. Nice Guy’ </h1>
