@@ -12781,6 +12781,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sammenbinde"> at sammenbinde </a></td>
+<td>
+<audio id="sammenbinde" src="https://static.ordnet.dk/mp3/11044/11044674_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sammenbinde');" style="cursor: pointer; color: blue;">[-ˌbenˀə]</span>
+</td>
+<td> sammenbinder </td>
+<td> sammenbandt </td>
+<td> har sammenbundet </td>
+<td> sammenbind </td>
+<td> to bind together </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sammenligne"> at sammenligne </a></td>
 <td>
 <audio id="sammenligne" src="https://static.ordnet.dk/mp3/11044/11044720_1.mp3" style="display: none;"></audio>
@@ -13948,6 +13961,19 @@ search: true
 <td> har smædet </td>
 <td> smæd </td>
 <td> to slander </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sm%C3%A6kke"> at smække </a></td>
+<td>
+<audio id="smække" src="https://static.ordnet.dk/mp3/11048/11048088_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('smække');" style="cursor: pointer; color: blue;">[ˈsmεgə]</span>
+</td>
+<td> smækker </td>
+<td> smækkede </td>
+<td> har smækket </td>
+<td> smæk </td>
+<td> to slam </td>
 <td> 1 </td>
 </tr>
 <tr>

@@ -1540,6 +1540,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bagsm%C3%A6k"> en bagsmæk </a></td>
+<td>
+<audio id="bagsmæk" src="https://static.ordnet.dk/mp3/11003/11003176_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bagsmæk');" style="cursor: pointer; color: blue;">[-ˌsmεg]</span>
+</td>
+<td> bagsmækken </td>
+<td> bagsmækker </td>
+<td> bagsmækkerne </td>
+<td> tailgate </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=balle"> en balle </a></td>
 <td>
 <audio id="balle" src="https://static.ordnet.dk/mp3/11003/11003304_1.mp3" style="display: none;"></audio>
@@ -8406,6 +8418,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ged"> en ged </a></td>
+<td>
+<audio id="ged" src="https://static.ordnet.dk/mp3/11017/11017385_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ged');" style="cursor: pointer; color: blue;">[ˈgeðˀ]</span>
+</td>
+<td> geden </td>
+<td> geder </td>
+<td> gederne </td>
+<td> goat </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gemalinde"> en gemalinde </a></td>
 <td>
 <audio id="gemalinde" src="https://static.ordnet.dk/mp3/11017/11017427_1.mp3" style="display: none;"></audio>
@@ -9988,6 +10012,18 @@ search: true
 <td> hotellerne </td>
 <td> hotel </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hov"> hov </a></td>
+<td>
+<audio id="hov" src="https://static.ordnet.dk/mp3/11021/11021352_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hov');" style="cursor: pointer; color: blue;">[ˈhɒw]</span>
+</td>
+<td> hoven </td>
+<td> hove </td>
+<td> hovene </td>
+<td> hoof </td>
+<td> 2 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hoved"> et hoved </a></td>
@@ -24397,6 +24433,18 @@ search: true
 <td> stationer </td>
 <td> stationerne </td>
 <td> station </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=stationcar"> en stationcar </a></td>
+<td>
+<audio id="stationcar" src="https://static.ordnet.dk/mp3/11049/11049883_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('stationcar');" style="cursor: pointer; color: blue;">[ˈsdεjɕənˌkɑː]</span>
+</td>
+<td> stationcaren </td>
+<td> stationcars </td>
+<td> stationcarene </td>
+<td> station wagon </td>
 <td> 1 </td>
 </tr>
 <tr>

@@ -5778,6 +5778,18 @@ search: true
 <td> newly appointed </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=n%C3%A6nsom"> nænsom </a></td>
+<td>
+<audio id="nænsom" src="https://static.ordnet.dk/mp3/11036/11036497_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nænsom');" style="cursor: pointer; color: blue;">[ˈnεnˌsʌmˀ]</span>
+</td>
+<td> nænsomt </td>
+<td> nænsomme </td>
+<td> mere nænsom </td>
+<td> mest nænsom </td>
+<td> gentle, careful </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=n%C3%A6r"> nær </a></td>
 <td>
 <audio id="nær" src="https://static.ordnet.dk/mp3/11036/11036499_1.mp3" style="display: none;"></audio>
