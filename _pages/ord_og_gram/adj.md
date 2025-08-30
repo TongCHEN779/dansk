@@ -4998,6 +4998,18 @@ search: true
 <td> Lutheran </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lydig"> lydig </a></td>
+<td>
+<audio id="lydig" src="https://static.ordnet.dk/mp3/11031/11031301_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lydig');" style="cursor: pointer; color: blue;">[ˈlyːði]</span>
+</td>
+<td> lydigt </td>
+<td> lydige </td>
+<td> mere lydig </td>
+<td> mest lydig </td>
+<td> obedient </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=lydl%C3%B8s"> lydløs </a></td>
 <td>
 <audio id="lydløs" src="https://static.ordnet.dk/mp3/11031/11031311_1.mp3" style="display: none;"></audio>

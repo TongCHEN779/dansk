@@ -1966,6 +1966,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bestige"> at bestige </a></td>
+<td>
+<audio id="bestige" src="https://static.ordnet.dk/mp3/11004/11004311_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bestige');" style="cursor: pointer; color: blue;">[beˈsdiˀə]</span>
+</td>
+<td> bestiger </td>
+<td> besteg </td>
+<td> har bestiget </td>
+<td> bestig </td>
+<td> to climb </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bestille"> at bestille </a></td>
 <td>
 <audio id="bestille" src="https://static.ordnet.dk/mp3/11004/11004317_1.mp3" style="display: none;"></audio>

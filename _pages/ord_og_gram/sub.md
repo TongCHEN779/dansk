@@ -7818,6 +7818,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=frisure"> en frisure </a></td>
+<td>
+<audio id="frisure" src="https://static.ordnet.dk/mp3/11016/11016136_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('frisure');" style="cursor: pointer; color: blue;">[fʁiˈsyːʌ]</span>
+</td>
+<td> frisuren </td>
+<td> frisurer </td>
+<td> frisurerne </td>
+<td> hairstyle </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fris%C3%B8r"> en frisør </a></td>
 <td>
 <audio id="frisør" src="https://static.ordnet.dk/mp3/11016/11016139_1.mp3" style="display: none;"></audio>
@@ -13122,6 +13134,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kost"> en kost </a></td>
+<td>
+<audio id="kost" src="https://static.ordnet.dk/mp3/11027/11027817_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kost');" style="cursor: pointer; color: blue;">[ˈkɔsd]</span>
+</td>
+<td> kosten </td>
+<td> koste </td>
+<td> kostene </td>
+<td> broom, diet </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kostume"> et kostume </a></td>
 <td>
 <audio id="kostume" src="https://static.ordnet.dk/mp3/11027/11027837_1.mp3" style="display: none;"></audio>
@@ -18097,7 +18121,7 @@ search: true
 <td> opmålingen </td>
 <td> opmålinger </td>
 <td> opmålingerne </td>
-<td> survey </td>
+<td> survey, measure </td>
 <td> 1 </td>
 </tr>
 <tr>
