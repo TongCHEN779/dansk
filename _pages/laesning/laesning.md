@@ -478,6 +478,17 @@ Grøn trepart vil rejse masser af ny skov i Danmark. Men det er ikke lige meget,
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/47.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Snart kåres årets vildeste naturfotos - få et smugkig her </h1>
+<span style="font-weight: normal">
+Den 14. oktober vil vinderne af dette års Wildlife Photographer of the Year blive annonceret.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/kultur/snart-kaares-aarets-vildeste-naturfotos-faa-et-smugkig-her">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/16.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Soldater bliver syge, når deres moral kommer under pres: Dårlig samvittighed gnaver stadig i Thomas Walther </h1>
