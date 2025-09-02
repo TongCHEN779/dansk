@@ -661,7 +661,7 @@ search: true
 <td> Man kommer ingen vegne med løftede pegefingre. Det handler om at være åben og lytte. </td>
 </tr>
 <tr>
-<td> jo ... desto ..., desto ... desto ... </td>
+<td> jo ... jo/des/desto ..., des/desto ... des/desto ... </td>
 <td> the more ... the more ... </td>
 <td> Jo bedre barnet sover om dagen, desto bedre bliver nattesøvnen ofte. </td>
 </tr>
