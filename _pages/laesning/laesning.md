@@ -60,6 +60,17 @@ Ekspert i kunstig intelligens finder det usandsynligt, at de AI-skabte billeder 
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/50.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> ANALYSE For et par år siden slog indiske og kinesiske soldater hinanden ihjel med søm-køller, men nu skal Modi til Kina og kramme Xi </h1>
+<span style="font-weight: normal">
+De to fjender er på vej mod forsoning, fordi Trump forsøger at køre alle over med sit told-tog.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/analyse-et-par-aar-siden-slog-indiske-og-kinesiske-soldater-hinanden-ihjel-med-soem">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/18.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> ANALYSE Første danske skridt over en bundløs kinesisk afgrund </h1>
@@ -148,6 +159,28 @@ Luren er blevet en politisk kampplads.
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/48.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Efter gennemgang af museer: Trump har udpeget de forbudte værker </h1>
+<span style="font-weight: normal">
+Det Hvide Hus har udsendt en liste over værker, man vil have fjernet.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/efter-gennemgang-af-museer-trump-har-udpeget-de-forbudte-vaerker">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/49.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Ekspert: Den vestlige verdensorden udfordres på topmøde i Kina </h1>
+<span style="font-weight: normal">
+Der er god grund til at holde øje med, hvordan topmødet mellem verdenslederne udvikler sig over de næste par dage, lyder det.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/ekspert-den-vestlige-verdensorden-udfordres-paa-topmoede-i-kina">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/19.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Eksperter roser dansk bidrag til amerikansk flåde: Der er risiko for militære kamphandlinger </h1>
@@ -233,6 +266,17 @@ Vandmangel kan også blive en udfordring flere steder i landet, fortæller ekspe
 </span>
 </td>
 <td><a href="https://www.dr.dk/nyheder/indland/hovedstadsomraadet-kan-mangle-rent-drikkevand-i-2040">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/51.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Hvad får Putin ud af fire dage i Kina? En helt masse, hvis man spørger dansk ekspert </h1>
+<span style="font-weight: normal">
+I Kina skal Putin deltage i et topmøde, hvor også den indiske premierminister er med, mødes med præsident Xi og deltage i stor militærparade i Beijing.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/hvad-faar-putin-ud-af-fire-dage-i-kina-en-helt-masse-hvis-man-spoerger-dansk-ekspert">link</a></td>
 </tr>
 
 <tr>
