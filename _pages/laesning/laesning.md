@@ -27,6 +27,17 @@ search: false
 (Alle tekster og billeder er kopieret [herfra](https://www.dr.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/54.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> 11-årig pige blev voldtaget i sommerlandet for 26 år siden. Nu kan der måske sættes punktum </h1>
+<span style="font-weight: normal">
+En 57-årig mand forventes at tilstå i sagen om voldtægt og drabsforsøg i 1999.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/indland/11-aarig-pige-blev-voldtaget-i-sommerlandet-26-aar-siden-nu-kan-der-maaske-saettes">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/44.avif"/></p></td>
 <td style="vertical-align: top;">
 <h1> 80 år efter Hiroshima og Nagasaki: Disse rystende fotos fortæller historien </h1>
@@ -500,6 +511,17 @@ Hvis man ikke fra barnsben har lært at regulere sine følelser, kan man stadig 
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/53.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Putin og Kim Jong-un er æresgæster til enorm kinesisk parade </h1>
+<span style="font-weight: normal">
+Flere end 20 statsledere gæstede Xi Jinpings militærparade, der markerer slutning på Anden Verdenskrig.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/putin-og-kim-jong-un-er-aeresgaester-til-enorm-kinesisk-parade">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/40.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> SE BILLEDERNE Kongelige besøg på Færøerne gennem mere end 100 år </h1>
@@ -541,6 +563,17 @@ Flere soldater har brug for hjælp, fordi de har overværet voldsomme oplevelser
 </span>
 </td>
 <td><a href="https://www.dr.dk/nyheder/indland/soldater-bliver-syge-naar-deres-moral-kommer-under-pres-daarlig-samvittighed-gnaver">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/52.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Strækmarch 'for fred' i Beijing, når Xis militærparade skal gøre Trumps til skamme </h1>
+<span style="font-weight: normal">
+Onsdag nat kører kampvogne gennem Beijing for at vise omverden, at Det Kinesiske Kommunistpartis militære afdeling i dag er i stand til at stå imod USA.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/straekmarch-fred-i-beijing-naar-xis-militaerparade-skal-goere-trumps-til-skamme">link</a></td>
 </tr>
 
 <tr>

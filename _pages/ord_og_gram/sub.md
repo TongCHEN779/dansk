@@ -10794,6 +10794,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=iagttager"> en iagttager </a></td>
+<td>
+<audio id="iagttager" src="https://static.ordnet.dk/mp3/11022/11022732_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('iagttager');" style="cursor: pointer; color: blue;">[iˈɑgˌtæˀjʌ]</span>
+</td>
+<td> iagttageren </td>
+<td> iagttagere </td>
+<td> iagttagerne </td>
+<td> observer </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ibrugtagning"> en ibrugtagning </a></td>
 <td>
 <audio id="ibrugtagning" src="https://static.ordnet.dk/mp3/51000/51000774_1.mp3" style="display: none;"></audio>
