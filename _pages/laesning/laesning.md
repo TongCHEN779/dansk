@@ -379,6 +379,17 @@ Et ægtepar, der har tilhørt toppen af dansk yogaskole, er sigtet for menneskeh
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/55.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Militærparade understreger, at Kina haler ind på det amerikanske militær </h1>
+<span style="font-weight: normal">
+Kina har i dag verdens største flåde målt på skibe.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/militaerparade-understreger-kina-haler-ind-paa-det-amerikanske-militaer">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/32.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Min hjerne siger 'Nej, nej, stop, stop': Elever på yogaskole følte sig presset til at overskride seksuelle grænser </h1>
