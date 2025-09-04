@@ -21340,6 +21340,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=rydning"> en rydning </a></td>
+<td>
+<audio id="rydning" src="https://static.ordnet.dk/mp3/11043/11043965_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('rydning');" style="cursor: pointer; color: blue;">[ˈʁyðneŋ]</span>
+</td>
+<td> rydningen </td>
+<td> rydninger </td>
+<td> rydningerne </td>
+<td> clearing </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ryg"> en ryg </a></td>
 <td>
 <audio id="ryg" src="https://static.ordnet.dk/mp3/11043/11043966_1.mp3" style="display: none;"></audio>

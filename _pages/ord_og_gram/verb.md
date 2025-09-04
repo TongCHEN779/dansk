@@ -2525,6 +2525,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bortskaffe"> at bortskaffe </a></td>
+<td>
+<audio id="bortskaffe" src="https://static.ordnet.dk/mp3/11005/11005884_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bortskaffe');" style="cursor: pointer; color: blue;">[ˈbɒːdsˌkɑfə]</span>
+</td>
+<td> bortskaffer </td>
+<td> bortskaffede </td>
+<td> har bortskaffet </td>
+<td> bortskaff </td>
+<td> to dispose of </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bos%C3%A6tte"> at bosætte </a></td>
 <td>
 <audio id="bosætte" src="https://static.ordnet.dk/mp3/11005/11005901_1.mp3" style="display: none;"></audio>
