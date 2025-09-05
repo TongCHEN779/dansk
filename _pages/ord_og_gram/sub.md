@@ -9558,6 +9558,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hegemoni"> en hegemoni </a></td>
+<td>
+<audio id="hegemoni" src="https://static.ordnet.dk/mp3/11020/11020193_2.mp3" style="display: none;"></audio>
+<span onclick="playSound('hegemoni');" style="cursor: pointer; color: blue;">[hegəmoˈniˀ]</span>
+</td>
+<td> hegemonien </td>
+<td> hegemonier </td>
+<td> hegemonierne </td>
+<td> hegemony </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hejre"> en hejre </a></td>
 <td>
 <audio id="hejre" src="https://static.ordnet.dk/mp3/11020/11020208_1.mp3" style="display: none;"></audio>
