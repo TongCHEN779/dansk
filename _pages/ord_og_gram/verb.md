@@ -8556,6 +8556,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kringle"> at kringle </a></td>
+<td>
+<audio id="kringle" src="https://static.ordnet.dk/mp3/11028/11028122_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kringle');" style="cursor: pointer; color: blue;">[ˈkʁεŋlə]</span>
+</td>
+<td> kringler </td>
+<td> kringlede </td>
+<td> har kringlede </td>
+<td> kringle </td>
+<td> to twist, wind </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kritisere"> at kritisere </a></td>
 <td>
 <audio id="kritisere" src="https://static.ordnet.dk/mp3/11028/11028155_1.mp3" style="display: none;"></audio>
@@ -14221,6 +14234,19 @@ search: true
 <td> har specialiseret </td>
 <td> specialiser </td>
 <td> to specialize </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=spejde"> at spejde </a></td>
+<td>
+<audio id="spejde" src="https://static.ordnet.dk/mp3/11049/11049043_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('spejde');" style="cursor: pointer; color: blue;">[ˈsbɑjdə]</span>
+</td>
+<td> spejder </td>
+<td> spejdede </td>
+<td> har spejdet </td>
+<td> spejd </td>
+<td> to scout, look out </td>
 <td> 1 </td>
 </tr>
 <tr>

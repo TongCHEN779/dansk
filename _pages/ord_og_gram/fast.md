@@ -1166,6 +1166,11 @@ search: true
 <td> Så længe der er liv, er der håb. </td>
 </tr>
 <tr>
+<td> så sandelig </td>
+<td> indeed </td>
+<td> Befolkningen taler dårligt om politikere, og det er så sandelig ikke mærkeligt. </td>
+</tr>
+<tr>
 <td> så snart </td>
 <td> as soon as </td>
 <td> Jeg ringer til dig så snart jeg kommer hjem. </td>
@@ -1289,6 +1294,11 @@ search: true
 <td> tyde på </td>
 <td> suggest </td>
 <td> Forkølelserne og bronkitisen tyder på, at hans slimhinder er svage. </td>
+</tr>
+<tr>
+<td> uden sidestykke </td>
+<td> unparalleled </td>
+<td> Verden befinder sig midt i en befolkningseksplosion uden sidestykke i historien. </td>
 </tr>
 <tr>
 <td> udmønte sig </td>

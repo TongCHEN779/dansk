@@ -84,4 +84,8 @@ De skulle være bedre end deres mandlige medstudende. De var få, og de vidste, 
 <tr><td><span style="font-weight: normal">
 Historien om kvinder på universitet er en påmindelse om, at adgang ikke er det samme som lighed. Men den viser også, hvor meget der kan vindes, når man tør åbne dørene.
 </span></td></tr>
+
+<tr><td><span style="font-weight: normal">
+Det retsopgør, der fulgte efter besættelsen, er sammen med genetableringen af de relativt få ødelagte bygninger, rydningen af tyske hovedkvarterer og kontorer samt bortskaffelsen af våben og køregøjer, et forlængst afsluttet kapitel. Mens besættelsen stadig kan gøres nærværende gennem erindringsbøger, film, billeder og skriftlige arkivalier, ser man blot halvtreds år efter ikke mange levn fra besættelsen i det danske gadebillede og i den danske natur. På museer kan man opleve mange effekter fra dengang, men de er næsten altid revet ud af deres oprindelige sammenhæng og ligger fredeligt bag montrens glas, selv når det gælder genstande, der blev konstrueret med alt andet end fredelige hensigter.
+</span></td></tr>
 </table>

@@ -1062,6 +1062,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=arkivalie"> et arkivalie </a></td>
+<td>
+<audio id="arkivalie" src="https://static.ordnet.dk/mp3/11002/11002446_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('arkivalie');" style="cursor: pointer; color: blue;">[ɑkiˈvɑˀljə]</span>
+</td>
+<td> - </td>
+<td> - </td>
+<td> arkivalierne </td>
+<td> archival record </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=arm"> en arm </a></td>
 <td>
 <audio id="arm" src="https://static.ordnet.dk/mp3/11002/11002463_1.mp3" style="display: none;"></audio>
@@ -5898,6 +5910,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fart%C3%B8j"> et fartøj </a></td>
+<td>
+<audio id="fartøj" src="https://static.ordnet.dk/mp3/11012/11012385_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fartøj');" style="cursor: pointer; color: blue;">[ˈfɑːˌtʌj]</span>
+</td>
+<td> fartøjet </td>
+<td> fartøjer </td>
+<td> fartøjerne </td>
+<td> vessel </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=farvand"> et farvand </a></td>
 <td>
 <audio id="farvand" src="https://static.ordnet.dk/mp3/11012/11012386_1.mp3" style="display: none;"></audio>
@@ -10374,6 +10398,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hverv"> et hverv </a></td>
+<td>
+<audio id="hverv" src="https://static.ordnet.dk/mp3/11021/11021895_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hverv');" style="cursor: pointer; color: blue;">[ˈvæɐ̯ˀw]</span>
+</td>
+<td> hvervet </td>
+<td> hverv </td>
+<td> hvervene </td>
+<td> occupation/task </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hvidvask"> en hvidvask </a></td>
 <td>
 <audio id="hvidvask" src="https://static.ordnet.dk/mp3/11021/11021941_1.mp3" style="display: none;"></audio>
@@ -14550,6 +14586,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=levn"> et levn </a></td>
+<td>
+<audio id="levn" src="https://static.ordnet.dk/mp3/11030/11030286_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('levn');" style="cursor: pointer; color: blue;">[ˈlεwˀn]</span>
+</td>
+<td> levnet </td>
+<td> levn </td>
+<td> levnene </td>
+<td> relic, remnant </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=lider"> en lider </a></td>
 <td>
 <audio id="lider" src="https://static.ordnet.dk/mp3/11030/11030347_1.mp3" style="display: none;"></audio>
@@ -16287,6 +16335,18 @@ search: true
 <td> monarker </td>
 <td> monarkerne </td>
 <td> monarch </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=montre"> en montre </a></td>
+<td>
+<audio id="montre" src="https://static.ordnet.dk/mp3/11034/11034297_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('montre');" style="cursor: pointer; color: blue;">[ˈmɒŋtʁʌ]</span>
+</td>
+<td> montren </td>
+<td> montrer </td>
+<td> montrerne </td>
+<td> display case </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -18267,6 +18327,18 @@ search: true
 <td> opsvingene </td>
 <td> upswing </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opsyn"> et opsyn </a></td>
+<td>
+<audio id="opsyn" src="https://static.ordnet.dk/mp3/11037/11037777_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opsyn');" style="cursor: pointer; color: blue;">[ˈʌbˌsyˀn]</span>
+</td>
+<td> opsynet </td>
+<td> - </td>
+<td> - </td>
+<td> supervision </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=optagelse"> en optagelse </a></td>
@@ -27263,6 +27335,18 @@ search: true
 <td> tronskifter </td>
 <td> tronskifterne </td>
 <td> change of throne </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=trop"> en trop </a></td>
+<td>
+<audio id="trop" src="https://static.ordnet.dk/mp3/12002/12002502_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('trop');" style="cursor: pointer; color: blue;">[ˈtʁʌb]</span>
+</td>
+<td> troppen </td>
+<td> tropper </td>
+<td> tropperne </td>
+<td> troop </td>
 <td> 1 </td>
 </tr>
 <tr>

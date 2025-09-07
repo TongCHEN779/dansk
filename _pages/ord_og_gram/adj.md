@@ -4230,6 +4230,18 @@ search: true
 <td> cold-blooded </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kolossal"> kolossal </a></td>
+<td>
+<audio id="kolossal" src="https://static.ordnet.dk/mp3/11026/11026988_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kolossal');" style="cursor: pointer; color: blue;">[koloˈsæˀl]</span>
+</td>
+<td> kolossalt </td>
+<td> kolossale </td>
+<td> mere kolossal </td>
+<td> mest kolossal </td>
+<td> colossal </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=komfortabel"> komfortabel </a></td>
 <td>
 <audio id="komfortabel" src="https://static.ordnet.dk/mp3/11027/11027015_1.mp3" style="display: none;"></audio>
