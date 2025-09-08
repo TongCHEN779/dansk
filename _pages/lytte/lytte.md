@@ -82,6 +82,17 @@ Hvorfor begyndte unge mennesker for 50 år siden af dyrke østlige religioner og
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/13.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Gift ved første blik </h1>
+<span style="font-weight: normal">
+Lasse kan ikke holde fingrene fra sin brud. Amalie lover at have en vilje af stål og et åbent hjerte. Wow, udbryder Dorthe, da hun ser sin kommende mand. Må Otto trylle, når han skal giftes ved første blik?
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/saeson/gift-ved-foerste-blik_9102">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/7.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hurra for det danske frisind </h1>
