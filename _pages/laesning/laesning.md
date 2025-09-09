@@ -544,6 +544,17 @@ Kongehuset og Færøerne har en lang, fælles historie.
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/56.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Se hvem der optræder i Epsteins 50-årsgave - bogen, ingen har lyst til at være med i </h1>
+<span style="font-weight: normal">
+En Harvard-dekan, en tidligere præsident og mange numser er noget af det, som optræder i den afdøde sexforbryders fødselsdagsbog.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/se-hvem-der-optraeder-i-epsteins-50-aarsgave-bogen-ingen-har-lyst-til-vaere-med-i">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/10.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Se kortet: Her kan Danmarks nye skove ligge </h1>

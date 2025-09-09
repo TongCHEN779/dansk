@@ -8154,6 +8154,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=f%C3%A6rge"> en færge </a></td>
+<td>
+<audio id="færge" src="https://static.ordnet.dk/mp3/11016/11016730_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('færge');" style="cursor: pointer; color: blue;">[ˈfæɐ̯wə]</span>
+</td>
+<td> færgen </td>
+<td> færger </td>
+<td> færgerne </td>
+<td> ferry </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=f%C3%A6tter"> en fætter </a></td>
 <td>
 <audio id="fætter" src="https://static.ordnet.dk/mp3/11016/11016761_1.mp3" style="display: none;"></audio>

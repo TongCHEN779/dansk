@@ -41,6 +41,42 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2025/08/Episode-94.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 94 - CPR-nummeret </h1>
+</summary>
+<span style="font-weight: normal">
+Hej og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om CPR-nummeret. For de fleste danskere er det det mest naturlige i verden at have et personnummer, som bruges alle mulige steder i samfundet. Men det er faktisk et meget unikt koncept, som Danmark kan være stolte af. Det har nemlig givet os en masse fordele i forhold til sikkerhed, sundhed, økonomi, forskning og uddannelse. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskiorerne kan du finde støtte podcasten, finde ordlister, downloade episoden og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo.
+<br><br>
+Et CPR-nummer er et personligt identifikationsnummer, som alle danskere og mange, der bor i Danmark, har. CPR står for Det Centrale Personregister. Det blev indført i 1968, og siden da har det været en helt central del af det danske samfund. Faktisk er systemet så unikt, at mange andre lande ikke har noget tilsvarende. Alle danskere kan huske deres CPR-nummer udenad, fordi vi bruger det hele tiden, når vi er i kontakt med myndigheder, lægen, skolen, banken eller andre steder, hvor man skal kunne identificere sig. Mange kan også huske deres partners og børns CPR-numre.
+<br><br>
+CPR-nummeret består af ti cifre. De første seks cifre viser ens fødselsdato – altså dag, måned og år. De sidste fire cifre er et løbenummer. Det sidste ciffer fortæller også, om man er mand eller kvinde. Ulige tal er til mænd, og lige tal er til kvinder. CPR-numre bliver aldrig genbrugt, så hvert nummer er unikt og følger en person hele livet. I særlige tilfælde kan man dog få et nyt nummer, for eksempel hvis ens gamle nummer bliver misbrugt. Et eksempel på et CPR-nummer, kunne fx være 031097-1452. Det ville tilhøre en kvinde, der er født den 3. oktober 1997.
+<br><br>
+Før CPR-systemet blev skabt, havde man kommunale folkeregistre. De skulle holde styr på navn, adresse, civilstand, erhverv og andre oplysninger. Men det var svært og uoverskueligt, og derfor blev der i 1960’erne arbejdet på en ny løsning. Samtidig skulle Danmark indføre et nyt skattesystem, og det krævede et effektivt system, hvor man kunne identificere alle borgere. Løsningen blev CPR-registeret og det personlige CPR-nummer, som hurtigt blev en succes.
+<br><br>
+Da loven om CPR blev fremlagt i 1967, blev den taget meget positivt imod af politikerne. Allerede i 1968 fik alle danskere deres personnummer, og kort tid efter blev det en helt naturlig del af hverdagen. I 1991 blev systemet moderniseret, og senere er det blevet tilpasset EU-lovgivningen. I dag bliver det hele opdateret digitalt. Når en person bliver født, gift, skilt eller dør, bliver oplysningerne sendt direkte til CPR, som regel via borger.dk. Derfor er registreret altid opdateret og præcist.
+<br><br>
+CPR-nummeret bruges til rigtig mange ting. Det sikrer, at man betaler den rigtige skat, at man får de rigtige børnepenge, og at man får den medicin, man har brug for på apoteket. Det bruges også, når man skal stemme til valg, når man bliver indkaldt til en undersøgelse på sygehuset, eller når man skal åbne en bankkonto. CPR er også en vigtig nøgle til forskning. Fordi alle danskere har et unikt CPR-nummer, kan forskere koble oplysninger fra forskellige registre og få meget præcise resultater. Det bruges blandt andet i sundhedsforskning, hvor man kan se, hvordan sygdomme, behandlinger og levevilkår hænger sammen. Den slags forskning er næsten umulig i lande, der ikke har et system som det danske. Derfor er danske sundhedsdata meget efterspurgte i medicinsk forskning.
+<br><br>
+En anden vigtig konsekvens af CPR-systemet er, at det markerer, at alle borgere er selvstændige individer. Før i tiden blev kvinder registreret under deres mand, men med CPR fik alle deres eget nummer. På den måde blev vi alle registreret som enkeltpersoner med rettigheder og ansvar.
+<br><br>
+Selvom CPR-systemet er meget omfattende, har det stort set aldrig været forbundet med skandaler. Det skyldes blandt andet, at CPR kun indeholder de mest basale oplysninger som navn, adresse, køn og fødselsdato. Andre oplysninger, som handler om sundhed eller økonomi, findes i andre registre, der har deres egne sikkerhedssystemer. Derfor fungerer CPR-nummeret som en slags nøgle, der kan forbinde oplysninger på en sikker måde. Jeg kunne fx godt nævne mit CPR-nummer her i podcasten, uden at blive udsat for svindel bagefter. Mit CPR-nummer fortæller umiddelbart kun noget om min fødselsdato. Det er først hvis mit CPR-nummer kombineres med fx adgang til mit MitID eller mit betalingskort, at det kan bruges til svindel.
+<br><br>
+I dag bruges CPR ikke kun af det offentlige, men også af private virksomheder som banker, forsikringsselskaber og foreninger. Det gør det nemt og hurtigt at identificere borgere og kunder. Samtidig kan borgerne selv logge ind og se deres egne oplysninger i CPR, for eksempel med MitID.
+<br><br>
+Det danske CPR-system har nu eksisteret i snart 60 år, og det fungerer stadig godt. Faktisk er det så effektivt, at Danmark ikke længere behøver at lave traditionelle folketællinger. I stedet kan man bare trække oplysninger direkte fra CPR. Det sparer både tid og penge og gør systemet meget præcist.
+<br><br>
+CPR-nummeret er altså ikke bare et tilfældigt nummer. Det er en vigtig del af vores hverdag og en af grundpillerne i det danske velfærdssamfund. Det giver sikkerhed, effektivitet og viden, og det forbinder os alle sammen med staten.
+<br><br>
+Det var alt for denne episode. Jeg håber du er blevet klogere på CPR-nummeret, og hvorfor det er så smart et system. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2025/07/Episode-93.wav"></audio> </td>
 <td> 
 <details>
