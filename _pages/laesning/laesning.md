@@ -38,6 +38,17 @@ En 57-årig mand forventes at tilstå i sagen om voldtægt og drabsforsøg i 199
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/57.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> 75 år efter sterilisation vidner 95-årige Regine i retten </h1>
+<span style="font-weight: normal">
+Et historisk retsopgør er indledt. To kvinder kræver erstatning for sterilisation og anbringelse på Sprogø.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/indland/75-aar-efter-sterilisation-vidner-95-aarige-regine-i-retten">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/44.avif"/></p></td>
 <td style="vertical-align: top;">
 <h1> 80 år efter Hiroshima og Nagasaki: Disse rystende fotos fortæller historien </h1>
@@ -101,6 +112,17 @@ De internationale klimaforhandlinger er ramt af, at USA og Kina på hver sin fro
 </span>
 </td>
 <td><a href="https://www.dr.dk/nyheder/viden/klima/analyse-i-skyggen-af-trump-er-klimaets-staerkeste-tandem-gaaet-i-staa">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/59.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Barsk virkelighed bag ny dansk film: 'Åndssvage' kvinder blev gemt væk på øde ø og steriliseret </h1>
+<span style="font-weight: normal">
+Handlingen i den biografaktuelle 'Journal 64' udspringer fra en hengemt del af danmarkshistorien, hvor flere hundrede kvinder blev anbragt på en isoleret anstalt midt i Storebælt.
+</span>
+</td>
+<td><a href="https://www.dr.dk/historie/barsk-virkelighed-bag-ny-dansk-film-aandssvage-kvinder-blev-gemt-vaek-paa-oede-oe-og">link</a></td>
 </tr>
 
 <tr>
@@ -640,5 +662,16 @@ Dele til kampflyet F35 skal ikke længere laves i Danmark men i USA, mener Donal
 </span>
 </td>
 <td><a href="https://www.dr.dk/nyheder/regionale/syd/vi-er-daarlige-til-sortere-vores-affald-alt-det-jeg-er-i-tvivl-om-ender-i">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/58.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Vidste du, at Danmark steriliserede over 5.000 'undermålere' i omfattende 'racehygiejnisk' projekt? </h1>
+<span style="font-weight: normal">
+Her er 10 spørgsmål til eksperten om et af danmarkshistoriens mørke kapitler.
+</span>
+</td>
+<td><a href="https://www.dr.dk/det-bedste-fra-dr/vidste-du-danmark-steriliserede-over-5000-undermaalere-i-omfattende-racehygiejnisk">link</a></td>
 </tr>
 </table>

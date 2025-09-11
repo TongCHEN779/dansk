@@ -835,6 +835,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=anbringe"> at anbringe </a></td>
+<td>
+<audio id="anbringe" src="https://static.ordnet.dk/mp3/11001/11001655_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('anbringe');" style="cursor: pointer; color: blue;">[ˈanˌbʁεŋˀə]</span>
+</td>
+<td> anbringer </td>
+<td> anbragte </td>
+<td> har anbragt </td>
+<td> anbring </td>
+<td> to place, put </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ane"> at ane </a></td>
 <td>
 <audio id="ane" src="https://static.ordnet.dk/mp3/11001/11001729_1.mp3" style="display: none;"></audio>

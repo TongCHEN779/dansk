@@ -1566,6 +1566,18 @@ search: true
 <td> one-armed </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=endegyldig"> endegyldig </a></td>
+<td>
+<audio id="endegyldig" src="https://static.ordnet.dk/mp3/11011/11011293_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('endegyldig');" style="cursor: pointer; color: blue;">[-ˌgylˀdi]</span>
+</td>
+<td> endegyldigt </td>
+<td> endegyldige </td>
+<td> mere endegyldigt </td>
+<td> mest endegyldigt </td>
+<td> final, definitive </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=engelsk"> engelsk </a></td>
 <td>
 <audio id="engelsk" src="https://static.ordnet.dk/mp3/11011/11011418_1.mp3" style="display: none;"></audio>

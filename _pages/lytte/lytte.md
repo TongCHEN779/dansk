@@ -159,6 +159,17 @@ Mads Andersen-Skjern kommer til Korsbæk som handelsrejsende sammen med sønnen 
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/14.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Nyrup - søn af en udstødt </h1>
+<span style="font-weight: normal">
+Poul Nyrup Rasmussens far blev som dreng tvangsanbragt på en åndssvageanstalt i syv år. Hans ophold på øen Livø i Limfjorden blev skæbnesvangert for hans liv og kom til at præge hele familien. Poul fik aldrig talt med sin far om de oplevelser, han havde på Livø. Nu søger han svar på, hvad faren oplevede på øen og hvad det gjorde ved ham - måske kan han lære noget af fortiden, som han kan bruge i sit nutidige arbejde med psykisk sårbare unge.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/serie/nyrup-_-soen-af-en-udstoedt_347459">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/12.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Store danske kunstnere </h1>
