@@ -34,7 +34,7 @@ search: false
 Et usædvanligt nært og eksistentielt portræt af billedkunstneren Apolonia Sokol fortalt over hele 13 år af den danske dokumentarist Lea Glob. En af de helt store sensationer og en film af en sjælden dybde og styrke. Filmen var shortlisted til en Oscar og vandt fem Robert-priser i 2024, bl.a. årets instruktør og årets dokumentarfilm.
 </span>
 </td>
-<td><a href="https://www.dr.dk/drtv/program/da-vincis-mesterlige-malerier_464112">link</a></td>
+<td><a href="https://www.dr.dk/drtv/program/apolonia-apolonia_411162">link</a></td>
 </tr>
 
 <tr>
