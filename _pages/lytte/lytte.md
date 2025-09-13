@@ -27,6 +27,28 @@ search: false
 (Alle tekster og billeder er kopieret [herfra](https://www.dr.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/22.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Apolonia, Apolonia </h1>
+<span style="font-weight: normal">
+Et usædvanligt nært og eksistentielt portræt af billedkunstneren Apolonia Sokol fortalt over hele 13 år af den danske dokumentarist Lea Glob. En af de helt store sensationer og en film af en sjælden dybde og styrke. Filmen var shortlisted til en Oscar og vandt fem Robert-priser i 2024, bl.a. årets instruktør og årets dokumentarfilm.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/program/da-vincis-mesterlige-malerier_464112">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/19.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Da Vincis mesterlige malerier </h1>
+<span style="font-weight: normal">
+Kunstner, opfinder og videnskabsmand. 500 år efter hans død fascinerer den berømte italienske renæssancemaler Leonardo da Vincis malerier os stadig. Der er kun 15 lærreder tilbage, hvoraf nogle er ufærdige. For at forstå dem og hans tekniske og kunstneriske dygtighed, dykker vi ned i videnskaben bag da Vincis mesterværker. Hvad gjorde ham så umådelig berømt? Og hvordan forklarer man den særplads, hans værker indtager i kunsthistorien?
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/program/da-vincis-mesterlige-malerier_464112">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/11.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Danmarks næste klassiker </h1>
@@ -93,6 +115,17 @@ Lasse kan ikke holde fingrene fra sin brud. Amalie lover at have en vilje af st�
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/26.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Grundtvig 100 år efter </h1>
+<span style="font-weight: normal">
+Hvordan har N.F.S. Grundtvig præget danskernes hverdag? Og hvordan bliver hans tanker mødt i 1972 - 100 år efter hans død? Præster, forfattere, lærere og kunstnere belyser bl.a. den socialpolitiske side af Grundtvig, de grundtvigske friskoler, højskoler og valgmenigheder samt Grundtvigs indflydelse på kunsten. Blandt de medvirkende er Ebbe Kløvedal Reich og Kaj Thaning.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/program/grundtvig-100-aar-efter_450643">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/7.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hurra for det danske frisind </h1>
@@ -101,6 +134,17 @@ I Danmark kan vi godt lide at bryste os af vores frisind. Vi var det første lan
 </span>
 </td>
 <td><a href="https://www.dr.dk/drtv/saeson/hurra-for-det-danske-frisind_55750">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/21.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Impressionismens danske fader </h1>
+<span style="font-weight: normal">
+Han betragtes som impressionismens fader. Den dansk-franske maler Camille Pissarro blev født i Vestindien, men kom til Frankrig i en meget ung alder. Her finder han hurtigt ligesindede, der sammen grundlægger selskabet 'De uafhængiges Salon'. Deres første udstilling får navnet: impressionisterne, og i de næste 40 år er Pissarro drivkraften bag den betydningsfulde kunstneriske bevægelse. Her dykker vi ned i den opfindsomme kunstners liv og arbejde.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/program/impressionismens-danske-fader_447146">link</a></td>
 </tr>
 
 <tr>
@@ -126,6 +170,17 @@ PFA Pension har investeringer i et af verdens største energiselskaber, TotalEne
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/28.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Klimt og kysset </h1>
+<span style="font-weight: normal">
+Guld, mystik og erotik. 'Kysset' af den østrigske maler Gustav Klimt er et af de mest anerkendte og reproducerede malerier i verden. Det stemningsfulde mesterværk blev malet i Wien omkring 1908 og er fra art nouveau-perioden. Men hvorfor har det så stor en tiltrækningskraft på os? Og hvem var kunstneren, der skabte det? Her udforskes det gyldne værk og Klimts liv.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/program/klimt-og-kysset_469956">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/4.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kvindefængslet </h1>
@@ -134,6 +189,17 @@ Nanna sidder i fængsel på andet år for grov narkokriminalitet. Hun kæmper me
 </span>
 </td>
 <td><a href="https://www.dr.dk/drtv/serie/kvindefaengslet_487476">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/15.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Leonardo da Vinci - Renæssancemenneske </h1>
+<span style="font-weight: normal">
+Kunstner, forsker, opfinder og et visionært geni. Den italienske maler Leonardo da Vinci bliver født i 1452 i en toskansk landsby. Som ung flytter han til Firenze for at gå i lære som kunstner og håndværker. Han udviser et enestående talent, men har til tider svært ved at færdiggøre sine bestillingsopgaver.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/serie/leonardo-da-vinci-_-renaessancemenneske_505658">link</a></td>
 </tr>
 
 <tr>
@@ -159,6 +225,50 @@ Mads Andersen-Skjern kommer til Korsbæk som handelsrejsende sammen med sønnen 
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/16.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Mestermaleren Vermeer </h1>
+<span style="font-weight: normal">
+Han er en af de største malere i historien. Alligevel ved man meget lidt om ham. Den hollandske barok-maler Johannes Vermeer er blandt andet kendt for det berømte kunstværk 'Pige med perleørering'. Han boede i Delft, fik 14 børn og døde som 43-årig. Men ingen ved hos hvem eller hvor, han lærte at male. Her dykker vi ned i den mystiske kunstners liv og unikke skyggeteknik i forbindelse med etableringen af verdens største Vermeer-udstilling på Rijksmuseum i Amsterdam.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/program/mestermaleren-vermeer_449464">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/23.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Munchmuseet flytter </h1>
+<span style="font-weight: normal">
+Superhemmelig planlægning, stadige udsættelser og kunst for milliarder. Tag med bag facaden, når Edvard Munchs kunst skal flyttes fra et lille museum i Oslo og ind i et nyt og topmoderne museum. 45.000 museumsobjekter skal flyttes, og de skal alle pakkes individuelt - det er et kæmpeprojekt med mange forhindringer.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/program/munchmuseet-flytter_320398">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/25.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Museet </h1>
+<span style="font-weight: normal">
+Besøgstal, barok-udstilling... og blodpletter? Ovenpå svigtende besøgstal jagter SMK en ægte publikumsbasker. Nogle af medarbejderne mener at en sådan kan skabes af de mange 100 barokmalerier, der står og samler støv i museets kælder. Kom indenfor hos hele Danmarks kunstmuseum. Her bliver kunstnernes hjælpelinjer afsløret i mikroskoper, imens blodpletter kan hjælpe med at datere tegninger flere hundrede år tilbage i tiden.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/serie/museet_337315">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/17.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Nordisk design - en kærlighedshistorie </h1>
+<span style="font-weight: normal">
+Shakerbevægelsen - en kristen amerikansk sekt - får ved et tilfælde stor indflydelse på nordisk formgivning. TV-stjernen Kim Kardashian er vild med svenske sommerhusmøbler - og død og elendighed bliver begyndelsen på et designparadis. Det nordiske design er ikke kun elsket og eftertragtet af samlere verden over - det fortæller også en fængslende historie om fortid, nutid og kvinderne og mændene bag designet. Indretningsarkitekt Pierre Yovanovitch inviterer indenfor på sit slot i Provence i Frankrig, hvor han har samlet på nordisk design i over 20 år.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/serie/nordisk-design-_-en-kaerlighedshistorie_543339">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/14.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Nyrup - søn af en udstødt </h1>
@@ -170,6 +280,28 @@ Poul Nyrup Rasmussens far blev som dreng tvangsanbragt på en åndssvageanstalt 
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/18.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Picasso - Skønheden og udyret </h1>
+<span style="font-weight: normal">
+Han var en af de vigtigste kunstnere i det 20. århundrede. Den spanske maler Pablo Picasso blev født i 1881. Han revolutionerede kunsthistorien, gennemlevede to verdenskrige og skildrede et århundrede fyldt med kaos, håb og fortvivlelse. Hans kunst var ofte brutal, men formåede også at indfange skønhed i lidelsen. Privat var han fuld af modsætninger og efterlod sig kaotiske forhold - og kunst nok til at fylde en flyhangar. Her er hans historie.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/serie/picasso-_-skoenheden-og-udyret_528638">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/27.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Rebeller i dansk kunsthistorie </h1>
+<span style="font-weight: normal">
+Mange af de mest banebrydende kunstværker er blevet til fordi flere kunstnere på samme tid har besluttet sig for at udfordre den gode smag. I denne serie går Alberte Clement Meldal tæt på fire kunstnergrupper, der ikke bare var præget af tidsånden - de var også med til at skabe den. I aftenens program møder vi blandt andet to af Danmarks mest berømte nulevende kunstnere, Per Kirkeby og Bjørn Nørgaard. De fortæller om, hvordan de som purunge kunstnerspirer i 1960'erne bliver en del af et broderskab, der kommer til at ryste danskernes kunstopfattelse.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/serie/rebeller-i-dansk-kunsthistorie_186058">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/12.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Store danske kunstnere </h1>
@@ -178,5 +310,27 @@ Allerede fra barnsben var Hammershøi udset til noget stort. I dag er han en af 
 </span>
 </td>
 <td><a href="https://www.dr.dk/drtv/saeson/store-danske-kunstnere_534647">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/20.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Van Goghs solsikker </h1>
+<span style="font-weight: normal">
+Det er nogle af de mest ikoniske malerier i verden. Vincent van Goghs berømte solsikker. Men hvorfor valgte Van Gogh den eksotiske solsikke som motiv? Hvad forsøgte han at sige med disse værker? Og hvilke hemmeligheder opdager forskerne, da de analyserer hans værker? Her dykker vi ned under overfladen på de spektakulære malerier.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/program/van-goghs-solsikker_472682">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/24.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Vilde kunsttyverier </h1>
+<span style="font-weight: normal">
+Den 22. august 2004 blev malerierne "Skriget" og "Madonna", af Norges mest berømte maler Edward Munch, stjålet fra Munchmuseet i Oslo. Billederne er museets mest ikoniske og kostbare værker og er vurderet til over £120 mio. Røverne slog til i åbningstiden, mens de besøgende så chokerede til. Her dykker vi ned i den farlige efterforskning, der afslører, hvor langt kriminelle vil gå.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/serie/vilde-kunsttyverier_367975">link</a></td>
 </tr>
 </table>
