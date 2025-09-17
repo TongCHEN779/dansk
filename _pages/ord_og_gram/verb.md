@@ -10532,6 +10532,19 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=onanere"> at onanere </a></td>
+<td>
+<audio id="onanere" src="https://static.ordnet.dk/mp3/11037/11037283_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('onanere');" style="cursor: pointer; color: blue;">[onaˈneˀʌ]</span>
+</td>
+<td> onanerer </td>
+<td> onanerede </td>
+<td> har onaneret </td>
+<td> onaner </td>
+<td> to masturbate </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=opbevare"> at opbevare </a></td>
 <td>
 <audio id="opbevare" src="https://static.ordnet.dk/mp3/11037/11037327_1.mp3" style="display: none;"></audio>
@@ -10582,6 +10595,19 @@ search: true
 <td> opdel </td>
 <td> to divide </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=opdigte"> at opdigte </a></td>
+<td>
+<audio id="opdigte" src="https://static.ordnet.dk/mp3/11037/11037362_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('opdigte');" style="cursor: pointer; color: blue;">[ˈʌbˌdegd]</span>
+</td>
+<td> opdigter </td>
+<td> opdigtede </td>
+<td> har opdigtet </td>
+<td> opdigt </td>
+<td> to invent, fabricate </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=opdrage"> at opdrage </a></td>
@@ -11868,6 +11894,19 @@ search: true
 <td> har præsenteret </td>
 <td> præsenter </td>
 <td> to present </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=pr%C3%A6stere"> at præstere </a></td>
+<td>
+<audio id="præstere" src="https://static.ordnet.dk/mp3/11041/11041346_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('præstere');" style="cursor: pointer; color: blue;">[pʁεˈsdeˀʌ]</span>
+</td>
+<td> præsterer </td>
+<td> præsterede </td>
+<td> har præsteret </td>
+<td> præster </td>
+<td> to perform </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -14393,7 +14432,7 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
-<td><a href="https://ordnet.dk/ddo/ordbog?query=spole"> at spole </a></td>
+<td><a href="https://ordnet.dk/ddo/ordbog?select=spole,2&amp;query=spole"> at spole </a></td>
 <td>
 <audio id="spole" src="https://static.ordnet.dk/mp3/11049/11049315_1.mp3" style="display: none;"></audio>
 <span onclick="playSound('spole');" style="cursor: pointer; color: blue;">[ˈsboːlə]</span>
@@ -14403,6 +14442,19 @@ search: true
 <td> har spolet </td>
 <td> spol </td>
 <td> to spool </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=spolere"> at spolere </a></td>
+<td>
+<audio id="spolere" src="https://static.ordnet.dk/mp3/11049/11049321_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('spolere');" style="cursor: pointer; color: blue;">[sboˈleˀʌ]</span>
+</td>
+<td> spolere </td>
+<td> spolerede </td>
+<td> har spoleret </td>
+<td> spoler </td>
+<td> to spoil, ruin </td>
 <td> 1 </td>
 </tr>
 <tr>

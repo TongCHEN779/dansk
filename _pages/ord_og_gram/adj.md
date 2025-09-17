@@ -4386,6 +4386,18 @@ search: true
 <td> short-haired </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kortvarig"> kortvarig </a></td>
+<td>
+<audio id="kortvarig" src="https://static.ordnet.dk/mp3/11027/11027796_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kortvarig');" style="cursor: pointer; color: blue;">[-ˌvɑˀi]</span>
+</td>
+<td> kortvarigt </td>
+<td> kortvarige </td>
+<td> mere kortvarig </td>
+<td> mest kortvarig </td>
+<td> short-lived </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kostelig"> kostelig </a></td>
 <td>
 <audio id="kostelig" src="https://static.ordnet.dk/mp3/11027/11027826_1.mp3" style="display: none;"></audio>

@@ -7698,6 +7698,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fregat"> en fregat </a></td>
+<td>
+<audio id="fregat" src="https://static.ordnet.dk/mp3/11015/11015825_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fregat');" style="cursor: pointer; color: blue;">[fʁεˈgad]</span>
+</td>
+<td> fregatten </td>
+<td> fregatter </td>
+<td> fregatterne </td>
+<td> frigate </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=frekvens"> en frekvens </a></td>
 <td>
 <audio id="frekvens" src="https://static.ordnet.dk/mp3/11015/11015830_1.mp3" style="display: none;"></audio>
@@ -8464,6 +8476,18 @@ search: true
 <td> gearene </td>
 <td> gear </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gebyr"> et gebyr </a></td>
+<td>
+<audio id="gebyr" src="https://static.ordnet.dk/mp3/11017/11017382_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gebyr');" style="cursor: pointer; color: blue;">[geˈbyɐ̯ˀ]</span>
+</td>
+<td> gebyret </td>
+<td> gebyrer </td>
+<td> gebyrerne </td>
+<td> fee </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ged"> en ged </a></td>
@@ -10336,6 +10360,18 @@ search: true
 <td> husmødrene </td>
 <td> housewife </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=husstand"> en husstand </a></td>
+<td>
+<audio id="husstand" src="https://static.ordnet.dk/mp3/11021/11021825_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('husstand');" style="cursor: pointer; color: blue;">[ˈhusˌsdanˀ]</span>
+</td>
+<td> husstanden </td>
+<td> husstande </td>
+<td> husstandene </td>
+<td> household </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hustru"> en hustru </a></td>
