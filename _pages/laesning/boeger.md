@@ -80,6 +80,12 @@ search: false
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/bygget.png"/></p></td>
+<td><h1> Bygget Alkymi, på 1600-tals slottet Gammel Estrup - Niels Bjerre Jørgensen </h1></td>
+<td><a href="https://tongchen779.github.io/dansk/files/boeger/bygget.pdf">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/weyses.png"/></p></td>
 <td><h1> C.E.F. Weyses Biographie - A.P. Berggreen </h1></td>
 <td><a href="https://slaegtsbibliotek.dk/921368.pdf">link</a></td>
@@ -209,6 +215,12 @@ search: false
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/soldat.png"/></p></td>
 <td><h1> Et Soldaterliv - Ludvig Wagner </h1></td>
 <td><a href="https://www.ronlev.dk/bibliotek/1479.pdf">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/eventyr_hc.png"/></p></td>
+<td><h1> Eventyr H.C. Andersen 2005 </h1></td>
+<td><a href="https://tongchen779.github.io/dansk/files/boeger/eventyr_hc.pdf">link</a></td>
 </tr>
 
 <tr>
@@ -789,8 +801,14 @@ search: false
 
 <tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/sagnene_fyn.png"/></p></td>
-<td><h1> Sagnenes Danmark (bind 5), Fyn med øer  - Gorm Benzon </h1></td>
+<td><h1> Sagnenes Danmark (bind 5), Fyn med øer - Gorm Benzon </h1></td>
 <td><a href="https://slaegtsbibliotek.dk/2024/943783.pdf">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/sex.png"/></p></td>
+<td><h1> Sex i Danmark, Nøgletal fra Projekt SEXUS 2017-2018 </h1></td>
+<td><a href="https://files.projektsexus.dk/2019-10-26_SEXUS-rapport_2017-2018.pdf">link</a></td>
 </tr>
 
 <tr>
