@@ -302,6 +302,17 @@ Mange af de mest banebrydende kunstværker er blevet til fordi flere kunstnere p
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/29.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Skolens tabte børn </h1>
+<span style="font-weight: normal">
+For flere og flere børn tager mødet med skolen en helt uventet drejning. De bliver tabt i skolesystemet og ender i lang tids ufrivilligt skolefravær. Undersøgende journalist Jens Langhorn og hans kone Louise har selv tre børn, hvor to af dem er blevet en del af statistikken. Midt i deres livs krise samler de en gruppe familier, som står i samme situation. Sammen vil de hjælpe hinanden og åbne op for de store konsekvenser, det har på hele familien, når et barn ender i alvorlig mistrivsel.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/saeson/skolens-tabte-boern_545029">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/12.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Store danske kunstnere </h1>

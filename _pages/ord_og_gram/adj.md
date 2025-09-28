@@ -3198,6 +3198,18 @@ search: true
 <td> valid </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gyn%C3%A6kologisk"> gynækologisk </a></td>
+<td>
+<audio id="gynækologisk" src="https://static.ordnet.dk/mp3/11019/11019325_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gynækologisk');" style="cursor: pointer; color: blue;">[gynεkoˈloˀisg]</span>
+</td>
+<td> gynækologisk </td>
+<td> gynækologiske </td>
+<td> mere gynækologisk </td>
+<td> mest gynækologisk </td>
+<td> gynecological </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=g%C3%A6ngs"> gængs </a></td>
 <td>
 <audio id="gængs" src="https://static.ordnet.dk/mp3/11019/11019367_1.mp3" style="display: none;"></audio>

@@ -714,6 +714,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=anden%C3%A6b"> et andenæb </a></td>
+<td>
+<audio id="andenæb" src="https://static.ordnet.dk/mp3/49001/49001592_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('andenæb');" style="cursor: pointer; color: blue;">[ˈanə-]</span>
+</td>
+<td> andenæbbet </td>
+<td> andenæb </td>
+<td> andenæbbene </td>
+<td> duckbill </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=anekdote"> en anekdote </a></td>
 <td>
 <audio id="anekdote" src="https://static.ordnet.dk/mp3/11001/11001732_1.mp3" style="display: none;"></audio>
@@ -3639,6 +3651,18 @@ search: true
 <td> bøgene </td>
 <td> beech </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=b%C3%B8getr%C3%A6"> et bøgetræ </a></td>
+<td>
+<audio id="bøgetræ" src="https://static.ordnet.dk/mp3/11007/11007108_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bøgetræ');" style="cursor: pointer; color: blue;">[ˈbøːjə-]</span>
+</td>
+<td> bøgetræet </td>
+<td> bøgetræer </td>
+<td> bøgetræerne </td>
+<td> beech tree </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=b%C3%B8lge"> en bølge </a></td>
@@ -9642,6 +9666,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hektar"> en hektar </a></td>
+<td>
+<audio id="hektar" src="https://static.ordnet.dk/mp3/11020/11020238_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hektar');" style="cursor: pointer; color: blue;">[hεgˈtɑˀ]</span>
+</td>
+<td> hektaren </td>
+<td> hektarer </td>
+<td> hektarerne </td>
+<td> hectare </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=helbred"> et helbred </a></td>
 <td>
 <audio id="helbred" src="https://static.ordnet.dk/mp3/11020/11020251_1.mp3" style="display: none;"></audio>
@@ -14154,6 +14190,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=lak"> en lak </a></td>
+<td>
+<audio id="lak" src="https://static.ordnet.dk/mp3/11029/11029457_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('lak');" style="cursor: pointer; color: blue;">[ˈlɑg]</span>
+</td>
+<td> lakken </td>
+<td> lakker </td>
+<td> lakkene </td>
+<td> varnish/lacquer </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=lakmus"> en lakmus </a></td>
 <td>
 <audio id="lakmus" src="https://static.ordnet.dk/mp3/11029/11029464_1.mp3" style="display: none;"></audio>
@@ -17298,6 +17346,30 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=negl"> en negl </a></td>
+<td>
+<audio id="negl" src="https://static.ordnet.dk/mp3/11035/11035796_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('negl');" style="cursor: pointer; color: blue;">[ˈnɑjˀl]</span>
+</td>
+<td> neglen </td>
+<td> negle </td>
+<td> neglene </td>
+<td> nail (finger/toe) </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=neglelak"> en neglelak </a></td>
+<td>
+<audio id="neglelak" src="https://static.ordnet.dk/mp3/11035/11035801_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('neglelak');" style="cursor: pointer; color: blue;">[ˈnɑjlə-]</span>
+</td>
+<td> neglelakken </td>
+<td> neglelakker </td>
+<td> neglelakkerne </td>
+<td> nail polish </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=nettjeneste"> en nettjeneste </a></td>
 <td>
 <audio id="nettjeneste" src="" style="display: none;"></audio>
@@ -17488,6 +17560,18 @@ search: true
 <td> - </td>
 <td> curiosity </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=n%C3%A6b"> et næb </a></td>
+<td>
+<audio id="næb" src="https://static.ordnet.dk/mp3/11036/11036481_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('næb');" style="cursor: pointer; color: blue;">[ˈnεˀb]</span>
+</td>
+<td> næbbet </td>
+<td> næb </td>
+<td> næbbene </td>
+<td> beak </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=n%C3%A6rhed"> nærhed </a></td>
@@ -24169,6 +24253,18 @@ search: true
 <td> spekulationer </td>
 <td> spekulationerne </td>
 <td> speculation </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=spekulum"> et spekulum </a></td>
+<td>
+<audio id="spekulum" src="https://static.ordnet.dk/mp3/11049/11049082_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('spekulum');" style="cursor: pointer; color: blue;">[ˈsbeˀkulɔm]</span>
+</td>
+<td> spekulumet </td>
+<td> spekula </td>
+<td> spekulaene </td>
+<td> speculum </td>
 <td> 1 </td>
 </tr>
 <tr>

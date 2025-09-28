@@ -13717,6 +13717,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skævvride"> at skævvride </a></td>
+<td>
+<audio id="skævvride" src="https://static.ordnet.dk/mp3/53401/53401031_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skævvride');" style="cursor: pointer; color: blue;">[ˈsgεwˌvʁiðˀə]</span>
+</td>
+<td> skævvrider </td>
+<td> skævvred </td>
+<td> har skævvredet </td>
+<td> skævvred </td>
+<td> to distort, skew </td>
+<td> 3 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A5ne"> at skåne </a></td>
 <td>
 <audio id="skåne" src="https://static.ordnet.dk/mp3/11047/11047522_1.mp3" style="display: none;"></audio>
@@ -17745,6 +17758,19 @@ search: true
 <td> vov </td>
 <td> to dare </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=vride"> at vride </a></td>
+<td>
+<audio id="vride" src="https://static.ordnet.dk/mp3/12007/12007328_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('vride');" style="cursor: pointer; color: blue;">[ˈvʁiːðə]</span>
+</td>
+<td> vrider </td>
+<td> vred </td>
+<td> har vredet </td>
+<td> vri </td>
+<td> to wring, twist </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=vrimle"> at vrimle </a></td>

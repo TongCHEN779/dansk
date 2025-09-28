@@ -192,6 +192,17 @@ Luren er blevet en politisk kampplads.
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/60.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Det kan være væk om under 100 år. Men hvad er Danmark uden bøgetræet? </h1>
+<span style="font-weight: normal">
+Om under 100 år risikerer Danmark at skulle sige farvel til bøgetræet - og kan man så fortsat kalde det vores nationaltræ?
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/viden/natur/det-kan-vaere-vaek-om-under-100-aar-men-hvad-er-danmark-uden-boegetraeet">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/48.avif"/></p></td>
 <td style="vertical-align: top;">
 <h1> Efter gennemgang af museer: Trump har udpeget de forbudte værker </h1>
@@ -321,6 +332,17 @@ I denne uge er det 75 år siden, at USA kastede to atombomber over Japan.
 </span>
 </td>
 <td><a href="https://www.dr.dk/nyheder/kultur/historie/hvad-nu-hvis-hiroshima-og-nagasaki-ikke-var-blevet-bombet-en-atombombe-over">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/61.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> I 150 år har gynækologisk instrument set ud på samme måde - nu ulmer et stille oprør </h1>
+<span style="font-weight: normal">
+De seneste år er der kommet flere bud på nye instrumenter til at undersøge kvinders underliv.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/kultur/i-150-aar-har-gynaekologisk-instrument-set-ud-paa-samme-maade-nu-ulmer-et-stille-oproer">link</a></td>
 </tr>
 
 <tr>
