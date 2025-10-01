@@ -41,6 +41,44 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2025/09/Episode-95.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 95 - Kommunalvalg </h1>
+</summary>
+<span style="font-weight: normal">
+Hej og velkommen til ”Dansk i ørerne”. I november 2025 afholdes der valg til kommunal- og regionsråd i Danmark, og de fleste voksne personer, der bor i Danmark, kan stemme. Også selvom man ikke er dansk statsborger. I denne episode vil jeg derfor fortælle mere om hvad et kommunalvalg er. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, downloade episoderne og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo.
+<br><br>
+Kommunalvalg i Danmark er en vigtig del af demokratiet. Kommunalvalg betyder, at borgerne i hver kommune vælger de politikere, der skal sidde i kommunalbestyrelsen, også kaldet byrådet. I København hedder det borgerrepræsentationen. Valget sker hvert fjerde år, altid den tredje tirsdag i november. Det næste valg er den 18. november 2025.
+<br><br>
+Når man stemmer til kommunalvalg, vælger man de personer, der skal bestemme over mange ting i ens lokalområde. Det kan være skoler, daginstitutioner, ældrepleje, veje, miljø og kultur. Kommunalpolitikerne bestemmer også, hvordan kommunens penge skal bruges. Derfor har de stor indflydelse på hverdagen for borgerne. Borgmesteren er lederen af kommunalbestyrelsen.
+<br><br>
+Samme dag som kommunalvalget, stemmer man også til regionsrådet. Danmark er delt op i fem regioner, som blandt andet arbejder med hospitaler og sundhedsvæsen. Men jeg vil fortælle mere om regionsrådene og valg til regionsrådene i en anden episode.
+<br><br>
+I alt bliver cirka 2.400 politikere valgt til kommunerne. Antallet af medlemmer i en kommunalbestyrelse afhænger af kommunens størrelse. De mindste kommuner har mindst 9 medlemmer, og de største har op til 31 medlemmer. I København er der helt op til 55 medlemmer.
+<br><br>
+For at kunne stemme til kommunalvalg skal man være fyldt 18 år og have fast bopæl i Danmark. Man behøver ikke at være dansk statsborger. Hvis man kommer fra et andet EU-land, eller fra Norge, Island eller Storbritannien kan man stemme på lige fod med danskere. Og hvis man kommer fra et ikke-EU-land, kan man stemme, hvis man har boet i Danmark i mindst 4 år. Når man har stemmeret, er man som udgangspunkt også valgbar. Det betyder, at man selv kan stille op til kommunalvalget. Hvis man vil stille op uden at være medlem af et parti, skal man dog samle underskrifter fra borgere i sin kommune.
+<br><br>
+Et kommunalvalg er altid frit og hemmeligt. Det betyder, at alle vælgere kan stemme, som de vil, og ingen kan se, hvad man har stemt. Når stemmerne er talt op, fordeles pladserne i kommunalbestyrelsen efter, hvor mange stemmer de forskellige partier eller lister har fået. Som regel er det det største parti, der får borgmesterposten, men det er et flertal i kommunalbestyrelsen, der skal beslutte hvem der skal være borgmester.
+<br><br>
+Kommunalvalg er vigtige, fordi de handler om borgernes lokale hverdag. Alligevel oplever mange politikere, at det kan være hårdt arbejde. En rapport viser at byrådspolitikere i gennemsnit bruger 18 timer om ugen på politisk arbejde – oven i deres almindelige job. Mange får kun et mindre beløb for arbejdet, så de fleste har brug for en fuldtidsstilling ved siden af. Derfor kan det være svært at få tid til både familie, arbejde og politik. At være borgmester anses dog som et fuldtidsjob, men kun i de største kommuner er de andre politikere i kommunalbestyrelsen også fuldtidspolitikere.
+<br><br>
+Historisk set har kommunalvalg eksisteret i Danmark i mange år. Allerede i 1800-tallet begyndte man at indføre valg til kommunerne. Dengang var det dog kun mænd med penge og ejendom, der måtte stemme. Først senere fik alle voksne mænd og kvinder stemmeret. I dag er kommunalvalg en fast del af folkestyret, og de fleste danskere deltager i valgene. Ved sidste kommunalvalg var stemmeprocenten 67%.
+<br><br>
+At stemme til kommunalvalget er en måde at få indflydelse på sit lokalområde. Man kan være med til at bestemme, hvem der skal lede kommunen, og hvordan pengene skal bruges. Derfor betyder kommunalvalg rigtig meget for livet i Danmark.
+<br><br>
+En af de store forskelle på et kommunalvalg og et folketingsvalg er, at det er meget lettere at få lov at stille op til et kommunalvalg. Hvor det kræver 20.000 underskrifter at få lov at stille op til folketingsvalg, så kræver det maks. 150 underskrifter at stille op til et kommunalvalg. Og i de små kommuner kræver det kun 25 underskrifter. Derfor er der ofte mange flere partier og personer at vælge imellem til et kommunalvalg. Hvis der er en enkelt sag, der fylder rigtig meget i en kommune, så er der måske en person, der stiller op til kommunalvalget primært for at få indflydelse på dette ene emne. Det kunne fx være en kommune, hvor det planlægges at opstille en hel masse solceller eller lukke en lille folkeskole på landet.
+<br><br>
+Hvordan foregår et kommunalvalg så helt praktisk? Hvis man er stemmeberettiget, så modtager man et brev med posten nogle uger før valget. Brevet indeholder et valgkort, samt information om hvor man skal stemme. Det er ofte i idrætshallen på en skole. Man får tildelt et valgsted, der er åbent på valgdagen fra kl. 8 til 20. På valgdagen tager man sit valgkort og gule sundhedskort med hen på valgstedet og bytter valgkortet til en stemmeseddel. Stemmesedlen tager man med ind i en lille privat kabine, hvor man sætter sit kryds hos den kandidat eller det parti, man stemmer på. Til sidst afleverer man stemmesedlen i en beholder. Hvis man ikke kan nå at stemme på sit valgsted på selve valgdagen, fordi man fx er ude at rejse eller har en særligt lang arbejdsdag, så kan man stemme på forhånd. Det hedder at brevstemme.
+<br><br>
+Det var alt for denne episode. Jeg håber du er blevet lidt klogere på, hvad et kommunalvalg egentlig er – især hvis du har stemmeret den 18. november. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2025/08/Episode-94.wav"></audio> </td>
 <td> 
 <details>

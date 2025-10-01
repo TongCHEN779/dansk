@@ -70,6 +70,8 @@ undervisning:
 lytte:
   - title: "Lytte"
     children:
+      - title: "AI Denmark"
+        url: /lytte/ai_denmark/
       - title: "Dansk i Ørerne"
         url: /lytte/dansk_i_oererne/
       - title: "Folkerepublikken Kina 75 år"
