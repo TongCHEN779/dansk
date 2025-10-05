@@ -5874,6 +5874,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=farao"> en farao </a></td>
+<td>
+<audio id="farao" src="https://static.ordnet.dk/mp3/11012/11012330_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('farao');" style="cursor: pointer; color: blue;">[ˈfɑːʁɑo]</span>
+</td>
+<td> faraoen </td>
+<td> faraoer </td>
+<td> faraoerne </td>
+<td> pharaoh </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=farbror"> en farbror </a></td>
 <td>
 <audio id="farbror" src="https://static.ordnet.dk/mp3/11012/11012333_1.mp3" style="display: none;"></audio>
@@ -13230,6 +13242,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=koreografi"> en koreografi </a></td>
+<td>
+<audio id="koreografi" src="https://static.ordnet.dk/mp3/11027/11027660_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('koreografi');" style="cursor: pointer; color: blue;">[kɒeogʁɑˈfiˀ]</span>
+</td>
+<td> koreografien </td>
+<td> koreografier </td>
+<td> koreografierne </td>
+<td> choreography </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=korridor"> en korridor </a></td>
 <td>
 <audio id="korridor" src="https://static.ordnet.dk/mp3/11027/11027718_1.mp3" style="display: none;"></audio>
@@ -16155,6 +16179,18 @@ search: true
 <td> milliarder </td>
 <td> milliarderne </td>
 <td> billion </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=milliard%C3%A6r"> en milliardær </a></td>
+<td>
+<audio id="milliardær" src="https://static.ordnet.dk/mp3/11033/11033681_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('milliardær');" style="cursor: pointer; color: blue;">[miljɑˈdεˀɐ̯]</span>
+</td>
+<td> milliardæren </td>
+<td> milliardærer </td>
+<td> milliardærerne </td>
+<td> billionaire </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -23701,6 +23737,18 @@ search: true
 <td> slutninger </td>
 <td> slutningerne </td>
 <td> ending </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sl%C3%A6b"> et slæb </a></td>
+<td>
+<audio id="slæb" src="https://static.ordnet.dk/mp3/11047/11047857_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slæb');" style="cursor: pointer; color: blue;">[ˈslεˀb]</span>
+</td>
+<td> slæbet </td>
+<td> slæb </td>
+<td> slæbene </td>
+<td> drag/tow </td>
 <td> 1 </td>
 </tr>
 <tr>

@@ -357,6 +357,17 @@ Ifølge debattør taler populærmusikkens sexistiske sprogbrug imod ligestilling
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/62.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Kina forventer 2,4 milliarder ture med toget i næste uge – og de spiller afgørende rolle i landets nye trend </h1>
+<span style="font-weight: normal">
+I Kina bygges der gigantiske kulisser, der skal tilfredsstille de foto-elskende turister, og det har givet navn til en specifik rejseform. Problemet er, at de rejselystne ikke bruger penge med samme iver, som de fotograferer.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/kina-forventer-2-4-milliarder-ture-med-toget-i-naeste-uge-og-de-spiller-afgoerende-rolle-i-landets">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/31.avif"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kina sætter hårdt mod hårdt med en ny stor told mod USA: 'Man er træt af at være Mr. Nice Guy’ </h1>
