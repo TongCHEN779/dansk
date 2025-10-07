@@ -9414,6 +9414,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=halo"> en halo </a></td>
+<td>
+<audio id="halo" src="https://static.ordnet.dk/mp3/11019/11019591_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('halo');" style="cursor: pointer; color: blue;">[ˈhæːlo]</span>
+</td>
+<td> haloen </td>
+<td> haloer </td>
+<td> haloerne </td>
+<td> halo </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=hals"> en hals </a></td>
 <td>
 <audio id="hals" src="https://static.ordnet.dk/mp3/11019/11019595_1.mp3" style="display: none;"></audio>
