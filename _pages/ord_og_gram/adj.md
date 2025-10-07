@@ -4050,6 +4050,18 @@ search: true
 <td> Italian </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=i%C3%B8jnefaldende"> iøjnefaldende </a></td>
+<td>
+<audio id="iøjnefaldende" src="https://static.ordnet.dk/mp3/11024/11024326_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('iøjnefaldende');" style="cursor: pointer; color: blue;">[iˈʌjnəˌfalˀənə]</span>
+</td>
+<td> iøjnefaldende </td>
+<td> iøjnefaldende </td>
+<td> mere iøjnefaldende </td>
+<td> mest iøjnefaldende </td>
+<td> eye-catching </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=japansk"> japansk </a></td>
 <td>
 <audio id="japansk" src="https://static.ordnet.dk/mp3/11024/11024407_1.mp3" style="display: none;"></audio>

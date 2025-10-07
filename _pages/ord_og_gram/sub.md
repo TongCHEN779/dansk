@@ -28886,6 +28886,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=undergang"> en undergang </a></td>
+<td>
+<audio id="undergang" src="https://static.ordnet.dk/mp3/12004/12004752_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('undergang');" style="cursor: pointer; color: blue;">[ˈɔnʌˌgɑŋˀ]</span>
+</td>
+<td> undergangen </td>
+<td> undergange </td>
+<td> undergangene </td>
+<td> downfall, underpass </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=underholdning"> en underholdning </a></td>
 <td>
 <audio id="underholdning" src="https://static.ordnet.dk/mp3/12004/12004770_1.mp3" style="display: none;"></audio>
