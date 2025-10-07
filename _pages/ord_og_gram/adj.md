@@ -10734,6 +10734,18 @@ search: true
 <td> outermost </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ydmyg"> ydmyg </a></td>
+<td>
+<audio id="ydmyg" src="https://static.ordnet.dk/mp3/12007/12007793_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ydmyg');" style="cursor: pointer; color: blue;">[ˈyðˌmyˀ]</span>
+</td>
+<td> ydmygt </td>
+<td> ydmyge </td>
+<td> mere ydmyg </td>
+<td> mest ydmyg </td>
+<td> humble </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ynkelig"> ynkelig </a></td>
 <td>
 <audio id="ynkelig" src="https://static.ordnet.dk/mp3/12007/12007835_1.mp3" style="display: none;"></audio>

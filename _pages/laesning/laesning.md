@@ -588,6 +588,17 @@ Flere end 20 statsledere gæstede Xi Jinpings militærparade, der markerer slutn
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/63.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Regeringen vil tvinge Muhammedkrisen på skoleskemaet: Lærerforening siger nej </h1>
+<span style="font-weight: normal">
+Regeringen vil gøre undervisning i Muhammedkrisen obligatorisk i folkeskolen.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/politik/regeringen-vil-tvinge-muhammedkrisen-paa-skoleskemaet-laererforening-siger-nej">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/40.jpg"/></p></td>
 <td style="vertical-align: top;">
 <h1> SE BILLEDERNE Kongelige besøg på Færøerne gennem mere end 100 år </h1>
