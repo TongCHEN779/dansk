@@ -5,7 +5,7 @@ This website contains all my Danish notes and materials during my study at [Stud
 
 The website contains a homepage, 5 main blocks and a word search engine:
 
-- Homepage: Danish (former) queen Margrethes' new year talk 2023.
+- Homepage: Danish traditional Christmas song "Højt fra træets grønne top".
 
 - Block 1: "Ordforråd og Grammatik". Danish vocabulary and grammar.
 
