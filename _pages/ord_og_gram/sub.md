@@ -14358,6 +14358,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=larve"> en larve </a></td>
+<td>
+<audio id="larve" src="https://static.ordnet.dk/mp3/11029/11029824_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('larve');" style="cursor: pointer; color: blue;">[ˈlɑːvə]</span>
+</td>
+<td> larven </td>
+<td> larver </td>
+<td> larverne </td>
+<td> larva </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=last"> en last </a></td>
 <td>
 <audio id="last1" src="https://static.ordnet.dk/mp3/11029/11029847_1.mp3" style="display: none;"></audio>
@@ -16935,6 +16947,18 @@ search: true
 <td> - </td>
 <td> - </td>
 <td> toil, difficulty </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=m%C3%B8l"> et møl </a></td>
+<td>
+<audio id="møl" src="https://static.ordnet.dk/mp3/11035/11035020_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('møl');" style="cursor: pointer; color: blue;">[ˈmøl]</span>
+</td>
+<td> møllet </td>
+<td> møl </td>
+<td> møllene </td>
+<td> moth </td>
 <td> 1 </td>
 </tr>
 <tr>

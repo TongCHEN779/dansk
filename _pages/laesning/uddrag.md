@@ -88,4 +88,8 @@ Historien om kvinder på universitet er en påmindelse om, at adgang ikke er det
 <tr><td><span style="font-weight: normal">
 Det retsopgør, der fulgte efter besættelsen, er sammen med genetableringen af de relativt få ødelagte bygninger, rydningen af tyske hovedkvarterer og kontorer samt bortskaffelsen af våben og køregøjer, et forlængst afsluttet kapitel. Mens besættelsen stadig kan gøres nærværende gennem erindringsbøger, film, billeder og skriftlige arkivalier, ser man blot halvtreds år efter ikke mange levn fra besættelsen i det danske gadebillede og i den danske natur. På museer kan man opleve mange effekter fra dengang, men de er næsten altid revet ud af deres oprindelige sammenhæng og ligger fredeligt bag montrens glas, selv når det gælder genstande, der blev konstrueret med alt andet end fredelige hensigter.
 </span></td></tr>
+
+<tr><td><span style="font-weight: normal">
+Civilpraktik kan være en rigtig fin ordning i folkeskolen, hvor vi i formålet understreger, at eleverne skal lære noget om at være en del af et samfund med frihed og folkestyre, rettigheder og pligter, ligeværd og demokrati.
+</span></td></tr>
 </table>
