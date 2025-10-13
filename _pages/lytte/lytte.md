@@ -313,6 +313,17 @@ For flere og flere børn tager mødet med skolen en helt uventet drejning. De bl
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/30.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Skyggekrigen </h1>
+<span style="font-weight: normal">
+En hemmelig liste med navne på mistænkte russiske efterretningsofficerer sætter nordiske journalister i gang med at undersøge Putins spioner i Danmark, Norge og Sverige. Fundet af en mystisk militærradio ombord på en russisk fisketrawler i Nordnorge rejser spørgsmålet, om de russiske fisketrawlere, der anløber havne på Færøerne og i Norge, i virkeligheden også fungerer som spionskibe? Da Nord Stream springer i luften, indleder journalisterne jagten på sandheden om sprængningerne, der rystede hele verden. En hemmelig engelsk kilde, som de får kontakt til, ligger inde med nye informationer.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/saeson/skyggekrigen_382095">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/12.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Store danske kunstnere </h1>
