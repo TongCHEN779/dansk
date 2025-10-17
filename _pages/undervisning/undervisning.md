@@ -24,7 +24,7 @@ search: false
     }
 </style>
 
-(Alle tekster og billeder er kopieret [herfra](https://designmuseum.dk/), og den engelske version kan findes [her](https://tongchen779.github.io/dansk/files/design.pdf).)
+(Alle tekster og billeder er kopieret [herfra](https://designmuseum.dk/) med slides [her](https://tongchen779.github.io/dansk/files/hvad_hvis.pdf), og den engelske version kan findes [her](https://tongchen779.github.io/dansk/files/design.pdf).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/design/1.jpg"/></p></td>

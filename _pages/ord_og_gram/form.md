@@ -5,7 +5,7 @@ permalink: /ord_og_gram/form/
 search: false
 ---
 
-(Her kan du finde et [skema over morfemer](https://tongchen779.github.io/dansk/files/morfemer.pdf).)
+(Her kan du finde et [skema over morfemer](https://tongchen779.github.io/dansk/files/morfemer.pdf) og noget [sproghjælp](https://tongchen779.github.io/dansk/files/sproghjaelp.pdf).)
 
 <h1 id="adj" style="text-align: center;"> Adjektivernes former </h1>
 <style>
