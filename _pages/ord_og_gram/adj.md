@@ -1578,6 +1578,18 @@ search: true
 <td> final, definitive </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=enest%C3%A5ende"> enestående </a></td>
+<td>
+<audio id="enestående" src="https://static.ordnet.dk/mp3/11011/11011389_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('enestående');" style="cursor: pointer; color: blue;">[-ˌsdɔˀənə]</span>
+</td>
+<td> enestående </td>
+<td> enestående </td>
+<td> mere enestående </td>
+<td> mest enestående </td>
+<td> unique </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=engelsk"> engelsk </a></td>
 <td>
 <audio id="engelsk" src="https://static.ordnet.dk/mp3/11011/11011418_1.mp3" style="display: none;"></audio>

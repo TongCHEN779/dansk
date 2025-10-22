@@ -247,6 +247,17 @@ Elisabeth Perto vil fortsætte med at købe ind på Temu trods undersøgelse, de
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/65.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Enestående optagelser af krigspropaganda i russiske skoler blev til dansk dokumentar </h1>
+<span style="font-weight: normal">
+Han afslørede propagandaen i Ruslands skoler. Nu bliver filmen vist i DR.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/enestaaende-optagelser-af-krigspropaganda-i-russiske-skoler-blev-til-dansk-dokumentar">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/34.avif"/></p></td>
 <td style="vertical-align: top;">
 <h1> Et 'etisk minefelt': Enker og bedsteforældre får børn med afdøde mænds sæd </h1>
@@ -453,6 +464,17 @@ Tidligere kursister hos Natha Yoga Center fortæller om grænseoverskridende opl
 </span>
 </td>
 <td><a href="https://www.dr.dk/nyheder/indland/min-hjerne-siger-nej-nej-stop-stop-elever-paa-yogaskole-foelte-sig-presset-til">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/64.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Novos store hovedpine koster tusindvis af job og milliarder af kroner: I Tamikas køleskab ligger forklaringen </h1>
+<span style="font-weight: normal">
+Det anslås, at millioner af amerikanere har brugt kopi-vægttabsmedicin i USA. Det har kostet dyrt for Novo Nordisk.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/penge/novos-store-hovedpine-koster-tusindvis-af-job-og-milliarder-af-kroner-i-tamikas-koeleskab-ligger">link</a></td>
 </tr>
 
 <tr>

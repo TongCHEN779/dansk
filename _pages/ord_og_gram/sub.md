@@ -234,6 +234,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=afg%C3%B8relse"> en afgørelse </a></td>
+<td>
+<audio id="afgørelse" src="https://static.ordnet.dk/mp3/11000/11000441_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('afgørelse');" style="cursor: pointer; color: blue;">[-ˌgɶˀʌlsə]</span>
+</td>
+<td> afgørelsen </td>
+<td> afgørelser </td>
+<td> afgørelserne </td>
+<td> decision </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=afholdenhed"> en afholdenhed </a></td>
 <td>
 <audio id="afholdenhed" src="https://static.ordnet.dk/mp3/11000/11000454_1.mp3" style="display: none;"></audio>
@@ -12354,6 +12366,18 @@ search: true
 <td> A </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kapl%C3%B8b"> et kapløb </a></td>
+<td>
+<audio id="kapløb" src="https://static.ordnet.dk/mp3/11025/11025334_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kapløb');" style="cursor: pointer; color: blue;">[ˈkɑbˌløb]</span>
+</td>
+<td> kapløbet </td>
+<td> kapløb </td>
+<td> kapløbene </td>
+<td> race </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=kaptajn"> en kaptajn </a></td>
 <td>
 <audio id="kaptajn" src="https://static.ordnet.dk/mp3/11025/11025358_1.mp3" style="display: none;"></audio>
@@ -12915,6 +12939,18 @@ search: true
 <td> komedier </td>
 <td> komedierne </td>
 <td> comedy </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=komet"> en komet </a></td>
+<td>
+<audio id="komet" src="https://static.ordnet.dk/mp3/11027/11027012_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('komet');" style="cursor: pointer; color: blue;">[koˈmeˀd]</span>
+</td>
+<td> kometen </td>
+<td> kometer </td>
+<td> kometerne </td>
+<td> comet </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -20548,6 +20584,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=raket"> en raket </a></td>
+<td>
+<audio id="raket" src="https://static.ordnet.dk/mp3/11042/11042056_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('raket');" style="cursor: pointer; color: blue;">[ʁɑˈkεd]</span>
+</td>
+<td> raketten </td>
+<td> raketter </td>
+<td> raketterne </td>
+<td> rocket </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=ramme"> en ramme </a></td>
 <td>
 <audio id="ramme" src="https://static.ordnet.dk/mp3/11042/11042091_1.mp3" style="display: none;"></audio>
@@ -26462,6 +26510,18 @@ search: true
 <td> tapassene </td>
 <td> tapas </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tarm"> en tarm </a></td>
+<td>
+<audio id="tarm" src="https://static.ordnet.dk/mp3/12000/12000356_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tarm');" style="cursor: pointer; color: blue;">[ˈtɑˀm]</span>
+</td>
+<td> tarmen </td>
+<td> tarme </td>
+<td> tarmene </td>
+<td> intestine </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=taske"> en taske </a></td>
