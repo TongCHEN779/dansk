@@ -8070,6 +8070,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fusk"> et fusk </a></td>
+<td>
+<audio id="fusk" src="https://static.ordnet.dk/mp3/11016/11016516_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fusk');" style="cursor: pointer; color: blue;">[ˈfusg]</span>
+</td>
+<td> fusket </td>
+<td> - </td>
+<td> - </td>
+<td> cheating </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fyr"> en fyr </a></td>
 <td>
 <audio id="fyr" src="https://static.ordnet.dk/mp3/11016/11016564_1.mp3" style="display: none;"></audio>
@@ -22705,6 +22717,18 @@ search: true
 <td> situationer </td>
 <td> situationerne </td>
 <td> situation </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sjusk"> et sjusk </a></td>
+<td>
+<audio id="sjusk" src="https://static.ordnet.dk/mp3/11046/11046159_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('sjusk');" style="cursor: pointer; color: blue;">[ˈɕusg]</span>
+</td>
+<td> sjusket </td>
+<td> - </td>
+<td> - </td>
+<td> sloppiness </td>
 <td> 1 </td>
 </tr>
 <tr>
