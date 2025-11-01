@@ -115,6 +115,17 @@ De internationale klimaforhandlinger er ramt af, at USA og Kina på hver sin fro
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/66.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> ANALYSE Kina vinder handelskrigen med Trump </h1>
+<span style="font-weight: normal">
+Med sit monopol på sjældne jordarter har Kina krammet på både USA og Europa og bruger nu den magt til at få indrømmelser og indflydelse.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/analyse-kina-vinder-handelskrigen-med-trump">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/59.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Barsk virkelighed bag ny dansk film: 'Åndssvage' kvinder blev gemt væk på øde ø og steriliseret </h1>
