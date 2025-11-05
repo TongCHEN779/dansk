@@ -41,6 +41,46 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2025/09/Episode-96.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 96 - Dansk politik: venstrefløjen </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. For snart 4 år siden lavede jeg to episoder om de danske politiske partier. Siden er der sket mange ændringer i dansk politik, og da der snart er kommunalvalg, tænkte jeg at det var på tide med to opdaterede episoder om de danske politiske partier. I denne episode fortæller jeg om de danske partier på venstrefløjen, som har en plads i Folketinget nu, eller som er opstillingsberettigede ved næste folketingsvalg. Du kan finde teksten til denne episode på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, finde ordlister, downloade episoderne og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo.
+<br><br>
+Danmark er et parlamentarisk demokrati. Den lovgivende magt er placeret i det danske parlament, som vi kalder Folketinget. Nogle ting bliver dog besluttet i Danmarks regioner og kommuner. Det har jeg bl.a. fortalt lidt om i episode 95 af podcasten.
+<br><br>
+I Folketinget sidder 179 folkevalgte politikere. De repræsenterer 16 forskellige partier; Socialdemokratiet, Venstre, Danmarksdemokraterne, Socialistisk Folkeparti, Liberal Alliance, Moderaterne, Det Konservative Folkeparti, Enhedslisten, Dansk Folkeparti, Radikale Venstre, Alternativet, Borgernes Parti, samt to grønlandske partier og to færøske partier. Desuden er der en håndfuld folkevalgte politikere, der ikke repræsenterer et parti. Det er ikke så mange lande i verden, der har et politisk system som Danmarks, hvor man har så mange partier at vælge imellem. Derfor kan det også virke lidt uoverskueligt for nye vælgere, at finde ud af hvem man vil stemme på. Til gengæld er der måske større chance for at finde et parti, man er enig med, når der er så mange forskellige.
+<br><br>
+Når man taler om partier og politik i Danmark, så snakker man ofte om blå og røde partier. De blå partier er de højreorienterede, mere liberale partier. De røde partier er de venstreorienterede og mere socialistiske partier. I denne episode vil jeg fortælle om de røde og venstreorienterede partier. I næste episode vil jeg fortælle om de blå, højreorienterede partier. Partiet Moderaterne placerer sig selv lige i midten af alle partierne, og hører derfor ikke til på den ene eller den anden fløj. Men jeg har valgt at fortælle om Moderaterne i denne episode.
+<br><br>
+Regeringen består af Socialdemokratiet, Moderaterne og Venstre. Socialdemokratiet har 50 af de 179 pladser i Folketinget. Formanden er Mette Frederiksen, og hun er også Danmarks statsminister. Denne regering har vi haft siden december 2022. I episode 42 af podcasten, fortæller jeg om Mette Frederiksen.
+<br><br>
+Socialdemokratiet er et af Danmarks ældste partier, og blev dannet i år 1871. Socialdemokratiet har siddet i Folketinget siden år 1884 og lige nu er det Danmarks største parti. Socialdemokratiets vigtigste mærkesag er velfærdsstaten. De mener at vi skal udvide og bruge flere penge på det danske velfærdssystem. En af deres vigtigste sager de sidste par år, har været at afsætte flere penge til børn og ældre. De ønsker at frigøre mere tid til kerneopgaverne, ved at fjerne krav til dokumentation og styring. Desuden ønsker de at få flere til at uddanne sig til plejefag og pædagog. Socialdemokratiet mener, at velfærden er blevet for centraliseret omkring storbyerne, og ønsker at skabe flere daginstitutioner, skoler, uddannelsesmuligheder, politienheder og lægehuse i de mindre byer og på landet. Socialdemokratiet er positivt indstillet over for et stærkt EU-samarbejde. Desuden arbejder Socialdemokratiet for den grønne omstilling. De ønsker at reducere Danmarks CO2-udledning med 70% inden år 2030, samt beskytte det danske grundvand, så man fortsat kan drikke vand fra vandhanen.
+<br><br>
+Radikale Venstre er et socialliberalt parti, der er placeret i midten af det politiske spektrum. Historisk set har de både støttet blå og røde regeringer, men de seneste år har de dog kun støttet røde regeringer. Deres leder er Martin Lidegaard og partiet har 6 pladser i Folketinget. Partiet blev stiftet i år 1905, og er altså det 4. ældste parti i Folketinget. Radikale Venstre har haft statsministerposten tre gange. Deres mærkesager er især miljø og klima, samt en mildere flygtningepolitik. Desuden er partiet meget EU-positive og generelt meget globalt indstillede.
+<br><br>
+Socialistisk Folkeparti kaldes som regel bare ”SF”. Partiets formand er Pia Olsen Dyhr, og de har 15 pladser i Folketinget. Partiet blev dannet i år 1959. Nogle af partiets vigtigste mærkesager de sidste par år har været ligestilling blandt mænd og kvinder i forhold til barsel, mere personale i vuggestuer og børnehaver, samt mere fokus på klima og den grønne omstilling. SF har oplevet stor vækst de sidste par år, og faktisk blev de Danmarks største parti ved Europaparlamentsvalget i år 2024. Partiet er positivt indstillet overfor EU. SF har siddet i regering en enkelt gang i 2011-2014 sammen med Socialdemokratiet og Radikale Venstre, men har ellers fungeret som støtteparti til røde regeringer eller oppositionsparti til blå regeringer. SF er mere røde end Socialdemokratiet.
+<br><br>
+Enhedslisten er det mest venstreorienterede parti i Folketinget. Partiet blev stiftet i år 1991. Som det eneste parti i Folketinget, har de ikke en formand eller en leder, da partiet styres af en kollektiv ledelse. I stedet vælger Enhedslisten en politisk ordfører. Pelle Dragsted er lige nu partiets politiske ordfører. Enhedslisten blev valgt ind i Folketinget for første gang i år 1994. Lige nu har de 9 pladser i Folketinget. Enhedslisten er mere skeptisk over for EU, fordi de mener at EU ikke arbejder nok for klima, miljø, sundhed og velfærd. Enhedslisten ønsker mindre ulighed i Danmark, og vil bl.a. opnå det med skattelettelser for dem med de laveste indkomster, men med højere beskatning af store formuer, aktier, arv og boligspekulation. De ønsker at gøre Danmark klimaneutrale i år 2040, udvide den offentlige transport og stoppe salget af fossilbiler.
+<br><br>
+Alternativet er det nyeste venstrefløjsparti i Folketinget. Partiet blev først stiftet i år 2013. Alternativets partileder er Franciska Rosenkilde. Partiet har 6 pladser i Folketinget. Deres vigtigste mærkesager er klima, miljø og bedre dyrevelfærd for produktionsdyr. De har en lang række forslag til hvordan de vil opnå deres mål, bl.a. ved at indføre en høj CO2-afgift, mindre moms på økologisk frugt og grønt, og reducere den danske kødproduktion med 86%, så vi kun producerer det kød vi selv spiser. Alternativet er positivt indstillet overfor EU.
+<br><br>
+Moderaterne er et af de tre regeringspartier og har 12 pladser i Folketinget. Partiet blev stiftet i år 2022 af tidligere statsminister for Venstre, Lars Løkke Rasmussen. Han var Danmarks statsminister i år 2009-2011 og år 2015-2019. Et stort valgnederlag i år 2019 og interne uenigheder ledte til at Lars Løkke Rasmussen først trak sig som Venstres formand, og siden meldte sig helt ud af partiet. I stedet stiftede han så Moderaterne, som han stadig er leder af. Deres grundlæggende ønske er mere samarbejde henover den politiske midte, så partierne på den yderste højrefløj og venstrefløj får mindre indflydelse. Partiet er meget globalt indstillede og ønsker godt samarbejde med EU. De ønsker et velfungerende velfærdssamfund med et åbent og frit marked og et stærkt erhvervsliv.
+<br><br>
+Generelt kan man sige om disse partier, at jo mere venstreorienterede de er, jo mildere er deres udlændinge- og integrationspolitik. Men hvor udlændinge- og integrationspolitik var et meget vigtigt emne for 5-10 år siden, så er der faktisk flere af partierne, der slet ikke beskriver deres holdning til udlændinge på deres hjemmeside i dag.
+<br><br>
+Der er også 5 medlemmer af Folketinget, der ikke er medlem af et parti. De er alle blevet valgt ind i Folketinget for et parti, men er siden da blevet uenige med partiet og har meldt sig ud. Når man er valgt til Folketinget, så tilhører ens mandat personen, og ikke partiet. Derfor er de stadig medlem af Folketinget, selvom de ikke er medlem af et parti længere.
+<br><br>
+Det var alt for denne episode! Jeg håber at episoden har gjort dig klogere på dansk politik og de forskellige danske partier på venstrefløjen. Alle partierne har en hjemmeside, hvor du kan læse mere om deres politik. Tak fordi du lyttede med.
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2025/09/Episode-95.wav"></audio> </td>
 <td> 
 <details>

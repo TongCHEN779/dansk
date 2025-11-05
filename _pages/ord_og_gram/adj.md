@@ -6150,6 +6150,18 @@ search: true
 <td> evil </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ondsindet"> ondsindet </a></td>
+<td>
+<audio id="ondsindet" src="https://static.ordnet.dk/mp3/11037/11037289_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ondsindet');" style="cursor: pointer; color: blue;">[ˈɔnˌsenˀəð]</span>
+</td>
+<td> ondsindet </td>
+<td> ondsindede </td>
+<td> mere ondsindet </td>
+<td> mest ondsindet </td>
+<td> malicious </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=opadvendt"> opadvendt </a></td>
 <td>
 <audio id="opadvendt" src="https://static.ordnet.dk/mp3/11037/11037317_1.mp3" style="display: none;"></audio>
@@ -9676,6 +9688,18 @@ search: true
 <td> mere uforudsigelig </td>
 <td> mest uforudsigelig </td>
 <td> unpredictable </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=ugudelig"> ugudelig </a></td>
+<td>
+<audio id="ugudelig" src="https://static.ordnet.dk/mp3/12004/12004480_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('ugudelig');" style="cursor: pointer; color: blue;">[uˈguˀðəli]</span>
+</td>
+<td> ugudeligt </td>
+<td> ugudelige </td>
+<td> mere ugudelig </td>
+<td> mest ugudelig </td>
+<td> ungodly </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=uhyggelig"> uhyggelig </a></td>

@@ -4493,6 +4493,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=dj%C3%A6vel"> en djævel </a></td>
+<td>
+<audio id="djævel" src="https://static.ordnet.dk/mp3/11009/11009326_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('djævel');" style="cursor: pointer; color: blue;">[ˈdjεːvəl]</span>
+</td>
+<td> djævlen </td>
+<td> djævle </td>
+<td> djævlene </td>
+<td> devil </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=dobbeltmoral"> en dobbeltmoral </a></td>
 <td>
 <audio id="dobbeltmoral" src="https://static.ordnet.dk/mp3/11009/11009381_1.mp3" style="display: none;"></audio>
@@ -7986,6 +7998,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fryd"> en fryd </a></td>
+<td>
+<audio id="fryd" src="https://static.ordnet.dk/mp3/11016/11016280_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fryd');" style="cursor: pointer; color: blue;">[ˈfʁyðˀ]</span>
+</td>
+<td> fryden </td>
+<td> - </td>
+<td> - </td>
+<td> delight </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=frygt"> en frygt </a></td>
 <td>
 <audio id="frygt" src="https://static.ordnet.dk/mp3/11016/11016285_1.mp3" style="display: none;"></audio>
@@ -9711,6 +9735,30 @@ search: true
 <td> hejrer </td>
 <td> hejrerne </td>
 <td> heron </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=heks"> en heks </a></td>
+<td>
+<audio id="heks" src="https://static.ordnet.dk/mp3/11020/11020217_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('heks');" style="cursor: pointer; color: blue;">[ˈhεgs]</span>
+</td>
+<td> heksen </td>
+<td> hekse </td>
+<td> heksene </td>
+<td> witch </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=hekseri"> et hekseri </a></td>
+<td>
+<audio id="hekseri" src="https://static.ordnet.dk/mp3/11020/11020233_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('hekseri');" style="cursor: pointer; color: blue;">[hεgsʌˈʁiˀ]</span>
+</td>
+<td> hekseriet </td>
+<td> hekserier </td>
+<td> hekserierne </td>
+<td> witchcraft </td>
 <td> 1 </td>
 </tr>
 <tr>
@@ -23524,6 +23572,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A6ldsord"> et skældsord </a></td>
+<td>
+<audio id="skældsord" src="https://static.ordnet.dk/mp3/11047/11047365_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skældsord');" style="cursor: pointer; color: blue;">[ˈsgεlˀs-]</span>
+</td>
+<td> skældsordet </td>
+<td> skældsord </td>
+<td> skældsordene </td>
+<td> abusive word/term of abuse </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sk%C3%A6ldud"> en skældud </a></td>
 <td>
 <audio id="skældud" src="https://static.ordnet.dk/mp3/11047/11047366_1.mp3" style="display: none;"></audio>
@@ -23930,6 +23990,18 @@ search: true
 <td> slørene </td>
 <td> veil </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=smerte"> en smerte </a></td>
+<td>
+<audio id="smerte" src="https://static.ordnet.dk/mp3/11047/11047986_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('smerte');" style="cursor: pointer; color: blue;">[ˈsmæɐ̯də]</span>
+</td>
+<td> smerten </td>
+<td> smerter </td>
+<td> smerterne </td>
+<td> pain </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=smitte"> en smitte </a></td>
@@ -26956,6 +27028,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tilbeder"> en tilbeder </a></td>
+<td>
+<audio id="tilbeder" src="https://static.ordnet.dk/mp3/12001/12001065_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tilbeder');" style="cursor: pointer; color: blue;">[-ˌbeˀðʌ]</span>
+</td>
+<td> tilbederen </td>
+<td> tilbedere </td>
+<td> tilbederne </td>
+<td> worshipper </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=tilblivelse"> en tilblivelse </a></td>
 <td>
 <audio id="tilblivelse" src="https://static.ordnet.dk/mp3/12001/12001071_1.mp3" style="display: none;"></audio>
@@ -27362,6 +27446,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tortur"> en tortur </a></td>
+<td>
+<audio id="tortur" src="https://static.ordnet.dk/mp3/12001/12001891_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tortur');" style="cursor: pointer; color: blue;">[tɒˈtuɐ̯ˀ]</span>
+</td>
+<td> torturen </td>
+<td> torturer </td>
+<td> torturerne </td>
+<td> torture </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=torv"> et torv </a></td>
 <td>
 <audio id="torv" src="https://static.ordnet.dk/mp3/12001/12001896_1.mp3" style="display: none;"></audio>
@@ -27564,6 +27660,18 @@ search: true
 <td> - </td>
 <td> well-being </td>
 <td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=trold"> en trold </a></td>
+<td>
+<audio id="trold" src="https://static.ordnet.dk/mp3/12002/12002441_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('trold');" style="cursor: pointer; color: blue;">[ˈtʁʌlˀ]</span>
+</td>
+<td> trolden </td>
+<td> trolde </td>
+<td> troldene </td>
+<td> troll </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=trolddom"> trolddom </a></td>

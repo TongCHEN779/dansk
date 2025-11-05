@@ -126,6 +126,17 @@ Hvordan har N.F.S. Grundtvig præget danskernes hverdag? Og hvordan bliver hans 
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/31.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Heksejagt </h1>
+<span style="font-weight: normal">
+Tortur, angiveri og mennesker, der bliver brændt på bålet. I en kort, brutal periode er det hverdag i Danmark. Her ender næsten tusind danskere i flammerne - dømt og henrettet for hekseri. Tag med historiker Emma Paaske til 1600-tallets mørke, hvor frygten og troen på sort magi får fatale konsekvenser. Bl.a. for den kloge kone Bodil fra Djursland, der med ét er blevet en samfundsfjende.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/serie/heksejagt_549763">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/7.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hurra for det danske frisind </h1>

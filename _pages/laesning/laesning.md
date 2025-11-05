@@ -71,6 +71,17 @@ OBS: Vi advarer mod flere meget voldsomme beskrivelser i denne artikel.
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/67.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> 90 år efter sin død får kvindelig Skagensmaler sit internationale gennembrud </h1>
+<span style="font-weight: normal">
+Selvom Anna Ancher i dag regnes blandt Danmarks mest anerkendte billedkunstnere, har den internationale opmærksomhed ladet vente på sig. Nu har briterne fået øje på hende.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/kultur/90-aar-efter-sin-doed-faar-kvindelig-skagensmaler-sit-internationale-gennembrud">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/22.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> AI-skabt overgrebsmateriale skal kunne hjælpe politiet ind i lukkede netværk, men professor ser 'reel risiko' ved forslag </h1>
@@ -291,6 +302,17 @@ Danmark har nu fået en ny lov, der blandt andet gør det ulovligt at afbrænde 
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/69.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> For 400 år siden brændte man hekse på bålet: Vi er ikke meget anderledes i dag, siger Rane Willerslev </h1>
+<span style="font-weight: normal">
+Der ikke så langt fra 1600-tallet til 2025. Hverken når det gælder magi, magtspil eller misinformation, mener Nationalmussets direktør.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/kultur/historie/400-aar-siden-braendte-man-hekse-paa-baalet-vi-er-ikke-meget-anderledes-i-dag-siger-rane-willerslev">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/24.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Forbrugerrådet Tænk købte 38 produkter på Temu og dumpede 30 af dem </h1>
@@ -354,6 +376,17 @@ I denne uge er det 75 år siden, at USA kastede to atombomber over Japan.
 </span>
 </td>
 <td><a href="https://www.dr.dk/nyheder/kultur/historie/hvad-nu-hvis-hiroshima-og-nagasaki-ikke-var-blevet-bombet-en-atombombe-over">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/68.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Hvordan genopstod Japan efter atombomberne? Svaret findes både i Godzilla og en mirakel-økonomi </h1>
+<span style="font-weight: normal">
+Atombomberne i Hiroshima og Nagasaki har sat sig i det japanske samfund på flere måder. Her er fem af dem.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/kultur/historie/hvordan-genopstod-japan-efter-atombomberne-svaret-findes-baade-i-godzilla-og">link</a></td>
 </tr>
 
 <tr>

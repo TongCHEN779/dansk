@@ -3474,6 +3474,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=d%C3%B8be"> at døbe </a></td>
+<td>
+<audio id="døbe" src="https://static.ordnet.dk/mp3/11010/11010240_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('døbe');" style="cursor: pointer; color: blue;">[ˈdøːbə]</span>
+</td>
+<td> døber </td>
+<td> døbte </td>
+<td> har døbt </td>
+<td> døb </td>
+<td> to baptize </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=døje"> at døje </a></td>
 <td>
 <audio id="døje" src="https://static.ordnet.dk/mp3/11010/11010360_1.mp3" style="display: none;"></audio>
@@ -3576,6 +3589,19 @@ search: true
 <td> eftersæt </td>
 <td> to inspect </td>
 <td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=efterspørge"> at efterspørge </a></td>
+<td>
+<audio id="efterspørge" src="https://static.ordnet.dk/mp3/11010/11010623_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('efterspørge');" style="cursor: pointer; color: blue;">[ˈεfdʌˌsbɶɐ̯ˀwə]</span>
+</td>
+<td> efterspørger </td>
+<td> efterspurgte </td>
+<td> har efterspurgt </td>
+<td> efterspørg </td>
+<td> to demand, request </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=eftersætte"> at eftersætte </a></td>
@@ -5083,6 +5109,19 @@ search: true
 <td> forslå </td>
 <td> to suggest </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forsm%C3%A5"> at forsmå </a></td>
+<td>
+<audio id="forsmå" src="https://static.ordnet.dk/mp3/11015/11015149_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forsmå');" style="cursor: pointer; color: blue;">[fʌˈsmɔˀ]</span>
+</td>
+<td> forsmår </td>
+<td> forsmåede </td>
+<td> har forsmået </td>
+<td> forsmå </td>
+<td> to disdain, reject </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forstemme"> at forstemme </a></td>
@@ -10062,6 +10101,19 @@ search: true
 <td> nedriv </td>
 <td> to demolish </td>
 <td> 3 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=nedruste"> at nedruste </a></td>
+<td>
+<audio id="nedruste" src="https://static.ordnet.dk/mp3/11035/11035720_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('nedruste');" style="cursor: pointer; color: blue;">[-ˌʁusdə]</span>
+</td>
+<td> nedruster </td>
+<td> nedrustede </td>
+<td> har nedrustet </td>
+<td> nedrust </td>
+<td> to disarm </td>
+<td> 1 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=nedskalere"> at nedskalere </a></td>
@@ -15132,6 +15184,19 @@ search: true
 <td> sved </td>
 <td> to sweat </td>
 <td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=svide"> at svide </a></td>
+<td>
+<audio id="svide" src="https://static.ordnet.dk/mp3/11051/11051680_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('svide');" style="cursor: pointer; color: blue;">[ˈsviːðə]</span>
+</td>
+<td> svider </td>
+<td> sved </td>
+<td> har svedet </td>
+<td> svid </td>
+<td> to scorch </td>
+<td> 3 </td>
 </tr>
 <tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=svige"> at svige </a></td>

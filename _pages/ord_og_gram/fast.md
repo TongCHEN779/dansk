@@ -101,6 +101,11 @@ search: true
 <td> Det kan ikke betale sig at bygge i dagens Danmark. Byggeomkostningerne er høje, fordi arbejdsløn og materialer er dyre. </td>
 </tr>
 <tr>
+<td> bide i græsset </td>
+<td> give up </td>
+<td> Leonora Christina kunne ikke overvindes. Det var umuligt at få hende til at bide i græsset. Altid kom hun på benene igen. </td>
+</tr>
+<tr>
 <td> bide på krogen </td>
 <td> take the bait </td>
 <td> Skallen bliver straks smidt ned i en vandspand til de andre, der har bidt på krogen. </td>
