@@ -50,15 +50,15 @@ undervisning:
         url: /undervisning/arbejdermuseet/
       - title: "Danmarkshistorien"
         url: /undervisning/danmarkshistorien/
-      - title: "Det Kommer (modul 3)"
-        url: /undervisning/det_kommer/
-      - title: "Det Rykker (modul 4)"
-        url: /undervisning/det_rykker/
       - title: "Folketinget"
         url: /undervisning/folketinget/
       - title: "Frihedsmuseet & STORM"
         url: /undervisning/frihedsmuseet/
-      - title: "Højt til Loftet (modul 5)"
+      - title: "Modul 3: Det Kommer"
+        url: /undervisning/det_kommer/
+      - title: "Modul 4: Det Rykker"
+        url: /undervisning/det_rykker/
+      - title: "Modul 5: Højt til Loftet"
         url: /undervisning/hoejt_til_loftet/
       - title: "Museum Vestsjælland"
         url: /undervisning/vest/
