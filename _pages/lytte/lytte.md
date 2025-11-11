@@ -82,6 +82,17 @@ Fire mænd og seks kvinder er klar til at dyste på sprøde bunde og bløde crem
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/32.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Doggystyle </h1>
+<span style="font-weight: normal">
+Asta og Jose skal på interrail, men Jose får rejseangst og snaver med Fnuggie. Jose er tryg hos Fnuggie, og måske endda forelsket. Ida flytter hjemmefra, og Asta henter sine ting hos Bjarke. Et kram er nok til, at Asta fortryder, for hun elsker Bjarke, og skal hun så virkelig give slip? Rejsen hænger i en tynd tråd, men Asta og Jose tager afsted. Jose med rygsækken fuld af forelskelse og Asta med hjertet delt i to.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/saeson/doggystyle_351795">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/9.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Forsvundne arvinger Special - Mysteriet om slaveskibene </h1>
