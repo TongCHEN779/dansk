@@ -137,6 +137,17 @@ Hvordan har N.F.S. Grundtvig præget danskernes hverdag? Og hvordan bliver hans 
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/33.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Guddommelig Sex </h1>
+<span style="font-weight: normal">
+Sex og religion. Mange vil nok mene, at det er to uforenelige størrelser. Men religionerne har til alle tider haft holdninger til sex. På Trudsholm Gods har DR K samlet den seksuelt uerfarne muslimske kvinde, det indre missionske par, katolikkerne, den kristne kvindebedårer og det spirituelle par, der dyrker tantrasex til en snak om, hvad netop deres religion betyder for deres sexliv. Præster og religionseksperter giver også deres bud på, hvad religionerne betyder for sexlivet, og om det ligefrem er lettere for religiøse at opnå guddommelig sex.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/serie/guddommelig-sex_168410">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/31.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Heksejagt </h1>
@@ -321,6 +332,28 @@ Mange af de mest banebrydende kunstværker er blevet til fordi flere kunstnere p
 </span>
 </td>
 <td><a href="https://www.dr.dk/drtv/serie/rebeller-i-dansk-kunsthistorie_186058">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/35.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Sex med Maja </h1>
+<span style="font-weight: normal">
+Mange kvinder, der oplever at blive voldtaget, føler skyld bagefter. Det har den unge kunstner Maja Malou Lyse selv oplevet. I dag tænker hun anderledes og har rystet al skyld af sig. Via sin kunst vil hun inspirere til, at kvinder kan være lige præcist så udfordrende og frie, som de har lyst til, uden at skulle føle skyld. Hun vil via sin kunst fjerne fordomme, udfordre normer og gøre det helt acceptabelt at være lige præcis det seksuelle væsen, hun har lyst til, uden at blive udsat for kritik. Kom med ind i Majas seksuelle univers.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/episode/sex-med-maja_129851">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/34.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> SEX MED P3 </h1>
+<span style="font-weight: normal">
+Sådan tager du et nøgenbillede, du bliver glad for - og sådan passer du på dem digitalt. Mød Noor, der har fået stjålet og delt sine nøgenbilleder. Lær også, hvornår du må sende nøgenbilleder, og hvornår du skal slette dem.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/serie/sex-med-p3_338758">link</a></td>
 </tr>
 
 <tr>
