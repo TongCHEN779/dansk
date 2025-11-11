@@ -709,7 +709,7 @@ Grøn trepart vil rejse masser af ny skov i Danmark. Men det er ikke lige meget,
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/70.webp"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/70.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Slut med dum sæd: Dansk sædbank har minimumskrav til donorers IQ </h1>
 <span style="font-weight: normal">
