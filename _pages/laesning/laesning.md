@@ -181,6 +181,17 @@ Virksomheder som Microsoft og Google har svært ved at nå deres klimamål på g
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/71.jpg"/></p></td>
+<td style="vertical-align: top;">
+<h1> 'Danmark har i generationer været et seksuelt smørhul': Myte om unges manglende sexlyst aflives </h1>
+<span style="font-weight: normal">
+Den seksuelle debutalder har ifølge Sex og Samfunds undersøgelser ikke rykket sig synderligt siden 1970'erne.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/indland/ny-undersoegelse-afliver-myte-unge-i-danmark-har-ikke-mindre-sex-end-tidligere">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/20.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> Danmark tager første skridt mod at involvere sig i stormagters konflikt på den anden side af Jorden </h1>
@@ -695,6 +706,17 @@ Grøn trepart vil rejse masser af ny skov i Danmark. Men det er ikke lige meget,
 </span>
 </td>
 <td><a href="https://www.dr.dk/nyheder/viden/klima/se-kortet-her-kan-danmarks-nye-skove-ligge">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/70.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Slut med dum sæd: Dansk sædbank har minimumskrav til donorers IQ </h1>
+<span style="font-weight: normal">
+Lektor i medicinsk etik frygter, at mere screening kan give kommende forældre en falsk forsikring om, hvad man kan forvente sig af sit barn.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/kultur/slut-med-dum-saed-dansk-saedbank-har-minimumskrav-til-donorers-iq">link</a></td>
 </tr>
 
 <tr>
