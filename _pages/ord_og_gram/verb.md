@@ -2317,6 +2317,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=be%C3%A6re"> at beære </a></td>
+<td>
+<audio id="beære" src="https://static.ordnet.dk/mp3/11004/11004543_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('beære');" style="cursor: pointer; color: blue;">[beˈεˀʌ]</span>
+</td>
+<td> beærer </td>
+<td> beærede </td>
+<td> har beæret </td>
+<td> beær </td>
+<td> to honor </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=bide"> at bide </a></td>
 <td>
 <audio id="bide" src="https://static.ordnet.dk/mp3/11004/11004589_1.mp3" style="display: none;"></audio>
