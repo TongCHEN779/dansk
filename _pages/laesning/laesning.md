@@ -742,6 +742,17 @@ Flere soldater har brug for hjælp, fordi de har overværet voldsomme oplevelser
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/72.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Som den eneste arktiske nation har Danmark ikke egne satellitter - og det kan gøre os sårbare </h1>
+<span style="font-weight: normal">
+Med en ny rapport i hånden anbefaler ekspert, at Danmark får egne satellitter.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/indland/som-den-eneste-arktiske-nation-har-danmark-ikke-egne-satellitter-og-det-kan-goere-os-saarbare">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/52.avif"/></p></td>
 <td style="vertical-align: top;">
 <h1> Strækmarch 'for fred' i Beijing, når Xis militærparade skal gøre Trumps til skamme </h1>
@@ -772,6 +783,17 @@ Fiskefrikadellerne er blevet tilbagekaldt, men der er meget lille risiko for at 
 </span>
 </td>
 <td><a href="https://www.dr.dk/nyheder/indland/syv-syge-og-en-doed-af-danske-fiskefrikadeller">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/73.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Trods bekymring: Bornholm, Lolland og Vestsjælland er flot repræsenteret i ny megaregion </h1>
+<span style="font-weight: normal">
+Det har været vigtigt for vælgerne i yderområderne af den nye Region Østdanmark at få lokale kandidater ind i den nye region. Det viser de personlige stemmetal.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/politik/kommunalvalg/trods-bekymring-bornholm-lolland-og-vestsjaelland-er-flot-repraesenteret-i-ny-megaregion">link</a></td>
 </tr>
 
 <tr>

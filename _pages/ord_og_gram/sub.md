@@ -7134,6 +7134,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=forlig"> et forlig </a></td>
+<td>
+<audio id="forlig" src="https://static.ordnet.dk/mp3/11014/11014732_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('forlig');" style="cursor: pointer; color: blue;">[fʌˈliˀ]</span>
+</td>
+<td> forliget </td>
+<td> forlig </td>
+<td> forligene </td>
+<td> settlement, compromise </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=forlygte"> en forlygte </a></td>
 <td>
 <audio id="forlygte" src="https://static.ordnet.dk/mp3/11014/11014753_1.mp3" style="display: none;"></audio>

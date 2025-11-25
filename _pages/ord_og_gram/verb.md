@@ -1030,6 +1030,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=anskaffe"> at anskaffe </a></td>
+<td>
+<audio id="anskaffe" src="https://static.ordnet.dk/mp3/11001/11001954_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('anskaffe');" style="cursor: pointer; color: blue;">[ˈanˌsgɑfə]</span>
+</td>
+<td> anskaffer </td>
+<td> anskaffede </td>
+<td> har anskaffet </td>
+<td> anskaf </td>
+<td> to acquire, obtain </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=anspænde"> at anspænde </a></td>
 <td>
 <audio id="anspænde" src="https://static.ordnet.dk/mp3/11001/11001968_1.mp3" style="display: none;"></audio>
