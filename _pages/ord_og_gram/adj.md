@@ -3126,6 +3126,18 @@ search: true
 <td> boundless </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gr%C3%A6nseoverskridende"> grænseoverskridende </a></td>
+<td>
+<audio id="grænseoverskridende" src="https://static.ordnet.dk/mp3/11018/11018901_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('grænseoverskridende');" style="cursor: pointer; color: blue;">[-ˌɒwʌˌsgʁiðˀənə]</span>
+</td>
+<td> grænseoverskridende </td>
+<td> grænseoverskridende </td>
+<td> mere grænseoverskridende </td>
+<td> mest grænseoverskridende </td>
+<td> cross-border </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gr%C3%B8n"> grøn </a></td>
 <td>
 <audio id="grøn" src="https://static.ordnet.dk/mp3/11018/11018958_1.mp3" style="display: none;"></audio>
