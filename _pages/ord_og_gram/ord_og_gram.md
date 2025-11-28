@@ -270,7 +270,7 @@ search: false
     }
 </style>
 
-(Her kan du finde en pdf-fil af en [undervisningsvejledning](https://tongchen779.github.io/dansk/files/dansk_udtale.pdf) til dansk udtale, og [stavning lydfølgeregler](https://tongchen779.github.io/dansk/files/lydfoelgeregler.pdf).)
+(Her kan du finde en pdf-fil af en [undervisningsvejledning](https://tongchen779.github.io/dansk/files/dansk_udtale.pdf) til dansk udtale, [stavning lydfølgeregler](https://tongchen779.github.io/dansk/files/lydfoelgeregler.pdf), og latinske bogstaver i [Fraktur](https://tongchen779.github.io/dansk/files/fraktur.pdf)-skrifttype.)
 <br><br>
 
 <h1 style="text-align: center;"> Dansk Alfabet </h1>
