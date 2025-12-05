@@ -20524,6 +20524,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=p%C3%A5fugl"> en påfugl </a></td>
+<td>
+<audio id="påfugl" src="https://static.ordnet.dk/mp3/11041/11041763_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('påfugl');" style="cursor: pointer; color: blue;">[ˈpʌˌfuˀl]</span>
+</td>
+<td> påfuglen </td>
+<td> påfugle </td>
+<td> påfuglene </td>
+<td> peacock </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=påklædning"> påklædning </a></td>
 <td>
 <audio id="påklædning" src="https://static.ordnet.dk/mp3/11041/11041792_1.mp3" style="display: none;"></audio>
