@@ -322,9 +322,9 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 <tr>
 <td>2020 vinter</td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202011_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202011_mdt_censor.pdf">mundt-censor</a></td>
-<td>læse1-tekst, <a href="https://tongchen779.github.io/dansk/files/pd3/202011_laes2_tekst.pdf">læse2-tekst</a></td>
-<td>læse1-opg, <a href="https://tongchen779.github.io/dansk/files/pd3/202011_laes2_opgave.pdf">læse2-opg</a></td>
-<td>skriftlig</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202011_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202011_laes2_tekst.pdf">læse2-tekst</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202011_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202011_laes2_opgave.pdf">læse2-opg</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202011_skr.pdf">skriftlig</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202011_ret.pdf">rettenøgler</a></td>
 </tr>
 
@@ -375,7 +375,7 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 
 <tr>
 <td>2023 vinter</td>
-<td>mundtlig, mundt-censor</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202311_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202311_mdt_censor.pdf">mundt-censor</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202311_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202311_laes2_tekst.pdf">læse2-tekst</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202311_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202311_laes2_opgave.pdf">læse2-opg</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202311_skr.pdf">skriftlig</a></td>
@@ -384,11 +384,11 @@ Her kan du finde pdf-filer af "At Skrive" ([skriveguiden](https://tongchen779.gi
 
 <tr>
 <td>2024 sommer</td>
-<td>mundtlig, mundt-censor</td>
-<td>læse1-tekst, læse2-tekst</td>
-<td>læse1-opg, læse2-opg</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202405_mdt.pdf">mundtlig</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202405_mdt_censor.pdf">mundt-censor</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202405_laes1_tekst.pdf">læse1-tekst</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202405_laes2_tekst.pdf">læse2-tekst</a></td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202405_laes1_opgave.pdf">læse1-opg</a>, <a href="https://tongchen779.github.io/dansk/files/pd3/202405_laes2_opgave.pdf">læse2-opg</a></td>
 <td><a href="https://tongchen779.github.io/dansk/files/pd3/202405_skr.pdf">skriftlig</a></td>
-<td>rettenøgler</td>
+<td><a href="https://tongchen779.github.io/dansk/files/pd3/202405_ret.pdf">rettenøgler</a></td>
 </tr>
 
 <tr>
