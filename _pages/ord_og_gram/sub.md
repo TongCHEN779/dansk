@@ -8154,6 +8154,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=fyrv%C3%A6rkeri"> et fyrværkeri </a></td>
+<td>
+<audio id="fyrværkeri" src="https://static.ordnet.dk/mp3/11016/11016600_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('fyrværkeri');" style="cursor: pointer; color: blue;">[fyɐ̯væɐ̯gʌˈʁiˀ]</span>
+</td>
+<td> fyrværkeriet </td>
+<td> fyrværkerier </td>
+<td> fyrværkerierne </td>
+<td> fireworks </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=fysioterapeut"> en fysioterapeut </a></td>
 <td>
 <audio id="fysioterapeut" src="https://static.ordnet.dk/mp3/11016/11016610_1.mp3" style="display: none;"></audio>
