@@ -9558,6 +9558,18 @@ search: true
 <td> exposed </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=udsigtsløs"> udsigtsløs </a></td>
+<td>
+<audio id="udsigtsløs" src="https://static.ordnet.dk/mp3/12004/12004093_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('udsigtsløs');" style="cursor: pointer; color: blue;">[ˈuðsegds-]</span>
+</td>
+<td> udsigtsløst </td>
+<td> udsigtsløse </td>
+<td> mere udsigtsløs </td>
+<td> mest udsigtsløs </td>
+<td> hopeless </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=udsolgt"> udsolgt </a></td>
 <td>
 <audio id="udsolgt" src="https://static.ordnet.dk/mp3/12004/12004149_1.mp3" style="display: none;"></audio>

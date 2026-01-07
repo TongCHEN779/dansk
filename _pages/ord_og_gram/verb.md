@@ -1888,6 +1888,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=besigtige"> at besigtige </a></td>
+<td>
+<audio id="besigtige" src="https://static.ordnet.dk/mp3/11004/11004205_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('besigtige');" style="cursor: pointer; color: blue;">[beˈsegˌdiˀə]</span>
+</td>
+<td> besagtiger </td>
+<td> besigtigede </td>
+<td> har besigtiget </td>
+<td> besigtig </td>
+<td> to inspect </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=beskylde"> at beskylde </a></td>
 <td>
 <audio id="beskylde" src="https://static.ordnet.dk/mp3/11004/11004237_1.mp3" style="display: none;"></audio>
@@ -8309,6 +8322,19 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=knirke"> at knirke </a></td>
+<td>
+<audio id="knirke" src="https://static.ordnet.dk/mp3/11026/11026640_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('knirke');" style="cursor: pointer; color: blue;">[ˈkniɐ̯gə]</span>
+</td>
+<td> knirker </td>
+<td> knirkede </td>
+<td> har knirket </td>
+<td> knirk </td>
+<td> to creak </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=knokle"> at knokle </a></td>
 <td>
 <audio id="knokle" src="https://static.ordnet.dk/mp3/11026/11026672_1.mp3" style="display: none;"></audio>
@@ -8800,6 +8826,19 @@ search: true
 <td> har kysset </td>
 <td> kys </td>
 <td> to kiss </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=kælke"> at kælke </a></td>
+<td>
+<audio id="kælke" src="https://static.ordnet.dk/mp3/11029/11029059_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('kælke');" style="cursor: pointer; color: blue;">[ˈkεlgə]</span>
+</td>
+<td> kælker </td>
+<td> kælkede </td>
+<td> har kælket </td>
+<td> kælk </td>
+<td> to sledge </td>
 <td> 1 </td>
 </tr>
 <tr>

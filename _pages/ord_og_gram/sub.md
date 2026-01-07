@@ -1588,6 +1588,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=bakke"> en bakke </a></td>
+<td>
+<audio id="bakke" src="https://static.ordnet.dk/mp3/11003/11003228_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('bakke');" style="cursor: pointer; color: blue;">[ˈbɑgə]</span>
+</td>
+<td> bakken </td>
+<td> bakker </td>
+<td> bakkerne </td>
+<td> hill </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=balle"> en balle </a></td>
 <td>
 <audio id="balle" src="https://static.ordnet.dk/mp3/11003/11003304_1.mp3" style="display: none;"></audio>
@@ -11775,6 +11787,18 @@ search: true
 <td> iPads </td>
 <td> iPadsene </td>
 <td> iPad </td>
+<td> A </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=isenkram"> isenkram </a></td>
+<td>
+<audio id="isenkram" src="https://static.ordnet.dk/mp3/11024/11024197_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('isenkram');" style="cursor: pointer; color: blue;">[ˈisən-]</span>
+</td>
+<td> isengrammet </td>
+<td> - </td>
+<td> - </td>
+<td> hardware, ironmongery </td>
 <td> A </td>
 </tr>
 <tr>
@@ -23536,6 +23560,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=skyhed"> en skyhed </a></td>
+<td>
+<audio id="skyhed" src="https://static.ordnet.dk/mp3/51002/51002294_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('skyhed');" style="cursor: pointer; color: blue;"></span>
+</td>
+<td> skyheden </td>
+<td> - </td>
+<td> - </td>
+<td> shyness </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=skyld"> en skyld </a></td>
 <td>
 <audio id="skyld" src="https://static.ordnet.dk/mp3/11047/11047295_1.mp3" style="display: none;"></audio>
@@ -23953,6 +23989,18 @@ search: true
 <td> slæb </td>
 <td> slæbene </td>
 <td> drag/tow </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=sl%C3%A6de"> en slæde </a></td>
+<td>
+<audio id="slæde" src="https://static.ordnet.dk/mp3/11047/11047862_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('slæde');" style="cursor: pointer; color: blue;">[ˈslεːðə]</span>
+</td>
+<td> slæden </td>
+<td> slæder </td>
+<td> slæderne </td>
+<td> sleigh </td>
 <td> 1 </td>
 </tr>
 <tr>
