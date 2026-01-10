@@ -1901,6 +1901,19 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=beskadige"> at beskadige </a></td>
+<td>
+<audio id="beskadige" src="https://static.ordnet.dk/mp3/11004/11004213_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('beskadige');" style="cursor: pointer; color: blue;">[beˈsgæˀˌðiˀə]</span>
+</td>
+<td> beskadiger </td>
+<td> beskadigede </td>
+<td> har beskediget </td>
+<td> beskedig </td>
+<td> to damage </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=beskylde"> at beskylde </a></td>
 <td>
 <audio id="beskylde" src="https://static.ordnet.dk/mp3/11004/11004237_1.mp3" style="display: none;"></audio>

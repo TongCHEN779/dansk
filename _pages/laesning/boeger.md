@@ -80,6 +80,12 @@ search: false
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/brist.jpeg"/></p></td>
+<td><h1> Bristefærdig - Cecilie Lind </h1></td>
+<td><a href="https://tongchen779.github.io/dansk/files/boeger/brist.pdf">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/bygget.png"/></p></td>
 <td><h1> Bygget Alkymi, på 1600-tals slottet Gammel Estrup - Niels Bjerre Jørgensen </h1></td>
 <td><a href="https://tongchen779.github.io/dansk/files/boeger/bygget.pdf">link</a></td>
@@ -176,9 +182,15 @@ search: false
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/efterladte.png"/></p></td>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/efterladte.webp"/></p></td>
 <td><h1> Efterladte Erindringer - Jeppe Aakjær </h1></td>
 <td><a href="https://slaegtsbibliotek.dk/920634.pdf">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/elskende.png"/></p></td>
+<td><h1> Elskende - Amalie Langballe </h1></td>
+<td><a href="https://tongchen779.github.io/dansk/files/boeger/elskende.pdf">link</a></td>
 </tr>
 
 <tr>

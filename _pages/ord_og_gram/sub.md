@@ -2044,6 +2044,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=belægning"> en belægning </a></td>
+<td>
+<audio id="belægning" src="https://static.ordnet.dk/mp3/11004/11004025_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('belægning');" style="cursor: pointer; color: blue;">[beˈlεgneŋ]</span>
+</td>
+<td> belægningen </td>
+<td> belægninger </td>
+<td> belægningerne </td>
+<td> covering </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=beløb"> et beløb </a></td>
 <td>
 <audio id="beløb" src="https://static.ordnet.dk/mp3/11004/11004031_1.mp3" style="display: none;"></audio>
