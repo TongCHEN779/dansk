@@ -214,6 +214,17 @@ Guld, mystik og erotik. 'Kysset' af den østrigske maler Gustav Klimt er et af d
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/37.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Kunstnerkolonien </h1>
+<span style="font-weight: normal">
+De seks billedkunstnere Leif Sylvester, Malene Landgreen, Jack Kabangu, Alberte Skronski, Peter Land og Anna Sofie Jespersen har sagt ja til en udfordring. De skal lave en kunstnerkoloni på Fanø i Vadehavet. På bare to uger skal de skabe værker til en fælles museumsudstilling.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/saeson/kunstnerkolonien_563623">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/4.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Kvindefængslet </h1>
@@ -387,6 +398,17 @@ Allerede fra barnsben var Hammershøi udset til noget stort. I dag er han en af 
 </span>
 </td>
 <td><a href="https://www.dr.dk/drtv/saeson/store-danske-kunstnere_534647">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/36.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Sådan bliver du en vild type: Brylluppet </h1>
+<span style="font-weight: normal">
+"Du skal ikke være kedelig." 26-årige Hannah skal giftes, men hendes farmor - den tidligere nøgendanser Dorte - vil vise Hannah, at livet er sjovest, når man tør være "en fræk, liderlig kælling." I et dokumentarisk eksperiment rejser de to tilbage i tiden til Dortes vilde liv med sex, strip, druk og mange mænd. "Du skal være en type ligesom mig," siger Dorte. Men hvad stiller Hannah op med sådan et råd, når hun står foran sin bryllupsdag?
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/episode/saadan-bliver-du-en-vild-type_-brylluppet_565209">link</a></td>
 </tr>
 
 <tr>

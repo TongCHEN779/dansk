@@ -41,6 +41,32 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/01/Episode-102.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 102 - Eventyret om prinsessen på ærten </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode læser jeg et af H. C. Andersens eventyr højt, nemlig ”Prinsessen på ærten”. Jeg har omskrevet den oprindelige tekst, så den er lidt lettere at forstå. Men budskabet er det samme. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, downloade episoden, finde ordlister og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo. Husk også at følge med på podcastens Instagramprofil, hvor jeg deler endnu mere materiale, til jer der lærer dansk.
+<br><br>
+Her begynder eventyret. Der var engang en prins. Han ville have sig en prinsesse, men det skulle være en rigtig prinsesse. Så han rejste hele verden rundt, for at finde sig en rigtig prinsesse. Men der var et problem med alle de potentielle prinsesser han mødte rundt om i verden. De sagde godt nok at de var rigtige prinsesser, men noget føltes forkert. Så da prinsen kom hjem fra sin rejse, var han meget trist, fordi han ikke havde fundet sin ægte prinsesse.
+<br><br>
+En aften var der et frygteligt uvejr. Det lynede og tordnede, og regnen stod ned i stænger. Det bankede pludseligt på byens port, og den gamle konge og dronning gik ned og lukkede op. På den anden side af porten stod en prinsesse. Men hun så ikke særligt royal ud. Hun havde opholdt sig ude i det frygtelige uvejr og hun var helt gennemblødt. Vandet løb ned af hendes hår og hendes tøj. Selv hendes sko var fulde af vand. Men hun stod altså der og påstod, at hun var en ægte prinsesse. Prinsessen bad om ly fra uvejret og et sted at sove over natten. Kongen og dronningen inviterede hende ind på slottet.
+<br><br>
+”Vi skal nok få testet, om du faktisk er en rigtig prinsesse”, tænkte dronningen for sig selv. Hun var noget skeptisk. Dronningen gik ind i gæstesoveværelset og tog alt sengetøjet af sengen. Så lagde hun en lille ært på bunden af sengen. Derefter tog hun hele 20 madrasser og lagde oven på ærten. Og oven på madrasserne lagde hun tyve dyner. Her skulle prinsessen sove om natten. Prinsessen var taknemmelig over at få lov at sove på slottet og gik straks i seng.
+<br><br>
+Næste morgen spurgte kongen og dronningen hende, om hun havde sovet godt. Prinsessen udbrød: ”Jeg har sovet skrækkeligt dårligt! Jeg har næsten ikke lukket mine øjne hele natten! Gad vide, hvad der var galt med den seng? Det føltes som om jeg lå på noget hårdt, så nu er jeg gul og blå på hele min krop. Det har været en forfærdelig nat!”
+<br><br>
+Og så kunne hele familien se, at pigen altså var en rigtig prinsesse. Hun kunne mærke ærten selv gennem tyve madrasser og tyve dyner. Så sart og tyndhudet kunne kun en virkelig prinsesse være. Prinsen giftede sig derfor med hende og de levede lykkeligt til deres dages ende. Og ærten ligger stadig på slottet, men nu på det kongelige museum.
+<br><br>
+Det var alt for denne episode. Jeg håber du nød at lytte til dette korte eventyr, som H. C. Andersen oprindeligt udgav i år 1835. Tak fordi du lyttede med.
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2025/12/Episode-101.wav"></audio> </td>
 <td> 
 <details>

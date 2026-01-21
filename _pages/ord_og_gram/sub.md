@@ -8862,6 +8862,18 @@ search: true
 <td> 2 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gidsel"> et gidsel </a></td>
+<td>
+<audio id="gidsel" src="https://static.ordnet.dk/mp3/11017/11017954_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gidsel');" style="cursor: pointer; color: blue;">[ˈgisəl]</span>
+</td>
+<td> gidslet </td>
+<td> gidsler </td>
+<td> gidslerne </td>
+<td> hostage </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=gifterm%C3%A5l"> et giftermål </a></td>
 <td>
 <audio id="giftermål" src="https://static.ordnet.dk/mp3/11017/11017971_1.mp3" style="display: none;"></audio>

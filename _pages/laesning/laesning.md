@@ -93,6 +93,17 @@ Ekspert i kunstig intelligens finder det usandsynligt, at de AI-skabte billeder 
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/74.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> ANALYSE Bejlere strømmer til Beijing i søgen efter et stabilt alternativ til Trump </h1>
+<span style="font-weight: normal">
+USA’s tidligere tætte allierede valfarter til Beijing for at forsøge at forbedre forholdet til Kina under en syndflod af amerikanske trusler.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/udland/analyse-bejlere-stroemmer-til-beijing-i-soegen-efter-et-stabilt-alternativ-til-trump">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/50.avif"/></p></td>
 <td style="vertical-align: top;">
 <h1> ANALYSE For et par år siden slog indiske og kinesiske soldater hinanden ihjel med søm-køller, men nu skal Modi til Kina og kramme Xi </h1>
