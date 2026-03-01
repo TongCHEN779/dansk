@@ -41,6 +41,100 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/02/Episode-104.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 104 - Dansk arbejdskultur </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om den danske arbejdskultur. Hvordan er kulturen på danske arbejdspladser, hvilke særlige rettigheder har man på det danske arbejdsmarked, hvad er ”barns første sygedag” og ”omsorgsdage”, og hvad betyder ”arbejdsglæde”? Det vil jeg fortælle om i denne episode. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskiorerne kan du støtte podcasten, downloade episoden, finde ordlister og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo. Husk desuden at følge med på podcastens Instagram, hvor jeg deler endnu mere gratis materiale til at lære dansk.
+<br><br>
+I Danmark betyder arbejde meget, men det betyder ikke alt. Mange danskere taler om arbejdsglæde. Arbejdsglæde betyder, at man er glad for at gå på arbejde, at man føler mening med sit arbejde, og at man har gode relationer til sine kolleger. Undersøgelser viser, at omkring 75 procent af danske lønmodtagere mener, at deres arbejdsplads er et rigtig godt sted at arbejde. Faktisk er Danmark det land i Europa, der scorer højest når det gælder trivsel og tilfredshed på arbejdet. Undervisere, ledere og sundhedsarbejdere ligger helt i top, mens sælgere og nogle administrative medarbejdere ligger lavere. Men selv i de brancher, hvor færrest er glade, er det stadig cirka syv ud af ti, der siger, at de trives med deres arbejde. Det fortæller noget om den danske arbejdskultur.
+<br><br>
+En vigtig del af arbejdskulturen er den flade struktur. I Danmark siger man ofte, at vi har et fladt hierarki. Det betyder, at forskellen mellem chef og medarbejder ikke er så stor. Jobtitler betyder ikke så meget, og man bruger fornavne, også til sin chef. Mange danskere tror på lighed, og man forventer ikke, at nogen praler med deres titel eller position. Det hænger sammen med janteloven, som er en kulturel idé om, at man ikke skal tro, man er bedre end andre. Karriere i Danmark går ofte horisontalt, ikke kun vertikalt. Det betyder, at man kan få nye opgaver og mere ansvar uden nødvendigvis at få en ny titel.
+<br><br>
+På danske arbejdspladser forventes det også, at man siger sin mening. Selv den yngste medarbejder til et møde skal komme med idéer og man må gerne være uenig med chefen, hvis man har en anden faglig vurdering. Man er ansat for sin viden, og derfor skal man bruge den. I nogle kulturer er det uhøfligt at sige chefen imod, men i Danmark er det et tegn på engagement. Man forventer også, at medarbejdere stiller mange spørgsmål. Hvis man ikke forstår en opgave, skal man spørge igen og igen, indtil man forstår den. Det danske skolesystem har tradition for dialog og spørgsmål, og det tager man med ind i arbejdslivet.
+<br><br>
+Det er også vigtigt at være proaktiv. Hvis man kan se, at man ikke kan nå en deadline, eller at der er et problem, skal man sige det med det samme. Man skal ikke vente til sidste øjeblik. Mange ledere siger, at deres dør altid er åben, men det betyder også, at man selv skal tage initiativ og gå ind ad døren. Humor spiller også en rolle. Danskere bruger ofte selvironi og kan lide at grine af sig selv. Det kan være uvant for nogle udlændinge, men i Danmark viser det, at man er en del af fællesskabet.
+<br><br>
+Der arbejder i dag over 290.000 udenlandske fuldtidsansatte i Danmark. Ifølge Dansk Erhverv har cirka hver ottende medarbejder et ikke-dansk pas. Internationale medarbejdere er derfor en vigtig del af arbejdsmarkedet. Men mange bliver overraskede over de uskrevne regler. For eksempel kan de opleve, at chefen forventer, at de siger deres mening, selvom de er nye. Eller at kolleger taler meget uformelt sammen.
+<br><br>
+Arbejdstiden i Danmark er som udgangspunkt 37 timer om ugen. Det er den normale fuldtidsarbejdsuge, som er aftalt i mange overenskomster. Men sådan har det ikke altid været. I begyndelsen af 1900-tallet arbejdede mange 48 timer om ugen. I år 1919 fik man 8-timers arbejdsdag, men kampen fortsatte i mange år. Gennem 1950’erne, 60’erne og 70’erne blev arbejdstiden gradvist sat ned. I år 1990 nåede man de 37 timer, som vi kender i dag. Men 37 timers arbejdsuge er ikke en naturlov. Ifølge EU-regler må man i gennemsnit ikke arbejde mere end 48 timer om ugen inklusive overarbejde. Man har ret til 11 timers hvile i døgnet og mindst ét fridøgn om ugen.
+<br><br>
+En anden vigtig del af dansk arbejdskultur er ferie. Alle lønmodtagere har ret til 25 dages ferie om året. Man optjener 2,08 dages betalt ferie for hver måned, man arbejder. I Danmark tror man på, at det er sundt med en lang pause fra arbejdet. Derfor forsøger mange at holde tre ugers sammenhængende sommerferie. Det er meget almindeligt, at arbejdspladser næsten lukker ned i juli måned. Selv hvis man ikke har optjent ret til betalt ferie, har man stadig ret til at holde ferie uden løn.
+<br><br>
+Familieliv spiller også en stor rolle i dansk arbejdskultur. Mange arbejdspladser giver mulighed for fleksibilitet, så man kan hente børn tidligt eller arbejde hjemme. Forældre har ret til at passe deres syge barn på barnets første sygedag, hvis barnet er under 18 år og har brug for pasning. Ofte kan man også tage barnets anden sygedag, afhængigt af ens arbejde. Hvis barnet stadig er sygt, kan man bruge ferie eller omsorgsdage til at passe barnet. Omsorgsdage er ekstra fridage med løn til forældre. Offentligt ansatte har typisk ret til to omsorgsdage om året per barn til og med det år, hvor barnet fylder syv år. Reglerne om barns sygedag og omsorgsdage varierer mellem forskellige arbejdspladser og overenskomster. Der er fx lige blevet aftalt en ny overenskomst, hvor nogle forældre får ret til barns 3. sygedag og hvor nogle bedsteforældre også får ret til at holde omsorgsdage med deres børnebørn.
+<br><br>
+Barsel er også en vigtig rettighed. Hver forælder har ret til 24 ugers orlov med barselsdagpenge efter fødslen. En del af orloven er øremærket til hver forælder. Det betyder, at ugerne ikke kan gives til den anden forælder. Hvis de ikke bruges, går de tabt. Formålet er at skabe mere ligestilling mellem mor og far. Mor har også ret til fire-seks ugers orlov før fødslen. Barselsreglerne viser, at Danmark prioriterer både arbejde og familieliv. Sammenlagt har mor og far altså omkring et års barsel med deres barn.
+<br><br>
+Når det gælder løn, er der ingen lovbestemt mindsteløn i Danmark. Lønnen aftales typisk i overenskomster mellem fagforeninger og arbejdsgiverorganisationer. Det kaldes den danske model. Den danske model betyder, at staten blander sig relativt lidt i løn og arbejdsvilkår. I stedet forhandler arbejdsmarkedets parter selv regler om løn, arbejdstid, pension og ferie. Hvis der opstår konflikt, kan der være strejke eller lockout, men ofte finder parterne en løsning gennem forhandling. Fagforeninger spiller derfor en vigtig rolle i Danmark.
+<br><br>
+Pension er også en del af overenskomsterne. Mange arbejdspladser indbetaler automatisk en procentdel af lønnen til en pensionsordning. Både arbejdsgiver og medarbejder betaler typisk ind. Det betyder, at man sparer op til sin alderdom gennem hele arbejdslivet.
+<br><br>
+Løn har været tabu i Danmark, men det er begyndt at ændre sig. En undersøgelse viser, at 44 procent aldrig taler om deres løn, men de unge vil gerne tale om deres løn. Hele 77 procent af unge mellem 18 og 29 år taler om deres løn, mens under 40 procent af de ældre gør det.
+<br><br>
+Alt i alt er den danske arbejdskultur præget af tillid, lighed og balance mellem arbejde og fritid. Man arbejder 37 timer om ugen, men man har også ret til ferie, barsel, omsorgsdage og pension. Man forventes at tage ansvar, sige sin mening og samarbejde med andre. Arbejde handler ikke kun om løn, men også om mening, fællesskab og livskvalitet.
+<br><br>
+Det var alt for denne episode. Jeg håber du er blevet lidt klogere på arbejdskulturen i Danmark. Og hvis du allerede arbejder i Danmark, kunne du forhåbentligt genkende nogle af de ting, jeg har fortalt om. Hvis du er interesseret i at lære endnu mere om det danske arbejdsmarked, så kan jeg anbefale episode 15 af podcasten, hvor jeg fortæller om arbejdernes kampdag den 1. maj, om hvordan danske arbejdere kæmpede for de rettigheder vi har i dag. Episode 67 fortæller historien om de danske fagforeninger. Inden jeg siger tak fordi du lyttede med, så vil jeg lige minde om at jeg har udgivet en bog. Den handler om nordisk mytologi, og findes både som ebog og lydbog. Du kan finde mere information om bogen på min hjemmeside. Og så vil jeg slutte af som altid, med at sige tusind tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/01/Episode-103.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 103 - Det danske sprog </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg tale om det danske sprog. Du kender selvfølgelig det danske sprog – ellers ville du ikke lytte til denne episode. Men ved du hvordan sproget opstod, hvordan det har udviklet sig og hvorfor mange synes det er svært at lære? Det vil jeg fortælle om i denne episode. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskiorerne kan du støtte podcasten, downloade episoden, finde ordlister og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo. Husk desuden at følge med på podcastens Instagram, hvor jeg deler endnu mere gratis materiale til at lære dansk.
+<br><br>
+Dansk er et sprog, som omkring seks millioner mennesker taler. Dansk tales især i Danmark, men også på Færøerne og Island, i Grønland og i Sydslesvig i Tyskland. Dansk er et germansk sprog og hører til den indoeuropæiske sprogfamilie. Det betyder, at dansk er beslægtet med mange andre europæiske sprog, som tysk, engelsk, norsk og svensk. Faktisk minder dansk, norsk og svensk så meget om hinanden, at man ofte kan forstå hinanden på tværs af landene. Og hvis ikke, kræver det ikke særligt meget øvelse før man kan forstå de andre skandinaviske sprog.
+<br><br>
+Dansk kaldes ofte Danmarks officielle sprog, selvom der ikke findes en lov, der direkte siger det. Alligevel bruges dansk i love, i retten, i skolerne og i det offentlige system. Dansk er også et af EU’s 24 officielle sprog. I rigsfællesskabet har Færøerne også færøsk som officielt sprog, og i Grønland bruges grønlandsk. På Island lærer alle elever dansk som obligatorisk fremmedsprog, og i Nordtyskland findes der et dansk mindretal på omkring 50.000 mennesker, hvor dansk også er et officielt sprog i regionen Slesvig.
+<br><br>
+Det danske sprog har en meget lang historie. Det har rødder i de indoeuropæiske sprog, som opstod omkring 4000 år før Kristus. Senere udviklede sproget sig gennem urgermansk og urnordisk. Omkring år 800 begyndte dansk at blive et selvstændigt sprog, som vi kalder olddansk. Derefter kom middeldansk, og senere nydansk, som er det sprog, vi taler i dag. Mange meget gamle ord bruger vi stadig. Ord som far, mor, sol, måned, søvn og ko stammer helt tilbage fra olddansk. Det betyder, at når vi taler dansk i dag, bruger vi faktisk ord, som mennesker har brugt i tusinder af år.
+<br><br>
+Dansk har gennem historien været meget påvirket af andre sprog. Da kristendommen kom til Danmark omkring år 960, blev dansk påvirket af latin, fordi kirkens sprog var latin. Senere, især i middelalderen, blev dansk meget påvirket af tysk, fordi vi handlede meget med tyskerne. Mange almindelige danske ord stammer fra tysk, selvom vi ofte ikke tænker over det, fordi de er blevet tilpasset til dansk. Senere, i 1600- og 1700-tallet, blev dansk påvirket af fransk, især i overklassen og hos de royale. I dag er engelsk den største kilde til nye låneord, især efter Anden Verdenskrig. Ord som computer, internet, smartphone og streaming kommer fra engelsk, og mange unge bruger også mange engelske ord i deres hverdag.
+<br><br>
+Selvom dansk har mange låneord, består størstedelen af sproget stadig af arveord, altså ord, som har været i sproget i meget lang tid. De mest brugte ord i dansk er næsten alle arveord, som og, at, jeg, du, han, hun, være, have og blive. Nye ord dannes også hele tiden gennem sammensætninger, som fx togstation, børnehave, cykelsti og vinterjakke.
+<br><br>
+Det danske alfabet er baseret på det latinske alfabet, men har tre ekstra bogstaver: æ, ø og å. Disse står som de sidste tre bogstaver i alfabetet. Retskrivningen, altså reglerne for, hvordan man staver på dansk, har ændret sig over tid. I 1948 kom en stor retskrivningsreform, hvor man fx fjernede stort begyndelsesbogstav i navneord, og ændrede stavemåder som kunde, skulde og vilde til kunne, skulle og ville. Samtidig blev bogstavet å indført i stedet for aa. I dag er det Dansk Sprognævn, der beslutter den officielle retskrivning gennem Retskrivningsordbogen.
+<br><br>
+En af de største udfordringer ved dansk, især for personer, der lærer sproget, er udtalen. Dansk er kendt for at være svært at forstå, også for svenskere og nordmænd. Forskning viser, at op til 60 procent af lydene i danske ord kan forsvinde eller smelte sammen i almindelig tale. Det betyder, at ord ofte lyder meget anderledes, end de ser ud, når man læser dem. For eksempel udtales ord som arbejde, have og skole ofte meget reduceret i naturlig tale. Det gør det svært for mange at følge med, især i samtaler.
+<br><br>
+Der er også stor forskel på at læse dansk og at lytte til dansk. Når man læser, har man tid til at tænke, stoppe op og kigge igen. Når man lytter, sker alt i realtid. Man skal forstå ordene med det samme, og man kan ikke spole tilbage i en almindelig samtale. Derfor oplever mange, at de kan læse dansk ret godt, men mister overblikket, når de hører dansk blive talt hurtigt. Det er måske en af grundene til at du lytter til min podcast.
+<br><br>
+Derudover spiller hjernen en vigtig rolle. Når vi lærer vores første sprog som børn, lærer hjernen at høre bestemte lyde. Senere, når vi lærer et nyt sprog, kan det være svært at høre forskel på nye lyde, som ikke findes i vores modersmål. På dansk gælder det især de mange vokallyde, det bløde d og det særlige danske stød. Stødet gør at der for eksempel er forskel på stien og stigen, selvom ordene næsten ser ens ud. For mange udlændinge er det svært både at høre og udtale stød og bløde d’er, men med tid og øvelse bliver det lettere.
+<br><br>
+Følelser spiller også en rolle i sprogforståelse. Hvis man er nervøs, stresset eller bange for at lave fejl, kan det blive endnu sværere at forstå og tale sproget. Stress kan påvirke koncentration og hukommelse, og det kan føles, som om hjernen lukker ned. Derfor er det vigtigt at skabe trygge situationer, hvor man tør tale dansk, også selvom man laver fejl. Fejl er en naturlig del af at lære et sprog.
+<br><br>
+Mennesker lærer sprog på forskellige måder. Nogle lærer bedst ved at lytte, andre ved at læse, og andre igen ved at arbejde struktureret med grammatik og regler. Nogle har brug for kontekst og forklaringer, mens andre lærer bedst gennem gentagelse og praksis. Der findes ikke én rigtig måde at lære dansk på, og det er vigtigt at finde den metode, der passer bedst til én selv.
+<br><br>
+Dansk har mange dialekter og variationer. De gamle dialekter tales dog ikke så meget i dag, som de gjorde engang, og de fleste taler i dag en form for rigsdansk, som er den standard, man hører i medierne. Alligevel varierer udtalen stadig meget fra område til område, og man kan ofte høre, om en person kommer fra Jylland, Fyn eller København. Min dialekt er fx fra Aarhus, selvom jeg prøver at tale neutralt i podcasten.
+<br><br>
+Der findes også sociale variationer i sproget, som kaldes sociolekter. Det betyder, at mennesker fra forskellige sociale grupper kan tale forskelligt, selvom de bor i samme område. Derudover findes der etnolekter, som er sprogformer knyttet til bestemte etniske grupper. Alt dette viser, at dansk er et levende sprog, som hele tiden forandrer sig og tilpasser sig nye mennesker, nye situationer og nye behov.
+<br><br>
+Dansk har også haft stor betydning uden for Danmark. I vikingetiden påvirkede dansk og norsk sproget i England, og mange engelske ord stammer fra nordisk, som ship, knife, they og same. Dansk har også påvirket norsk meget, og derfor minder dansk og norsk meget om hinanden på skrift.
+<br><br>
+I dag samarbejder de nordiske lande tæt. Der findes en nordisk sprogkonvention, som betyder, at man som borger i et nordisk land kan bruge sit eget sprog over for myndigheder i de andre nordiske lande. Samtidig er der stor mobilitet mellem landene, både når det gælder uddannelse, arbejde og kultur.
+<br><br>
+Alligevel viser undersøgelser, at forståelsen mellem de nordiske sprog er blevet dårligere, især blandt unge. Mange unge ser, læser og hører mest indhold på engelsk. Samtidig har dansk udtale udviklet sig i en anden retning end norsk og svensk, hvilket gør det endnu sværere at forstå for naboerne. Dansk er i dag det nordiske sprog, som de andre har sværest ved at forstå.
+<br><br>
+I Danmark diskuteres det sommetider, om vi giver for meget plads til engelsk i samfundet. I mange virksomheder er engelsk blevet arbejdssprog, og på universiteterne undervises der ofte på engelsk. Formålet er at tiltrække internationale studerende og forskere, men der har været bekymring for, om det kan føre til, at man får sværere ved at tale dansk om faglige emner. Derfor har der de seneste år været politiske beslutninger om at styrke dansk som undervisningssprog og sikre, at dansk forbliver et levende sprog.
+<br><br>
+Dansk er ikke bare et sprog. Det er også en nøgle til at forstå dansk kultur, samfund og historie. Gennem sproget får man adgang til danske bøger, film, musik, humor og hverdagsliv. Og selvom vejen til at forstå talt dansk kan være lang og udfordrende, er den også spændende og givende.
+<br><br>
+Det var alt for denne episode. Jeg håber du er blevet lidt klogere på det danske sprog, og måske har fået lidt ny motivation til at blive ved med at udfordre dig selv. Det er svært at lære dansk, men det er bestemt ikke umuligt. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/01/Episode-102.wav"></audio> </td>
 <td> 
 <details>
