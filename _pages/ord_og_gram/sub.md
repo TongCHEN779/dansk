@@ -25984,6 +25984,18 @@ search: true
 <td> 3 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=svejser"> en svejser </a></td>
+<td>
+<audio id="svejser" src="https://static.ordnet.dk/mp3/11051/11051654_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('svejser');" style="cursor: pointer; color: blue;">[ˈsvɑjsʌ]</span>
+</td>
+<td> svejseren </td>
+<td> svejsere </td>
+<td> svejserne </td>
+<td> welder </td>
+<td> 2 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=sveske"> en sveske </a></td>
 <td>
 <audio id="sveske" src="https://static.ordnet.dk/mp3/11051/11051677_1.mp3" style="display: none;"></audio>
@@ -28355,6 +28367,18 @@ search: true
 <td> tømmermænd </td>
 <td> tømmermændene </td>
 <td> hangover </td>
+<td> 2 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=t%C3%B8mrer"> en tømrer </a></td>
+<td>
+<audio id="tømrer" src="https://static.ordnet.dk/mp3/12003/12003370_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tømrer');" style="cursor: pointer; color: blue;">[ˈtœmʁʌ]</span>
+</td>
+<td> tømreren </td>
+<td> tømrere </td>
+<td> tømrerne </td>
+<td> carpenter </td>
 <td> 2 </td>
 </tr>
 <tr>
