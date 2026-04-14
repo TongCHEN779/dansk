@@ -41,6 +41,46 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/03/Episode-105.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 105 - Dansk drikkevand og grundvand </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om det danske drikkevand og grundvandet. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, downloade episoden, finde ordlister og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo. Husk desuden at følge med på podcastens Instagram, hvor jeg deler endnu mere gratis materiale til at lære dansk.
+<br><br>
+I Danmark er vi meget heldige med vores drikkevand. Næsten alt det vand, vi drikker, kommer nemlig direkte fra grundvandet. Faktisk stammer omkring 99 procent af dansk drikkevand fra grundvand. Grundvand er vand, der findes under jorden. Det bliver dannet, når regn eller smeltevand langsomt siver ned gennem jorden. Når vandet bevæger sig ned gennem jordlag som sand, grus og kalk, bliver det naturligt filtreret. Det betyder, at jorden fungerer som en slags naturligt filter, der renser vandet for mange urenheder. Til sidst samler vandet sig i det, man kalder grundvandsmagasiner. Et grundvandsmagasin er et lag i undergrunden, hvor der er mange små hulrum mellem sandkorn eller sten. I de små hulrum kan vandet samle sig og ligge i lang tid.
+<br><br>
+Det kan faktisk tage flere årtier før regnvand bliver til grundvand. Derfor er grundvandet ofte meget gammelt. Grundvand udgør en meget lille del af alt vand på Jorden, kun omkring 0,681 procent, men det er en utrolig vigtig ressource. Vand er nemlig helt nødvendigt for mennesker, dyr og planter. Vi bruger bl.a. vand til at drikke, til at lave mad, til at vaske os, til landbrug, til industri og til sundhedsvæsenet.
+<br><br>
+I Danmark pumpes store mængder grundvand op fra undergrunden hver eneste dag. Vandet pumpes op gennem boringer og sendes til et vandværk. På vandværket bliver vandet behandlet, men i Danmark er behandlingen faktisk ret simpel. I mange andre lande skal vandet gennem en meget avanceret rensning med kemikalier eller klor, fordi vandet kommer fra søer eller floder. Men i Danmark er grundvandet ofte så rent, at det kun behøver en enkel behandling. På vandværket bliver vandet typisk iltet og filtreret gennem sandfiltre. Nogle steder bliver vandet også blødgjort, så der er mindre kalk i det. Derefter sendes vandet ud gennem et stort netværk af vandrør og ledninger til vores hjem, skoler, hospitaler og virksomheder.
+<br><br>
+I Danmark har vi en decentral vandforsyning. Det betyder, at vandet normalt bliver produceret lokalt, meget tæt på forbrugeren. Der findes omkring 2.500 vandforsyninger i landet, og mere end 95 procent af danskerne får vand fra disse forsyninger. Vandet transporteres fra vandforsyningen og hen til forbrugeren gennem rør, der ligger under jorden. Undervejs bliver vandet nogle gange opbevaret i vandtårne eller store beholdere. Vandtårne fungerer både som lager og som en måde at skabe tryk i vandrørene. Når vandet ligger højt oppe i et vandtårn, kan tyngdekraften hjælpe med at presse vandet ud gennem rørene, så der er godt tryk på vandet i din vandhane. De danske vandværker ejes af danskerne selv! I Danmark er der mere end 2000 vandværker, og de er ejet af de lokale forbrugere og ledes ofte af en frivillig bestyrelse. Så er lokalsamfundet med til at beslutte hvordan det lokale vandværk skal arbejde.
+<br><br>
+Vandrørene kan være lavet af forskellige materialer. Mange nye rør er lavet af plast, men der findes også ældre rør af jern. Det er vigtigt, at rørene er tætte, så vandet ikke går tabt under transporten. Vandværkerne tager også jævnligt vandprøver for at kontrollere, at vandet stadig er rent og sikkert at drikke. I Danmark betragtes drikkevand faktisk som en fødevare, på samme niveau som for eksempel mælk eller brød. Derfor stiller myndighederne meget høje krav til kvaliteten.
+<br><br>
+Selvom vi ofte tænker på vand som noget, der bare kommer ud af hanen, er der faktisk et stort system bag. Hver dag bruger vi vand til mange forskellige ting. I Danmark bruger en person i gennemsnit omkring 97 liter vand om dagen. Det meste vand bruger vi til bad og personlig hygiejne. Omkring 36 procent af vandet går til bad og vask. Cirka 27 procent går til toiletskyl, og resten bruges til tøjvask, opvask, rengøring og madlavning. Kun en lille del af vandet bruger vi faktisk til at drikke.
+<br><br>
+Det er også interessant, at private husholdninger ikke er de største vandforbrugere. I Danmark står virksomheder og industri for omkring 72 procent af vandforbruget, mens private hjem står for cirka 28 procent. Selvom vand er en vigtig ressource, er det heldigvis ikke særlig dyrt i Danmark. En liter vand fra vandhanen koster i gennemsnit omkring syv øre. Til sammenligning kan en liter flaskevand koste op til 900 gange så meget, og produktionen af flaskevand har også en større CO₂-belastning.
+<br><br>
+Men selvom dansk drikkevand generelt er meget rent, er der stadig nogle udfordringer. Grundvand kan nemlig blive forurenet. Forurening kan komme fra mange forskellige steder. Det kan for eksempel være spildevand fra industri eller private hjem, som ikke er blevet renset ordentligt. Det kan også komme fra landbruget, hvor der bruges gødning og pesticider på markerne. Disse stoffer kan langsomt sive ned gennem jorden og ende i grundvandet. Der kan også være tungmetaller som bly, kobber eller kviksølv fra industri. Derudover findes der nogle kemikalier, som nedbrydes meget langsomt i naturen, for eksempel PFAS og PFOS.
+<br><br>
+Netop forurening af drikkevand er et stort politisk emne i Danmark lige nu. En af de store diskussioner handler om nitrat i grundvandet. Nitrat kommer især fra gødning, som bruges i landbruget. Nitrat er ikke nødvendigvis farligt i sig selv, men i kroppen kan det blive omdannet til andre stoffer, som kan være kræftfremkaldende. Derfor diskuterer man nu, om grænseværdien for nitrat i drikkevand skal sænkes. I dag er grænsen 50 milligram per liter, men en ekspertgruppe har foreslået at sænke den helt ned til 6 milligram per liter.
+<br><br>
+Samtidig er der også en debat om brugen af sprøjtemidler i landbruget. Flere politiske partier har foreslået et nationalt forbud mod sprøjtemidler i de områder, hvor der dannes grundvand. Disse områder kaldes grundvandsdannende områder. De dækker omkring 160.000 hektar jord i Danmark, hvilket svarer til cirka halvdelen af Fyn. Nogle mener, at et forbud er nødvendigt for at beskytte drikkevandet i fremtiden, mens andre mener, at det vil være en for stor udfordring for landbruget.
+<br><br>
+Et andet aktuelt eksempel kommer fra Aalborg. Her har den lokale vandforsyning sagsøgt staten for over 1 milliard kroner. Forsyningen mener, at staten bør betale for et nyt anlæg, der kan rense drikkevandet for nitrat. Ifølge selskabet bør regningen ikke sendes til borgerne, men betales af staten.
+<br><br>
+Grundvand dannes meget langsomt, og hvis det først bliver forurenet, kan det tage mange år eller endda flere generationer at rense det igen. Derfor arbejder både myndigheder, forskere og vandværker hele tiden på at beskytte denne vigtige ressource, så vi også i fremtiden kan drikke grundvandet i Danmark.
+<br><br>
+Det var alt for denne episode. Jeg håber du nyder det næste glas danske drikkevand ekstra meget, nu hvor du kender til historien bag det. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/02/Episode-104.wav"></audio> </td>
 <td> 
 <details>
