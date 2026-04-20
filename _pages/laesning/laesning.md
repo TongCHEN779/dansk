@@ -82,6 +82,17 @@ Selvom Anna Ancher i dag regnes blandt Danmarks mest anerkendte billedkunstnere,
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/75.avif"/></p></td>
+<td style="vertical-align: top;">
+<h1> Afdød kunstner gemte mappe med over 100 tegninger af sin tissemand. Sønnen insisterede på at få dem udstillet </h1>
+<span style="font-weight: normal">
+Billedkunstner John Olsen var især kendt for at tegne dyr. Men for sig selv tegnede han åbenbart også sin egen tissemand, afslørede en mappe i soveværelset.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/kultur/afdoed-kunstner-gemte-mappe-med-over-100-tegninger-af-sin-tissemand-soennen-insisterede-paa-faa-dem">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/22.jpeg"/></p></td>
 <td style="vertical-align: top;">
 <h1> AI-skabt overgrebsmateriale skal kunne hjælpe politiet ind i lukkede netværk, men professor ser 'reel risiko' ved forslag </h1>

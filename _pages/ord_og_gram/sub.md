@@ -8898,6 +8898,18 @@ search: true
 <td> 1 </td>
 </tr>
 <tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=gimmick"> en gimmick </a></td>
+<td>
+<audio id="gimmick" src="https://static.ordnet.dk/mp3/11018/11018015_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('gimmick');" style="cursor: pointer; color: blue;">[ˈgemeg]</span>
+</td>
+<td> gimmicken </td>
+<td> gimmicks </td>
+<td> gimmickene </td>
+<td> gimmick </td>
+<td> 1 </td>
+</tr>
+<tr>
 <td><a href="https://ordnet.dk/ddo/ordbog?query=glans"> en glans </a></td>
 <td>
 <audio id="glans" src="https://static.ordnet.dk/mp3/11018/11018083_1.mp3" style="display: none;"></audio>
@@ -26773,6 +26785,18 @@ search: true
 <td> tastaturer </td>
 <td> tastaturerne </td>
 <td> keyboard </td>
+<td> 1 </td>
+</tr>
+<tr>
+<td><a href="https://ordnet.dk/ddo/ordbog?query=tissemand"> en tissemand </a></td>
+<td>
+<audio id="tissemand" src="https://static.ordnet.dk/mp3/12001/12001474_1.mp3" style="display: none;"></audio>
+<span onclick="playSound('tissemand');" style="cursor: pointer; color: blue;">[ˈtisəˌmanˀ]</span>
+</td>
+<td> tissemanden </td>
+<td> tissemænd </td>
+<td> tissemændene </td>
+<td> penis </td>
 <td> 1 </td>
 </tr>
 <tr>

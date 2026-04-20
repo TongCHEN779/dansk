@@ -159,6 +159,17 @@ Tortur, angiveri og mennesker, der bliver brændt på bålet. I en kort, brutal 
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/39.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Horisont </h1>
+<span style="font-weight: normal">
+I Ukraine tager Olena sit livs sværeste beslutning: Hun vil forsøge at komme til Danmark, mens manden Oleg skal blive tilbage for at forsvare Ukraine. I Holstebro følger veninden Natalie flugten tæt og gør klar til et rørende møde.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/saeson/horisont_567511">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/7.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Hurra for det danske frisind </h1>
@@ -321,6 +332,17 @@ Poul Nyrup Rasmussens far blev som dreng tvangsanbragt på en åndssvageanstalt 
 </span>
 </td>
 <td><a href="https://www.dr.dk/drtv/serie/nyrup-_-soen-af-en-udstoedt_347459">link</a></td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/38.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Når staten bortadopterer </h1>
+<span style="font-weight: normal">
+En mor har fået sit første barn bortadopteret, fordi hun blev fundet uegnet som forældre. Nu har hun fået et nyt barn, men i en anden kommune, og her får hun lov at beholde barnet. "Det viser den vilkårlighed, der råder på dette område", vurderer en ekspert. Imens kæmper en mormor for at få sit barnebarn hjem at bo, så hun kan vokse op i sin biologiske familie og undgå at blive bortadopteret.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/serie/naar-staten-bortadopterer_582690">link</a></td>
 </tr>
 
 <tr>
