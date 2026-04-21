@@ -160,3 +160,27 @@ permalink: /flash/
 </div>
 <!-- <button onclick="showAnswer()">Bingo</button> -->
 <button id="toggleButton" onclick="toggleFlashCard()">Flash</button>
+
+<!-- <div style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
+    <button id="toggleButton"     onclick="toggleFlashCard()">Flash</button>
+    <button id="addToLibraryBtn"  onclick="addToLibrary()" disabled>☆ Tilføj til bibliotek</button>
+    <button id="useLibraryBtn"    onclick="toggleUseLibrary()">▶ Øv bibliotek</button>
+</div>
+
+<div id="librarySection">
+    <h3>📚 Mit Bibliotek</h3>
+    <div id="libraryControls">
+        <button onclick="clearLibrary()">🗑 Ryd bibliotek</button>
+    </div>
+    <p id="libraryEmpty">Biblioteket er tomt. Tilføj ord med ☆-knappen under flashkortet.</p>
+    <table id="libraryTable" style="display:none;">
+        <thead>
+            <tr>
+                <th>Dansk</th>
+                <th>Engelsk</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody id="libraryBody"></tbody>
+    </table>
+</div> -->
