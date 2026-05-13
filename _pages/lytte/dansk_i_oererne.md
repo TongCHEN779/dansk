@@ -41,6 +41,40 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/03/Episode-106.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 106 - SAS </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om det store skandinaviske flyselskab, SAS. SAS har nemlig en lidt særlig historie. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, finde ordlister, downloade episoden og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo. Og husk at du kan følge podcasten på Instagram, hvor jeg deler endnu mere gratis indhold til at lære dansk.
+<br><br>
+SAS står for Scandinavian Airlines System, og det er et flyselskab fra Skandinavien, altså Danmark, Sverige og Norge. SAS blev grundlagt i år 1946, kort efter Anden Verdenskrig. På det tidspunkt var flytrafik stadig noget nyt, og det var svært og dyrt at flyve langt. Derfor gik de tre lande sammen om ét fælles flyselskab, så de kunne dele udgifterne og udvikle luftfarten sammen. På det tidspunkt var SAS et konsortium, bestående af tre individuelle flyselskaber fra de tre skandinaviske lande. I starten samarbejdede de kun om lange flyvninger, for eksempel mellem Europa og USA. Men allerede i år 1948 begyndte de også at samarbejde om flyvninger i Europa, og i 1951 blev de tre nationale flyselskaber slået helt sammen til ét selskab, SAS.
+<br><br>
+SAS voksede meget hurtigt i de første mange år. I 1950’erne og 1960’erne blev det mere og mere almindeligt at flyve, og SAS åbnede mange nye ruter. I 1954 blev SAS det første flyselskab i verden til at flyve over Nordpolen. Det var en rute fra København til Los Angeles, og det gjorde rejsen meget kortere at man kunne flyve over Nordpolen. Senere begyndte SAS også at flyve til Tokyo over Nordpolen. Det var meget avanceret på det tidspunkt og gjorde SAS kendt i hele verden. I 1959 fik SAS sine første jetfly, som kunne flyve hurtigere end de gamle propelfly, og i 1971 begyndte de at bruge store jumbojet-fly, som kunne have mange passagerer med.
+<br><br>
+I mange år var SAS et meget succesfuldt selskab. Det havde tusindvis af ansatte og fløj millioner af passagerer hvert år. SAS blev også kendt for god service og høj kvalitet. I 1980’erne havde selskabet dog nogle problemer, fordi det var dyrt at drive. Men en ny direktør, Jan Carlzon, lavede en stor ændring i virksomheden. Han sagde, at SAS skulle fokusere på forretningsrejsende, altså mennesker, der rejser med deres arbejde. Det blev kaldt “The Businessman’s Airline”. Det betød bedre service, flere afgange og fokus på punktlighed. Det blev en succes, og SAS blev i 1983 kåret som verdens bedste flyselskab.
+<br><br>
+Senere begyndte konkurrencen at blive hårdere. Især i 1990’erne og 00’erne kom der mange nye lavprisselskaber. De solgte billige billetter og havde lavere omkostninger. Det var svært for SAS at konkurrere med dem, fordi SAS havde højere lønninger og mere service. Derfor måtte SAS spare penge og ændre virksomheden mange gange. I starten af 00’erne havde SAS store økonomiske problemer og måtte fyre mange medarbejdere. Faktisk gik selskabet fra over 35.000 ansatte til omkring 10.000 ansatte over nogle år.
+<br><br>
+SAS har også været en del af internationale samarbejder. I 1997 var SAS med til at starte Star Alliance, som er et samarbejde mellem mange flyselskaber. Her kan man for eksempel bruge bonuspoint på tværs af selskaber og nemmere skifte fly. Senere, efter en stor omstrukturering, skiftede SAS i 2024 til et andet samarbejde, der hedder SkyTeam, hvor de blandt andet samarbejder med Air France og KLM.
+<br><br>
+De senere år har været meget svære for SAS. Først kom finanskrisen, og senere kom Covid-19-pandemien, hvor næsten ingen mennesker fløj. Det betød store tab for hele luftfartsbranchen. SAS fik hjælp fra den danske og svenske stat, som investerede mange penge i selskabet. Alligevel havde SAS brug for endnu en stor ændring. Derfor gik selskabet gennem en rekonstruktion i 2023 og 2024. Det betød blandt andet, at gamle aktionærer mistede deres penge, og nye ejere kom til. I dag er SAS delvist ejet af den danske stat og udenlandske investorer.
+<br><br>
+Selvom SAS har haft mange problemer, er det stadig et vigtigt flyselskab i Skandinavien. Det forbinder de nordiske lande med resten af verden og spiller en stor rolle for både turisme og erhverv. SAS er også kendt for at være meget punktligt. I flere år har det været et af de mest punktlige flyselskaber i Europa, og i nogle perioder i verden. De er også stadig kendt for deres gode service. Fx bliver der altid serveret gratis kaffe og te, selv på de helt korte flyvninger.
+<br><br>
+I dag arbejder SAS også meget med klima og bæredygtighed. Flytrafik udleder meget CO2, og derfor forsøger SAS at reducere sin påvirkning af miljøet. Selskabet har mål om at reducere sin CO2-udledning, bruge mere bæredygtigt brændstof og genanvende materialer. For eksempel vil SAS gerne have nul netto-CO2-udledning i 2050.
+<br><br>
+SAS er altså et flyselskab med en lang og spændende historie. Det startede som et samarbejde mellem tre små lande og blev et stort internationalt selskab. Det har haft både succes og kriser, men det eksisterer stadig i dag og udvikler sig hele tiden.
+<br><br>
+Det var alt for denne episode. Jeg håber du er blevet klogere på SAS’ historie. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/03/Episode-105.wav"></audio> </td>
 <td> 
 <details>
