@@ -507,7 +507,7 @@
 - dansk: at aftale
   ordnet: https://ordnet.dk/ddo/ordbog?query=aftale
   audio_id: aftale
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11000/11000809_1.mp3
   ipa: '[ˈɑwˌtæːlə]'
   nutid: aftaler
   datid: aftalte
@@ -1200,7 +1200,7 @@
 - dansk: at begrønne
   ordnet: https://ordnet.dk/ddo/ordbog?query=begr%C3%B8nne
   audio_id: begrønne
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/49147/49147479_1.mp3
   ipa: '[beˈgʁɶnˀə]'
   nutid: begrønner
   datid: begrønnede
@@ -2058,7 +2058,7 @@
 - dansk: at bløde
   ordnet: https://ordnet.dk/ddo/ordbog?query=bl%C3%B8de
   audio_id: bløde
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11005/11005392_1.mp3
   ipa: '[ˈbløːðə]'
   nutid: bløder
   datid: blødte
@@ -2553,7 +2553,7 @@
 - dansk: at deltage
   ordnet: https://ordnet.dk/ddo/ordbog?query=deltage
   audio_id: deltage
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11008/11008669_1.mp3
   ipa: '[ˈdelˌtæˀ]'
   nutid: deltager
   datid: deltog
@@ -4962,7 +4962,7 @@
 - dansk: at fritere
   ordnet: https://ordnet.dk/ddo/ordbog?query=fritere
   audio_id: fritere
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/41000/41000828_1.mp3
   ipa: '[fʁiˈteˀʌ]'
   nutid: friterer
   datid: friterede
@@ -5391,7 +5391,7 @@
 - dansk: at gentænke
   ordnet: https://ordnet.dk/ddo/ordbog?query=gent%C3%A6nke
   audio_id: gentænke
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/45002/45002092_1.mp3
   ipa: '[-ˌtεŋˀgə]'
   nutid: gentænker
   datid: gentænkte
@@ -5721,7 +5721,7 @@
 - dansk: at hashtagge
   ordnet: https://ordnet.dk/ddo/ordbog?query=hashtagge
   audio_id: hashtagge
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/41003/41003193_1.mp3
   ipa: '[ˈhaɕˌtagə]'
   nutid: hashtagger
   datid: hashtaggede
@@ -8339,7 +8339,7 @@
 - dansk: at modsvare
   ordnet: https://ordnet.dk/ddo/ordbog?query=modsvare
   audio_id: modsvare
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11034/11034149_1.mp3
   ipa: '[-ˌsvɑˀɑ]'
   nutid: modsvarer
   datid: modsvarede
@@ -8581,8 +8581,8 @@
 - dansk: at nedskalere
   ordnet: https://ordnet.dk/ddo/ordbog?query=nedskalere
   audio_id: nedskalere
-  mp3: ''
-  ipa: '[-ˌskɑˀlə]'
+  mp3: https://static.ordnet.dk/mp3/49001/49001506_1.mp3
+  ipa: ''
   nutid: nedskalerer
   datid: nedskalerede
   fornutid: har nedskaleret
@@ -8746,7 +8746,7 @@
 - dansk: at nøje
   ordnet: https://ordnet.dk/ddo/ordbog?query=n%C3%B8je
   audio_id: nøje
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11036/11036701_1.mp3
   ipa: '[ˈnʌjə]'
   nutid: nøjes
   datid: nøjedes
@@ -8955,8 +8955,8 @@
 - dansk: at omtale
   ordnet: https://ordnet.dk/ddo/ordbog?query=omtale
   audio_id: omtale
-  mp3: ''
-  ipa: '[-ˌtæˀlə]'
+  mp3: https://static.ordnet.dk/mp3/11037/11037257_1.mp3
+  ipa: '[-ˌtæːlə]'
   nutid: omtaler
   datid: omtalte
   fornutid: har omtalt
@@ -8966,7 +8966,7 @@
 - dansk: at omvende
   ordnet: https://ordnet.dk/ddo/ordbog?query=omvende
   audio_id: omvende
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11037/11037270_1.mp3
   ipa: '[-ˌvεnˀə]'
   nutid: omvender
   datid: omvendte
@@ -9010,7 +9010,7 @@
 - dansk: at opdage
   ordnet: https://ordnet.dk/ddo/ordbog?query=opdage
   audio_id: opdage
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11037/11037353_1.mp3
   ipa: '[ˈʌbˌdæˀjə]'
   nutid: opdager
   datid: opdagede
@@ -9560,7 +9560,7 @@
 - dansk: at overføre
   ordnet: https://ordnet.dk/ddo/ordbog?query=overf%C3%B8re
   audio_id: overføre
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11038/11038287_1.mp3
   ipa: '[ˈɒwʌˌføˀʌ]'
   nutid: overfører
   datid: overførte
@@ -9604,7 +9604,7 @@
 - dansk: at overlade
   ordnet: https://ordnet.dk/ddo/ordbog?query=overlade
   audio_id: overlade
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11038/11038362_1.mp3
   ipa: '[-ˌlæˀðə]'
   nutid: overlader
   datid: overlod
@@ -9692,7 +9692,7 @@
 - dansk: at overtage
   ordnet: https://ordnet.dk/ddo/ordbog?query=overtage
   audio_id: overtage
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11038/11038515_1.mp3
   ipa: '[-ˌtæˀ]'
   nutid: overtager
   datid: overtog
@@ -9703,7 +9703,7 @@
 - dansk: at overtale
   ordnet: https://ordnet.dk/ddo/ordbog?query=overtale
   audio_id: overtale
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11038/11038518_1.mp3
   ipa: '[-ˌtæˀlə]'
   nutid: overtaler
   datid: overtalte
@@ -9989,7 +9989,7 @@
 - dansk: at preppe
   ordnet: https://ordnet.dk/ddo/ordbog?query=preppe
   audio_id: preppe
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/49001/49001909_1.mp3
   ipa: '[ˈpɹεbə]'
   nutid: prepper
   datid: preppede
@@ -10946,7 +10946,7 @@
 - dansk: at rådgive
   ordnet: https://ordnet.dk/ddo/ordbog?query=rådgive
   audio_id: rådgive
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11044/11044287_1.mp3
   ipa: '[ˈʁʌðˌgiˀ]'
   nutid: rådgiver
   datid: rådgav
@@ -11045,7 +11045,7 @@
 - dansk: at score
   ordnet: https://ordnet.dk/ddo/ordbog?query=score
   audio_id: score
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11045/11045110_1.mp3
   ipa: '[ˈsgoːʌ]'
   nutid: scorer
   datid: scorede
@@ -11111,8 +11111,8 @@
 - dansk: at ses
   ordnet: https://ordnet.dk/ddo/ordbog?query=ses
   audio_id: ses
-  mp3: ''
-  ipa: '[ˈseˀs]'
+  mp3: https://static.ordnet.dk/mp3/11045/11045127_1.mp3
+  ipa: '[ˈseˀ]'
   nutid: ses
   datid: sås
   fornutid: har sets
@@ -11144,7 +11144,7 @@
 - dansk: at sidestille
   ordnet: https://ordnet.dk/ddo/ordbog?query=sidestille
   audio_id: sidestille
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11045/11045866_1.mp3
   ipa: '[-ˌsdelˀə]'
   nutid: sidestiller
   datid: sidestillede
@@ -11573,7 +11573,7 @@
 - dansk: at skype
   ordnet: https://ordnet.dk/ddo/ordbog?query=skype
   audio_id: skype
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/41001/41001136_1.mp3
   ipa: '[ˈsgɑjbə]'
   nutid: skyper
   datid: skypede
@@ -13388,7 +13388,7 @@
 - dansk: at tilhøre
   ordnet: https://ordnet.dk/ddo/ordbog?query=tilh%C3%B8re
   audio_id: tilhøre
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12001/12001149_1.mp3
   ipa: '[ˈtelˌhøˀʌ]'
   nutid: tilhører
   datid: tilhørte
@@ -13399,7 +13399,7 @@
 - dansk: at tilkalde
   ordnet: https://ordnet.dk/ddo/ordbog?query=tilkalde
   audio_id: tilkalde
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12001/12001160_1.mp3
   ipa: '[ˈtelˌkalˀə]'
   nutid: tilkalder
   datid: tilkaldte
@@ -13531,8 +13531,8 @@
 - dansk: at tilstede
   ordnet: https://ordnet.dk/ddo/ordbog?query=tilstede
   audio_id: tilstede
-  mp3: ''
-  ipa: '[ˈtelˌsteˀðə]'
+  mp3: https://static.ordnet.dk/mp3/12001/12001315_1.mp3
+  ipa: '[-ˌsdεˀðə]'
   nutid: tilsteder
   datid: tilstedte
   fornutid: har tilstedt
@@ -14059,8 +14059,8 @@
 - dansk: at udbetale
   ordnet: https://ordnet.dk/ddo/ordbog?query=udbetale
   audio_id: udbetale
-  mp3: ''
-  ipa: '[ˈuðˌbeˀtælə]'
+  mp3: https://static.ordnet.dk/mp3/12003/12003650_1.mp3
+  ipa: ''
   nutid: udbetaler
   datid: udbetalte
   fornutid: har udbetalt
@@ -14499,7 +14499,7 @@
 - dansk: at udstøde
   ordnet: https://ordnet.dk/ddo/ordbog?query=udst%C3%B8de
   audio_id: udstøde
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12004/12004199_1.mp3
   ipa: '[ˈuðˌsdøˀðə]'
   nutid: udstøder
   datid: udstødte
@@ -14873,8 +14873,8 @@
 - dansk: at vedhæfte
   ordnet: https://ordnet.dk/ddo/ordbog?query=vedhæfte
   audio_id: vedhæfte
-  mp3: ''
-  ipa: '[ˈveðˌhεftə]'
+  mp3: https://static.ordnet.dk/mp3/12005/12005998_1.mp3
+  ipa: ''
   nutid: vedhæfter
   datid: vedhæftede
   fornutid: har vedhæftet
@@ -15368,7 +15368,7 @@
 - dansk: at øge
   ordnet: https://ordnet.dk/ddo/ordbog?query=%C3%B8ge
   audio_id: øge
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12008/12008195_1.mp3
   ipa: '[ˈøːjə]'
   nutid: øger
   datid: øgede
@@ -15379,7 +15379,7 @@
 - dansk: at ønske
   ordnet: https://ordnet.dk/ddo/ordbog?query=%C3%B8nske
   audio_id: ønske
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12008/12008309_1.mp3
   ipa: '[ˈønsgə]'
   nutid: ønsker
   datid: ønskede
@@ -15401,7 +15401,7 @@
 - dansk: at øse
   ordnet: https://ordnet.dk/ddo/ordbog?query=%C3%B8se
   audio_id: øse
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12008/12008379_1.mp3
   ipa: '[ˈøːsə]'
   nutid: øser
   datid: øsede/øste

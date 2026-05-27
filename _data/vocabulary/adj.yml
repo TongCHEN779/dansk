@@ -621,7 +621,7 @@
 - dansk: bestående
   ordnet: https://ordnet.dk/ddo/ordbog?query=best%C3%A5ende
   audio_id: bestående
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/49002/49002801_1.mp3
   ipa: '[beˈsdɔˀənə]'
   t_form: bestående
   e_form: bestående
@@ -2861,7 +2861,7 @@
 - dansk: hestetrukken
   ordnet: https://ordnet.dk/ddo/ordbog?query=hestetrukken
   audio_id: hestetrukken
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/53200/53200184_1.mp3
   ipa: '[-ˌtʁɔgən]'
   t_form: hestetrukket
   e_form: hestetrukne
@@ -3691,8 +3691,8 @@
 - dansk: kraniosakral
   ordnet: https://ordnet.dk/ddo/ordbog?query=kraniosakral
   audio_id: kraniosakral
-  mp3: ''
-  ipa: '[ˈkʁɑnjosaˌkʁɑˀl]'
+  mp3: https://static.ordnet.dk/mp3/49001/49001425_1.mp3
+  ipa: '[ˈkʁɑˀnjosaˌkʁɑˀl]'
   t_form: kraniosakral
   e_form: kraniosakrale
   komparativ: mere kraniosakral
@@ -4381,8 +4381,8 @@
 - dansk: meget
   ordnet: https://ordnet.dk/ddo/ordbog?query=meget
   audio_id: meget
-  mp3: ''
-  ipa: '[ˈmɑɑð]'
+  mp3: https://static.ordnet.dk/mp3/11032/11032996_1.mp3
+  ipa: '[ˈmɑjən]'
   t_form: meget
   e_form: meget
   komparativ: mere
@@ -4671,7 +4671,7 @@
 - dansk: målrettet
   ordnet: https://ordnet.dk/ddo/ordbog?query=m%C3%A5lrettet
   audio_id: målrettet
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/41002/41002634_1.mp3
   ipa: '[-ˌʁadəð]'
   t_form: målrettet
   e_form: målrettede
@@ -4971,7 +4971,7 @@
 - dansk: nøjagtig
   ordnet: https://ordnet.dk/ddo/ordbog?query=n%C3%B8jagtig
   audio_id: nøjagtig
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11036/11036699_1.mp3
   ipa: '[nʌjˈɑgdi]'
   t_form: nøjagtigt
   e_form: nøjagtige
@@ -5261,7 +5261,7 @@
 - dansk: overensstemmende
   ordnet: https://ordnet.dk/ddo/ordbog?query=overensstemmende
   audio_id: overensstemmende
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11038/11038254_1.mp3
   ipa: '[-ˌsdεmˀənə]'
   t_form: overensstemmende
   e_form: overensstemmende
@@ -5321,7 +5321,7 @@
 - dansk: overskydende
   ordnet: https://ordnet.dk/ddo/ordbog?query=overskydende
   audio_id: overskydende
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11038/11038466_1.mp3
   ipa: '[ˈɒwʌˌsgyˀðənə]'
   t_form: overskydende
   e_form: overskydende
@@ -5791,7 +5791,7 @@
 - dansk: rigid
   ordnet: https://ordnet.dk/ddo/ordbog?query=rigid
   audio_id: rigid
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11043/11043332_1.mp3
   ipa: '[ʁiˈgiðˀ]'
   t_form: rigidt
   e_form: rigide
@@ -5991,7 +5991,7 @@
 - dansk: sagkyndig
   ordnet: https://ordnet.dk/ddo/ordbog?query=sagkyndig
   audio_id: sagkyndig
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11044/11044405_1.mp3
   ipa: '[ˈsɑwˌkønˀdi]'
   t_form: sagkyndigt
   e_form: sagkyndige
@@ -6021,7 +6021,7 @@
 - dansk: sammenhængende
   ordnet: https://ordnet.dk/ddo/ordbog?query=sammenhængende
   audio_id: sammenhængende
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11044/11044699_1.mp3
   ipa: '[-ˌhεŋˀənə]'
   t_form: sammenhængende
   e_form: sammenhængende
@@ -6421,7 +6421,7 @@
 - dansk: slesvigsk
   ordnet: https://ordnet.dk/ddo/ordbog?query=slesvigsk
   audio_id: slesvigsk
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11047/11047679_1.mp3
   ipa: '[ˈsleˀsvisg]'
   t_form: slesvigsk
   e_form: slesvigske
@@ -6751,7 +6751,7 @@
 - dansk: stiltiende
   ordnet: https://ordnet.dk/ddo/ordbog?query=stiltiende
   audio_id: stiltiende
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11050/11050345_1.mp3
   ipa: '[ˈsdelˌtiˀənə]'
   t_form: stiltiende
   e_form: stiltiende
@@ -6891,7 +6891,7 @@
 - dansk: sundhedsmæssig
   ordnet: https://ordnet.dk/ddo/ordbog?query=sundhedsm%C3%A6ssig
   audio_id: sundhedsmæssig
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/51004/51004174_2.mp3
   ipa: '[-ˌmεˀsi]'
   t_form: sundhedsmæssigt
   e_form: sundhedsmæssige
@@ -7071,7 +7071,7 @@
 - dansk: særegen
   ordnet: https://ordnet.dk/ddo/ordbog?query=særegen
   audio_id: særegen
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11052/11052236_1.mp3
   ipa: '[-ˌeˀjən]'
   t_form: særegent
   e_form: særegne
@@ -7091,7 +7091,7 @@
 - dansk: særpræget
   ordnet: https://ordnet.dk/ddo/ordbog?query=særpræget
   audio_id: særpræget
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/11052/11052253_1.mp3
   ipa: '[-ˌpʁεˀjəð]'
   t_form: særpræget
   e_form: særprægede
@@ -7291,7 +7291,7 @@
 - dansk: tilbagevendende
   ordnet: https://ordnet.dk/ddo/ordbog?query=tilbagevendende
   audio_id: tilbagevendende
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12001/12001058_1.mp3
   ipa: '[-ˌvεnˀənə]'
   t_form: tilbagevendende
   e_form: tilbagevendende
@@ -7381,7 +7381,7 @@
 - dansk: tilsyneladende
   ordnet: https://ordnet.dk/ddo/ordbog?query=tilsyneladende
   audio_id: tilsyneladende
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12001/12001339_1.mp3
   ipa: '[teˈsyːnəˌlæˀðənə]'
   t_form: tilsyneladende
   e_form: tilsyneladende
@@ -7611,7 +7611,7 @@
 - dansk: tværgående
   ordnet: https://ordnet.dk/ddo/ordbog?query=tv%C3%A6rg%C3%A5ende
   audio_id: tværgående
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12003/12003075_1.mp3
   ipa: '[ˈtvεɐ̯ˌgɔˀənə]'
   t_form: tværgående
   e_form: tværgående
@@ -7681,7 +7681,7 @@
 - dansk: tætpakket
   ordnet: https://ordnet.dk/ddo/ordbog?query=t%C3%A6tpakket
   audio_id: tætpakket
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12003/12003312_1.mp3
   ipa: '[-ˌpɑgəð]'
   t_form: tætpakket
   e_form: tætpakkede
@@ -7701,7 +7701,7 @@
 - dansk: tørstig
   ordnet: https://ordnet.dk/ddo/ordbog?query=t%C3%B8rstig
   audio_id: tørstig
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12003/12003420_1.mp3
   ipa: '[ˈtɶɐ̯sdi]'
   t_form: tørstigt
   e_form: tørstige
@@ -7751,7 +7751,7 @@
 - dansk: uagtsom
   ordnet: https://ordnet.dk/ddo/ordbog?query=uagtsom
   audio_id: uagtsom
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12003/12003514_1.mp3
   ipa: '[uˈɑgdˌsʌmˀ]'
   t_form: uagtsomt
   e_form: uagtsomme
@@ -8108,16 +8108,6 @@
   komparativ: mere uhøjtidelig
   superlativ: mest uhøjtidelig
   engelsk: casual
-- dansk: uinspirerende
-  ordnet: https://ordnet.dk/ddo/ordbog?query=uinspirerende
-  audio_id: uinspirerende
-  mp3: ''
-  ipa: '[ˈuˌinspiʁəʁənə]'
-  t_form: uinspirerende
-  e_form: uinspirerende
-  komparativ: mere uinspirerende
-  superlativ: mest uinspirerende
-  engelsk: uninspiring
 - dansk: uinteressant
   ordnet: https://ordnet.dk/ddo/ordbog?query=uinteressant
   audio_id: uinteressant
@@ -8261,7 +8251,7 @@
 - dansk: underjordisk
   ordnet: https://ordnet.dk/ddo/ordbog?query=underjordisk
   audio_id: underjordisk
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12004/12004784_1.mp3
   ipa: '[-ˌjoɐ̯ˀdisg]'
   t_form: underjordisk
   e_form: underjordiske
@@ -8781,7 +8771,7 @@
 - dansk: venstre
   ordnet: https://ordnet.dk/ddo/ordbog?query=venstre
   audio_id: venstre
-  mp3: ''
+  mp3: https://static.ordnet.dk/mp3/12006/12006337_1.mp3
   ipa: '[ˈvεnsdʁʌ]'
   t_form: venstre
   e_form: venstre

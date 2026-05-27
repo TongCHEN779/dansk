@@ -32,7 +32,7 @@ sections:
     eksempler: Jeg gør det aldrig mere.
   - adverb: allevegne, alle vegne
     audio_id: allevegne
-    mp3: ''
+    mp3: https://static.ordnet.dk/mp3/11001/11001345_1.mp3
     ipa: '[ˈaləˌvɑjnə]'
     engelsk: everywhere
     eksempler: De ledte efter hende allevegne. Under sengen, bag ved sofaen og inde i fars og mors soveværelse.
@@ -308,7 +308,7 @@ sections:
     eksempler: Man har ligefrem taget baner fra bilerne og begrænset antallet af parkeringspladser.
   - adverb: ligesom
     audio_id: ligesom
-    mp3: ''
+    mp3: https://static.ordnet.dk/mp3/11030/11030411_1.mp3
     ipa: '[ˈlisʌm]'
     engelsk: as well as, just like, as if
     eksempler: Johannes daskede ligesom tilfældigt hen og så på.
@@ -356,7 +356,7 @@ sections:
     eksempler: Omtrent 50 procent af dem, som arbejder i kunstig belysning, klager over hovedpine og ondt i øjnene.
   - adverb: ovenikøbet, oven i købet
     audio_id: ovenikøbet
-    mp3: ''
+    mp3: https://static.ordnet.dk/mp3/11038/11038153_1.mp3
     ipa: '[ˈɒwəniˌkøˀbəð]'
     engelsk: even, on top of that
     eksempler: Et medlemskort koster bare 50 kr., og det giver ovenikøbet rabat på entréerne til de forskellige arrangementer.
@@ -440,7 +440,7 @@ sections:
     eksempler: Nogle havde vi truffet aftale med i forvejen, og andre mødte vi tilfældigt.
   - adverb: tilovers
     audio_id: tilovers
-    mp3: ''
+    mp3: https://static.ordnet.dk/mp3/12001/12001239_1.mp3
     ipa: '[teˈɒwˀʌs]'
     engelsk: left over
     eksempler: Jeg havde 5 minutter tilovers så jeg satte mig ind i vores opholdsrum og slappede lidt af.
@@ -753,7 +753,7 @@ sections:
     eksempler: Jeg har været væk en tid, men nu er jeg tilbage.
   - adverb: ombord, om bord
     audio_id: ombord
-    mp3: ''
+    mp3: https://static.ordnet.dk/mp3/41001/41001089_1.mp3
     ipa: '[ʌmˈboˀɐ̯]'
     engelsk: on board
     eksempler: En skitse over færgens indretning med anvisning af eventuelle flugtveje burde udleveres til hver passager inden man går eller kører om bord.
@@ -813,7 +813,7 @@ sections:
     eksempler: Jeg kom tilfældigvis til at stå ved siden af Anette.
   - adverb: tilsammen (med)
     audio_id: tilsammen
-    mp3: ''
+    mp3: https://static.ordnet.dk/mp3/12001/12001271_1.mp3
     ipa: '[teˈsɑmˀən]'
     engelsk: together (with)
     eksempler: Tilsammen udgjorde de et stærkt hold. Så længe de kunne enes.

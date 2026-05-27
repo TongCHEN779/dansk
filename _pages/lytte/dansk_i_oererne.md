@@ -11,6 +11,46 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/05/Episode-107.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 107 - Kapsejladsen på Aarhus Universitet </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om en meget særlig begivenhed, der finder sted i universitetsparken ved Aarhus Universitet hvert forår. Begivenheden er særlig af flere grunde. Både fordi det er Nordeuropas største studenterdrevne begivenhed. Men også fordi den har en ret sjov historie, og fordi begivenheden fortæller en del om dansk ungdomskultur. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, finde ordlister, downloade episoden og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo. Og husk at du kan følge podcasten på Instagram, hvor jeg deler endnu mere gratis indhold til at lære dansk.
+<br><br>
+Kapsejladsen på Aarhus Universitet er en helt særlig tradition, som hvert år samler tusindvis af studerende i Universitetsparken midt i Aarhus. Det hele foregår ved en af de meget små søer i parken, og selvom det måske lyder som en lille konkurrence, så er det i dag blevet en kæmpe festdag med op til 35.000 tilskuere. For mange studerende er det årets højdepunkt, og det er også et helt særligt kendetegn ved at være studerende på Aarhus Universitet.
+<br><br>
+Ideen til at afholde en kapsejlads, opstod i år 1991. Medicinstudiet og tandlægestudiet havde holdt en fest sammen, og under oprydningen efter festen fik de studerende en sjov ide. De ville holde en lille konkurrence på søen i Universitetsparken, inspireret af de meget kendte og seriøse ro-konkurrencer, der afholdes mellem Oxford University og Cambridge University. Da man afholdt konkurrencen første gang, var den lille og helt uformel. Men allerede året efter begyndte man at dyste om et trofæ, som fik navnet “Det Gyldne Bækken”. Trofæet er faktisk et gammelt bækken, som normalt bruges på hospitaler, og det blev købt som en sjov præmie. Siden da er det blevet et symbol på ære og stolthed.
+<br><br>
+Konceptet og reglerne har selvfølgelig udviklet sig over årene. I dag foregår konkurrencen som en slags stafet, hvor hvert hold består af fem deltagere. Hvert hold skal have både mænd og kvinder med. Holdene kommer fra forskellige studier og festforeninger, for eksempel medicin, jura, økonomi og statskundskab. Der er normalt cirka 14 hold med, men et af holdene skal være dommer for konkurrencen. Hvert år roterer dommerposten. Reglerne er ret simple, men samtidig svære at udføre i praksis. En deltager skal ro over søen i en oppustelig båd eller kajak, som holdet selv har med. Når deltageren kommer over på den anden side, skal personen drikke en hel flaske øl, snurre rundt om flasken 10 gange og derefter ro tilbage igen. Når man kommer tilbage, giver man stafetten videre til næste deltager. Det hold, der først får alle fem deltagere igennem, vinder. Hvis man spilder sin øl eller hælder noget af øllen ud, så kan dommeren tildele strafrunder. Ølflasken må maksimalt holdes 10 centimeter over jorden, imens der snurres. Når man skifter sejler i båden, skal båden være i kontakt med søens kant, før sejlerne må bytte plads.
+<br><br>
+Selvom det lyder simpelt, er det faktisk ret svært. Når man har drukket en øl hurtigt og snurret rundt mange gange, bliver man meget svimmel. Nogle deltagere falder, mister balancen eller hopper ved siden af båden. Derfor træner mange hold i flere måneder før kapsejladsen. De øver sig i at ro hurtigt, drikke øl hurtigt og holde balancen efter at have snurret rundt. Nogle træner op til syv gange om ugen. Samtidig er det også en social ting, hvor holdene hygger sig sammen, griller og holder fester. Og naturligvis bruger de meget tid på at træne at bunde sin øl hurtigt!
+<br><br>
+I de tidlige år var reglerne ikke så strenge, og der blev snydt en del. Medicinstuderende, som ofte arrangerede kapsejladsen, kunne finde på at ændre reglerne undervejs. Der findes mange historier om snyd og vilde tricks. For eksempel har en deltager brugt svømmefødder for at komme hurtigere over søen. En anden gang blev et hold stoppet med vand fra en brandslange. Der er også historier om, at deltagere blev “kidnappet” før finalen, så de ikke kunne konkurrere. I dag er der fokus på fairness, og reglerne bliver håndhævet strengt.
+<br><br>
+Selvom sejladsen først begynder efter frokost, er der rigtig mange studerende, der møder op midt om natten for at sikre sig en god plads med udsigt til søen. Typisk deler vennegrupperne sig op i to: den ene halvdel møder op klokken 2 om natten og sikrer vennerne nogle gode pladser. Den anden halvdel møder op klokken 6 eller 7 med morgenmad og kaffe. Ved solopgang bliver der sunget to sange, og det er et smukt syn at se solen stå op over søen, mens tusindvis af unge mennesker synger i kor. En af de mest spektakulære dele af kapsejladsen er holdenes indmarch. Indmarchen er den måde, holdene præsenterer sig selv på, inden konkurrencen starter. Her går de ned til søen i kostumer og laver ofte store shows. Igennem tiden har der været helikoptere, kameler, elefanter og store sceneshows med musik og dans. Holdene bruger flere måneder på at planlægge deres indmarch, og for mange tilskuere er det næsten lige så vigtigt som selve konkurrencen. I forbindelse med indmarchen får hvert hold også produceret en sang. Det er ofte en sang, hvor de med masser af ironi og humor roser sig selv til skyerne, og kritiserer de andre med grove fornærmelser.
+<br><br>
+Gennem årene er kapsejladsen vokset meget. Fra at være en lille konkurrence mellem få studerende er det nu en af de største studenterbegivenheder i Europa. Der er madboder, barer, musik og der kommer altid en kendt, dansk kunstner og optræder.  Bl.a. har Tessa, Tobias Rahim og URO spillet. Der er også to kendte konferencierer, som styrer showet og taler til publikum. Aarhus Kommunes borgmester deltager også altid.
+<br><br>
+Kapsejladsen har også haft nogle specielle år. I 2020 blev arrangementet holdt i hemmelighed på grund af corona, og der var ingen tilskuere. I 2021 var der kun få hundrede mennesker til stede. I stedet blev det livestreamet. Et andet år blev et hold diskvalificeret i finalen, selvom de kom først over målstregen, fordi de havde sejlet ind i et andet holds bane.
+<br><br>
+Selvom konkurrencen er vigtig, handler kapsejladsen også meget om fællesskab. Det er en dag, hvor studerende fra mange forskellige uddannelser mødes og fejrer studielivet. Det er også en vigtig del af Aarhus Universitets identitet. Universitetet bruger begivenheden som en måde at vise, hvor stærkt fællesskabet er, og det gør Aarhus til en attraktiv studieby.
+<br><br>
+Bag arrangementet står studerende selv. Hvert år er det typisk to medicinstuderende, der har hovedansvaret for at planlægge det hele. De bruger omkring otte måneder på arbejdet og mange timer hver uge. Derudover hjælper omkring 250 frivillige med at få dagen til at fungere. Det hele er altså drevet af studerende for studerende.
+<br><br>
+Når dagen er slut, er der også meget arbejde med oprydning. Efter en dag med 30.000 mennesker er der meget affald i parken. Derfor hjælper alle foreninger med at rydde op, så området bliver pænt igen. Det er vigtigt, fordi Universitetsparken er kendt som en af de flotteste universitetsparker i verden.
+<br><br>
+Kapsejladsen er i dag meget mere end bare en konkurrence. Det er en tradition, en fest og en oplevelse, som mange studerende husker resten af livet. Det er en dag fyldt med spænding, humor, fællesskab og måske også lidt kaos. Og selvom det hele startede som en lille idé efter en fest, er det i dag en stor og vigtig del af studielivet i Aarhus. Jeg har selv studeret på Aarhus Universitet, og jeg har mange gode, sjove og festlige minder som tilskuer til kapsejlads. Hvis du bor i Aarhus, vil jeg anbefale at gå forbi kapsejladsen i løbet af formiddagen. Selvom begivenheden er for studerende, foregår det jo i en åben park. Det kræver ingen billet eller armbånd, så du kan gå en tur og nyde energien fra 30.000 glade, unge studerende.
+<br><br>
+Det var alt for denne episode. Jeg kan anbefale at du søger ”kapsejlads Aarhus” på YouTube og ser nogle videoer fra arrangementet. Det giver en bedre fornemmelse af hvor stor en begivenhed, det faktisk er. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/03/Episode-106.wav"></audio> </td>
 <td> 
 <details>

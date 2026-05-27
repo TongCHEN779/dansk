@@ -39,9 +39,22 @@ def fetch_pronunciation(word):
 
     return mp3, ipa
 
+def _entry_matches(entry, word_key, word):
+    """Match by audio_id (most reliable) or by the word field."""
+    if entry.get("audio_id", "") == word:
+        return True
+    val = entry.get(word_key, "")
+    # Strip article / infinitive marker for bare-word lookup
+    bare = val.strip()
+    for prefix in ("at ", "en ", "et "):
+        if bare.startswith(prefix):
+            bare = bare[len(prefix):]
+    bare = bare.split("(")[0].strip()  # remove "(af)" etc.
+    return bare == word or val == word
+
 def update_flat(data, word_key, word, mp3, ipa):
     for entry in data:
-        if entry.get(word_key, "").strip().lstrip("at ") == word or entry.get(word_key, "") == word:
+        if _entry_matches(entry, word_key, word):
             entry["mp3"] = mp3
             entry["ipa"] = ipa
             entry["audio_id"] = word
@@ -51,7 +64,7 @@ def update_flat(data, word_key, word, mp3, ipa):
 def update_sections(data, word_key, word, mp3, ipa):
     for section in data.get("sections", []):
         for entry in section.get("entries", []):
-            if entry.get(word_key, "") == word:
+            if _entry_matches(entry, word_key, word):
                 entry["mp3"] = mp3
                 entry["ipa"] = ipa
                 entry["audio_id"] = word

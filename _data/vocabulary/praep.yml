@@ -1,16 +1,16 @@
 - praep: ad
   engelsk: along
   eksempler: De gik hen ad fortovet.
-- praep: ad
+- praep: \-
   engelsk: together
   eksempler: De kom til eksamen to ad gangen.
 - praep: af
   engelsk: of
   eksempler: De gik ud af huset.
-- praep: af
+- praep: \-
   engelsk: from
   eksempler: Hun er af "fin" familie.
-- praep: af
+- praep: \-
   engelsk: 'off'
   eksempler: Han har taget af kassen.
 - praep: bagi, bag i
@@ -18,49 +18,28 @@
   eksempler: Litteraturlisten bagi bogen er meget tynd, og det fremgår ikke, hvordan de forskellige værker er blevet brugt.
 - praep: bagved (bag)
   engelsk: behind
-  eksempler: Bolden ligger bagved kassen.
-- praep: bagved (bag)
-  engelsk: behind
-  eksempler: Bag enhver formue ligger en forbrydelse.
-- praep: bagved (bag)
-  engelsk: behind
-  eksempler: Der står en kvinde bag enhver dygtig mand.
+  eksempler: Bolden ligger bagved kassen. / Bag enhver formue ligger en forbrydelse. / Der står en kvinde bag enhver dygtig mand.
 - praep: blandt
   engelsk: in between
-  eksempler: Charmen skrues der først op for, når han er blandt venner og familie.
-- praep: blandt
-  engelsk: in between
-  eksempler: Oppe nordpå ligger en lille landsby inde blandt nogle små bjerge.
-- praep: blandt
+  eksempler: Charmen skrues der først op for, når han er blandt venner og familie. / Oppe nordpå ligger en lille landsby inde blandt nogle små bjerge.
+- praep: \-
   engelsk: among
-  eksempler: Maja Riis blev udvalgt blandt 100 håbefulde piger.
-- praep: blandt
-  engelsk: among
-  eksempler: Han var den største og stærkeste blandt ridderne.
+  eksempler: Maja Riis blev udvalgt blandt 100 håbefulde piger. / Han var den største og stærkeste blandt ridderne.
 - praep: blandt
   engelsk: e.g., including
-  eksempler: Mange konger har også boet her, blandt andre Kong Hans, Kong Knud og Christoffer af Bayern.
-- praep: blandt
-  engelsk: e.g., including
-  eksempler: Odin var blandt meget andet runernes og magiens herre.
+  eksempler: Mange konger har også boet her, blandt andre Kong Hans, Kong Knud og Christoffer af Bayern. / Odin var blandt meget andet runernes og magiens herre.
 - praep: efter
   engelsk: after
-  eksempler: De har lukket efter kl. halv seks.
-- praep: efter
-  engelsk: after
-  eksempler: Hunden løber efter biler.
+  eksempler: De har lukket efter kl. halv seks. / Hunden løber efter biler.
 - praep: for
   engelsk: for
   eksempler: Han gjorde det for børnenes skyld.
 - praep: foran
   engelsk: in front of
   eksempler: Bolden ligger foran kassen.
-- praep: foran
+- praep: \-
   engelsk: ahead of
-  eksempler: Hun vil helst være foran sine kammerater.
-- praep: foran
-  engelsk: ahead of
-  eksempler: Det danske skolesystem er ikke foran resten af verden.
+  eksempler: Hun vil helst være foran sine kammerater. \ Det danske skolesystem er ikke foran resten af verden.
 - praep: fra
   engelsk: from
   eksempler: Jeg kommer fra Kina.
@@ -70,39 +49,21 @@
 - praep: før
   engelsk: before
   eksempler: Han kom i mål før de andre.
-- praep: før
+- praep: \-
   engelsk: (not) until
   eksempler: De åbner ikke før klokken halv ti.
 - praep: gennem, igennem
   engelsk: through
   eksempler: Vi gik gennem bagdøren.
-- praep: gennem, igennem
+- praep: \-
   engelsk: for
   eksempler: Han har været syg gennem flere år.
 - praep: hos
   engelsk: at
-  eksempler: Hun bor hos sin farmor.
-- praep: hos
-  engelsk: at
-  eksempler: Henne hos lægen mødte jeg fru Jensen.
-- praep: hos
-  engelsk: at
-  eksempler: De har mange kager hos bageren.
+  eksempler: Hun bor hos sin farmor. \ Henne hos lægen mødte jeg fru Jensen. \ De har mange kager hos bageren.
 - praep: i (lande, byer, tid)
   engelsk: in, at
-  eksempler: Bolden ligger i kassen.
-- praep: i (lande, byer, tid)
-  engelsk: in, at
-  eksempler: I virkeligheden er det ikke så svært.
-- praep: i (lande, byer, tid)
-  engelsk: in, at
-  eksempler: Hun blander sig i alt.
-- praep: i (lande, byer, tid)
-  engelsk: in, at
-  eksempler: De kommer i morgen.
-- praep: i (lande, byer, tid)
-  engelsk: in, at
-  eksempler: De så fjernsyn i aftes, og de skal se fjernsyn igen i aften. (=i går og i dag)
+  eksempler: Bolden ligger i kassen. \ I virkeligheden er det ikke så svært. \ Hun blander sig i alt. \ De kommer i morgen. \ De så fjernsyn i aftes, og de skal se fjernsyn igen i aften. (=i går og i dag)
 - praep: i en sidegade til
   engelsk: on a side street to
   eksempler: Vi fandt en hyggelig café i en sidegade til hovedstrøget, hvor der var langt færre mennesker.
@@ -111,10 +72,7 @@
   eksempler: Der holdt en lys bil i nærheden af deres hus.
 - praep: ifølge
   engelsk: according to
-  eksempler: Ifølge valgobservatørerne er fem til ti procent af stemmesedlerne forfalskede.
-- praep: ifølge
-  engelsk: according to
-  eksempler: Beths far var ifølge rygtet stukket til Antarktis.
+  eksempler: Ifølge valgobservatørerne er fem til ti procent af stemmesedlerne forfalskede. \ Beths far var ifølge rygtet stukket til Antarktis.
 - praep: indenfor/inden for
   engelsk: within
   eksempler: Regionaltaksten gælder inden for en radius på omkring 50 kilometer.
@@ -124,18 +82,12 @@
 - praep: med
   engelsk: with
   eksempler: Prisen er med moms. (incl. moms)
-- praep: med
+- praep: \-
   engelsk: by
   eksempler: Hun følges med sin søster.
 - praep: mellem ... (og)
   engelsk: between ... (and)
-  eksempler: Kassen står mellem to bolde.
-- praep: mellem ... (og)
-  engelsk: between ... (and)
-  eksempler: Der er en god tone mellem kursisterne.
-- praep: mellem ... (og)
-  engelsk: between ... (and)
-  eksempler: Der er kold luft mellem dem.
+  eksempler: Kassen står mellem to bolde. \ Der er en god tone mellem kursisterne. \ Der er kold luft mellem dem.
 - praep: midt i/på
   engelsk: in the middle of
   eksempler: Minnesota ligger midt i Amerika, lige syd for den canadiske grænse.
@@ -151,49 +103,40 @@
 - praep: om
   engelsk: about
   eksempler: Om smagen kan man ikke diskutere.
-- praep: om
+- praep: \-
   engelsk: in
   eksempler: De rejser på ferie om en uge.
-- praep: om
+- praep: \-
   engelsk: around
   eksempler: Vi kørte rundt om byen.
 - praep: over
   engelsk: over
   eksempler: Bolden er over kassen.
-- praep: over
+- praep: \-
   engelsk: across
   eksempler: Jeg skal lige over til købmanden.
-- praep: over
+- praep: \-
   engelsk: get over
   eksempler: De kom hurtigt over deres sygdom.
-- praep: over
+- praep: \-
   engelsk: more than
   eksempler: Bogen koster over 200kr.
 - praep: over for, overfor
-  engelsk: opposite
-  eksempler: Nicklas indrettede sig i huset over for restauranten.
-- praep: over for, overfor
-  engelsk: opposite to
-  eksempler: I England står de liberale skarpt over for de konservative.
-- praep: over for, overfor
+  engelsk: opposite (to)
+  eksempler: Nicklas indrettede sig i huset over for restauranten. \ I England står de liberale skarpt over for de konservative.
+- praep: \-
   engelsk: face
   eksempler: Danske virksomheder står over for meget store investeringer i de kommende år.
-- praep: over for, overfor
+- praep: \-
   engelsk: in relation to
-  eksempler: Mennesker reagerer over for det ukendte med frygt.
-- praep: over for, overfor
-  engelsk: in relation to
-  eksempler: Hun var altid imødekommende og venlig over for andre.
+  eksempler: Mennesker reagerer over for det ukendte med frygt. \ Hun var altid imødekommende og venlig over for andre.
 - praep: på (øer)
   engelsk: 'on'
-  eksempler: Bolden er på kassen.
-- praep: på (øer)
-  engelsk: 'on'
-  eksempler: Da hans cykel punkterede, var han på den. (=havde han store problemer)
-- praep: på (øer)
+  eksempler: Bolden er på kassen. \ Da hans cykel punkterede, var han på den. (=havde han store problemer)
+- praep: \-
   engelsk: at
   eksempler: Hun er på arbejde.
-- praep: på (øer)
+- praep: \-
   engelsk: from
   eksempler: De startede på bar bund.
 - praep: på en sidevej til
@@ -205,10 +148,10 @@
 - praep: til
   engelsk: to
   eksempler: Han skal hen til sin bedstemor.
-- praep: til
+- praep: \-
   engelsk: for
   eksempler: De spiser havregrød til morgenmad.
-- praep: til
+- praep: \-
   engelsk: by
   eksempler: Kan du nå det til kl. 4?
 - praep: trods
@@ -225,47 +168,35 @@
   eksempler: Uanset, hvad du har hørt, så er det stærkt overdrevet.
 - praep: uden
   engelsk: without
-  eksempler: Uden mad og drikke duer helten ikke.
-- praep: uden
-  engelsk: without
-  eksempler: Han gik hjemmefra uden overtøj.
-- praep: uden
-  engelsk: without
-  eksempler: Prisen er uden moms. (excl. moms)
+  eksempler: Uden mad og drikke duer helten ikke. \ Han gik hjemmefra uden overtøj. \ Prisen er uden moms. (excl. moms)
 - praep: under
   engelsk: under
-  eksempler: Bolden er under kassen.
-- praep: under
-  engelsk: under
-  eksempler: Han er under tøflen. (= Hans kone bestemmer det hele)
-- praep: under
+  eksempler: Bolden er under kassen. \ Han er under tøflen. (= Hans kone bestemmer det hele)
+- praep: \-
   engelsk: during
   eksempler: Under 2. verdenskrig kunne danskerne ikke købe kaffe.
-- praep: under
+- praep: \-
   engelsk: less than
   eksempler: Under 50% af befolkningen ejer en bil.
 - praep: undtagen
   engelsk: except
-  eksempler: Børneforestillingerne finder sted dagligt kl. 11 undtagen lørdage.
-- praep: undtagen
-  engelsk: except
-  eksempler: Alle børnene fik erstatning efter ulykken undtagen Frans han fik en krans.
+  eksempler: Børneforestillingerne finder sted dagligt kl. 11 undtagen lørdage. \ Alle børnene fik erstatning efter ulykken undtagen Frans han fik en krans.
 - praep: undtagen hvis
   engelsk: unless
   eksempler: Undtagen hvis man også selv befinder sig udstrakt og i jordhøjde.
 - praep: ved
   engelsk: at
   eksempler: Vi sidder ved bordet.
-- praep: ved
+- praep: \-
   engelsk: by
   eksempler: Hun er ansat ved kommunen.
 - praep: ved siden af
   engelsk: next to
   eksempler: Bolden er ved siden af kassen.
-- praep: ved siden af
+- praep: \-
   engelsk: besides the point
   eksempler: Han er helt ved siden af sig selv. (=ude af sig selv)
-- praep: ved siden af
+- praep: \-
   engelsk: beside, alongside
   eksempler: De har en avisrute ved siden af deres normale job.
 - praep: vedrørende
