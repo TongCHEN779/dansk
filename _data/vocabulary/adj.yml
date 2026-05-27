@@ -1978,6 +1978,16 @@
   komparativ: mere fortrinlig
   superlativ: mest fortrinlig
   engelsk: excellent
+- dansk: fortrolig
+  ordnet: https://ordnet.dk/ddo/ordbog?query=fortrolig
+  audio_id: fortrolig
+  mp3: https://static.ordnet.dk/mp3/11015/11015369_1.mp3
+  ipa: '[fʌˈtʁoˀli]'
+  t_form: fortroligt
+  e_form: fortrolige
+  komparativ: mere fortrolig
+  superlativ: mest fortrolig
+  engelsk: confidential
 - dansk: forudsigelig
   ordnet: https://ordnet.dk/ddo/ordbog?query=forudsigelig
   audio_id: forudsigelig
