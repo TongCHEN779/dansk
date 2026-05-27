@@ -27,7 +27,7 @@ layout: archive
   {% endfor %}
 
 {% else %}
-  {%- comment %} Single-table pages (adj, sub, verb, præp) {%- endcomment %}
+  {%- comment %} Single-table pages (adj, sub, verb, praep) {%- endcomment %}
 
   {% if page.vocab_type == "adj" %}
     {% include _vocab/adj-table.html entries=vocab %}
@@ -35,7 +35,7 @@ layout: archive
     {% include _vocab/sub-table.html entries=vocab %}
   {% elsif page.vocab_type == "verb" %}
     {% include _vocab/verb-table.html entries=vocab %}
-  {% elsif page.vocab_type == "præp" %}
+  {% elsif page.vocab_type == "praep" %}
     {% include _vocab/praep-table.html entries=vocab %}
   {% endif %}
 
