@@ -34,7 +34,7 @@ permalink: /search/
     }
 
     function getCheckedTypes() {
-        return ["adj","sub","verb","adv","konj","præp","fast"]
+        return ["adj","sub","verb","adv","konj","praep","fast"]
             .filter(t => document.getElementById(t).checked);
     }
 
@@ -91,7 +91,7 @@ permalink: /search/
     <label><input type="checkbox" id="verb" checked> Verb. </label>
     <label><input type="checkbox" id="adv"  checked> Adv. </label>
     <label><input type="checkbox" id="konj" checked> Konj. </label>
-    <label><input type="checkbox" id="præp" checked> Præp. </label>
+    <label><input type="checkbox" id="praep" checked> Præp. </label>
     <label><input type="checkbox" id="fast" checked> Udtryk </label>
 </div>
 
