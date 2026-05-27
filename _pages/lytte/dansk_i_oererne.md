@@ -11,7 +11,7 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
-<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/05/Episode-107.wav"></audio> </td>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/05/Kapsejladsen-paa-Aarhus-Universitet.wav"></audio> </td>
 <td> 
 <details>
 <summary>
