@@ -4,182 +4,96 @@ title: ""
 permalink: /search/
 ---
 
+{% include table-style.html %}
+{% include audio-script.html %}
+
 <style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    tr:nth-child(even) {
-        background-color: #f2f2f2; /* Light gray background for even rows */
-    }
-    tr:nth-child(odd) {
-        background-color: #ffffff; /* White background for odd rows */
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-    input {
-        margin-bottom: 10px;
-        padding: 5px;
-        width: 100%;
-    }
-    h3 {
-        margin-top: 20px;
-        color: #0077cc;
-    }
-    .highlight {
-        background-color: yellow;
-        font-weight: bold;
-    }
+    input { margin-bottom: 10px; padding: 5px; width: 100%; }
+    h3 { margin-top: 20px; color: #0077cc; }
+    .highlight { background-color: yellow; font-weight: bold; }
     .checkbox-container {
-        display: none;/* flex; */
+        display: flex;
         justify-content: center;
         gap: 20px;
+        flex-wrap: wrap;
+        margin-bottom: 10px;
     }
-    .checkbox-container label {
-        display: flex;
-        align-items: center;
-        gap: 5px;
-    }
+    .checkbox-container label { display: flex; align-items: center; gap: 5px; }
 </style>
 
 <script>
-    function playSound(soundId) {
-        var audioElement = document.getElementById(soundId);
-        var profileImage = document.getElementById("profile-avatar");
-        if (audioElement && profileImage) {
-            // Check if the audio has valid content
-            if (!audioElement.src || audioElement.readyState < 2 || audioElement.duration === 0 || isNaN(audioElement.duration)) {
-                console.warn("Invalid or empty audio source.");
-                return;
-            }
-            // Change image to "speaking" version
-            profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
-            // Play audio
-            audioElement.play();
-            // When audio ends, revert image back
-            audioElement.onended = function () {
-                profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
-            };
-        }
+    const INDEX_URL = "/dansk/vocabulary-index.json";
+    let allWords = [];
+    let loaded = false;
+
+    async function loadIndex() {
+        if (loaded) return;
+        const res = await fetch(INDEX_URL);
+        allWords = await res.json();
+        loaded = true;
     }
-    // This defines the list of pages to search, each containing a name and a URL.
-    let pagesToSearch = [
-        { name: "Adjektiver", url: "/dansk/ord_og_gram/adj/", id: "adj" },
-        { name: "Substantiver", url: "/dansk/ord_og_gram/sub/", id: "sub" },
-        { name: "Verber", url: "/dansk/ord_og_gram/verb/", id: "verb" },
-        { name: "Adverbier", url: "/dansk/ord_og_gram/adv/", id: "adv" },
-        { name: "Konjunktioner", url: "/dansk/ord_og_gram/konj/", id: "konj" },
-        { name: "Pronominer", url: "/dansk/ord_og_gram/pron/", id: "pron" },
-        { name: "Præpositioner", url: "/dansk/ord_og_gram/præp/", id: "præp" },
-        { name: "Faste Udtryk", url: "/dansk/ord_og_gram/fast/", id: "fast" }
-    ];
-    let pageContents = {};
-    // Fetches the content of the pages asynchronously and extracts table data for searching.
-    async function loadPages() {
-        let selectedPages = pagesToSearch.filter(page => document.getElementById(page.id).checked);
-        for (let page of selectedPages) {
-            try {
-                let response = await fetch(page.url);
-                let text = await response.text();
-                let parser = new DOMParser();
-                let doc = parser.parseFromString(text, "text/html");
-                let tables = Array.from(doc.querySelectorAll("table")); // Get all tables on the page
-                let tableData = [];
-                tables.forEach((table, index) => {
-                    let headers = table.querySelector("tr") ? table.querySelector("tr").innerHTML : null;
-                    let rows = Array.from(table.querySelectorAll("tr")).slice(1);
-                    if (headers && rows.length > 0) {
-                        let rowData = rows.map(row => {
-                            let tdText = Array.from(row.querySelectorAll("td")).map(td => td.innerText.toLowerCase()).join(" ");
-                            return { html: row.outerHTML, text: tdText };
-                        });
-                        tableData.push({ headers, rows: rowData });
-                    }
-                });
-                if (tableData.length > 0) {
-                    pageContents[page.name] = tableData;
-                }
-            } catch (error) {
-                console.error(`Failed to load ${page.url}:`, error);
-            }
-        }
+
+    function getCheckedTypes() {
+        return ["adj","sub","verb","adv","konj","præp","fast"]
+            .filter(t => document.getElementById(t).checked);
     }
-    // Filters the loaded pages based on the search term and displays up to 5 matching rows per page.
+
+    function highlightText(text, term) {
+        const regex = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, "gi");
+        return text.replace(regex, '<span class="highlight">$1</span>');
+    }
+
+    function renderRow(e, term) {
+        const dansk = highlightText(e.dansk || "", term);
+        const ipa   = e.mp3
+            ? `<audio id="s_${e.audio_id}" src="${e.mp3}" style="display:none;"></audio>` +
+              `<span onclick="playSound('s_${e.audio_id}');" style="cursor:pointer;color:blue;">${e.ipa}</span>`
+            : (e.ipa || "");
+        const eng  = highlightText(e.engelsk || "", term);
+        const ext  = highlightText(e.extra   || "", term);
+        return `<tr><td>${dansk}</td><td>${ipa}</td><td>${eng}</td>${ext ? `<td>${ext}</td>` : ""}</tr>`;
+    }
+
     async function searchPages() {
-        let input = document.getElementById("searchInput").value.toLowerCase().trim();
-        let resultsContainer = document.getElementById("results");
-        resultsContainer.innerHTML = "";
-        if (!input) return;
-        let selectedPages = pagesToSearch.filter(page => document.getElementById(page.id).checked);
-        for (let page of selectedPages) {
-            let tableData = pageContents[page.name];
-            if (!tableData) continue;
-            let section = document.createElement("div");
-            section.innerHTML = `<h3>${page.name}</h3>`;
-            let found = false;
-            tableData.forEach((table, index) => {
-                let { headers, rows } = table;
-                let matchingRows = rows.filter(row => row.text.includes(input)).slice(0, 10);
-                if (matchingRows.length > 0) {
-                    found = true;
-                    let tableElement = document.createElement("table");
-                    tableElement.innerHTML = `<tr>${headers}</tr>`;
-                    matchingRows.forEach(rowData => {
-                        let row = document.createElement("tr");
-                        row.innerHTML = rowData.html;
-                        highlightMatchesInElement(row, input);
-                        tableElement.appendChild(row);
-                    });
-                    section.appendChild(tableElement);
-                }
-            });
-            if (found) {
-                resultsContainer.appendChild(section);
-            }
+        await loadIndex();
+        const term   = document.getElementById("searchInput").value.toLowerCase().trim();
+        const types  = getCheckedTypes();
+        const results = document.getElementById("results");
+        results.innerHTML = "";
+        if (!term) return;
+
+        const byType = {};
+        for (const e of allWords) {
+            if (!types.includes(e.type)) continue;
+            const searchText = (e.dansk + " " + e.engelsk + " " + (e.extra || "")).toLowerCase();
+            if (!searchText.includes(term)) continue;
+            if (!byType[e.type]) byType[e.type] = { label: e.label, entries: [] };
+            byType[e.type].entries.push(e);
+        }
+
+        for (const [type, group] of Object.entries(byType)) {
+            const section = document.createElement("div");
+            const hasExtra = group.entries.some(e => e.extra);
+            section.innerHTML = `<h3>${group.label}</h3>
+                <table><tr><th>Dansk</th><th>Udtale</th><th>Engelsk</th>${hasExtra ? "<th>Mere</th>" : ""}</tr>
+                ${group.entries.slice(0, 10).map(e => renderRow(e, term)).join("")}
+                </table>`;
+            results.appendChild(section);
         }
     }
-    // Highlights the searched term in the displayed results by wrapping matched text in a span with a highlight class.
-    function highlightMatchesInElement(element, searchTerm) {
-        let regex = new RegExp(`(${searchTerm})`, "gi");
-        function highlightNode(node) {
-            if (node.nodeType === 3) {
-                let matches = node.nodeValue.match(regex);
-                if (matches) {
-                    let span = document.createElement("span");
-                    span.innerHTML = node.nodeValue.replace(regex, `<span class="highlight">$1</span>`);
-                    node.replaceWith(span);
-                }
-            } else {
-                node.childNodes.forEach(highlightNode);
-            }
-        }
-        highlightNode(element);
-    }
-    document.addEventListener("DOMContentLoaded", async () => {
-        await loadPages();  // Load data once when the page first loads
-        document.querySelectorAll('.checkbox-container input[type="checkbox"]').forEach(checkbox => {
-            checkbox.addEventListener('change', async () => {
-                await loadPages();  // Reload data when a checkbox is changed
-                searchPages();      // Then update the search results
-            });
-        });
-    });
+
+    document.addEventListener("DOMContentLoaded", () => loadIndex());
 </script>
 
 <div class="checkbox-container">
-    <label><input type="checkbox" id="adj" checked> Adj. </label>
-    <label><input type="checkbox" id="sub" checked> Sub. </label>
+    <label><input type="checkbox" id="adj"  checked> Adj. </label>
+    <label><input type="checkbox" id="sub"  checked> Sub. </label>
     <label><input type="checkbox" id="verb" checked> Verb. </label>
-    <label><input type="checkbox" id="adv" checked> Adv. </label>
+    <label><input type="checkbox" id="adv"  checked> Adv. </label>
     <label><input type="checkbox" id="konj" checked> Konj. </label>
-    <label><input type="checkbox" id="pron" checked> Pron. </label>
     <label><input type="checkbox" id="præp" checked> Præp. </label>
     <label><input type="checkbox" id="fast" checked> Udtryk </label>
 </div>
 
 <input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()" onmouseenter="this.select()">
-<!-- <input type="text" id="searchInput" placeholder="Søg efter et ord..." onkeyup="searchPages()" onclick="this.select()"> -->
 <div id="results"></div>

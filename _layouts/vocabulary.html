@@ -1,0 +1,42 @@
+---
+layout: archive
+---
+
+{% include audio-script.html %}
+{% include table-style.html %}
+
+{{ content }}
+
+{% assign vocab = site.data.vocabulary[page.vocab_type] %}
+
+{% if page.vocab_sections %}
+  {%- comment %} Pages with multiple named sections (adv, konj, pron, fast) {%- endcomment %}
+  {% for section in vocab.sections %}
+    <h1 style="text-align: center;">{{ section.title }}</h1>
+
+    {% if page.vocab_type == "adv" %}
+      {% include _vocab/adv-table.html section=section %}
+    {% elsif page.vocab_type == "konj" %}
+      {% include _vocab/konj-table.html section=section %}
+    {% elsif page.vocab_type == "pron" %}
+      {% include _vocab/pron-table.html section=section %}
+    {% elsif page.vocab_type == "fast" %}
+      {% include _vocab/fast-table.html section=section %}
+    {% endif %}
+
+  {% endfor %}
+
+{% else %}
+  {%- comment %} Single-table pages (adj, sub, verb, præp) {%- endcomment %}
+
+  {% if page.vocab_type == "adj" %}
+    {% include _vocab/adj-table.html entries=vocab %}
+  {% elsif page.vocab_type == "sub" %}
+    {% include _vocab/sub-table.html entries=vocab %}
+  {% elsif page.vocab_type == "verb" %}
+    {% include _vocab/verb-table.html entries=vocab %}
+  {% elsif page.vocab_type == "præp" %}
+    {% include _vocab/præp-table.html entries=vocab %}
+  {% endif %}
+
+{% endif %}

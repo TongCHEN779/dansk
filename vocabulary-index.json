@@ -1,0 +1,49 @@
+---
+layout: null
+---
+[
+{%- comment %} Adjektiver {%- endcomment %}
+{% for e in site.data.vocabulary.adj %}
+  {"type":"adj","label":"Adjektiver","dansk":{{ e.dansk | jsonify }},"ipa":{{ e.ipa | jsonify }},"audio_id":{{ e.audio_id | jsonify }},"mp3":{{ e.mp3 | jsonify }},"engelsk":{{ e.engelsk | jsonify }},"extra":{{ e.t_form | jsonify }}}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+,
+{%- comment %} Substantiver {%- endcomment %}
+{% for e in site.data.vocabulary.sub %}
+  {"type":"sub","label":"Substantiver","dansk":{{ e.dansk | jsonify }},"ipa":{{ e.ipa | jsonify }},"audio_id":{{ e.audio_id | jsonify }},"mp3":{{ e.mp3 | jsonify }},"engelsk":{{ e.engelsk | jsonify }},"extra":{{ e.bestemt | jsonify }}}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+,
+{%- comment %} Verber {%- endcomment %}
+{% for e in site.data.vocabulary.verb %}
+  {"type":"verb","label":"Verber","dansk":{{ e.dansk | jsonify }},"ipa":{{ e.ipa | jsonify }},"audio_id":{{ e.audio_id | jsonify }},"mp3":{{ e.mp3 | jsonify }},"engelsk":{{ e.engelsk | jsonify }},"extra":{{ e.nutid | jsonify }}}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+,
+{%- comment %} Adverbier {%- endcomment %}
+{% for section in site.data.vocabulary.adv.sections %}
+  {% for e in section.entries %}
+    {% if e.adverb %}
+  {"type":"adv","label":"Adverbier","dansk":{{ e.adverb | jsonify }},"ipa":{{ e.ipa | default:"" | jsonify }},"audio_id":{{ e.audio_id | default:"" | jsonify }},"mp3":{{ e.mp3 | default:"" | jsonify }},"engelsk":{{ e.engelsk | jsonify }},"extra":""}{% unless forloop.last and forloop.parentloop.last %},{% endunless %}
+    {% elsif e.kort_form %}
+  {"type":"adv","label":"Adverbier","dansk":{{ e.kort_form | jsonify }},"ipa":"","audio_id":"","mp3":"","engelsk":{{ e.lang_form | jsonify }},"extra":""}{% unless forloop.last and forloop.parentloop.last %},{% endunless %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+,
+{%- comment %} Faste Udtryk {%- endcomment %}
+{% for section in site.data.vocabulary.fast.sections %}
+  {% for e in section.entries %}
+  {"type":"fast","label":"Faste Udtryk","dansk":{{ e.udtryk | jsonify }},"ipa":"","audio_id":"","mp3":"","engelsk":{{ e.engelsk | jsonify }},"extra":""}{% unless forloop.last and forloop.parentloop.last %},{% endunless %}
+  {% endfor %}
+{% endfor %}
+,
+{%- comment %} Konjunktioner {%- endcomment %}
+{% for section in site.data.vocabulary.konj.sections %}
+  {% for e in section.entries %}
+  {"type":"konj","label":"Konjunktioner","dansk":{{ e.konjunktion | jsonify }},"ipa":"","audio_id":"","mp3":"","engelsk":{{ e.engelsk | jsonify }},"extra":""}{% unless forloop.last and forloop.parentloop.last %},{% endunless %}
+  {% endfor %}
+{% endfor %}
+,
+{%- comment %} Præpositioner {%- endcomment %}
+{% for e in site.data.vocabulary.præp %}
+  {"type":"præp","label":"Præpositioner","dansk":{{ e.præposition | jsonify }},"ipa":"","audio_id":"","mp3":"","engelsk":{{ e.engelsk | jsonify }},"extra":""}{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]

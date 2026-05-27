@@ -1,0 +1,14 @@
+<table>
+<tr>
+  <th>Konjunktion</th>
+  <th>Engelsk</th>
+  <th>Eksempler</th>
+</tr>
+{% for e in include.section.entries %}
+<tr>
+  <td>{{ e.konjunktion }}</td>
+  <td>{{ e.engelsk }}</td>
+  <td>{{ e.eksempler }}</td>
+</tr>
+{% endfor %}
+</table>

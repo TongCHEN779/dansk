@@ -5,24 +5,7 @@ permalink: /laesning/museet_storm/
 search: false
 ---
 
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-    /* Customize width for specific columns */
-    th:nth-child(1), td:nth-child(1) {
-        width: 30%; /* First column */
-    }
-    th:nth-child(2), td:nth-child(2) {
-        width: 70%; /* Second column */
-    }
-</style>
+{% include table-style.html col1='30%' col2='70%' %}
 
 <h1 style="text-align: center;"> Den Censurerede Udstilling om Censur </h1>
 <br>

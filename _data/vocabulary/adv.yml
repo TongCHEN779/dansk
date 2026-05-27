@@ -1,0 +1,909 @@
+sections:
+- title: 'Centraladverbier: S-V-A'
+  headers:
+  - Adverb
+  - Udtale
+  - Engelsk
+  - Eksempler
+  entries:
+  - adverb: afsti afsted, afsti af sted, af sti af sted, af sti afsted
+    audio_id: ''
+    mp3: ''
+    ipa: ''
+    engelsk: let's go
+    eksempler: 'Så jeg tog til Paris. Tænkte: »Jeg har da haft fransk på højt niveau. Af sti af sted med mig.«'
+  - adverb: afvekslende
+    audio_id: afvekslende
+    mp3: https://static.ordnet.dk/mp3/11000/11000882_1.mp3
+    ipa: '[-ˌvεgslənə]'
+    engelsk: alternately
+    eksempler: Tambourkorpset er den del af vagtparaden, der på turen til Amalienborg spiller afvekslende med musikkorpset.
+  - adverb: aldeles
+    audio_id: aldeles
+    mp3: https://static.ordnet.dk/mp3/11001/11001188_1.mp3
+    ipa: '[alˈdeˀləs]'
+    engelsk: absolutely
+    eksempler: Engang imellem kunne jeg blive så aldeles rasende fordi han bare sad der og lod som ingenting.
+  - adverb: (næsten) aldrig
+    audio_id: aldrig
+    mp3: https://static.ordnet.dk/mp3/11001/11001219_1.mp3
+    ipa: '[ˈɑldʁi]'
+    engelsk: (almost) never
+    eksempler: Jeg gør det aldrig mere.
+  - adverb: allevegne, alle vegne
+    audio_id: allevegne
+    mp3: ''
+    ipa: '[ˈaləˌvɑjnə]'
+    engelsk: everywhere
+    eksempler: De ledte efter hende allevegne. Under sengen, bag ved sofaen og inde i fars og mors soveværelse.
+  - adverb: allerede
+    audio_id: allerede
+    mp3: https://static.ordnet.dk/mp3/11001/11001322_1.mp3
+    ipa: '[ˈaləˈʁεːðə]'
+    engelsk: already
+    eksempler: Manden var allerede kommet ind i bilen, da bilens tyverialarm gik i gang.
+  - adverb: (næsten) altid
+    audio_id: altid
+    mp3: https://static.ordnet.dk/mp3/11001/11001443_1.mp3
+    ipa: '[ˈalˀˌtiðˀ]'
+    engelsk: (almost) always
+    eksempler: Universet har altid fascineret mennesket.
+  - adverb: bagpå
+    audio_id: bagpå
+    mp3: https://static.ordnet.dk/mp3/11003/11003171_1.mp3
+    ipa: '[ˈbæˀjˌpɔˀ]'
+    engelsk: from behind
+    eksempler: Samler ungerne sammen og får dem ud på cyklen, Jesper sidder foran og Thomas bagpå.
+  - adverb: bare,lige
+    audio_id: bare
+    mp3: https://static.ordnet.dk/mp3/11003/11003477_1.mp3
+    ipa: '[ˈbɑːɑ]'
+    engelsk: just
+    eksempler: Jeg er tilbage om ti minutter. Jeg skal bare lige strække benene.
+  - adverb: deraf,heraf
+    audio_id: deraf
+    mp3: https://static.ordnet.dk/mp3/11008/11008777_1.mp3
+    ipa: '[ˈdεˀɐ̯ˈæˀ]'
+    engelsk: thereof, hereof
+    eksempler: En hyrde fandt under en bro en fin, snehvid knogle og lavede deraf et mundstykke til sit horn.
+  - adverb: dermed
+    audio_id: dermed
+    mp3: https://static.ordnet.dk/mp3/11008/11008809_1.mp3
+    ipa: '[ˈdεˀɐ̯ˈmεð]'
+    engelsk: thus
+    eksempler: Det er brugeren, der styrer processen og dermed den endelige udformning af resultatet.
+  - adverb: dertil
+    audio_id: dertil
+    mp3: https://static.ordnet.dk/mp3/11008/11008825_2.mp3
+    ipa: '[ˈdεˀɐ̯ˈtel]'
+    engelsk: thereto
+    eksempler: Ægteparret boede i Beirut i knap 40 år. De flyttede dertil efter Anden Verdenskrig.
+  - adverb: dog
+    audio_id: dog
+    mp3: https://static.ordnet.dk/mp3/11009/11009418_1.mp3
+    ipa: '[ˈdɒw]'
+    engelsk: however
+    eksempler: Husk, at vi er dog danske med hud og hår; bevar og styrk vore gode og stolte traditioner.
+  - adverb: end
+    audio_id: end
+    mp3: https://static.ordnet.dk/mp3/11011/11011284_1.mp3
+    ipa: '[ˈεn]'
+    engelsk: no matter ...
+    eksempler: Hvad Kreml end gør, bliver der altså ballade.
+  - adverb: end ikke
+    audio_id: ''
+    mp3: ''
+    ipa: ''
+    engelsk: not even
+    eksempler: Han gav sig end ikke tid til at sætte sig ned, før han tog fat på at læse.
+  - adverb: endda
+    audio_id: endda
+    mp3: https://static.ordnet.dk/mp3/11011/11011287_1.mp3
+    ipa: '[enˈda]'
+    engelsk: even
+    eksempler: Han havde holdt om Silpa, havde danset med hende, kysset hende, havde måske endda elsket med hende.
+  - adverb: forbi
+    audio_id: forbi
+    mp3: https://static.ordnet.dk/mp3/11014/11014229_1.mp3
+    ipa: '[fʌˈbiˀ]'
+    engelsk: by, past
+    eksempler: Hun kom ud ad fordøren, lige idet Ernst gik forbi.
+  - adverb: forgæves
+    audio_id: forgæves
+    mp3: https://static.ordnet.dk/mp3/11014/11014557_1.mp3
+    ipa: '[fʌˈgεˀvəs]'
+    engelsk: in vain
+    eksempler: Målmanden kastede sig forgæves efter det hårde og velplacerede venstrebensskud, der susede i netmaskerne helt ude ved den ene stolpe.
+  - adverb: forsætlig
+    audio_id: forsætlig
+    mp3: https://static.ordnet.dk/mp3/11015/11015282_1.mp3
+    ipa: '[fʌˈsεdli]'
+    engelsk: on purpose
+    eksempler: Han er sikker på, at Lisa ikke har glemt at ringe til ham. Hun har undladt det helt forsætligt.
+  - adverb: fortil,bagtil
+    audio_id: fortil
+    mp3: https://static.ordnet.dk/mp3/11015/11015340_1.mp3
+    ipa: '[ˈfɒːˌtel]'
+    engelsk: at the front, at the back
+    eksempler: Svælget deler sig i luftrøret, som ligger fortil og spiserøret, som ligger bagtil.
+  - adverb: fortsat
+    audio_id: fortsat
+    mp3: https://static.ordnet.dk/mp3/11015/11015399_1.mp3
+    ipa: '[ˈfɒːdˌsad]'
+    engelsk: still
+    eksempler: Hun er den dag i dag, i en alder af 90 år, fortsat aktiv med pennen.
+  - adverb: forud
+    audio_id: forud
+    mp3: https://static.ordnet.dk/mp3/11015/11015439_1.mp3
+    ipa: '[ˈfɒˌuðˀ]'
+    engelsk: in advance
+    eksempler: Plads kan ikke reserveres forud.
+  - adverb: fremad
+    audio_id: fremad
+    mp3: https://static.ordnet.dk/mp3/11015/11015842_1.mp3
+    ipa: '[ˈfʁamˀˌæˀ]'
+    engelsk: forward
+    eksempler: Hestene løber i fuld fart fremad, og det føles, som om vognen letter fra jorden.
+  - adverb: fremover
+    audio_id: fremover
+    mp3: https://static.ordnet.dk/mp3/11015/11015927_1.mp3
+    ipa: '[ˈfʁamˀˌɒwˀʌ]'
+    engelsk: in the future
+    eksempler: Vi skal anmode om, at lønnoten fremover udfyldes korrekt.
+  - adverb: ganske
+    audio_id: ganske
+    mp3: https://static.ordnet.dk/mp3/11017/11017214_1.mp3
+    ipa: '[ˈgansgə]'
+    engelsk: quite
+    eksempler: Bønnerne fremsiges på arabisk og følges af ganske bestemte bevægelser.
+  - adverb: (også) gerne,hellere,helst
+    audio_id: gerne
+    mp3: https://static.ordnet.dk/mp3/11017/11017883_1.mp3
+    ipa: '[ˈgæɐ̯nə]'
+    engelsk: (also) would like, rather, preferably
+    eksempler: Jeg vil gerne vide hvor langt en sæl kan dykke uden at trække vejret?
+  - adverb: givetvis
+    audio_id: givetvis
+    mp3: https://static.ordnet.dk/mp3/11018/11018059_1.mp3
+    ipa: '[ˈgiːvəðˈviˀs]'
+    engelsk: probably
+    eksempler: Det var givetvis ikke hendes mening at gøre mig ondt.
+  - adverb: (også) godt
+    audio_id: godt
+    mp3: https://static.ordnet.dk/mp3/11018/11018364_1.mp3
+    ipa: '[ˈgʌd]'
+    engelsk: (also) well
+    eksempler: Man kan godt forene god arkitektur med en ordentlig økonomi.
+  - adverb: grangiveligt
+    audio_id: grangiveligt
+    mp3: https://static.ordnet.dk/mp3/11018/11018506_1.mp3
+    ipa: '[gʁɑnˈgiˀvəlid]'
+    engelsk: undoubtedly
+    eksempler: Tænk, jeg synes jeg kender dette her sted. Det ligner grangiveligt skoven ved sommerhuset.
+  - adverb: hvoraf
+    audio_id: hvoraf
+    mp3: https://static.ordnet.dk/mp3/11021/11021975_1.mp3
+    ipa: '[ˈvɒˀˈæˀ]'
+    engelsk: of which
+    eksempler: Byrådet udpeger et nævn på 13 medlemmer, hvoraf 7 skal repræsentere det lokale foreningsliv.
+  - adverb: hvorfra
+    audio_id: hvorfra
+    mp3: https://static.ordnet.dk/mp3/11021/11021979_1.mp3
+    ipa: '[ˈvɒˀˈfʁɑˀ]'
+    engelsk: from where
+    eksempler: Fra Nørreport tog jeg bussen til Rævehøjvej på Lyngbymotorvejen, hvorfra jeg gik op til DtH.
+  - adverb: hvorhen
+    audio_id: hvorhen
+    mp3: https://static.ordnet.dk/mp3/11021/11021980_1.mp3
+    ipa: '[ˈvɒˀˈhεn]'
+    engelsk: to where
+    eksempler: Min far forsvandt – jeg ved ikke hvorhen.
+  - adverb: hvorimod
+    audio_id: hvorimod
+    mp3: https://static.ordnet.dk/mp3/11021/11021986_1.mp3
+    ipa: '[ˈvɒˀiˈmoˀð]'
+    engelsk: whereas
+    eksempler: Stalin gik ind for "socialisme i ét land", hvorimod Trotskij var fortaler for "permanent revolution".
+  - adverb: hvorpå
+    audio_id: hvorpå
+    mp3: https://static.ordnet.dk/mp3/11021/11021992_1.mp3
+    ipa: '[ˈvɒˀˈpɔˀ]'
+    engelsk: whereupon, on which
+    eksempler: Han fik afslag fra amtet, hvorpå vi så ankede sagen.
+  - adverb: hvorved
+    audio_id: hvorved
+    mp3: https://static.ordnet.dk/mp3/11021/11021995_1.mp3
+    ipa: '[ˈvɒˀˈveð]'
+    engelsk: whereby
+    eksempler: Vi dalede ned mod en lufthavn og en kaj, hvorved der lå et eneste lillebitte gråt skib.
+  - adverb: iblandt
+    audio_id: iblandt
+    mp3: https://static.ordnet.dk/mp3/11022/11022748_1.mp3
+    ipa: '[iˈblanˀd]'
+    engelsk: among
+    eksempler: Man støder kun på få skulpturer, men der er perler iblandt.
+  - adverb: ibrugtage
+    audio_id: ibrugtage
+    mp3: https://static.ordnet.dk/mp3/11022/11022752_1.mp3
+    ipa: '[iˈbʁuˀˌtæˀjə]'
+    engelsk: taking into service
+    eksempler: Gensplejsningen kan tænkes ibrugtaget på forskellige felter inden for servicesektoren.
+  - adverb: ihjel
+    audio_id: ihjel
+    mp3: https://static.ordnet.dk/mp3/11022/11022871_1.mp3
+    ipa: '[iˈjεl]'
+    engelsk: to death
+    eksempler: Severin kom i vejen for en løbsk hest og blev sparket ihjel.
+  - adverb: ikke, heller ikke, slet ikke / overhovedet ikke
+    audio_id: ikke
+    mp3: https://static.ordnet.dk/mp3/11022/11022886_1.mp3
+    ipa: '[ˈegə]'
+    engelsk: not, either, not at all
+    eksempler: Vi har ikke råd til at rejse.
+  - adverb: ikke kun / blot ..., men også ...
+    audio_id: ''
+    mp3: ''
+    ipa: ''
+    engelsk: not only ..., but also ...
+    eksempler: Torben og Henrik havde ikke blot været kolleger, men også nære venner.
+  - adverb: imod
+    audio_id: imod
+    mp3: https://static.ordnet.dk/mp3/11023/11023033_1.mp3
+    ipa: '[iˈmoðˀ]'
+    engelsk: against
+    eksempler: Det nytter ikke noget at kæmpe imod. Julen nærmer sig.
+  - adverb: indadtil,udadtil
+    audio_id: indadtil
+    mp3: https://static.ordnet.dk/mp3/11023/11023115_1.mp3
+    ipa: '[ˈenˀaðˌtel]'
+    engelsk: inward, outward
+    eksempler: EF er ny-liberalistisk, dvs. at det er liberalt indadtil og protektionistisk udadtil.
+  - adverb: indefra
+    audio_id: indefra
+    mp3: https://static.ordnet.dk/mp3/11023/11023173_1.mp3
+    ipa: '[ˈenəˌfʁɑˀ]'
+    engelsk: from inside
+    eksempler: Mange sten nedbrydes indefra af nedsivende vand, der skaber sprækker, som siden får stenen til at knække.
+  - adverb: indendørs
+    audio_id: indendørs
+    mp3: https://static.ordnet.dk/mp3/11023/11023200_1.mp3
+    ipa: '[ˈenənˌdɶɐ̯ˀs]'
+    engelsk: indoors
+    eksempler: Naturligvis skal man ikke holde sig indendørs, når solen skinner.
+  - adverb: især
+    audio_id: især
+    mp3: https://static.ordnet.dk/mp3/11024/11024297_1.mp3
+    ipa: '[iˈsεˀɐ̯]'
+    engelsk: especially
+    eksempler: Han interesserede sig for biler, især de gamle amerikanske.
+  - adverb: itu
+    audio_id: itu
+    mp3: https://static.ordnet.dk/mp3/11024/11024312_1.mp3
+    ipa: '[iˈtuˀ]'
+    engelsk: broken, cracked
+    eksempler: Han river alle jordknolde ind i bedets side og presser dem itu med riven.
+  - adverb: knap (... før ...)
+    audio_id: knap
+    mp3: https://static.ordnet.dk/mp3/11026/11026577_1.mp3
+    ipa: '[ˈknɑb]'
+    engelsk: hardly, just (... before ...)
+    eksempler: Knap har den 3-årige ønsket sig en traktor, før han har fået den samt gravko, tromle og andre dyre biler.
+  - adverb: kun
+    audio_id: kun
+    mp3: https://static.ordnet.dk/mp3/11028/11028602_1.mp3
+    ipa: '[ˈkɔn]'
+    engelsk: only
+    eksempler: I stedet for et ventet salg på 10.000 biler sidste år, blev der kun solgt 400.
+  - adverb: langs
+    audio_id: langs
+    mp3: https://static.ordnet.dk/mp3/11029/11029752_1.mp3
+    ipa: '[ˈlɑŋˀs]'
+    engelsk: along
+    eksempler: Der var pæleværk med træbroer ikke bare langs med bredden men også vinkelret ud i vandet.
+  - adverb: ligefrem
+    audio_id: ligefrem
+    mp3: https://static.ordnet.dk/mp3/11030/11030390_1.mp3
+    ipa: '[ˈliːəˌfʁamˀ]'
+    engelsk: even
+    eksempler: Man har ligefrem taget baner fra bilerne og begrænset antallet af parkeringspladser.
+  - adverb: ligesom
+    audio_id: ligesom
+    mp3: ''
+    ipa: '[ˈlisʌm]'
+    engelsk: as well as, just like, as if
+    eksempler: Johannes daskede ligesom tilfældigt hen og så på.
+  - adverb: ligeud
+    audio_id: ligeud
+    mp3: https://static.ordnet.dk/mp3/11030/11030422_1.mp3
+    ipa: '[ˈliːəˈuðˀ]'
+    engelsk: straight ahead
+    eksempler: Vi skulle stå med samlede ben, med vægten lagt på hælene og se ligeud.
+  - adverb: netop
+    audio_id: netop
+    mp3: https://static.ordnet.dk/mp3/11035/11035892_1.mp3
+    ipa: '[ˈnεdʌb]'
+    engelsk: just
+    eksempler: Sten Byriel har netop sunget Figaro i Wien, og skal gøre det igen efter sommerferien.
+  - adverb: nogensinde, nogen sinde
+    audio_id: nogensinde
+    mp3: https://static.ordnet.dk/mp3/11036/11036068_1.mp3
+    ipa: '[ˈnoːənˈsenə]'
+    engelsk: ever
+    eksempler: Har du nogensinde set vores have så smuk som i år?
+  - adverb: nærmest
+    audio_id: nærmest
+    mp3: https://static.ordnet.dk/mp3/11036/11036538_1.mp3
+    ipa: '[ˈnæɐ̯məsd]'
+    engelsk: almost
+    eksempler: Det er nærmest hinsides vores kontrol.
+  - adverb: næppe (... før/førend ...)
+    audio_id: næppe
+    mp3: https://static.ordnet.dk/mp3/11036/11036498_1.mp3
+    ipa: '[ˈnεbə]'
+    engelsk: barely (... before ...)
+    eksempler: Næppe var hun nået ud på fortovet, før en kvinde kom styrtende ud fra hotellet.
+  - adverb: også
+    audio_id: også
+    mp3: https://static.ordnet.dk/mp3/11036/11036883_1.mp3
+    ipa: '[ˈʌs]'
+    engelsk: also
+    eksempler: Stræderne ligger stille hen, og også husene virker tomme og ubeboede.
+  - adverb: omtrent,omkring, rundt om
+    audio_id: omtrent
+    mp3: https://static.ordnet.dk/mp3/11037/11037260_1.mp3
+    ipa: '[ʌmˈtʁanˀd]'
+    engelsk: about, around
+    eksempler: Omtrent 50 procent af dem, som arbejder i kunstig belysning, klager over hovedpine og ondt i øjnene.
+  - adverb: ovenikøbet, oven i købet
+    audio_id: ovenikøbet
+    mp3: ''
+    ipa: '[ˈɒwəniˌkøˀbəð]'
+    engelsk: even, on top of that
+    eksempler: Et medlemskort koster bare 50 kr., og det giver ovenikøbet rabat på entréerne til de forskellige arrangementer.
+  - adverb: ret
+    audio_id: ret
+    mp3: https://static.ordnet.dk/mp3/11043/11043047_1.mp3
+    ipa: '[ˈʁad]'
+    engelsk: quite
+    eksempler: 300.000 danskere tager på skiferie hvert år, det er ret mange.
+  - adverb: sagtens
+    audio_id: sagtens
+    mp3: https://static.ordnet.dk/mp3/11044/11044430_1.mp3
+    ipa: '[ˈsɑgdəns]'
+    engelsk: easily
+    eksempler: Vist ryger jeg, men ikke mere end jeg sagtens kan holde mig fra røgen i arbejdstiden.
+  - adverb: selvfølgelig
+    audio_id: selvfølgelig
+    mp3: https://static.ordnet.dk/mp3/11045/11045380_1.mp3
+    ipa: '[sεlˈføljəli]'
+    engelsk: of course
+    eksempler: 'Selvfølgelig så ordner jeg mit eget værelse, og hvis hun siger: "Gå lige ned med skraldespanden" .., så gør jeg det selvfølgelig.'
+  - adverb: snart
+    audio_id: snart
+    mp3: https://static.ordnet.dk/mp3/11048/11048226_1.mp3
+    ipa: '[ˈsnɑˀd]'
+    engelsk: soon
+    eksempler: Kastrup lufthavn kommer meget snart til at trænge til aflastning, fordi dens kapacitet er tæt ved at være fuldt udnyttet.
+  - adverb: stedse
+    audio_id: stedse
+    mp3: https://static.ordnet.dk/mp3/11050/11050034_1.mp3
+    ipa: '[ˈsdεðsə]'
+    engelsk: always
+    eksempler: Københavns Kommune skal stedse arbejde for en lettere/hurtigere myndighedsbehandling.
+  - adverb: stort set
+    audio_id: ''
+    mp3: ''
+    ipa: ''
+    engelsk: almost
+    eksempler: Sikkerheden og virkningen af de forskellige typer p-piller er stort set ens.
+  - adverb: straks
+    audio_id: straks
+    mp3: https://static.ordnet.dk/mp3/11050/11050658_1.mp3
+    ipa: '[ˈsdʁɑgs]'
+    engelsk: immediately
+    eksempler: Klokken 11 ringede det kraftigt på døren, og jeg gik straks ud for at lukke op.
+  - adverb: sædvanligvis
+    audio_id: sædvanligvis
+    mp3: https://static.ordnet.dk/mp3/11052/11052193_1.mp3
+    ipa: '[səðˈvæˀnliˈviˀs]'
+    engelsk: usually
+    eksempler: Overgangsalderen begynder sædvanligvis i 50 års alderen.
+  - adverb: særdeles
+    audio_id: særdeles
+    mp3: https://static.ordnet.dk/mp3/11052/11052233_1.mp3
+    ipa: '[sæɐ̯ˈdeˀləs]'
+    engelsk: extremely
+    eksempler: Lugtesansen er særdeles veludviklet hos små børn.
+  - adverb: sågar
+    audio_id: sågar
+    mp3: https://static.ordnet.dk/mp3/11052/11052537_1.mp3
+    ipa: '[sʌˈgɑˀ]'
+    engelsk: even
+    eksempler: I dag består moden i en blanding af mange perioder. Der er sågar tendenser helt tilbage til 30'ernes mode.
+  - adverb: temmelig
+    audio_id: temmelig
+    mp3: https://static.ordnet.dk/mp3/12000/12000677_1.mp3
+    ipa: '[ˈtεməli]'
+    engelsk: quite
+    eksempler: Det har regnet temmelig meget de sidste ti dage.
+  - adverb: tilbage
+    audio_id: tilbage
+    mp3: https://static.ordnet.dk/mp3/12001/12001015_1.mp3
+    ipa: '[teˈbæːjə]'
+    engelsk: back, left
+    eksempler: Med blot to minutter tilbage førte Hørsholm 69-60.
+  - adverb: tilfældigt
+    audio_id: tilfældigt
+    mp3: https://static.ordnet.dk/mp3/12001/12001114_1.mp3
+    ipa: '[teˈfεlˀdi]'
+    engelsk: by accident
+    eksempler: Nogle havde vi truffet aftale med i forvejen, og andre mødte vi tilfældigt.
+  - adverb: tilovers
+    audio_id: tilovers
+    mp3: ''
+    ipa: '[teˈɒwˀʌs]'
+    engelsk: left over
+    eksempler: Jeg havde 5 minutter tilovers så jeg satte mig ind i vores opholdsrum og slappede lidt af.
+  - adverb: tit,ofte
+    audio_id: tit
+    mp3: https://static.ordnet.dk/mp3/12001/12001476_1.mp3
+    ipa: '[ˈtid]'
+    engelsk: often
+    eksempler: Det var ærgerligt, at de så tit skændtes.
+  - adverb: tværs
+    audio_id: tværs
+    mp3: https://static.ordnet.dk/mp3/12003/12003082_1.mp3
+    ipa: '[ˈtvæɐ̯s]'
+    engelsk: across
+    eksempler: Pernille fra hans klasse kom hurtigt gående tværs over den smalle gade, mens hun vinkede til ham.
+  - adverb: udendørs
+    audio_id: udendørs
+    mp3: https://static.ordnet.dk/mp3/12003/12003752_1.mp3
+    ipa: '[ˈuðənˌdɶɐ̯ˀs]'
+    engelsk: outdoors
+    eksempler: Jeg interesserer mig for natur og har det bedst, når jeg er udendørs.
+  - adverb: udenom
+    audio_id: udenom
+    mp3: https://static.ordnet.dk/mp3/12003/12003761_1.mp3
+    ipa: '[ˈuðənˈʌmˀ]'
+    engelsk: around
+    eksempler: Vi har kurs mod en spids klippe, som vi har overset .. Det er for sent, vi kan ikke nå at styre udenom.
+  - adverb: udover
+    audio_id: udover
+    mp3: https://static.ordnet.dk/mp3/12004/12004011_1.mp3
+    ipa: '[ˈuðˀˌɒwˀʌ]'
+    engelsk: besides
+    eksempler: Jeg får også SU, så jeg skulle helst ikke tjene alt for meget udover.
+  - adverb: vistnok
+    audio_id: vistnok
+    mp3: https://static.ordnet.dk/mp3/12007/12007112_1.mp3
+    ipa: '[vesˈnʌg]'
+    engelsk: probably
+    eksempler: '"Der er vistnok telefon til Dem." "Vistnok," sagde han. "Er der eller er der ikke telefon til mig?"'
+  - adverb: væk (fra)
+    audio_id: væk
+    mp3: https://static.ordnet.dk/mp3/12007/12007450_1.mp3
+    ipa: '[ˈvεg]'
+    engelsk: away (from)
+    eksempler: Magnetfeltets styrke bliver mindre, jo længere man kommer væk fra anlægget.
+- title: 'Frie adverbier: A-V-S, S-V-A'
+  headers:
+  - Adverb
+  - Udtale
+  - Engelsk
+  - Eksempler
+  entries:
+  - adverb: afslutningsvis
+    audio_id: afslutningsvis
+    mp3: https://static.ordnet.dk/mp3/49002/49002130_1.mp3
+    ipa: '[ˈɑwˌsludneŋsˌviˀs]'
+    engelsk: in conclusion
+    eksempler: Bogudvalget skal afslutningsvist og senest 1. oktober 2008 aflevere en rapport på ministerens bord.
+  - adverb: alligevel
+    audio_id: alligevel
+    mp3: https://static.ordnet.dk/mp3/11001/11001353_1.mp3
+    ipa: '[aˈliːəˈvεl]'
+    engelsk: anyway
+    eksempler: Det er, som om vi ikke kommer nogen vegne. Alligevel viser speedometeret 100.
+  - adverb: altså
+    audio_id: altså
+    mp3: https://static.ordnet.dk/mp3/11001/11001460_1.mp3
+    ipa: '[ˈalˀsʌ]'
+    engelsk: thus, so
+    eksempler: En anelse varme var der stadig i ham. Han var altså ikke død.
+  - adverb: atter
+    audio_id: atter
+    mp3: https://static.ordnet.dk/mp3/11002/11002825_1.mp3
+    ipa: '[ˈadʌ]'
+    engelsk: again
+    eksempler: Atter i år vrimlede det med breve til "Julemanden, Rensdyrvej 24, Grønland".
+  - adverb: bagefter
+    audio_id: bagefter
+    mp3: https://static.ordnet.dk/mp3/11003/11003097_1.mp3
+    ipa: '[ˈbæˀjˌεfdʌ]'
+    engelsk: afterwards
+    eksempler: Jeg ser altid først på øjnene, og så bagefter på hænderne.
+  - adverb: bagved
+    audio_id: bagved
+    mp3: https://static.ordnet.dk/mp3/11003/11003204_1.mp3
+    ipa: '[ˈbæˀjˈve]'
+    engelsk: behind
+    eksempler: Der var en have med frugttræer, og bagved havde vi en legeplads.
+  - adverb: dengang
+    audio_id: dengang
+    mp3: https://static.ordnet.dk/mp3/11008/11008727_1.mp3
+    ipa: '[ˈdεnˀˌgɑŋˀ]'
+    engelsk: then
+    eksempler: I 1871 kom jernbanen til Brønderslev, som dengang var en stor landsby med omkring 1.100 indbyggere.
+  - adverb: derefter
+    audio_id: derefter
+    mp3: https://static.ordnet.dk/mp3/11008/11008784_1.mp3
+    ipa: '[ˈdεˀɐ̯ˌεfdʌ]'
+    engelsk: thereafter
+    eksempler: Hun blev først ligbleg, derefter meget rød i ansigtet.
+  - adverb: derfor
+    audio_id: derfor
+    mp3: https://static.ordnet.dk/mp3/11008/11008788_1.mp3
+    ipa: '[ˈdεˀɐ̯fʌ]'
+    engelsk: therefore
+    eksempler: Jeg vidste ikke, hvor Lilly boede og kunne derfor ikke kontakte hende.
+  - adverb: derigennem
+    audio_id: derigennem
+    mp3: https://static.ordnet.dk/mp3/11008/11008798_1.mp3
+    ipa: '[ˈdεˀɐ̯iˈgεnˀəm]'
+    engelsk: thereby
+    eksempler: Adriana er en god praktiserende katolik, der skrifter og derigennem får lettet sin samvittighed.
+  - adverb: derimod
+    audio_id: derimod
+    mp3: https://static.ordnet.dk/mp3/11008/11008800_1.mp3
+    ipa: '[ˈdεˀɐ̯iˈmoˀð]'
+    engelsk: however
+    eksempler: Jeg kan godt lide at lave mad. Derimod er jeg ikke så begejstret for rengøring.
+  - adverb: dernæst
+    audio_id: dernæst
+    mp3: https://static.ordnet.dk/mp3/11008/11008812_1.mp3
+    ipa: '[ˈdεˀɐ̯ˌnεsd]'
+    engelsk: and then
+    eksempler: Først blev kattene affodret, dernæst var det hestenes tur.
+  - adverb: derpå
+    audio_id: derpå
+    mp3: https://static.ordnet.dk/mp3/11008/11008821_1.mp3
+    ipa: '[ˈdεˀɐ̯ˌpɔˀ]'
+    engelsk: thereupon
+    eksempler: Man bliver mere tilfreds ved at kunne spise op og derpå evt. bede om mere.
+  - adverb: derudfra
+    audio_id: derudfra
+    mp3: https://static.ordnet.dk/mp3/11008/11008834_1.mp3
+    ipa: '[ˈdεˀɐ̯ˈuðˀˈfʁɑˀ]'
+    engelsk: thence
+    eksempler: Det er helt afgørende for demokratiet, at der er en åben debat, hvor mennesker frit kan danne sin egen mening og derudfra vælge side.
+  - adverb: derudover
+    audio_id: derudover
+    mp3: https://static.ordnet.dk/mp3/11008/11008835_1.mp3
+    ipa: '[ˈdεˀɐ̯uðˌɒwˀʌ]'
+    engelsk: in addition
+    eksempler: Der er træning to gange om dagen i ugens første fem dage, og derudover spilles der selvfølgelig kamp i weekenden.
+  - adverb: desuden
+    audio_id: desuden
+    mp3: https://static.ordnet.dk/mp3/11008/11008908_1.mp3
+    ipa: '[desˈuːðən]'
+    engelsk: moreover
+    eksempler: Tykke asparges er de fineste og desuden de letteste at skrælle.
+  - adverb: desværre
+    audio_id: desværre
+    mp3: https://static.ordnet.dk/mp3/11008/11008909_1.mp3
+    ipa: '[deˈsvæɐ̯ʌ]'
+    engelsk: unfortunately
+    eksempler: Selvom der iværksættes hurtig behandling, er meningitis desværre fortsat en sygdom, som kræver flere dødsfald hvert år.
+  - adverb: efterfølgende
+    audio_id: efterfølgende
+    mp3: https://static.ordnet.dk/mp3/11010/11010546_1.mp3
+    ipa: '[-ˌfølˀjənə]'
+    engelsk: subsequently
+    eksempler: Begge blev ved grundlovsforhøret lørdag varetægtsfængslet i 11 dage og kærede efterfølgende kendelsen til landsretten.
+  - adverb: efterhånden
+    audio_id: efterhånden
+    mp3: https://static.ordnet.dk/mp3/11010/11010556_1.mp3
+    ipa: '[εfdʌˈhʌnˀən]'
+    engelsk: gradually
+    eksempler: Min bror har efterhånden fået lige så mange børn, som vi selv var derhjemme.
+  - adverb: eksempelvis
+    audio_id: eksempelvis
+    mp3: https://static.ordnet.dk/mp3/11010/11010822_1.mp3
+    ipa: '[εgˈsεmˀbəlˌviˀs]'
+    engelsk: for example
+    eksempler: Lejlighederne holder en usædvanlig høj standard; eksempelvis er alle gulve belagt med brede brædder.
+  - adverb: ellers
+    audio_id: ellers
+    mp3: https://static.ordnet.dk/mp3/11011/11011123_1.mp3
+    ipa: '[ˈεlˀʌs]'
+    engelsk: otherwise
+    eksempler: Vi var nødt til at skære et sted, ellers var hele programmet blevet for langt.
+  - adverb: endelig
+    audio_id: endelig
+    mp3: https://static.ordnet.dk/mp3/11011/11011294_1.mp3
+    ipa: '[ˈεnəli]'
+    engelsk: finally
+    eksempler: Den eneste lyd der hørtes var skramlen af stole, indtil alle endelig havde fået sig sat.
+  - adverb: endvidere
+    audio_id: endvidere
+    mp3: https://static.ordnet.dk/mp3/11011/11011330_1.mp3
+    ipa: '[εnˈviðʌʌ]'
+    engelsk: furthermore
+    eksempler: Bernt Hjejle overtog ganske naturligt formandsposten og indtrådte endvidere i et såkaldt forretningsudvalg.
+  - adverb: faktisk
+    audio_id: faktisk
+    mp3: https://static.ordnet.dk/mp3/11012/11012153_1.mp3
+    ipa: '[ˈfɑgdisg]'
+    engelsk: actually
+    eksempler: Der er opsat særskilte målere, så beboernes faktiske forbrug kan aflæses.
+  - adverb: forfra,  fra siden,bagfra
+    audio_id: forfra
+    mp3: https://static.ordnet.dk/mp3/11014/11014496_1.mp3
+    ipa: '[ˈfɒːˌfʁɑˀ]'
+    engelsk: from the front, from the side, from behind
+    eksempler: Han kunne ikke have hørt noget, havde han det var han gået faren i møde, taget angrebet forfra.
+  - adverb: forresten, for resten
+    audio_id: forresten
+    mp3: https://static.ordnet.dk/mp3/11043/11043009_1.mp3
+    ipa: '[ˈʁasd]'
+    engelsk: by the way
+    eksempler: Jeg skal for resten hilse dig fra Kathrine.
+  - adverb: følgelig
+    audio_id: følgelig
+    mp3: https://static.ordnet.dk/mp3/11016/11016851_1.mp3
+    ipa: '[ˈføljəli]'
+    engelsk: consequently
+    eksempler: De næste 40-50 år vil verdens befolkning blive næsten fordoblet ... Følgelig skal der fremstilles mindst dobbelt så mange fødevarer.
+  - adverb: før
+    audio_id: før
+    mp3: https://static.ordnet.dk/mp3/11016/11016876_1.mp3
+    ipa: '[ˈføˀɐ̯]'
+    engelsk: before
+    eksempler: Før havde jeg været åben og udadvendt, nu havde jeg svært ved at se den nye situation i øjnene.
+  - adverb: først
+    audio_id: først
+    mp3: https://static.ordnet.dk/mp3/11016/11016914_1.mp3
+    ipa: '[ˈfɶɐ̯sd]'
+    engelsk: not until
+    eksempler: Katastrofens omfang kan .. først afgøres om tre-fire ugers tid.
+  - adverb: gudskelov, gud ske lov
+    audio_id: gudskelov
+    mp3: https://static.ordnet.dk/mp3/11019/11019099_1.mp3
+    ipa: '[ˈgusgəˈlɒw]'
+    engelsk: thank god
+    eksempler: Gudskelov det ikke var koen! Sagde kællingen, da hendes mand døde.
+  - adverb: heldigvis
+    audio_id: heldigvis
+    mp3: https://static.ordnet.dk/mp3/11020/11020264_1.mp3
+    ipa: '[ˈhεldiˈviˀs]'
+    engelsk: fortunately
+    eksempler: Gulvet er iskoldt, men heldigvis har han beholdt strømperne på.
+  - adverb: herefter
+    audio_id: herefter
+    mp3: https://static.ordnet.dk/mp3/11020/11020499_1.mp3
+    ipa: '[ˈhεˀɐ̯ˌεfdʌ]'
+    engelsk: hereafter
+    eksempler: Læg husblasen i koldt vand. Smelt den herefter over vandbad.
+  - adverb: hermed
+    audio_id: hermed
+    mp3: https://static.ordnet.dk/mp3/11020/11020529_1.mp3
+    ipa: '[ˈhεˀɐ̯ˈmεð]'
+    engelsk: hereby, consequently
+    eksempler: Såfremt vedtægterne giver de øvrige andelshavere forkøbsret til andelen, er køberen ved modtagelsen af vedtægterne gjort bekendt hermed.
+  - adverb: herunder
+    audio_id: herunder
+    mp3: https://static.ordnet.dk/mp3/11020/11020613_1.mp3
+    ipa: '[ˈhεˀɐ̯ˈɔnˀʌ]'
+    engelsk: including
+    eksempler: En del plastictyper er farlige, herunder skumplast.
+  - adverb: hidtil
+    audio_id: hidtil
+    mp3: https://static.ordnet.dk/mp3/11020/11020691_1.mp3
+    ipa: '[ˈhiðˌtel]'
+    engelsk: so far
+    eksempler: Danmark fik i går sin hidtil yngste universitetsrektor.
+  - adverb: imidlertid
+    audio_id: imidlertid
+    mp3: https://static.ordnet.dk/mp3/11023/11023007_1.mp3
+    ipa: '[iˈmiðˀlʌˌtiðˀ]'
+    engelsk: however
+    eksempler: 2. udgave, står der i hæftet. Første udgave blev imidlertid trykt i så forsvindende få eksemplarer at den så godt som ikke er udkommet.
+  - adverb: inden
+    audio_id: inden
+    mp3: https://static.ordnet.dk/mp3/11023/11023193_1.mp3
+    ipa: '[ˈenən]'
+    engelsk: before
+    eksempler: Margrethe døde i 1953, men inden nåede hun at føde 13 børn.
+  - adverb: ligeledes
+    audio_id: ligeledes
+    mp3: https://static.ordnet.dk/mp3/11030/11030398_1.mp3
+    ipa: '[ˈliːəˌleːðəs]'
+    engelsk: likewise, similarly
+    eksempler: Skræl æblerne og hak dem groft. Hak ligeledes løgene groft.
+  - adverb: måske
+    audio_id: måske
+    mp3: https://static.ordnet.dk/mp3/11035/11035201_1.mp3
+    ipa: '[mɔˈsgeˀ]'
+    engelsk: maybe
+    eksempler: Måske kommer han slet ikke hjem. Det kan være, han bliver hos Pia i nat.
+  - adverb: navnlig
+    audio_id: navnlig
+    mp3: https://static.ordnet.dk/mp3/11035/11035591_1.mp3
+    ipa: '[ˈnɑwnli]'
+    engelsk: in particular
+    eksempler: Klokkefrøen forekommer navnlig i kystnære sumpe og vandhuller.
+  - adverb: nedenfor
+    audio_id: nedenfor
+    mp3: https://static.ordnet.dk/mp3/11035/11035643_1.mp3
+    ipa: '[ˈneːðənˈfʌ]'
+    engelsk: below
+    eksempler: Du skal blot svare på spørgsmålene nedenfor og indsende kuponen.
+  - adverb: nogle gange
+    audio_id: ''
+    mp3: ''
+    ipa: ''
+    engelsk: sometimes
+    eksempler: Nogle gange ville jeg ønske min mor lignede din lidt.
+  - adverb: nu
+    audio_id: nu
+    mp3: https://static.ordnet.dk/mp3/11036/11036235_1.mp3
+    ipa: '[ˈnu]'
+    engelsk: now
+    eksempler: Jeg har været væk en tid, men nu er jeg tilbage.
+  - adverb: ombord, om bord
+    audio_id: ombord
+    mp3: ''
+    ipa: '[ʌmˈboˀɐ̯]'
+    engelsk: on board
+    eksempler: En skitse over færgens indretning med anvisning af eventuelle flugtveje burde udleveres til hver passager inden man går eller kører om bord.
+  - adverb: omgående
+    audio_id: omgående
+    mp3: https://static.ordnet.dk/mp3/11037/11037132_1.mp3
+    ipa: '[-ˌgɔˀənə]'
+    engelsk: immediately
+    eksempler: Hvis barnet bliver bevidstløs, skal lægen omgående tilkaldes, eller barnet bringes på skadestuen.
+  - adverb: omsider
+    audio_id: omsider
+    mp3: https://static.ordnet.dk/mp3/11037/11037205_1.mp3
+    ipa: '[ʌmˈsiðʌ]'
+    engelsk: finally
+    eksempler: Havel ringede efter en taxi. Det tager lang tid, men omsider dukker den op dernede i den blæsende gade.
+  - adverb: overalt
+    audio_id: overalt
+    mp3: https://static.ordnet.dk/mp3/11038/11038173_1.mp3
+    ipa: '[ɒwʌˈalˀd]'
+    engelsk: everywhere
+    eksempler: Overalt, hvor vikingerne kom frem, blev der holdt øje med dem inde fra kysten.
+  - adverb: sandsynligvis
+    audio_id: sandsynligvis
+    mp3: https://static.ordnet.dk/mp3/11044/11044880_1.mp3
+    ipa: '[sanˈsyˀnliˈviˀs]'
+    engelsk: probably
+    eksempler: Sandsynligvis er volden Kovirke syd for Hedeby opført i 808 af kong Godfred.
+  - adverb: som regel, i reglen
+    audio_id: ''
+    mp3: ''
+    ipa: ''
+    engelsk: usually
+    eksempler: Gruppemøderne varede som regel en time.
+  - adverb: sommetider, somme tider
+    audio_id: sommetider
+    mp3: https://static.ordnet.dk/mp3/11048/11048756_1.mp3
+    ipa: '[ˈsʌməˈtiðʌ]'
+    engelsk: sometimes
+    eksempler: 'Sommetider greb han sig selv i at tænke: Bare det var mig der var Agnete og kunne gå hjemme med børnene.'
+  - adverb: således
+    audio_id: således
+    mp3: https://static.ordnet.dk/mp3/11052/11052545_1.mp3
+    ipa: '[ˈsʌˌleðəs]'
+    engelsk: so, thus, in this way
+    eksempler: Skattesystemet er lagt om, således at de store indkomster slipper billigere.
+  - adverb: takket være
+    audio_id: ''
+    mp3: ''
+    ipa: ''
+    engelsk: thanks to
+    eksempler: Hun fik ord for at være løgnagtig takket være sit usikre flakkende blik.
+  - adverb: tilfældigvis
+    audio_id: tilfældigvis
+    mp3: https://static.ordnet.dk/mp3/12001/12001116_1.mp3
+    ipa: '[teˈfεlˀdiˈviˀs]'
+    engelsk: coincidentally
+    eksempler: Jeg kom tilfældigvis til at stå ved siden af Anette.
+  - adverb: tilsammen (med)
+    audio_id: tilsammen
+    mp3: ''
+    ipa: '[teˈsɑmˀən]'
+    engelsk: together (with)
+    eksempler: Tilsammen udgjorde de et stærkt hold. Så længe de kunne enes.
+  - adverb: tværtimod
+    audio_id: tværtimod
+    mp3: https://static.ordnet.dk/mp3/12003/12003090_1.mp3
+    ipa: '[ˈtvæɐ̯diˈmoˀð]'
+    engelsk: on the contrary
+    eksempler: Jeg var slet ikke deprimeret, tværtimod, man skal se positivt på alting.
+  - adverb: undervejs
+    audio_id: undervejs
+    mp3: https://static.ordnet.dk/mp3/12004/12004903_1.mp3
+    ipa: '[ɔnʌˈvɑjˀs]'
+    engelsk: along the way
+    eksempler: Vi købte en gammel spand af en bil og tilbagelagde i løbet af de næste ni måneder ca. 28.000 km. Undervejs arbejdede vi forskellige steder.
+  - adverb: ydermere
+    audio_id: ydermere
+    mp3: https://static.ordnet.dk/mp3/12007/12007786_1.mp3
+    ipa: '[ˈyðʌˈmeːʌ]'
+    engelsk: furthermore
+    eksempler: Leksikonet leveres .. i en både smuk og slidstærk indbinding, som ydermere er forsynet med et smukt beskyttende yderomslag.
+- title: Lang og kort form
+  headers:
+  - Kort form
+  - Lang form
+  - Eksempler
+  entries:
+  - kort_form: frem
+    lang_form: fremme
+    eksempler: Flemming fiskede whiskyflasken frem og hældte mere op i sit eget og Sonnys glas.
+  - kort_form: (her-, der-)hen
+    lang_form: (her-, der-)henne
+    eksempler: Jeg lod hånden glide hen over det kølige marmor.
+  - kort_form: (her-, der-)hjem
+    lang_form: (her-, der-)hjemme
+    eksempler: Han vendte hjem fra USA for et halvt år siden.
+  - kort_form: (her-, der-)ind
+    lang_form: (her-, der-)inde
+    eksempler: Hun sætter sig ind i bilen.
+  - kort_form: (her-, der-)ned
+    lang_form: (her-, der-)nede
+    eksempler: Under store smerter halvt kravlede, halvt gled han ned ad skrænten.
+  - kort_form: om
+    lang_form: omme
+    eksempler: Hun havde drejet ansigtet om mod mig, og jeg så ind i hendes øjne.
+  - kort_form: (her-, der-)op
+    lang_form: (her-, der-)oppe
+    eksempler: Ingen kan stige op til Gud ved hjælp af gode og smukke handlinger.
+  - kort_form: over
+    lang_form: ovre
+    eksempler: Skulle hun sælge gården og flytte over til sønnerne i København?.
+  - kort_form: (her-, der-)ud
+    lang_form: (her-, der-)ude
+    eksempler: '"Nej, Bjarne, du kan ikke gå ud i det vejr!" "Sneen fyger, og man kan ikke se en hånd for sig!.'
+- title: Om tiden
+  headers:
+  - Adverb
+  - Engelsk
+  - Eksempler
+  entries:
+  - adverb: det sidste års tid
+    engelsk: the last year or so
+    eksempler: I den ugentlige "karakterbog", som AIM udgiver for DRs og TV 2's programlægning, har TV 2 i det sidste års tid taget alle stikkene hjem.
+  - adverb: engang
+    engelsk: once upon a time
+    eksempler: Der var engang en ung pige, der gik ud i verden for at søge sin lykke.
+  - adverb: for nylig
+    engelsk: recently
+    eksempler: Jeg har for nylig tilbragt en måned i Nigeria, hvor jeg studerede landets musik.
+  - adverb: for tiden, i øjeblikket
+    engelsk: currently
+    eksempler: Lene er i lære som advokatsekretær, og Mette arbejder for tiden som kassedame i et supermarked.
+  - adverb: før i tiden
+    engelsk: in the past
+    eksempler: Før i tiden fik sømænd skørbug på lange rejser, fordi de ikke fik frugt og grønsager.
+  - adverb: gennem årene
+    engelsk: over the years
+    eksempler: Kommissionen har endvidere gennem årene bistået en lang række ikke-statslige organisationer i det opinionsdannende arbejde.
+  - adverb: i dagevis
+    engelsk: for days
+    eksempler: Jeg lå i sengen i dagevis og græd og græd og havde det virkelig dårligt
+  - adverb: i sommerhalvåret
+    engelsk: in the summer months
+    eksempler: Pengene blev afdraget med 8 skilling ugentligt i sommerhalvåret og 4 skilling om vinteren.
+  - adverb: indtil videre
+    engelsk: so far
+    eksempler: Min tur hernede er indtil videre gået helt fint.
+  - adverb: på det tidspunkt
+    engelsk: at that time
+    eksempler: Hatte var på det tidspunkt en virkelig forbrugsvare, for ingen ordentlig dame gik barhovedet ud af sin gadedør.
+  - adverb: somme tider
+    engelsk: sometimes
+    eksempler: Symptomerne er somme tider meget svage, og man behøver ikke at have dem alle, selv om man er smittet.

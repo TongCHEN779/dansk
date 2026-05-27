@@ -5,24 +5,7 @@ permalink: /lytte/kina_75_aar/
 search: false
 ---
 
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-    /* Customize width for specific columns */
-    th:nth-child(1), td:nth-child(1) {
-        width: 30%; /* First column */
-    }
-    th:nth-child(2), td:nth-child(2) {
-        width: 70%; /* Second column */
-    }
-</style>
+{% include table-style.html col1='30%' col2='70%' %}
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <td style="vertical-align: top;"> <iframe width="560" height="315" src="https://www.youtube.com/embed/prvv9-lr9TU?si=YLmflTlRfb2Ie4XO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </td>

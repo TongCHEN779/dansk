@@ -7,38 +7,8 @@ search: false
 
 <p align="center"><img src="https://tongchen779.github.io/dansk/images/det_kommer.png"/></p>
 
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-    /* Customize width for specific columns */
-    th:nth-child(1), td:nth-child(1) {
-        width: 30%; /* First column */
-    }
-    th:nth-child(2), td:nth-child(2) {
-        width: 70%; /* Second column */
-    }
-</style>
-<script>
-    document.addEventListener("DOMContentLoaded", function () {
-    const audios = document.querySelectorAll("audio");
-    audios.forEach(audio => {
-        audio.addEventListener("play", () => {
-        audios.forEach(otherAudio => {
-            if (otherAudio !== audio) {
-            otherAudio.pause();
-            }
-        });
-        });
-    });
-    });
-</script>
+{% include table-style.html col1='30%' col2='70%' %}
+{% include audio-mutex.html %}
 <br>
 Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/files/det_kommer/grundbog.pdf) med [rettenøgle](https://tongchen779.github.io/dansk/files/det_kommer/grundbog_rettenoegle.pdf), [Øvebog](https://tongchen779.github.io/dansk/files/det_kommer/oevebog.pdf) med [rettenøgle](https://tongchen779.github.io/dansk/files/det_kommer/oevebog_rettenoegle.pdf), og [supplerende læsetekster](https://tongchen779.github.io/dansk/files/det_kommer/laesetekster.pdf). Man kan også finde lærebøger til modul 1 ([Grundbog](https://tongchen779.github.io/dansk/files/danish_to_go1_grundbog.pdf) med [klasseaktiviteter](https://tongchen779.github.io/dansk/files/danish_to_go1_klasseaktiviteter.pdf)) og modul 2 ([Grundbog](https://tongchen779.github.io/dansk/files/danish_to_go2_grundbog.pdf) med [klasseaktiviteter](https://tongchen779.github.io/dansk/files/danish_to_go2_klasseaktiviteter.pdf)), tilsammen med nogle brochurer med [basisgrammatikker](https://tongchen779.github.io/dansk/files/basisgram.pdf), [minigrammatikker](https://tongchen779.github.io/dansk/files/minigram.pdf), [grammatiktillæg](https://tongchen779.github.io/dansk/files/gramtillaeg.pdf), og [frasalverber](https://tongchen779.github.io/dansk/files/frasal_verber.pdf).
 <br><br>

@@ -5,24 +5,7 @@ permalink: /laesning/salon_des_refuses/
 search: false
 ---
 
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-    /* Customize width for specific columns */
-    th:nth-child(1), td:nth-child(1) {
-        width: 30%; /* First column */
-    }
-    th:nth-child(2), td:nth-child(2) {
-        width: 70%; /* Second column */
-    }
-</style>
+{% include table-style.html col1='30%' col2='70%' %}
 
 <h1 style="text-align: center;"> De Afvistes Salon </h1>
 <p align="center"><span style="font-size: 80%"> Efter den franske Salon des Refuses, en kunstudstilling afholdt i Paris 1863 af kunstnere, hvis værker var blevet afvist af den officielle Salon.</span></p>

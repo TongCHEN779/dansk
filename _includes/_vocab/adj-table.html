@@ -1,0 +1,27 @@
+<table>
+<tr>
+  <th>N-form (ental)</th>
+  <th>Udtale</th>
+  <th>T-form (ental)</th>
+  <th>E-form (flertal og bestemt form)</th>
+  <th>Komparativ (ental)</th>
+  <th>Superlativ (ental)</th>
+  <th>Engelsk</th>
+</tr>
+{% for e in include.entries %}
+<tr>
+  <td>{% if e.ordnet %}<a href="{{ e.ordnet }}">{{ e.dansk }}</a>{% else %}{{ e.dansk }}{% endif %}</td>
+  <td>
+    {% if e.mp3 and e.mp3 != "" %}
+    <audio id="{{ e.audio_id }}" src="{{ e.mp3 }}" style="display:none;"></audio>
+    <span onclick="playSound('{{ e.audio_id }}');" style="cursor:pointer;color:blue;">{{ e.ipa }}</span>
+    {% else %}{{ e.ipa }}{% endif %}
+  </td>
+  <td>{{ e.t_form }}</td>
+  <td>{{ e.e_form }}</td>
+  <td>{{ e.komparativ }}</td>
+  <td>{{ e.superlativ }}</td>
+  <td>{{ e.engelsk }}</td>
+</tr>
+{% endfor %}
+</table>

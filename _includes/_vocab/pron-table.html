@@ -1,0 +1,53 @@
+{% assign headers = include.section.headers %}
+
+{% if headers contains "Personligt - Subjektform" %}
+  {%- comment %} Section 1: Personal pronouns {%- endcomment %}
+  <table>
+  <tr>
+    {% for h in headers %}<th>{{ h }}</th>{% endfor %}
+  </tr>
+  {% for e in include.section.entries %}
+  <tr>
+    <td>{{ e['Personligt - Subjektform'] }}</td>
+    <td>{{ e['Personligt - Objektform'] }}</td>
+    <td>{{ e['Possessive'] }}</td>
+    <td>{{ e['Refleksive possessive'] }}</td>
+    <td>{{ e['Refleksive'] }}</td>
+  </tr>
+  {% endfor %}
+  </table>
+
+{% elsif headers contains "-n nouns" %}
+  {%- comment %} Section 2: Indefinite pronouns {%- endcomment %}
+  <table>
+  <tr>
+    {% for h in headers %}<th>{{ h }}</th>{% endfor %}
+  </tr>
+  {% for e in include.section.entries %}
+  <tr>
+    <td>{{ e['-n nouns'] }}</td>
+    <td>{{ e['-t nouns'] }}</td>
+    <td>{{ e['plural'] }}</td>
+    <td>{{ e['countable'] }}</td>
+    <td>{{ e['uncountable'] }}</td>
+  </tr>
+  {% endfor %}
+  </table>
+
+{% elsif headers contains "Spørgeord" %}
+  {%- comment %} Section 3: Question words {%- endcomment %}
+  <table>
+  <tr>
+    <th>Spørgeord</th>
+    <th>Engelsk</th>
+    <th>Eksempler</th>
+  </tr>
+  {% for e in include.section.entries %}
+  <tr>
+    <td>{{ e['Spørgeord'] }}</td>
+    <td>{{ e['Engelsk'] }}</td>
+    <td>{{ e['Eksempler'] }}</td>
+  </tr>
+  {% endfor %}
+  </table>
+{% endif %}

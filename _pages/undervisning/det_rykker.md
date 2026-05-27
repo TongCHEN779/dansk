@@ -7,38 +7,8 @@ search: false
 
 <p align="center"><img src="https://tongchen779.github.io/dansk/images/det_rykker.png"/></p>
 
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-    /* Customize width for specific columns */
-    th:nth-child(1), td:nth-child(1) {
-        width: 30%; /* First column */
-    }
-    th:nth-child(2), td:nth-child(2) {
-        width: 70%; /* Second column */
-    }
-</style>
-<script>
-    document.addEventListener("DOMContentLoaded", function () {
-    const audios = document.querySelectorAll("audio");
-    audios.forEach(audio => {
-        audio.addEventListener("play", () => {
-        audios.forEach(otherAudio => {
-            if (otherAudio !== audio) {
-            otherAudio.pause();
-            }
-        });
-        });
-    });
-    });
-</script>
+{% include table-style.html col1='30%' col2='70%' %}
+{% include audio-mutex.html %}
 <br>
 Her kan du finde pdf-filer af [Grundbog](https://tongchen779.github.io/dansk/files/det_rykker/grundbog.pdf), [Øvebog](https://tongchen779.github.io/dansk/files/det_rykker/oevebog.pdf) med [rettenøgle](https://tongchen779.github.io/dansk/files/det_rykker/oevebog_rettenoegle.pdf), og [supplerende læsetekster](https://tongchen779.github.io/dansk/files/det_rykker/laesetekster.pdf). Man kan også finde en alternativ lærebog til modul 4 ([Grundbog](https://tongchen779.github.io/dansk/files/paeredansk_grundbog.pdf) med [lærervejledning](https://tongchen779.github.io/dansk/files/paeredansk_laerervejledning.pdf)).
 <br><br>

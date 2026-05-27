@@ -5,48 +5,7 @@ permalink: /laesning/by_og_havn/
 search: false
 ---
 
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-    /* Column width rules for your main tables */
-    table.main-table th:nth-child(1),
-    table.main-table td:nth-child(1) {
-        width: 30%;
-    }
-    table.main-table th:nth-child(2),
-    table.main-table td:nth-child(2) {
-        width: 70%;
-    }
-
-    /* Small table: no fixed widths, just content-based */
-    table.small-table th:nth-child(1),
-    table.small-table td:nth-child(1) {
-        width: 40%;
-    }
-    table.small-table th:nth-child(2),
-    table.small-table td:nth-child(2) {
-        width: 15%;
-    }
-    table.small-table th:nth-child(3),
-    table.small-table td:nth-child(3) {
-        width: 15%;
-    }
-    table.small-table th:nth-child(4),
-    table.small-table td:nth-child(4) {
-        width: 15%;
-    }
-    table.small-table th:nth-child(5),
-    table.small-table td:nth-child(5) {
-        width: 15%;
-    }
-</style>
+{% include table-style.html col1='30%' col2='70%' %}
 
 <h1 style="text-align: center;"> Tredobbelt særudstilling: Christianshavn / I skyggen af Kejserens Tyskland / Sikkerhed og velstand </h1>
 <br>

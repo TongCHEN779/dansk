@@ -1,0 +1,29 @@
+<table>
+<tr>
+  <th>Infinitiv</th>
+  <th>Udtale</th>
+  <th>Nutid</th>
+  <th>Datid</th>
+  <th>Førnutid</th>
+  <th>Imperativ</th>
+  <th>Engelsk</th>
+  <th>Gruppe</th>
+</tr>
+{% for e in include.entries %}
+<tr>
+  <td>{% if e.ordnet %}<a href="{{ e.ordnet }}">{{ e.dansk }}</a>{% else %}{{ e.dansk }}{% endif %}</td>
+  <td>
+    {% if e.mp3 and e.mp3 != "" %}
+    <audio id="{{ e.audio_id }}" src="{{ e.mp3 }}" style="display:none;"></audio>
+    <span onclick="playSound('{{ e.audio_id }}');" style="cursor:pointer;color:blue;">{{ e.ipa }}</span>
+    {% else %}{{ e.ipa }}{% endif %}
+  </td>
+  <td>{{ e.nutid }}</td>
+  <td>{{ e.datid }}</td>
+  <td>{{ e.fornutid }}</td>
+  <td>{{ e.imperativ }}</td>
+  <td>{{ e.engelsk }}</td>
+  <td>{{ e.gruppe }}</td>
+</tr>
+{% endfor %}
+</table>

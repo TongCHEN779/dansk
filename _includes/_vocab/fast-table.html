@@ -1,0 +1,31 @@
+{% assign headers = include.section.headers %}
+
+{% if headers contains "Eksempler" %}
+  <table>
+  <tr>
+    <th>Udtryk</th>
+    <th>Engelsk</th>
+    <th>Eksempler</th>
+  </tr>
+  {% for e in include.section.entries %}
+  <tr>
+    <td>{{ e.udtryk }}</td>
+    <td>{{ e.engelsk }}</td>
+    <td>{{ e.eksempler }}</td>
+  </tr>
+  {% endfor %}
+  </table>
+{% else %}
+  <table>
+  <tr>
+    <th>Udtryk</th>
+    <th>Engelsk</th>
+  </tr>
+  {% for e in include.section.entries %}
+  <tr>
+    <td>{{ e.udtryk }}</td>
+    <td>{{ e.engelsk }}</td>
+  </tr>
+  {% endfor %}
+  </table>
+{% endif %}

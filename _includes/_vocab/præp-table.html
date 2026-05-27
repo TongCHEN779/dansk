@@ -1,0 +1,14 @@
+<table>
+<tr>
+  <th>Præposition</th>
+  <th>Engelsk</th>
+  <th>Eksempler</th>
+</tr>
+{% for e in include.entries %}
+<tr>
+  <td>{{ e.præposition }}</td>
+  <td>{{ e.engelsk }}</td>
+  <td>{{ e.eksempler }}</td>
+</tr>
+{% endfor %}
+</table>

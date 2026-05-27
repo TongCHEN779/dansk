@@ -1,0 +1,27 @@
+<table>
+<tr>
+  <th>Ental Ubestemt</th>
+  <th>Udtale</th>
+  <th>Ental Bestemt</th>
+  <th>Flertal Ubestemt</th>
+  <th>Flertal Bestemt</th>
+  <th>Engelsk</th>
+  <th>Gruppe</th>
+</tr>
+{% for e in include.entries %}
+<tr>
+  <td>{% if e.ordnet %}<a href="{{ e.ordnet }}">{{ e.dansk }}</a>{% else %}{{ e.dansk }}{% endif %}</td>
+  <td>
+    {% if e.mp3 and e.mp3 != "" %}
+    <audio id="{{ e.audio_id }}" src="{{ e.mp3 }}" style="display:none;"></audio>
+    <span onclick="playSound('{{ e.audio_id }}');" style="cursor:pointer;color:blue;">{{ e.ipa }}</span>
+    {% else %}{{ e.ipa }}{% endif %}
+  </td>
+  <td>{{ e.bestemt }}</td>
+  <td>{{ e.flertal_ubestemt }}</td>
+  <td>{{ e.flertal_bestemt }}</td>
+  <td>{{ e.engelsk }}</td>
+  <td>{{ e.gruppe }}</td>
+</tr>
+{% endfor %}
+</table>

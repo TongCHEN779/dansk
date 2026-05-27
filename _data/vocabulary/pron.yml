@@ -1,0 +1,145 @@
+sections:
+- title: Alle pronominer
+  headers:
+  - Personligt - Subjektform
+  - Personligt - Objektform
+  - Possessive
+  - Refleksive possessive
+  - Refleksive
+  entries:
+  - Personligt - Subjektform: jeg
+    Personligt - Objektform: mig
+    Possessive: min, mit, mine
+    Refleksive possessive: '-'
+    Refleksive: mig
+  - Personligt - Subjektform: du, De
+    Personligt - Objektform: dig, Dem
+    Possessive: din, dit, dine, Deres
+    Refleksive possessive: '-'
+    Refleksive: dig, Dem
+  - Personligt - Subjektform: han, hun, den, det, man
+    Personligt - Objektform: ham, hende, den, det, sig
+    Possessive: hans, hendes, dens, dets, ens
+    Refleksive possessive: sin, sit, sine
+    Refleksive: sig
+  - Personligt - Subjektform: vi
+    Personligt - Objektform: os
+    Possessive: vores
+    Refleksive possessive: '-'
+    Refleksive: os
+  - Personligt - Subjektform: I, De
+    Personligt - Objektform: jer, Dem
+    Possessive: jeres, Deres
+    Refleksive possessive: '-'
+    Refleksive: jer, Dem
+  - Personligt - Subjektform: de
+    Personligt - Objektform: dem
+    Possessive: deres
+    Refleksive possessive: '-'
+    Refleksive: sig
+  - Personligt - Subjektform: begge
+    Personligt - Objektform: '-'
+    Possessive: '-'
+    Refleksive possessive: '-'
+    Refleksive: '-'
+  - Personligt - Subjektform: al
+    Personligt - Objektform: '-'
+    Possessive: '-'
+    Refleksive possessive: '-'
+    Refleksive: '-'
+- title: Ubestemte pronominer
+  headers:
+  - -n nouns
+  - -t nouns
+  - plural
+  - countable
+  - uncountable
+  entries:
+  - -n nouns: nogen (-?)
+    -t nouns: noget (-?)
+    plural: nogen (-?)
+    countable: nogle (+), mange, flere, færre
+    uncountable: noget (+), meget, mere, mindre
+  - -n nouns: ingen
+    -t nouns: intet
+    plural: ingen
+    countable: '-'
+    uncountable: '-'
+  - -n nouns: al
+    -t nouns: alt
+    plural: alle
+    countable: '-'
+    uncountable: '-'
+  - -n nouns: hver, enhver
+    -t nouns: hvert, ethvert
+    plural: '-'
+    countable: '-'
+    uncountable: '-'
+  - -n nouns: den, denne
+    -t nouns: det, dette
+    plural: de, disse
+    countable: '-'
+    uncountable: '-'
+- title: Spørgeord
+  headers:
+  - Spørgeord
+  - Engelsk
+  - Eksempler
+  entries:
+  - Spørgeord: Hvad
+    Engelsk: What
+    Eksempler: Hvad laver du, når du holder fri?
+  - Spørgeord: Hvem
+    Engelsk: Who
+    Eksempler: Hvem er de roser fra?
+  - Spørgeord: Hvilk-en/et/e
+    Engelsk: Which
+    Eksempler: Hvilke holdninger har befolkningen til genteknologi – og hvilken viden?
+  - Spørgeord: Hvis
+    Engelsk: Whose
+    Eksempler: Hvis skyld er det, at folkeskoleeleverne har alle de mangler?
+  - Spørgeord: Hvor
+    Engelsk: Where
+    Eksempler: Hvor er mine briller?
+  - Spørgeord: Hvor gammel/gamle
+    Engelsk: How old
+    Eksempler: Hvor gammel er du?
+  - Spørgeord: Hvor længe
+    Engelsk: How long
+    Eksempler: Hvor længe havde hun siddet der? Tyve minutter?
+  - Spørgeord: Hvor mange
+    Engelsk: How many
+    Eksempler: Hvor mange penge vil vi sætte af?
+  - Spørgeord: Hvor meget
+    Engelsk: How much
+    Eksempler: Hvor meget kan der spares i de forskellige afdelinger?
+  - Spørgeord: Hvor tit
+    Engelsk: How often
+    Eksempler: Hvor tit gik I i biffen, kan du huske det?
+  - Spørgeord: Hvoraf
+    Engelsk: Where ... from
+    Eksempler: Hvoraf kommer det, at der er så langt mellem drøm og sandhed?
+  - Spørgeord: Hvordan, hvorledes
+    Engelsk: How
+    Eksempler: Hvorledes reguleres gensplejsningsarbejde i Danmark?
+  - Spørgeord: Hvorfor
+    Engelsk: Why
+    Eksempler: Hvorfor stå tidligt op, når man er arbejdsløs?
+  - Spørgeord: Hvorfra
+    Engelsk: Where ... from
+    Eksempler: Hvorfra gik flugtruterne?
+  - Spørgeord: Hvori
+    Engelsk: What
+    Eksempler: Hvori består vores danskhed i grunden?
+  - Spørgeord: Hvormed
+    Engelsk: How
+    Eksempler: Hvormed kan jeg være til tjeneste?
+  - Spørgeord: Hvornår
+    Engelsk: When
+    Eksempler: Hvornår kommer du hjem?
+  - Spørgeord: Hvortil
+    Engelsk: Where ... to
+    Eksempler: Hvortil gik jeres første rejse?
+  - Spørgeord: Hvorved
+    Engelsk: How
+    Eksempler: Hvorved adskiller skemaernes indhold sig fra hinanden?

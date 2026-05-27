@@ -8,23 +8,7 @@ search: false
 (Her kan du finde et [skema over morfemer](https://tongchen779.github.io/dansk/files/morfemer.pdf) og noget [sproghjælp](https://tongchen779.github.io/dansk/files/sproghjaelp.pdf).)
 
 <h1 id="adj" style="text-align: center;"> Adjektivernes former </h1>
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    tr:nth-child(even) {
-        background-color: #f2f2f2; /* Light gray background for even rows */
-    }
-    tr:nth-child(odd) {
-        background-color: #ffffff; /* White background for odd rows */
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-</style>
+{% include table-style.html %}
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
@@ -98,23 +82,7 @@ search: false
 </table>
 
 <h1 id="sub" style="text-align: center;"> Substantivernes former </h1>
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    tr:nth-child(even) {
-        background-color: #f2f2f2; /* Light gray background for even rows */
-    }
-    tr:nth-child(odd) {
-        background-color: #ffffff; /* White background for odd rows */
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-</style>
+{% include table-style.html %}
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th>  </th>
@@ -172,23 +140,7 @@ search: false
 </table>
 
 <h1 id="verb" style="text-align: center;"> Verbernes former </h1>
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    tr:nth-child(even) {
-        background-color: #f2f2f2; /* Light gray background for even rows */
-    }
-    tr:nth-child(odd) {
-        background-color: #ffffff; /* White background for odd rows */
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-</style>
+{% include table-style.html %}
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
 <th>  </th>

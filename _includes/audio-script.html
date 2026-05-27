@@ -1,0 +1,17 @@
+<script>
+    function playSound(soundId) {
+        var audioElement = document.getElementById(soundId);
+        var profileImage = document.getElementById("profile-avatar");
+        if (audioElement && profileImage) {
+            if (!audioElement.src || audioElement.readyState < 2 || audioElement.duration === 0 || isNaN(audioElement.duration)) {
+                console.warn("Invalid or empty audio source.");
+                return;
+            }
+            profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
+            audioElement.play();
+            audioElement.onended = function () {
+                profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
+            };
+        }
+    }
+</script>

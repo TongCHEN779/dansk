@@ -5,24 +5,7 @@ permalink: /laesning/boeger/
 search: false
 ---
 
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    th, td {
-        border: 1px solid #dddddd;
-        padding: 8px;
-        text-align: left;
-    }
-    /* Customize width for specific columns */
-    th:nth-child(1), td:nth-child(1) {
-        width: 20%; /* First column */
-    }
-    th:nth-child(2), td:nth-child(2) {
-        width: 80%; /* Second column */
-    }
-</style>
+{% include table-style.html col1='20%' col2='80%' %}
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>

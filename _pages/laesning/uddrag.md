@@ -5,24 +5,7 @@ permalink: /laesning/uddrag/
 search: false
 ---
 
-<style>
-    table {
-        border-collapse: collapse;
-        width: 100%;
-    }
-    th, td {
-        padding: 1em;
-        text-align: left;
-        display: inline-block;
-        background-color: #f0f0f0;
-        border-radius: 55px;
-        border: 1px solid #ccc;
-        font-style: italic;
-        max-width: 100%;
-        box-shadow: 2px 2px 8px rgba(0,0,0,.5);
-        margin-bottom: 2em;
-    }
-</style>
+{% include table-style.html %}
 
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr><td><span style="font-weight: normal">
