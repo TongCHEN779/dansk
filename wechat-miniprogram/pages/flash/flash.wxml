@@ -20,7 +20,7 @@
     <!-- Bank-only mode -->
     <view class="mode-row">
       <switch checked="{{useBankOnly}}" bindchange="onBankModeChange" color="#C60C30" style="transform:scale(0.75);margin-right:-8rpx;"/>
-      <text class="mode-label">Øv kun ord fra min bank</text>
+      <text class="mode-label">只练习我的词库</text>
     </view>
 
     <!-- Flash card -->
@@ -28,7 +28,7 @@
 
       <!-- Idle -->
       <view wx:if="{{phase === 'idle'}}" class="card-idle">
-        <text>{{useBankOnly ? '练习银行中的词 — 点击「Flash」开始' : '点击「Flash」开始'}}</text>
+        <text>{{useBankOnly ? '练习词库中的词 — 点击「Flash」开始' : '点击「Flash」开始'}}</text>
       </view>
 
       <!-- Question / Answer -->
@@ -73,14 +73,14 @@
     <!-- Word bank panel -->
     <view class="bank-panel">
       <view class="bank-header" bindtap="toggleBankPanel">
-        <text class="bank-title">📚 Min Ordbank</text>
+        <text class="bank-title">📚 我的词库</text>
         <text wx:if="{{bankWords.length}}" class="bank-count">({{bankWords.length}})</text>
         <text class="bank-chevron">{{showBank ? '▲' : '▼'}}</text>
       </view>
 
       <view wx:if="{{showBank}}">
         <view wx:if="{{!bankWords.length}}" class="bank-empty">
-          银行是空的。点击「☆ Gem」保存遗忘的单词。
+          词库是空的。点击「☆ Gem」保存遗忘的单词。
         </view>
         <view wx:else>
           <view class="bank-item"

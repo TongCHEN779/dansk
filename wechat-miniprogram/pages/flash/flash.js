@@ -101,7 +101,7 @@ Page({
     if (!pool.length) {
       wx.showToast({
         title: this.data.useBankOnly
-          ? '银行中没有词 — 先用 ☆ 保存几个'
+          ? '词库中没有词 — 先用 ☆ 保存几个'
           : '没有可用的词，请检查分类',
         icon: 'none', duration: 2500
       })
