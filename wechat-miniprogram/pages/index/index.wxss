@@ -85,3 +85,7 @@
   font-size: 22rpx;
   color: #bbb;
 }
+.footer--link {
+  color: #1a73e8;
+  text-decoration: underline;
+}

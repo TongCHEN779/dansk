@@ -78,7 +78,8 @@
 .field-lbl {
   font-size: 24rpx;
   color: #999;
-  min-width: 110rpx;
+  width: 150rpx;
+  flex-shrink: 0;
   padding-top: 4rpx;
 }
 .field-val {
@@ -96,15 +97,6 @@
   font-style: italic;
 }
 
-/* ── answer input ── */
-.answer-input {
-  margin-top: 16rpx;
-  border: 1px solid #ddd;
-  border-radius: 10rpx;
-  padding: 16rpx 20rpx;
-  font-size: 28rpx;
-  background: #fafafa;
-}
 
 /* ── buttons ── */
 .btn-row {

@@ -37,41 +37,23 @@
         <!-- Dansk -->
         <view class="field-row">
           <text class="field-lbl">Dansk</text>
-          <text class="field-val {{showField === 'dansk' ? 'field-val--shown' : ''}}">
-            {{phase === 'answer' ? card.dansk : (showField === 'dansk' ? card.dansk : '')}}
-          </text>
+          <text class="field-val {{showField === 'dansk' ? 'field-val--shown' : ''}}">{{phase === 'answer' ? card.dansk : (showField === 'dansk' ? card.dansk : '')}}</text>
         </view>
 
         <!-- Udtale -->
         <view class="field-row">
           <text class="field-lbl">Udtale</text>
-          <!-- Answer phase: tappable IPA if audio available -->
-          <text wx:if="{{phase === 'answer' && card.mp3}}"
-                class="field-val field-val--ipa"
-                bindtap="playCardAudio">{{card.ipa}} 🔊</text>
-          <text wx:elif="{{phase === 'answer'}}"
-                class="field-val">{{card.ipa}}</text>
-          <!-- Question phase -->
-          <text wx:else class="field-val {{showField === 'ipa' ? 'field-val--shown' : ''}}">
-            {{showField === 'ipa' ? card.ipa : ''}}
-          </text>
+          <text wx:if="{{phase === 'answer' && card.mp3}}" class="field-val field-val--ipa" bindtap="playCardAudio">{{card.ipa}} 🔊</text>
+          <text wx:elif="{{phase === 'answer'}}" class="field-val">{{card.ipa}}</text>
+          <text wx:else class="field-val {{showField === 'ipa' ? 'field-val--shown' : ''}}">{{showField === 'ipa' ? card.ipa : ''}}</text>
         </view>
 
         <!-- Engelsk -->
         <view class="field-row">
           <text class="field-lbl">Engelsk</text>
-          <text class="field-val {{showField === 'engelsk' ? 'field-val--shown' : ''}}">
-            {{phase === 'answer' ? card.engelsk : (showField === 'engelsk' ? card.engelsk : '')}}
-          </text>
+          <text class="field-val {{showField === 'engelsk' ? 'field-val--shown' : ''}}">{{phase === 'answer' ? card.engelsk : (showField === 'engelsk' ? card.engelsk : '')}}</text>
         </view>
 
-        <!-- Answer input (question phase only) -->
-        <input wx:if="{{phase === 'question'}}"
-               class="answer-input"
-               placeholder="Skriv dit svar…"
-               value="{{userAnswer}}"
-               bindinput="onAnswerInput"
-               confirm-type="done" />
 
       </view>
     </view>

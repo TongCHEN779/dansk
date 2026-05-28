@@ -117,11 +117,7 @@ Page({
     this.setData({ phase: 'answer' })
   },
 
-  onAnswerInput(e) {
-    this.setData({ userAnswer: e.detail.value })
-  },
-
-  /* ── mark ── */
+/* ── mark ── */
   toggleMark() {
     const { card } = this.data
     if (!card) return

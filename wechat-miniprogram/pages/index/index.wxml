@@ -30,6 +30,6 @@
 
   </view>
 
-  <text class="footer">tongchen779.github.io/dansk</text>
+  <text class="footer footer--link" bindtap="copyLink">🔗 tongchen779.github.io/dansk</text>
 
 </view>
