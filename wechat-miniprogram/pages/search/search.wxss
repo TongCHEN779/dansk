@@ -1,0 +1,125 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background: #f5f5f5;
+  box-sizing: border-box;
+}
+
+/* ── status ── */
+.status-msg {
+  margin-top: 40vh;
+  text-align: center;
+  font-size: 28rpx;
+  color: #888;
+}
+.status-msg--err { color: #c00; }
+
+/* ── search bar ── */
+.search-bar {
+  display: flex;
+  align-items: center;
+  background: #fff;
+  margin: 20rpx 24rpx 12rpx;
+  border-radius: 16rpx;
+  padding: 16rpx 20rpx;
+  box-shadow: 0 2rpx 12rpx rgba(0,0,0,0.08);
+  gap: 12rpx;
+  flex-shrink: 0;
+}
+.search-icon { font-size: 32rpx; }
+.search-input {
+  flex: 1;
+  font-size: 28rpx;
+  color: #222;
+}
+.search-clear {
+  font-size: 28rpx;
+  color: #bbb;
+  padding: 0 8rpx;
+}
+
+/* ── type filter chips ── */
+.chip-scroll {
+  flex-shrink: 0;
+  white-space: nowrap;
+  padding: 0 24rpx 12rpx;
+}
+.chip-row {
+  display: inline-flex;
+  gap: 14rpx;
+}
+.chip {
+  display: inline-block;
+  padding: 10rpx 24rpx;
+  border-radius: 40rpx;
+  font-size: 22rpx;
+  border: 1px solid #ccc;
+  background: #fff;
+  color: #555;
+  white-space: nowrap;
+}
+.chip--on {
+  background: #C60C30;
+  border-color: #C60C30;
+  color: #fff;
+}
+
+/* ── hint ── */
+.hint {
+  text-align: center;
+  color: #bbb;
+  font-size: 28rpx;
+  margin-top: 80rpx;
+}
+
+/* ── results ── */
+.results {
+  flex: 1;
+  overflow: hidden;
+  padding: 0 24rpx;
+}
+.result-item {
+  background: #fff;
+  border-radius: 16rpx;
+  padding: 24rpx 24rpx;
+  margin-bottom: 16rpx;
+  box-shadow: 0 2rpx 10rpx rgba(0,0,0,0.06);
+}
+.result-main {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 8rpx;
+}
+.result-dansk {
+  font-size: 32rpx;
+  font-weight: 600;
+  color: #222;
+  flex: 1;
+}
+.result-meta {
+  display: flex;
+  align-items: center;
+  gap: 14rpx;
+  flex-shrink: 0;
+}
+.result-ipa {
+  font-size: 22rpx;
+  color: #999;
+  font-style: italic;
+}
+.result-ipa--link {
+  color: #1a73e8;
+}
+.result-type {
+  font-size: 20rpx;
+  background: #f0f0f0;
+  color: #777;
+  padding: 4rpx 12rpx;
+  border-radius: 20rpx;
+}
+.result-engelsk {
+  font-size: 28rpx;
+  color: #555;
+}

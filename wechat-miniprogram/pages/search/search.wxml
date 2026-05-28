@@ -1,0 +1,64 @@
+<view class="page">
+
+  <!-- Loading / error -->
+  <view wx:if="{{status === 'loading'}}" class="status-msg">
+    <text>加载词汇表中…</text>
+  </view>
+  <view wx:elif="{{status === 'error'}}" class="status-msg status-msg--err">
+    <text>加载失败，请检查网络后重试</text>
+  </view>
+
+  <block wx:elif="{{status === 'ready'}}">
+
+    <!-- Search bar -->
+    <view class="search-bar">
+      <text class="search-icon">🔍</text>
+      <input class="search-input"
+             placeholder="Søg dansk eller engelsk…"
+             value="{{query}}"
+             bindinput="onInput"
+             confirm-type="search"
+             focus="{{true}}" />
+      <text wx:if="{{query}}" class="search-clear" bindtap="onClear">✕</text>
+    </view>
+
+    <!-- Type filter chips -->
+    <scroll-view class="chip-scroll" scroll-x="true" enhanced="true" show-scrollbar="false">
+      <view class="chip-row">
+        <view wx:for="{{typeList}}"
+              wx:key="key"
+              class="chip {{item.on ? 'chip--on' : ''}}"
+              bindtap="toggleType"
+              data-key="{{item.key}}">
+          {{item.label}}
+        </view>
+      </view>
+    </scroll-view>
+
+    <!-- Results -->
+    <view wx:if="{{!query}}" class="hint">输入单词开始搜索</view>
+
+    <view wx:elif="{{!results.length}}" class="hint">没有找到「{{query}}」</view>
+
+    <scroll-view wx:else class="results" scroll-y="true">
+      <view class="result-item"
+            wx:for="{{results}}"
+            wx:key="index">
+        <view class="result-main">
+          <text class="result-dansk">{{item.dansk}}</text>
+          <view class="result-meta">
+            <text wx:if="{{item.mp3}}"
+                  class="result-ipa result-ipa--link"
+                  bindtap="playAudio"
+                  data-mp3="{{item.mp3}}">{{item.ipa}} 🔊</text>
+            <text wx:elif="{{item.ipa}}" class="result-ipa">{{item.ipa}}</text>
+            <text class="result-type">{{item.label}}</text>
+          </view>
+        </view>
+        <text class="result-engelsk">{{item.engelsk}}</text>
+      </view>
+    </scroll-view>
+
+  </block>
+
+</view>

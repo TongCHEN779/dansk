@@ -1,0 +1,130 @@
+<view class="page">
+
+  <!-- Loading / error -->
+  <view wx:if="{{status === 'loading'}}" class="status-msg">
+    <text>加载词汇表中…</text>
+  </view>
+  <view wx:elif="{{status === 'error'}}" class="status-msg status-msg--err">
+    <text>加载失败，请检查网络后重试</text>
+  </view>
+
+  <block wx:elif="{{status === 'ready'}}">
+
+    <!-- Category chips -->
+    <view class="chip-row">
+      <view class="chip {{types.adj  ? 'chip--on' : ''}}" bindtap="toggleType" data-type="adj" >Adjektiver</view>
+      <view class="chip {{types.sub  ? 'chip--on' : ''}}" bindtap="toggleType" data-type="sub" >Substantiver</view>
+      <view class="chip {{types.verb ? 'chip--on' : ''}}" bindtap="toggleType" data-type="verb">Verber</view>
+    </view>
+
+    <!-- Bank-only mode -->
+    <view class="mode-row">
+      <switch checked="{{useBankOnly}}" bindchange="onBankModeChange" color="#C60C30" style="transform:scale(0.75);margin-right:-8rpx;"/>
+      <text class="mode-label">Øv kun ord fra min bank</text>
+    </view>
+
+    <!-- Flash card -->
+    <view class="card">
+
+      <!-- Idle -->
+      <view wx:if="{{phase === 'idle'}}" class="card-idle">
+        <text>{{useBankOnly ? '练习银行中的词 — 点击「Flash」开始' : '点击「Flash」开始'}}</text>
+      </view>
+
+      <!-- Question / Answer -->
+      <view wx:else class="card-fields">
+
+        <!-- Dansk -->
+        <view class="field-row">
+          <text class="field-lbl">Dansk</text>
+          <text class="field-val {{showField === 'dansk' ? 'field-val--shown' : ''}}">
+            {{phase === 'answer' ? card.dansk : (showField === 'dansk' ? card.dansk : '')}}
+          </text>
+        </view>
+
+        <!-- Udtale -->
+        <view class="field-row">
+          <text class="field-lbl">Udtale</text>
+          <!-- Answer phase: tappable IPA if audio available -->
+          <text wx:if="{{phase === 'answer' && card.mp3}}"
+                class="field-val field-val--ipa"
+                bindtap="playCardAudio">{{card.ipa}} 🔊</text>
+          <text wx:elif="{{phase === 'answer'}}"
+                class="field-val">{{card.ipa}}</text>
+          <!-- Question phase -->
+          <text wx:else class="field-val {{showField === 'ipa' ? 'field-val--shown' : ''}}">
+            {{showField === 'ipa' ? card.ipa : ''}}
+          </text>
+        </view>
+
+        <!-- Engelsk -->
+        <view class="field-row">
+          <text class="field-lbl">Engelsk</text>
+          <text class="field-val {{showField === 'engelsk' ? 'field-val--shown' : ''}}">
+            {{phase === 'answer' ? card.engelsk : (showField === 'engelsk' ? card.engelsk : '')}}
+          </text>
+        </view>
+
+        <!-- Answer input (question phase only) -->
+        <input wx:if="{{phase === 'question'}}"
+               class="answer-input"
+               placeholder="Skriv dit svar…"
+               value="{{userAnswer}}"
+               bindinput="onAnswerInput"
+               confirm-type="done" />
+
+      </view>
+    </view>
+
+    <!-- Action buttons -->
+    <view class="btn-row">
+      <button class="btn btn--primary" bindtap="onToggle">
+        {{phase === 'question' ? 'Bingo' : 'Flash'}}
+      </button>
+      <button class="btn {{isInBank ? 'btn--marked' : 'btn--ghost'}}"
+              bindtap="toggleMark"
+              disabled="{{!card}}">
+        {{isInBank ? '★ Gemt' : '☆ Gem'}}
+      </button>
+    </view>
+
+    <!-- Word bank panel -->
+    <view class="bank-panel">
+      <view class="bank-header" bindtap="toggleBankPanel">
+        <text class="bank-title">📚 Min Ordbank</text>
+        <text wx:if="{{bankWords.length}}" class="bank-count">({{bankWords.length}})</text>
+        <text class="bank-chevron">{{showBank ? '▲' : '▼'}}</text>
+      </view>
+
+      <view wx:if="{{showBank}}">
+        <view wx:if="{{!bankWords.length}}" class="bank-empty">
+          银行是空的。点击「☆ Gem」保存遗忘的单词。
+        </view>
+        <view wx:else>
+          <view class="bank-item"
+                wx:for="{{bankWords}}"
+                wx:key="index">
+            <view class="bank-item-info">
+              <text class="bank-dansk">{{item.dansk}}</text>
+              <text wx:if="{{item.mp3}}"
+                    class="bank-ipa bank-ipa--link"
+                    bindtap="playBankAudio"
+                    data-mp3="{{item.mp3}}">{{item.ipa}} 🔊</text>
+              <text wx:else class="bank-ipa">{{item.ipa}}</text>
+              <text class="bank-engelsk">{{item.engelsk}}</text>
+            </view>
+            <text class="bank-remove"
+                  bindtap="removeWord"
+                  data-key="{{item.type + '|' + item.dansk}}">✕</text>
+          </view>
+
+          <view class="btn-row" style="margin-top:20rpx;">
+            <button class="btn btn--sm btn--danger" bindtap="clearBank">🗑 Ryd bank</button>
+          </view>
+        </view>
+      </view>
+    </view>
+
+  </block>
+
+</view>

@@ -1,0 +1,218 @@
+.page {
+  padding: 24rpx 28rpx 60rpx;
+  min-height: 100vh;
+  box-sizing: border-box;
+  background: #f5f5f5;
+}
+
+/* ── status ── */
+.status-msg {
+  margin-top: 40vh;
+  text-align: center;
+  font-size: 28rpx;
+  color: #888;
+}
+.status-msg--err { color: #c00; }
+
+/* ── chips ── */
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16rpx;
+  justify-content: center;
+  margin-bottom: 20rpx;
+}
+.chip {
+  padding: 10rpx 28rpx;
+  border-radius: 40rpx;
+  font-size: 24rpx;
+  border: 1px solid #ccc;
+  background: #fff;
+  color: #555;
+}
+.chip--on {
+  background: #C60C30;
+  border-color: #C60C30;
+  color: #fff;
+}
+
+/* ── bank-only mode ── */
+.mode-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20rpx;
+}
+.mode-label {
+  font-size: 26rpx;
+  color: #555;
+}
+
+/* ── flash card ── */
+.card {
+  background: #fff;
+  border-radius: 20rpx;
+  padding: 32rpx 28rpx;
+  box-shadow: 0 4rpx 20rpx rgba(0,0,0,0.08);
+  min-height: 260rpx;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 24rpx;
+}
+.card-idle {
+  text-align: center;
+  color: #aaa;
+  font-size: 28rpx;
+}
+.card-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 18rpx;
+}
+.field-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 12rpx;
+}
+.field-lbl {
+  font-size: 24rpx;
+  color: #999;
+  min-width: 110rpx;
+  padding-top: 4rpx;
+}
+.field-val {
+  font-size: 30rpx;
+  color: #222;
+  flex: 1;
+  min-height: 40rpx;
+}
+.field-val--shown {
+  font-weight: 600;
+  color: #C60C30;
+}
+.field-val--ipa {
+  color: #1a73e8;
+  font-style: italic;
+}
+
+/* ── answer input ── */
+.answer-input {
+  margin-top: 16rpx;
+  border: 1px solid #ddd;
+  border-radius: 10rpx;
+  padding: 16rpx 20rpx;
+  font-size: 28rpx;
+  background: #fafafa;
+}
+
+/* ── buttons ── */
+.btn-row {
+  display: flex;
+  justify-content: center;
+  gap: 20rpx;
+  margin-bottom: 16rpx;
+}
+.btn {
+  min-width: 180rpx;
+  padding: 18rpx 36rpx;
+  border-radius: 12rpx;
+  font-size: 28rpx;
+  border: 1px solid #ccc;
+  background: #f8f8f8;
+  line-height: 1.4;
+}
+.btn--primary {
+  background: #C60C30;
+  border-color: #C60C30;
+  color: #fff;
+}
+.btn--ghost {
+  background: #fff;
+  border-color: #aaa;
+  color: #555;
+}
+.btn--marked {
+  background: #fff3cd;
+  border-color: #f0ad4e;
+  color: #856404;
+}
+.btn--sm {
+  min-width: 0;
+  padding: 12rpx 28rpx;
+  font-size: 24rpx;
+}
+.btn--danger {
+  background: #fff0f0;
+  border-color: #e88;
+  color: #c00;
+}
+
+/* ── bank panel ── */
+.bank-panel {
+  background: #fff;
+  border-radius: 20rpx;
+  padding: 0 28rpx;
+  box-shadow: 0 4rpx 20rpx rgba(0,0,0,0.06);
+  overflow: hidden;
+}
+.bank-header {
+  display: flex;
+  align-items: center;
+  padding: 28rpx 0;
+  gap: 12rpx;
+}
+.bank-title {
+  font-size: 28rpx;
+  font-weight: 600;
+  flex: 1;
+}
+.bank-count {
+  font-size: 24rpx;
+  color: #888;
+}
+.bank-chevron {
+  font-size: 22rpx;
+  color: #bbb;
+}
+.bank-empty {
+  padding: 20rpx 0 28rpx;
+  font-size: 26rpx;
+  color: #aaa;
+  text-align: center;
+}
+.bank-item {
+  display: flex;
+  align-items: center;
+  padding: 20rpx 0;
+  border-top: 1px solid #f0f0f0;
+  gap: 12rpx;
+}
+.bank-item-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 4rpx;
+}
+.bank-dansk {
+  font-size: 28rpx;
+  font-weight: 600;
+  color: #222;
+}
+.bank-ipa {
+  font-size: 24rpx;
+  color: #888;
+  font-style: italic;
+}
+.bank-ipa--link {
+  color: #1a73e8;
+}
+.bank-engelsk {
+  font-size: 26rpx;
+  color: #555;
+}
+.bank-remove {
+  font-size: 32rpx;
+  color: #e88;
+  padding: 10rpx;
+}

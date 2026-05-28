@@ -1,0 +1,35 @@
+<view class="container">
+
+  <!-- Header -->
+  <view class="header">
+    <text class="flag">🇩🇰</text>
+    <text class="title">Lær Dansk</text>
+    <text class="subtitle">丹麦语学习</text>
+  </view>
+
+  <!-- Cards -->
+  <view class="cards">
+
+    <view class="card card--red" bindtap="openFlash">
+      <text class="card-icon">🃏</text>
+      <view class="card-body">
+        <text class="card-title">Flashkort</text>
+        <text class="card-desc">随机单词测试记忆</text>
+      </view>
+      <text class="card-arrow">›</text>
+    </view>
+
+    <view class="card card--dark" bindtap="openSearch">
+      <text class="card-icon">🔍</text>
+      <view class="card-body">
+        <text class="card-title">Søg Ord</text>
+        <text class="card-desc">搜索词汇表</text>
+      </view>
+      <text class="card-arrow">›</text>
+    </view>
+
+  </view>
+
+  <text class="footer">tongchen779.github.io/dansk</text>
+
+</view>
