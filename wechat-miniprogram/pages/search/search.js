@@ -15,7 +15,12 @@ function playMp3(url) {
   if (!url) return
   if (_audio) { _audio.stop(); _audio.destroy() }
   _audio = wx.createInnerAudioContext()
+  _audio.obeyMuteSwitch = false   // play even if phone is on silent
   _audio.src = url
+  _audio.onError((res) => {
+    console.error('Audio error:', res.errMsg, 'url:', url)
+    wx.showToast({ title: '音频加载失败: ' + res.errMsg, icon: 'none', duration: 3000 })
+  })
   _audio.play()
 }
 
