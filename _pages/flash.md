@@ -88,11 +88,31 @@ permalink: /flash/
         renderBank();
         updateMarkButton();
     }
+    let clearPending = false;
+    let clearTimer   = null;
     function clearBank() {
-        if (!confirm("Ryd hele banken?")) return;
-        saveBank([]);
-        renderBank();
-        updateMarkButton();
+        const btn = document.getElementById("clearBankBtn");
+        if (!clearPending) {
+            clearPending = true;
+            btn.textContent = "Bekræft ryd?";
+            btn.style.background = "#ffe0e0";
+            btn.style.borderColor = "#c00";
+            clearTimer = setTimeout(() => {
+                clearPending = false;
+                btn.textContent = "🗑 Ryd bank";
+                btn.style.background = "";
+                btn.style.borderColor = "";
+            }, 3000);
+        } else {
+            clearTimeout(clearTimer);
+            clearPending = false;
+            btn.textContent = "🗑 Ryd bank";
+            btn.style.background = "";
+            btn.style.borderColor = "";
+            saveBank([]);
+            renderBank();
+            updateMarkButton();
+        }
     }
 
     /* ── index ── */
@@ -278,6 +298,6 @@ permalink: /flash/
         <tbody id="bankBody"></tbody>
     </table>
     <div class="btn-row" style="margin-top:8px;">
-        <button onclick="clearBank()" style="font-size:12px; padding:5px 12px;">🗑 Ryd bank</button>
+        <button id="clearBankBtn" onclick="clearBank()" style="font-size:12px; padding:5px 12px;">🗑 Ryd bank</button>
     </div>
 </div>
