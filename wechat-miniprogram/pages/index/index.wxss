@@ -80,12 +80,3 @@
 }
 
 /* ── footer ── */
-.footer {
-  margin-top: 48rpx;
-  font-size: 22rpx;
-  color: #bbb;
-}
-.footer--link {
-  color: #1a73e8;
-  text-decoration: underline;
-}

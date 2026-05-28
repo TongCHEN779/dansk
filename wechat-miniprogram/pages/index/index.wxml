@@ -30,6 +30,5 @@
 
   </view>
 
-  <text class="footer footer--link" bindtap="copyLink">🔗 tongchen779.github.io/dansk</text>
 
 </view>
