@@ -245,8 +245,8 @@ permalink: /flash/
 
 <!-- mode toggle -->
 <div style="text-align:center; margin: 6px 0; font-size:14px;">
-    <label style="cursor:pointer;">
-        <input type="checkbox" id="bankModeCheck" onchange="toggleBankMode()">
+    <label style="cursor:pointer; display:inline-flex; align-items:center; gap:6px;">
+        <input type="checkbox" id="bankModeCheck" onchange="toggleBankMode()" style="display:inline; width:auto; margin:0;">
         Øv kun ord fra min bank
     </label>
 </div>
