@@ -6103,6 +6103,17 @@
   imperativ: håb
   engelsk: to hope
   gruppe: '1'
+- dansk: at håne
+  ordnet: https://ordnet.dk/ddo/ordbog?query=h%C3%A5ne
+  audio_id: håne
+  mp3: https://static.ordnet.dk/mp3/11022/11022654_1.mp3
+  ipa: '[ˈhɔːnə]'
+  nutid: håner
+  datid: hånede
+  fornutid: har hånet
+  imperativ: hån
+  engelsk: to mock
+  gruppe: '1'
 - dansk: at håndtere
   ordnet: https://ordnet.dk/ddo/ordbog?query=håndtere
   audio_id: håndtere

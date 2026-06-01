@@ -21798,6 +21798,16 @@
   flertal_bestemt: symfoniorkestrene
   engelsk: symphony orchestra
   gruppe: A
+- dansk: en synagoge
+  ordnet: https://ordnet.dk/ddo/ordbog?query=synagoge
+  audio_id: synagoge
+  mp3: https://static.ordnet.dk/mp3/11052/11052001_1.mp3
+  ipa: '[synaˈgoːə]'
+  bestemt: synagogen
+  flertal_ubestemt: synagoger
+  flertal_bestemt: synagogerne
+  engelsk: synagogue
+  gruppe: '1'
 - dansk: et synonym
   ordnet: https://ordnet.dk/ddo/ordbog?query=synonym
   audio_id: synonym

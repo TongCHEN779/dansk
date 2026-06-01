@@ -5998,6 +5998,16 @@
   komparativ: mere sagkyndig
   superlativ: mest sagkyndig
   engelsk: expert
+- dansk: saglig
+  ordnet: https://ordnet.dk/ddo/ordbog?query=saglig
+  audio_id: saglig
+  mp3: https://static.ordnet.dk/mp3/11044/11044406_1.mp3
+  ipa: '[ˈsɑwli]'
+  t_form: sagligt
+  e_form: saglige
+  komparativ: mere saglig
+  superlativ: mest saglig
+  engelsk: objective
 - dansk: samfundsmæssig
   ordnet: https://ordnet.dk/ddo/ordbog?query=samfundsm%C3%A6ssig
   audio_id: samfundsmæssig
