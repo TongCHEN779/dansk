@@ -11,6 +11,90 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/06/Episode-109.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 109 - Mærsk </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om en af Danmarks mest kendte virksomheder, nemlig Mærsk. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, finde ordlister, downloade episoden og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo. Og husk at du kan følge podcasten på Instagram, hvor jeg deler endnu mere gratis indhold til at lære dansk.
+<br><br>
+Mærsk er en af Danmarks mest kendte virksomheder. Faktisk er Mærsk verdens næststørste shippingvirksomhed! Virksomhedens fulde navn er ”A. P. Møller – Mærsk”, men i daglig tale kaldes den blot for ”Mærsk”. Du har helt sikkert set Mærsks logo på et skib eller en container et sted i verden. Logoet er en hvid stjerne på en lyseblå baggrund. Virksomheden er specialiseret i transport og logistik, og de transporterer varer for virksomheder og mennesker over hele verden.
+<br><br>
+Historien om Mærsk begynder faktisk længe før virksomheden blev grundlagt, tilbage i 1800-tallet. I Svendborg på Fyn boede et ægtepar, Peter Mærsk Møller og Anna Jeppesen, og deres ni børn. Huset blev kaldt ”Villa Anna”, og forældrene havde fokus på ærlighed, ansvar, hårdt arbejde og respekt for andre mennesker i deres opdragelse. Det var værdier, som senere blev vigtige for Mærsk som virksomhed. Peter Mærsk Møllers arbejde var på havet. Han arbejdede sig op igennem hierarkiet fra kahytsdreng til styrmand og senere som kaptajn. På den måde fik han stor erfaring med skibe og handel.
+<br><br>
+En af Peter Mærsk Møllers sønner, var også meget interesseret i skibe og handel. Han hed Arnold Peter Møller, men blev bare kaldt A. P. Møller. Han brugte meget tid med sin far og deltog i arbejdet omkring skibene for at lære. I år 1904 grundlagde far og søn en virksomhed sammen. Det var den virksomhed, der senere blev til Mærsk.
+<br><br>
+A.P. Møller var en meget ambitiøs og dygtig forretningsmand. Han mente, at selv små detaljer var vigtige. Han havde et motto, som senere blev kendt i hele Danmark: ”Intet tab skal os ramme, som ved rettidig omhu kunne afværges.” Udtrykket ”rettidig omhu” blev næsten et symbol på Mærsk. Det betyder, at man skal planlægge godt, være grundig og handle i god tid, så man undgår problemer.
+<br><br>
+Virksomheden voksede gradvist og virksomheden sejlede med flere og flere skibe. Da Første Verdenskrig begyndte i år 1914, havde Mærsk i alt 11 skibe. Krigen gjorde international handel besværlig og farlig, og to af skibene gik tabt. Alligevel fortsatte virksomheden med at vokse.
+<br><br>
+I mellemkrigstiden udvidede A.P. Møller sine aktiviteter. Han nøjedes ikke med at drive skibsvirksomhed. Han investerede også i andre virksomheder og industrier. Han købte blandt andet virksomheder, der producerede industrimaskiner og andre produkter. Mærsk købte også et skibsværft, så de kunne bygge deres egne fragtskibe. Han ønskede at skabe en stærk dansk virksomhed med mange forskellige aktiviteter.
+<br><br>
+Da Anden Verdenskrig brød ud i år 1939, mødte virksomheden nye udfordringer. Mange af Mærsks skibe sejlede for de allierede lande. Det var farligt arbejde, fordi tyske ubåde og krigsskibe angreb handelsskibe. Under krigen mistede Mærsk 23 skibe. Mange søfolk mistede livet. Det var en hård periode for Mærsk.
+<br><br>
+I år 1953 oprettede A.P. Møller A.P. Møller Fonden. Formålet var blandt andet at sikre virksomhedens fremtidige ejerskab og stabilitet. Fonden eksisterer stadig i dag og ejer en stor del af Mærsk. Fonden støtter også forskning, kultur, uddannelse og mange andre projekter i Danmark. De har bl.a. betalt for Operahuset i København!
+<br><br>
+Da A.P. Møller døde i år 1965, overtog hans søn Mærsk Mc-Kinney Møller ledelsen. Han skulle komme til at præge virksomheden i mange årtier. Mærsk Mc-Kinney Møller var kendt som en stærk og respekteret leder. Han fortsatte sin far og farfars fokus på kvalitet, langsigtet planlægning og rettidig omhu.
+<br><br>
+I 1960’erne skete der en revolution inden for skibsfart. Containeren og containerskibet blev opfundet! Tidligere blev varer lastet enkeltvis ombord på skibene. Det tog lang tid og krævede meget arbejdskraft. Med containere kunne varer pakkes i store stålkasser, som hurtigt kunne flyttes mellem skibe, tog og lastbiler.
+<br><br>
+Mærsk var hurtige til at se mulighederne i denne udvikling og de investerede massivt i containertransport. Det viste sig at være en rigtig klog beslutning. Mærsk udvidede igen virksomheden til nye områder, bl.a. med lastbiler, toge og computersystemer.
+<br><br>
+Mærsk voksede hurtigt. Virksomheden købte andre rederier og udvidede sine ruter over hele verden. Bl.a. købte de nogle af de største rederier i Asien, Afrika og Europa. I mange år var Mærsk faktisk verdens allerstørste containerrederi. På et tidspunkt havde Mærsk næsten 1.000 skibe under drift. Siden år 1993 har Mærsks direktører ikke været fra Mærsk-familien. Men Mærsk er stadig kontrolleret af Mærsk-familien gennem fonde og holdingselskaber. I dag Mærsk McKinney-Møllers datter, Ane Mærsk McKinney Uggla bestyrelsesformand for A. P. Møller Fonden. Og Mærsks barnebarn, Robert Mærsk Uggla er i dag bestyrelsesformand for virksomheden Mærsk.
+<br><br>
+I dag arbejder Mærsk i omkring 130 lande og har mere end 100.000 ansatte. Virksomheden driver omkring 700 containerskibe og omkring 65 havneterminaler. Hovedkontoret ligger stadig i København. Faktisk ligger den store kontorbygning få hundrede meter fra statuen af den lille havfrue, som rigtig mange turister går forbi hvert år.
+<br><br>
+De sidste årtier har Mærsk fokuseret meget på ny teknologi. De har investeret i kunstig intelligens, miljøvenlige skibe, automatisering og digitale systemer. Og netop klima og miljø er et af de vigtigste emner for Mærsk i dag. I år 2023 blev skibet ”Laura Maersk” sat i drift. Skibet blev kendt verden over, fordi det var det første containerskib af sin type, der kunne sejle på grøn metanol.
+<br><br>
+Mærsk har altså udviklet sig fra et lille dampskib på Fyn i slutningen af 1800-tallet til en global virksomhed med aktiviteter på næsten alle kontinenter. Historien om Mærsk er også historien om dansk handel og innovation. Mærsk er stadig en familieejet virksomhed, og det er stadig en af verdens mest indflydelsesrige virksomheder.
+<br><br>
+Det var alt for denne episode. Hvis du er nysgerrig på at lære mere om Mærsk, kan jeg anbefale DR-dokumentaren med navnet ”Dynastiet Mærsk”. Du kan se den gratis på DR TV. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/05/Groenlands-historie.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 108 - Grønlands Historie </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om et af de tre lande i det danske kongerige, nemlig Grønland. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, finde ordlister, downloade episoden og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo. Og husk at du kan følge podcasten på Instagram, hvor jeg deler endnu mere gratis indhold til at lære dansk.
+<br><br>
+Det danske kongerige består af tre lande: Danmark, Færøerne og Grønland, og i denne episode er det altså Grønland, jeg vil tale om. I denne episode vil jeg fortælle om Grønlands historie frem til år 1980. I en anden episode vil jeg fortælle mere om nutidens Grønland. På Grønlandsk hedder Grønland ”Kalaallit Nunaat”, hvilket betyder ”menneskernes land”.
+<br><br>
+Grønland er verdens største ø og der har boet mennesker i Grønland siden cirka 2500 år før vores tidsregning. Her kom arktiske jægerfolk fra Canada til den nordvestlige del af Grønland. Disse mennesker boede i Grønland i omkring 1200 år, men så skete der nogle store klimaforandringer, og det blev meget koldere i Grønland og sværere at overleve med jagt. Derfor forsvandt disse folk igen. På grund af klimaforandringerne og det meget barske vejr, var der faktisk 500 år, hvor der slet ikke boede nogen i Grønland.
+<br><br>
+Omkring år 700 kom der igen nye folk til Grønland, og igen vandrede de over isen fra Canada. De boede i det nordvestlige Grønland og de specialiserede sig i at jage hvalrosser. Man mener at de havde slæder, men ingen slædehunde.
+<br><br>
+I år 875 blev Grønland opdaget af europæere for første gang. En mand ved navn Gunnbjørn Ulvsson var en opdagelsesrejsende fra det land, vi i dag kalder Norge. Gunnbjørns plan var at sejle til Island, men han kom til at sejle forkert. Han observerede noget land i horisonten, som han opkaldte efter sig selv, nemlig ”Gunnbjørnskær”. Gunnbjørn gik ikke i land, men sejlede til Island og fortalte om sin opdagelse. I dag er Grønlands højeste bjerg opkaldt efter Gunnbjørn Ulvsson. Nogle år senere besluttede den norske vikingehøvding, Erik den Røde, at sejle mod Gunnbjørnskær efter de historier Gunnbjørn Ulvsson havde fortalt ham. Erik den Røde gik i land i det sydvestlige Grønland, og det var også Erik den Røde, der valgte at kalde landet for ”Grønland”. I de næste mange år, kom der både folk fra Island, Danmark og Norge til Grønland. Disse mennesker kaldte man for ”nordboerne” og de boede i den sydlige del af Grønland. På samme tid boede inuitterne i den nordlige del af Grønland. Nordboerne valgte i en periode at slutte sig til den norske konge, men inuitterne var aldrig interesserede i at opgive deres selvstændighed. På et tidspunkt forsvandt nordboerne, men inuitterne forblev i Grønland.
+<br><br>
+I år 1721 blev der igen skabt en forbindelse mellem Skandinavien og Grønland. Den dansk-norske præst, Hans Egede, blev befalet af kongen at rejse til Grønland og finde nordboerne og gøre dem kristne. Man troede nemlig at der stadig boede nordboere i Grønland. Hans Egede sejlede til Grønland og brugte 7 år på at lede efter nordboerne. Til sidst gav han op og besluttede sig for i stedet at gøre inuitterne kristne. Han grundlagde byen Godthaab, der i dag hedder Nuuk og er Grønlands hovedstad. Da Hans Egede ankom til Grønland i år 1721, blev Grønland en dansk koloni. I takt med at kristendommen spredte sig i Grønland, kom der også mere handel mellem Grønland og Europa. Der blev også grundlagt flere byer langs Grønlands kyst. Men alt handel i Grønland skete gennem en dansk virksomhed, kaldet ”Den Kongelige Grønlandske Handel”. De havde nemlig monopol!
+<br><br>
+I midten af 1800-tallet blev det grønlandske sprog for første gang skrevet ned i en ordbog. I år 1861 blev den allerførste grønlandske avis udgivet! Den blev kaldt ”Grønlandsposten”.
+<br><br>
+I år 1917 valgte Danmark at sælge Jomfruøerne til USA. Som en del af aftalen, lovede USA at acceptere og anerkende Danmarks suverænitet i hele Grønland. I år 1921 annoncerede Danmark officielt, at de havde suverænitet over hele Grønland. I de første årtier havde Grønland ingen indflydelse på det danske demokrati, men senere blev der oprettet to Landsråd i Grønland, hvor grønlænderne kunne udtale sig og stille forslag til den danske regering.
+<br><br>
+Under 2. verdenskrig blev Danmark besat af Tyskland fra år 1940 til år 1945. I den periode mistede Danmark forbindelsen til Grønland. For at beskytte sig selv mod besættelse, indgik Grønland en aftale med USA om at de måtte oprette flyvestationer og militærbaser på Grønland. Efter 2. verdenskrig havde grønlænderne fået et stærkere ønske om mere selvstændighed og udvikling. De ville gerne have afskaffet monopolet og få gang i mere handel og kontakt med resten af verden. Man skulle også finde en løsning på de mange amerikanske militærbaser, der stadig var i Grønland.
+<br><br>
+I år 1950 vedtog den danske regering en håndfuld nye love og en ændring af grundloven. I grundlovsændringen blev Grønland ligestillet med Kongeriget Danmark, så landet ikke længere var en koloni. Grønland fik også to pladser i det danske folketing. Med de nye love fjernede man handelsmonopolet, man investerede massivt i det grønlandske sundhedsvæsen og infrastruktur og man inddelte Vestgrønland i 16 kommuner.
+<br><br>
+Desuden indgik Danmark en forsvarsaftale med USA om militærbaserne i år 1951. Ifølge aftalen skal USA, som medlem af NATO, hjælpe Danmark med at forsvare Grønland. Til gengæld har USA ret til fri adgang overalt i Grønland.
+<br><br>
+Selvom der var mange gode og ambitiøse planer for Grønland, var der også mange udfordringer. Fiskeriindustrien voksede ikke så hurtigt, som man havde regnet med, og grønlændernes livsstil i små, afsides bygder, passede ikke til de danske planer om at centralisere alt i fire store byer. Grønland blev også tvunget til at blive en del af EU, selvom mere end 70% af den grønlandske befolkning stemte imod. I Grønland begyndte nogle indflydelsesrige personer at arbejde på at give Grønland et hjemmestyre, ligesom Færøerne allerede havde. De ville selv træffe flere beslutninger om deres eget land. Den 1. maj 1979 fik Grønland så deres hjemmestyre. Grønland styres dermed af en folkevalgt regering, der har det politiske ansvar i Grønland. Danmarks økonomiske støtte til Grønland blev også ændret til et bloktilskud. Et bloktilskud er et økonomisk tilskud som en stat giver til en anden stat eller kommune, uden at bestemme hvordan pengene skal bruges. I stedet er det modtageren af pengene, der bestemmer hvordan de skal bruges.
+<br><br>
+Og så nåede vi altså frem til år 1980 i Grønlands historie! Der er selvfølgelig mange andre detaljer til Grønlands spændende historie, som jeg ikke har taget med i denne episode. Jeg har faktisk skrevet denne episode fra Grønland, hvor jeg har arbejdet den seneste måned. Jeg kan varmt anbefale at besøge Grønland på en ferie. Naturen er fantastisk og kulturen og historien er spændende. Hvis du er nysgerrig på at lære mere om det danske kongerige, så kan jeg anbefale episode 29, der handler om Færøerne. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/05/Kapsejladsen-paa-Aarhus-Universitet.wav"></audio> </td>
 <td> 
 <details>
