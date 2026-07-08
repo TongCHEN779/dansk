@@ -45,6 +45,12 @@ search: false
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/anden_verden.gif"/></p></td>
+<td><h1> Billeder fra en anden verden - Poul Duedahl </h1></td>
+<td><a href="https://tongchen779.github.io/dansk/files/boeger/anden_verden.pdf">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/files/boeger/bjoern.png"/></p></td>
 <td><h1> Bjørnstjerne Bjørnson - Chr. Collin </h1></td>
 <td><a href="https://tongchen779.github.io/dansk/files/boeger/bjoern.pdf">link</a></td>
