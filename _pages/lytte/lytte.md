@@ -98,6 +98,17 @@ Hvorfor begyndte unge mennesker for 50 år siden af dyrke østlige religioner og
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/40.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> Fra Muld til Guld - Camillas krydderurter </h1>
+<span style="font-weight: normal">
+Camilla Plum inviterer seerne med på en forunderlig rejse ind i sit rige af de mest intense smage og spændende dufte. Hun vil i løbet af foråret og først på sommeren vise, hvordan hun sår, planter og høster de mest forskelligartede krydderurter; fransk estragon og marokkansk mynte, limebasilikum og appelsintimian, hvidløg og chilier. Og meget, meget mere. I denne udsendelse anlægger Camilla Plum en byhave af bildæk, gamle krukker, mursten og mælkejunger for at vise, at selv de danskere, der kun har en altan eller en gårdhave - ja sågar en vindueskarm - kan krydre deres mad med hjemmedyrkede urter, næsten hele året.
+</span>
+</td>
+<td><a href="https://www.dr.dk/drtv/episode/fra-muld-til-guld-_-camillas-krydderurter_525639">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_series/13.webp"/></p></td>
 <td style="vertical-align: top;">
 <h1> Gift ved første blik </h1>

@@ -21,6 +21,17 @@ En 57-årig mand forventes at tilstå i sagen om voldtægt og drabsforsøg i 199
 </tr>
 
 <tr>
+<td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/76.webp"/></p></td>
+<td style="vertical-align: top;">
+<h1> 450 meter nede i klippegrunden mener de, at de har løst atomkraftens største problem </h1>
+<span style="font-weight: normal">
+I Finland er de efter årtier snart færdige med verdens første permanente deponi af højradioaktivt affald.
+</span>
+</td>
+<td><a href="https://www.dr.dk/nyheder/viden/klima/450-meter-nede-i-klippegrunden-mener-de-de-har-loest-atomkraftens-stoerste-problem">link</a></td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"><p align="center"><img src="https://tongchen779.github.io/dansk/images/dr_news/57.avif"/></p></td>
 <td style="vertical-align: top;">
 <h1> 75 år efter sterilisation vidner 95-årige Regine i retten </h1>
