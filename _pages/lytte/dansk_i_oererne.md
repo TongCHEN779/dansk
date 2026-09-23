@@ -11,6 +11,164 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/09/Episode-114.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 114 - Danske kolonihaver </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om danske kolonihaver. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du finde ordlister, downloade episoden og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo. Det koster kun 37 kr. i måneden at blive guldlytter på buymeacoffee. Det er billigere end en kop kaffe på en cafe i København, men det betyder rigtig meget for mig og podcasten.
+<br><br>
+Hvis du har gået en tur i en dansk by, har du måske set et område med mange små, farverige huse og haver tæt sammen. Det kalder man en kolonihave. Kolonihaver er små grunde, som man kan leje eller købe. Som regel står der et lille hus på grunden. I dag findes der omkring 60.000 kolonihaver i Danmark, og de er organiseret i mere end 1.000 forskellige haveforeninger. De fleste kolonihaver ligger på jord, som ejes af kommunen, mens andre ligger på statens jord eller er ejet af foreningen selv.
+<br><br>
+Historien om de danske kolonihaver går faktisk meget langt tilbage. Allerede i 1600-tallet havde man små haver uden for byerne, hvor folk kunne dyrke grøntsager. Men den rigtige kolonihavehistorie begyndte først for alvor i starten af 1800-tallet. Dengang boede mange fattige familier tæt sammen inde i byerne, under meget dårlige forhold. Der var dårlig hygiejne og meget larm. Derfor besluttede den danske regering, at fattige familier kunne få lov til at leje små grunde uden for byen. Her kunne de dyrke deres egne grøntsager og dermed få bedre og billigere mad. Haverne blev også kaldt “fattighaver”, og ideen var faktisk, at hvis folk brugte deres fritid i haven, ville de ikke bruge tiden på druk. Man håbede også, at havearbejde kunne holde folk væk fra farlige, politiske idéer som socialisme. Danmarks ældste kolonihave, som stadig findes i dag, ligger i Aabenraa og blev grundlagt allerede i år 1821.
+<br><br>
+Den kolonihave-bevægelse, vi kender i dag, startede for alvor i 1884. Her lejede en mand ved navn Jørgen Berthelsen et stort stykke jord af Aalborg Kommune. Han delte jorden op i 85 små haver, som hver var på 400 kvadratmeter, og lejede dem ud til arbejderfamilier. Prisen for at leje en have i et helt år svarede dengang til, hvad en arbejder tjente på en enkelt uge. Det var noget helt nyt, at haverne blev organiseret som en demokratisk forening med en valgt bestyrelse, og denne model blev senere brugt i resten af landet. Få år efter, i år 1891, kom de første kolonihaveforeninger også til København. En af dem, Vennelyst, findes faktisk stadig i dag og er Københavns ældste haveforening.
+<br><br>
+I begyndelsen af 1900-tallet voksede de danske byer meget hurtigt, fordi mange mennesker flyttede fra landet til byen for at arbejde på fabrikker. Mange af disse arbejdere boede i små, mørke og usunde lejligheder. Kolonihaverne blev derfor et vigtigt frirum, hvor familierne kunne komme ud i den friske luft, dyrke deres egne grøntsager og få lidt mere plads. I år 1908 blev Kolonihaveforbundet grundlagt for at samle de mange forskellige haveforeninger og hjælpe dem med fælles regler og bedre vilkår. Antallet af kolonihaver voksede meget i disse år. I 1904 var der omkring 20.000 kolonihaver i Danmark, og i mellemkrigstiden, altså tiden mellem første og anden verdenskrig, nåede tallet helt op på omkring 100.000 kolonihaver.
+<br><br>
+I mange år var kolonihaverne primært såkaldte nyttehaver. Det betyder, at man brugte kolonihaverne til at dyrke grøntsager, som man selv kunne spise. Især i tider med krise eller arbejdsløshed. Men efterhånden fik danskerne en bedre økonomi og de fik også en kortere arbejdsuge. Derfor begyndte kolonihaverne at ændre karakter. I 1920 fik danske arbejdere for eksempel ret til en ottetimers arbejdsdag og fri om søndagen. Det betød, at folk pludselig havde mere fritid, og mange begyndte at bruge weekenden i deres kolonihave. Med tiden blev de små, simple huse i haverne større, og haverne gik fra at være nyttehaver med kartofler og kål til at være hyggelige fritidshaver med græsplæner og blomster. Og det er netop sådan at kolonihaverne bruges i dag. Nemlig som et fristed, hvor man kan hygge sig med lidt havearbejde og noget frisk luft i sin fritid. Kolonihaverne er stadig små og ofte ret simpelt byggede. I de fleste haveforeninger må en kolonihave maksimalt være 40-50 kvm. stor. En kolonihave handler ikke om luksus.
+<br><br>
+I år 2001 vedtog man en vigtig lov i Danmark, som beskytter kolonihaverne. Før i tiden kunne en kommune nemlig opsige en haveforenings lejemål, hvis kommunen fik brug for jorden til noget andet, for eksempel nye bygninger. Det gjorde det usikkert at være medlem af en haveforening. Med den nye lov fra 2001 blev det bestemt, at kommunen skal give en meget lang opsigelsesfrist, og at kommunen samtidig skal finde et andet stykke jord til haveforeningen, hvis den bliver nødt til at opsige lejemålet. På den måde blev de danske kolonihaver beskyttet for fremtiden.
+<br><br>
+I dag er kolonihaverne mere populære end nogensinde. Det betyder også, at der i dag er lange ventelister til at få en kolonihave, især i de store byer. Nogle steder kan man vente i flere år, før man får sin egen kolonihave. I områder omkring København er priserne på kolonihavehuse også steget meget, og nogle huse koster i dag flere millioner kroner. Det gælder især i de tilfælde, hvor kommunen har givet særlig tilladelse til, at man må bo i huset hele året. Normalt må man nemlig kun opholde sig i sit kolonihavehus fra april til september, altså i den lyse del af året. Man må ikke bo der fast hele året rundt.
+<br><br>
+Denne regel bliver dog udfordret nogle steder, hvor folk vælger at bo ulovligt i deres kolonihave hele året. Der er nemlig en del skattefordele ved en kolonihave, og derfor er det ulovligt at bo der hele året. Desuden er husene ofte ikke bygget til at kunne bruges om vinteren. Flere politikere har derfor diskuteret, hvordan man skal håndtere denne udvikling i fremtiden. Alligevel er kolonihaverne fortsat et elsket og vigtigt sted for mange danskere. De er blevet et sted, hvor familier kan finde ro, dyrke deres egne grøntsager, hygge sig med naboerne og få lidt mere plads og grønt i en travl hverdag.
+<br><br>
+Det var alt for denne episode. Husk at du kan følge med på Instagram, hvor jeg deler endnu mere gratis materiale til at lære dansk. Tusind tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/08/Episode-113.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 113 - Dansk rockmusik </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om rockmusik, og særligt om dansk rockmusik. Jeg vil fortælle om hvordan rockmusikken kom til Danmark, hvilke store kunstnere man bør kende og hvordan rockgenren har påvirket den danske musikkultur. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, finde ordlister, downloade episoden og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo.
+<br><br>
+Rock er en musikgenre, der bygger på Rock’n’Roll-traditionen. Det er en meget bred musikgenre, og der findes mange undergenrer af rock. Der er fx poprock, pigtrådsrock, garagerock, hård rock og indierock. Rockgenren stammer fra USA og England, og den udviklede sig i løbet af 1950’erne og 1960’erne. Det var dog først i 1960’erne at man begyndte at kalde musikken for ”rockmusik”. Rockmusikken blev et vigtigt talerør for ungdomsoprøret i 1960’erne, og man lagde stor vægt på kunstnernes musikalske frihed til at producere og skrive deres musik.
+<br><br>
+Et af de første egentlige danske rockbands, der brød igennem, var ”Steppeulvene”. De udgav deres første plade i år 1967. Sangene var på dansk, og teksterne var meget personlige. Rockmusikken i denne periode var ofte meget søgende og eksperimenterende. Andre bands udgav musik med mange politiske budskaber. I 1969 brød bandet ”Gasolin” igennem, med Kim Larsen som sanger og frontfigur. Deres sangtekster var på dansk og lette at synge med på. Deres musik ramte en bredere målgruppe end rockmusikken tidligere havde gjort, og de blev utroligt populære. I samme periode blev danske bands, som Shu-Bi-Dua, Gnags, Anne Linnet og C. V. Jørgensen, populære. Deres musik var ligeledes noget, som de fleste danskere kunne synge med på. Senere brød Sort Sol, D-A-D og Magtens Korridorer også igennem. I 1980’erne og 1990’erne flød pop- og rockgenren ofte sammen til en type musik, man kalder ”poprock”.
+<br><br>
+Der er faktisk ikke så mange danske rockbands, der har haft store internationale gennembrud. Men D-A-D’s hit ”Sleeping my day away” fik kæmpe succes i udlandet i starten af 1990’erne. Siden har bands som Volbeat og Kashmir også haft internationale gennembrud.
+<br><br>
+I episode 24 af podcasten fortalte jeg bl.a. om Roskilde Musikfestival. Roskilde Musikfestival har siden starten haft meget fokus på rockmusik, både danske og udenlandske rockbands. De har hyret både kendte og upcoming rockartister gennem tiden. Bl.a. har Nirvana, Guns N’ Roses, U2 og Green Day spillet på Roskilde Festival. I dag er der også andre musikfestivaler, der fokuserer på rockmusik. Der er fx Copenhell, der fokuserer på metal- og rockmusik. Der er også Gutter Island, hvor der spilles garagerock. Men de fleste danske musikfestivaler har nogle rockbands med i programmet hvert år.
+<br><br>
+Det suverænt største rockband i Danmark de seneste 10-15 år, har været The Minds of 99. Deres musik tilhører forskellige undergenrer af rock. Nogle af deres sange er poprock, mens andre tilhører undergenrer som new wave og postpunk. Bandet blev etableret i år 2012 med Niels Brandt som forsanger. Nogle af bandmedlemmerne har kendt hinanden siden de var 6 år gamle og startede i den samme folkeskole, mens andre af bandmedlemmerne blev en del af vennegruppen da de var teenagere. I løbet af få år fik bandet meget stor succes med hits som ”Det er Knud som er død”, ”Solkongen”, ”Hurtige hænder” og ”Stjerner på himlen”. Allerede i år 2015 spillede de på Orange Scene, der er den største scene på Roskilde Festival. I år 2024 skrev bandet danmarkshistorie, da de spillede udsolgte koncerter i Parken i København tre dage i streg. Der var solgt mere end 140.000 billetter samlet til de tre koncerter.
+<br><br>
+Det var alt for denne episode. Der er helt sikkert nogle andre vigtige danske rockmusikere, som jeg ikke har fået nævnt. Der er rigtig mange gode, så det er svært at nå at nævne dem alle. Men hvis du kan lide at lytte til rockmusik, så håber jeg at du har fået lyst til at lytte til nogle af de danske rocklegender. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/08/Episode-112.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 112 - Ulven i Danmark </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg tale om et lidt kontroversielt emne i Danmark. Nemlig ulven. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du finde ordlister, downloade episoden og lytte til niveau 2, hvor jeg taler i almindeligt tempo.
+<br><br>
+Ulven har ikke altid levet i Danmark. For cirka 200 år siden, i år 1813, blev den sidste ulv skudt i Danmark, tæt på byen Skive. Efter det troede man, at ulven var helt forsvundet fra dansk natur, og det var den faktisk også i mange, mange år. Men i 2012 skete der noget stort. En mand, der sad og kiggede på fugle ved en sø i Thy i Nordjylland, fik nemlig øje på en ulv. Han tog et par billeder som bevis. Kort tid efter blev en anden ulv fundet død i samme område. Det var starten på et helt nyt kapitel for ulven i Danmark.
+<br><br>
+Ulven er nok det dyr i Danmark, som flest danskere har en mening om. Nogle er glade for, at ulven er tilbage i den danske natur, mens andre er bange for den, eller vrede over den. Men uanset hvad man mener, så er ulven kommet for at blive.
+<br><br>
+I begyndelsen var det kun enkelte, enlige hanulve, der vandrede ind i Danmark, typisk fra Tyskland. De havde ingen hunulv at få hvalpe med. Men i 2017 fik det første ulvepar hvalpe i Danmark – hele otte hvalpe. Senere slog flere ulvepar sig ned i Midt- og Nordjylland. Det betød, at mange af de enlige hanulve i Danmark pludselig fik en hun at danne par med. I år 2021begyndte den danske ulvebestand for første gang at kunne klare sig selv, altså uden hjælp fra nye ulve, der indvandrede fra Tyskland. Der blev simpelthen født flere ulve i Danmark, end der døde.
+<br><br>
+Siden da er antallet af ulve vokset år for år. I dag lever der omkring ni ulvepar i Danmark, og mindst syv af dem har fået hvalpe i år. Man har indtil videre talt over 40 nye hvalpe, hvilket er det højeste antal, siden ulven kom tilbage til Danmark. Forskerne mener dog at der er mange unge ulve, som dør eller forsvinder. Man ved det ikke med sikkerhed, for danske ulve bliver ikke overvåget med GPS.
+<br><br>
+Ulvene i Danmark holder kun til i den jyske natur. De kan lide områder med skov og lyng, hvor der er god plads og masser af mad i form af krondyr og dådyr. Nogle ulve bor endda inde i indhegnede naturområder, hvor mennesker sjældent kommer. Her kan forskerne se, hvordan ulven fungerer som det, man kalder et toprovdyr. Det betyder, at ulven er øverst i fødekæden, og at den derfor har stor betydning for resten af naturen omkring den. Ulven jager og æder for eksempel hjorte, hvilket faktisk kan være en fordel for landmænd og skovejere, fordi der ellers ville være alt for mange hjorte, som ødelægger deres marker og skove. Ulvens rester af mad bliver desuden til føde for andre dyr, som for eksempel kongeørne, der især om vinteren har brug for ekstra mad.
+<br><br>
+Selvom mange danskere er bange for ulven, viser forskningen, at risikoen for at blive angrebet af en ulv i Danmark er ekstremt lille. Faktisk er den så lille, at man ikke engang kan regne den ud statistisk. Det er faktisk mere sandsynligt, at man dør af et bistik, end at man bliver angrebet af en ulv. Ulve er nemlig af naturen bange for mennesker og prøver som regel at undgå os. Problemer opstår typisk kun, hvis en ulv fra lille er blevet vant til mennesker, for eksempel fordi den er blevet fodret. Så kan ulven miste sin naturlige frygt for mennesker, og det kan skabe farlige situationer.
+<br><br>
+Det er netop det, der er begyndt at ske nogle steder i Danmark. I området omkring Oksbøl, Vejers og Blåvand i Vestjylland har der været flere episoder, hvor ulve har opført sig usædvanligt tæt på mennesker. For eksempel oplevede en 14-årig pige, at en ulv fulgte tæt efter hende, mens hun var på vej hjem, og en mand med sin hund blev fulgt af en hel flok ulve. Selvom ulvene i disse tilfælde ikke viste tegn på aggression, er det stadig usædvanlig adfærd, som gør mange mennesker bekymrede. Der er også mange eksempler på at ulve har dræbt både får og ponyer.
+<br><br>
+Ulven er beskyttet af lovgivning i både EU og Danmark, og man må derfor som udgangspunkt ikke slå en ulv ihjel. Men i særlige tilfælde kan myndighederne give tilladelse til at skyde en problemulv. En problemulv er en ulv, der ikke er bange for mennesker eller hvis den angriber dyr bag et ulvehegn. Den 3. januar 2026 blev den første problemulv nogensinde skudt i Danmark. Efter episoderne ved Oksbøl har myndighederne desuden åbnet mulighed for, at private jordejere i området kan søge om tilladelse til at skyde problemulve på deres egen jord.
+<br><br>
+Ulveparrene lever sammen med deres hvalpe i familieflokke. Hvalpene bliver født i maj, og de bliver som regel hos deres forældre i omkring et år, før de selv vandrer videre for at finde deres eget territorium. Mens hvalpene er små, går forældrene på jagt om natten hver for sig. Når de har fanget et bytte, spiser de noget af det med det samme og tager resten med hjem i maven. Hjemme ved hulen slikker hvalpene på deres forældres snude, og det får forældrene til automatisk at gylpe den halvt fordøjede mad op til hvalpene. På den måde får hvalpene mad, selvom de endnu ikke selv kan jage. Herefter begynder ulveungerne at spise det samme kød som resten af flokken.
+<br><br>
+Danske forskere forventer at der kommer flere ulve i Danmark i de kommende år, både fordi der bliver født mange hvalpe, og fordi der stadig kommer nye ulve ind fra Tyskland. Ifølge beregninger er der plads til et sted mellem 77 og 210 voksne ulve i Danmark. Så selvom ulvebestanden vokser, betyder det ikke, at antallet af ulve kan blive ved med at stige uendeligt.
+<br><br>
+Ulvens tilbagevenden skaber altså både glæde og bekymring hos danskerne. Men ifølge eksperterne handler fremtiden om, at mennesker og ulve skal lære at leve side om side.
+<br><br>
+Det var alt for denne episode. Husk at du kan følge podcasten på Instagram, hvor jeg poster endnu mere gratis materiale til at lære dansk. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/07/Episode-111.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 111 - Smiley-ordningen </h1>
+</summary>
+<span style="font-weight: normal">
+Hej og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om Smiley-systemet i Danmark. Det er en ordning, der viser hvor gode restauranter og supermarkeder er til at overholde fødevarelovgivningen. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, downloade episoden, finde ordlister og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo.
+<br><br>
+Har du nogensinde lagt mærke til et lille skilt med en smiley, når du går ind i en restaurant eller et supermarked i Danmark? Smileyen kommer fra den danske smiley-ordning. Smiley-ordningen er en dansk ordning, som viser danskerne, hvor gode forskellige butikker og restauranter er til at overholde reglerne om mad og hygiejne. Det er en offentlig myndighed, der hedder Fødevarestyrelsen, som står bag ordningen. Fødevarestyrelsen er en del af Erhvervsministeriet, og de har omkring 1.700 ansatte i hele Danmark. En af Fødevarestyrelsens vigtigste opgaver er at kontrollere, at mad i Danmark er sikker at spise. Fødevarestyrelsen laver også andre ting, som mange danskere kender. For eksempel står de bag de officielle danske kostråd, altså anbefalinger til, hvad man bør spise for at leve sundt. De står også bag andre mærker, man kan se i danske butikker, som for eksempel Nøglehulsmærket, der viser sunde fødevarer, og Det Økologiske Spisemærke, der certificerer restauranter med økologiske fødevarer.
+<br><br>
+Men lad os vende tilbage til smileyen. Ideen bag smiley-ordningen er meget simpel. Når Fødevarestyrelsen besøger en virksomhed for at kontrollere den, kigger de på, om virksomheden følger reglerne for fødevaresikkerhed. Bagefter får virksomheden en smiley, som viser resultatet af kontrollen. Der findes tre forskellige smileyer. Den bedste smiley har et glad ansigt. Den betyder, at virksomheden ikke har nogen problemer overhovedet. Den næste smiley har en lige mund, altså hverken et glad eller et surt ansigt. Den betyder, at Fødevarestyrelsen har fundet nogle mindre problemer, som virksomheden skal rette. Den sidste og dårligste smiley har et surt ansigt. Den bruges, når der er meget alvorlige problemer, for eksempel hvis virksomheden får en bøde, bliver meldt til politiet, eller hvis virksomheden slet ikke må sælge fødevarer mere.
+<br><br>
+Det er kun bestemte typer virksomheder, der skal deltage i smiley-ordningen. Det er nemlig kun de virksomheder, som sælger mad direkte til forbrugerne. Det kan for eksempel være caféer, restauranter, bagerier og supermarkeder. Til gengæld er der andre virksomheder, som ikke sælger direkte til almindelige mennesker, men i stedet sælger til andre virksomheder. Det kalder man for engrosvirksomheder. Det kan for eksempel være mejerier, bryggerier eller store kølelagre. De virksomheder får ikke en smiley med et ansigt, men har et andet system.
+<br><br>
+Der er også nogle grupper, som slet ikke er en del af smiley-ordningen. Det gælder for eksempel landmænd og fiskere, selvom de sommetider sælger deres varer direkte fra gården eller fra båden. Det gælder også madbude og andre transportfirmaer.
+<br><br>
+Når en virksomhed får sin smiley, skal de hænge den op et synligt sted, for eksempel ved indgangen til butikken eller restauranten. På den måde kan du som kunde se smileyen, allerede inden du går ind. Det gør det nemt og hurtigt at se, om et spisested har styr på deres hygiejne. Virksomhederne skal desuden altid kunne vise de seneste fire kontrolrapporter, hvis nogen spørger efter dem. Alle rapporter er faktisk helt offentlige, så hvem som helst kan gå ind på hjemmesiden findsmiley.dk og se resultaterne for enhver dansk fødevarevirksomhed. Her kan man både se den nyeste smiley og læse hele rapporten fra kontrolbesøget.
+<br><br>
+Det er ret smart at man kan gå ind på findsmiley.dk og læse rapporterne. For eksempel fik mit lokale bageri engang en sur smiley. Jeg gik ind på findsmiley.dk og læste rapporten. Der stod at deres hygiejne var god, men at de ikke havde korrekte skilte om allergener i deres produkter. Det er selvfølgelig forkert, så det er godt at det bliver bemærket i kontrollen. Men jeg har ingen allergier, så det er ikke et problem for mig. Man skal altså ikke altid nødvendigvis lade sig skræmme væk af en sur smiley, for det er ikke altid at det skyldes dårlig hygiejne. I stedet kan man læse rapporten inden man beslutter sig.
+<br><br>
+Smiley-ordningen har eksisteret i Danmark siden år 2001, altså i mere end 20 år. Og ordningen har faktisk virket rigtig godt. I dag har over 80 procent af alle kontroller i danske fødevarevirksomheder slet ingen anmærkninger. Det vil sige, at langt de fleste steder får den glade smiley. Til sammenligning var tallet kun omkring 70 procent, da ordningen startede i 2001. Man kan altså se, at ordningen har gjort maden mere sikker i Danmark over tid.
+<br><br>
+I 2020 besluttede danske politikere at forenkle smiley-ordningen. Efter 20 år med den samme ordning, ville man gerne gøre det nemmere og tydeligere, både for virksomhederne og for forbrugerne, at forstå systemet. Det er blandt andet derfor, at ordningen i dag kun bruger de tre enkle smileyer, som jeg lige har fortalt om.
+<br><br>
+For danskerne er smiley-ordningen blevet en naturlig del af hverdagen. Mange danskere kigger automatisk efter smileyen, når de skal vælge en ny restaurant, eller når de handler i en butik, de ikke kender i forvejen. Det er blevet et nemt og hurtigt værktøj, som hjælper danskerne med at træffe gode valg om, hvor de spiser og handler. Så næste gang du besøger en restaurant eller en butik i Danmark, så kig efter smileyen ved indgangen. Den lille tegning kan fortælle dig en hel del om stedets forhold til rengøring og fødevaresikkerhed.
+<br><br>
+Det var alt for denne episode. Husk at du kan følge podcasten på Instagram og finde endnu mere gratis materiale til at lære dansk. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/07/Episode-110.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 110 - Hjem-IS </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om en helt særlig dansk virksomhed med en stærk tradition. Nemlig Hjem-IS. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, finde ordlister, downloade episoden og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo.
+<br><br>
+Hjem-IS er et dansk ismærke, der ejes af det danske ismejeri, Mejerigaarden. Hjem-IS er især kendt for deres karakteristiske blå isbiler. Der findes mere end 100 isbiler, der kører rundt på de danske veje og sælger is direkte til danskernes fryser. Når isbilen kører rundt i et boligkvarter, ringer chaufføren med en gammeldags klokke. For mange danskere er lyden af isbilklokken også lyden af dansk sommer. Og det giver god mening med en isbil i Danmark. Vi er nemlig et af de lande i Europa, der spiser allermest is. I gennemsnit spiser en dansker cirka 10 kilo is om året. Og i en undersøgelse fra år 2014 sagde knap hver 4. dansker, at de spiser mindst én is om ugen.
+<br><br>
+Hjem-IS er for alle, men især mange børn er begejstrede for isbilen. Det kan naturligvis godt give lidt diskussioner hjemme i stuen, hvis børnene ser isbilen komme kørende, men forældrene ikke synes at der skal spises dessert den dag. Derfor er der mange forældre, der fortæller en lille, hvid løgn til deres børn. Nemlig, at hvis isbilen ringer med klokkerne, så betyder det at de desværre er udsolgt!
+<br><br>
+Hjem-IS kom til Danmark i år 1976. Det var en svensk iværksætter, Eric Ericsson, der havde fået ideen. Han ville gerne skabe en såkaldt ”ubrudt frostkæde”. Han ønskede altså at sælge is direkte til forbrugeren uden at isen nåede at tø på vejen. Først købte han en trailer til sin bil og stillede en stor fryser på traileren. Så kørte han rundt og solgte is direkte fra fryseren. Det blev en kæmpe succes, så hurtigt måtte Eric Ericsson opgradere til de blå isbiler, vi kender i dag. Da Hjem-IS blev bragt fra Sverige til Danmark, blev danskerne straks glade for ideen. Og nu har der altså kørt Hjem-IS-biler på de danske veje i 50 år.
+<br><br>
+Hjem-IS sælger både is i pakker og enkeltvis. De mere end 100 isbiler kører rundt i hele landet. Om sommeren kommer de selvfølgelig meget oftere forbi, end de gør om vinteren. På Hjem-IS’ hjemmeside kan man indtaste sin adresse og tilmelde sig en sms-service, så man får en besked når isbilen er på vej.
+<br><br>
+Hjem-IS-bilen har haft en lidt blandet succes over årene. Nogle år har der været et flot overskud, men andre år har det været svært for Hjem-IS at tjene penge. Hjem-IS har især kæmpet med økonomien, når der har været dårligt sommervejr i Danmark.
+<br><br>
+Virksomheden har også skiftet ejer nogle gange. I år 2002 blev Hjem-IS købt af den store schweiziske virksomhed, Nestlé. I år 2013 besluttede Nestlé at de gerne ville sælge Hjem-IS, da det ikke var en god nok forretning. Fire danske iværksættere fik faktisk lov til at overtage Hjem-IS helt gratis. De betalte ikke en krone til Nestlé! Det viste sig at være en rigtig god investering for de fire iværksættere, da de fem år senere solgte Hjem-IS videre til Mejerigaarden for mere end 50 millioner.
+<br><br>
+Det var alt for denne episode. Jeg håber du synes det var hyggeligt at høre om Hjem-IS og måske har fået lyst til at købe is næste gang du hører klokkerne og ser den ikoniske blå bil. Husk at du kan følge podcasten på Instagram, hvor jeg deler endnu mere gratis indhold. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/06/Episode-109.wav"></audio> </td>
 <td> 
 <details>
