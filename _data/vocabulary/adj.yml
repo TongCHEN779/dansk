@@ -3748,6 +3748,16 @@
   komparativ: mere krydret
   superlativ: mest krydret
   engelsk: spicy
+- dansk: kræsen
+  ordnet: https://ordnet.dk/ddo/ordbog?query=kr%C3%A6sen
+  audio_id: kræsen
+  mp3: https://static.ordnet.dk/mp3/11028/11028388_1.mp3
+  ipa: '[ˈkʁεːsən]'
+  t_form: kræsent
+  e_form: kræsne
+  komparativ: mere kræsen
+  superlativ: mest kræsen
+  engelsk: picky
 - dansk: krævende
   ordnet: https://ordnet.dk/ddo/ordbog?query=kr%C3%A6vende
   audio_id: krævende
