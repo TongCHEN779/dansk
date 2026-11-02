@@ -144,12 +144,81 @@
     });
   }
 
+  /* ---- front page: the sheet-music pages become a page-turning viewer ---- */
+  function pager() {
+    if (!document.body.classList.contains('layout--home')) return;
+    var host = $('.archive');
+    if (!host) return;
+    var imgs = $$('p[align="center"] img', host);
+    if (imgs.length < 2) return;
+
+    var view = document.createElement('div');
+    view.className = 'pager';
+    view.setAttribute('role', 'group');
+    view.setAttribute('aria-label', 'Noder');
+    view.tabIndex = 0;
+    var stage = document.createElement('div');
+    stage.className = 'pager__stage';
+    var pages = imgs.map(function (im, i) {
+      var c = document.createElement('img');
+      c.src = im.src; c.alt = im.alt || ''; c.className = 'pager__page'; c.draggable = false;
+      stage.appendChild(c);
+      return c;
+    });
+    var prev = document.createElement('button');
+    prev.type = 'button'; prev.className = 'pager__nav pager__nav--prev'; prev.setAttribute('aria-label', 'Forrige side');
+    prev.innerHTML = '<i class="fas fa-chevron-left"></i>';
+    var next = document.createElement('button');
+    next.type = 'button'; next.className = 'pager__nav pager__nav--next'; next.setAttribute('aria-label', 'Næste side');
+    next.innerHTML = '<i class="fas fa-chevron-right"></i>';
+    var count = document.createElement('div');
+    count.className = 'pager__count';
+    view.appendChild(stage); view.appendChild(prev); view.appendChild(next); view.appendChild(count);
+
+    var first = imgs[0].closest('p');
+    first.parentNode.insertBefore(view, first);
+    $$('p[align="center"]', host).forEach(function (p) { p.style.display = 'none'; });
+
+    var cur = 0;
+    function render() {
+      pages.forEach(function (pg, i) {
+        pg.classList.toggle('is-before', i < cur);
+        pg.classList.toggle('is-current', i === cur);
+        pg.classList.toggle('is-after', i > cur);
+        pg.setAttribute('aria-hidden', i === cur ? 'false' : 'true');
+      });
+      prev.disabled = cur === 0;
+      next.disabled = cur === pages.length - 1;
+      count.textContent = (cur + 1) + ' / ' + pages.length;
+    }
+    function go(n) { if (n < 0 || n >= pages.length || n === cur) return; cur = n; render(); }
+    prev.addEventListener('click', function () { go(cur - 1); });
+    next.addEventListener('click', function () { go(cur + 1); });
+    stage.addEventListener('click', function (e) {
+      var r = stage.getBoundingClientRect();
+      go(e.clientX - r.left > r.width / 2 ? cur + 1 : cur - 1);
+    });
+    view.addEventListener('keydown', function (e) {
+      if (e.key === 'ArrowRight' || e.key === 'PageDown') { go(cur + 1); e.preventDefault(); }
+      if (e.key === 'ArrowLeft' || e.key === 'PageUp') { go(cur - 1); e.preventDefault(); }
+    });
+    var x0 = null;
+    stage.addEventListener('touchstart', function (e) { x0 = e.touches[0].clientX; }, { passive: true });
+    stage.addEventListener('touchend', function (e) {
+      if (x0 === null) return;
+      var dx = e.changedTouches[0].clientX - x0; x0 = null;
+      if (Math.abs(dx) > 40) go(cur + (dx < 0 ? 1 : -1));
+    }, { passive: true });
+    render();
+  }
+
   function init() {
     markActive();
     wrapTables();
     addFilter();
     singleAudio();
     addFabs();
+    pager();
     onScroll();
     window.addEventListener('scroll', onScroll, { passive: true });
   }
