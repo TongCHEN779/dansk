@@ -43,12 +43,12 @@
             cs.left = (br.left - bb.left + imgEl.clientLeft) + "px";
             cs.top = (br.top - bb.top + imgEl.clientTop) + "px";
             cs.width = w + "px"; cs.height = h + "px";
-            cs.borderRadius = "50%"; cs.pointerEvents = "none"; cs.margin = "0";
+            cs.pointerEvents = "none"; cs.margin = "0";
             c.setAttribute("aria-hidden", "true");
+            c.className = "talk-canvas";
             box.appendChild(c);
             st.canvas = c; st.img = imgEl;
-            st.bg = getComputedStyle(imgEl).backgroundColor;
-            if (!st.bg || st.bg === "transparent" || st.bg === "rgba(0, 0, 0, 0)") st.bg = "#fff";
+            imgEl.style.visibility = "hidden";      /* keeps its place in the layout; the canvas shows the same picture */
             return true;
         }
 
@@ -59,7 +59,7 @@
             var dx = (cw - dw) / 2, dy = (ch - dh) / 2;
             var drop = st.open * MAX_DROP * dh;
 
-            g.fillStyle = st.bg; g.fillRect(0, 0, cw, ch);
+            g.clearRect(0, 0, cw, ch);
             g.drawImage(im, dx, dy, dw, dh);               /* whole face, untouched */
             if (drop < 0.3) return;
 
@@ -109,6 +109,7 @@
         function finish() {
             cancelAnimationFrame(st.raf);
             if (st.canvas && st.canvas.parentNode) st.canvas.parentNode.removeChild(st.canvas);
+            if (st.img) st.img.style.visibility = "";
             st.canvas = null; st.open = 0; st.target = 0;
         }
 

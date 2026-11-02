@@ -127,16 +127,17 @@ h1, h2, h3, h4 { color: var(--ink); }
 #main { max-width: 1440px; padding-top: 1.5rem; }
 .initial-content { min-height: 70vh; }
 
-.sidebar .author__avatar img {
-  width: 112px; height: 112px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 3px solid var(--surface);
-  box-shadow: var(--shadow);
-  transition: transform .3s;
-  padding: 0;
-  background: var(--surface);
+.sidebar .author__avatar img,
+.sidebar .author__avatar canvas.talk-canvas {
+  width: 112px; height: auto;
+  border: 0; border-radius: 0; box-shadow: none; padding: 0;
+  background: none;
+  /* the portrait has a white fill: multiply makes the white vanish so only the lines show */
+  mix-blend-mode: multiply;
 }
+:root[data-theme="dark"] .sidebar .author__avatar img,
+:root[data-theme="dark"] .sidebar .author__avatar canvas.talk-canvas { filter: invert(1) brightness(2.6); mix-blend-mode: screen; }
+.sidebar .author__avatar img { transition: transform .3s; }
 .sidebar .author__avatar img:hover { transform: rotate(-4deg) scale(1.04); }
 
 @media (min-width: 64em) {
@@ -150,11 +151,11 @@ h1, h2, h3, h4 { color: var(--ink); }
     scrollbar-color: var(--line) transparent;
   }
   .sidebar .author__avatar { margin-bottom: .5rem; }
-  .sidebar .author__avatar img { width: 120px; height: 120px; }
+  .sidebar .author__avatar img { width: 120px; height: auto; }
 }
 @media (max-width: 63.999em) {
   .sidebar .author__avatar { text-align: left; }
-  .sidebar .author__avatar img { width: 72px; height: 72px; }
+  .sidebar .author__avatar img { width: 72px; height: auto; }
 }
 
 .author__urls-wrapper { margin-bottom: .5rem; }
