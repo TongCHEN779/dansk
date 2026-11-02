@@ -19,7 +19,8 @@
   --shadow-lg: 0 2px 4px rgba(31, 36, 48, .06), 0 14px 36px rgba(31, 36, 48, .12);
   --radius: 14px;
   --radius-sm: 9px;
-  --head-h: 3.6rem;
+  --head-h: 3.6rem;          /* nominal masthead content height */
+  --mast-h: 4.4rem;          /* real masthead height, measured and set by custom.js */
   --font-body: "Inter", -apple-system, "system-ui", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   --font-head: "Fraunces", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
   color-scheme: light;
@@ -42,7 +43,7 @@
 }
 
 /* ---------- base ---------- */
-html { scroll-behavior: smooth; scroll-padding-top: calc(var(--head-h) + 1rem); }
+html { scroll-behavior: smooth; scroll-padding-top: calc(var(--mast-h) + 1rem); }
 
 body {
   background: var(--bg);
@@ -142,8 +143,8 @@ h1, h2, h3, h4 { color: var(--ink); }
 
 @media (min-width: 64em) {
   .sidebar.sticky {
-    top: calc(var(--head-h) + 1.25rem);
-    max-height: calc(100vh - var(--head-h) - 2.5rem);
+    top: calc(var(--mast-h) + 1.25rem);
+    max-height: calc(100vh - var(--mast-h) - 2.5rem);
     overflow-y: auto;
     overscroll-behavior: contain;
     padding-right: .6rem;
@@ -298,7 +299,7 @@ h1, h2, h3, h4 { color: var(--ink); }
   border: 1px solid var(--line);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  overflow: hidden;
+  overflow: clip;   /* rounds the corners without becoming a scroll container (keeps sticky headers working) */
   font-size: .94rem;
   margin: 1rem 0 2rem;
   display: table;
@@ -346,10 +347,9 @@ h1, h2, h3, h4 { color: var(--ink); }
 
 /* desktop: header row sticks under the masthead (only when the table fits) */
 @media (min-width: 64em) {
-  .table-wrap:not(.is-wide) > table { overflow: visible; }
-  .table-wrap:not(.is-wide) > table:has(th) tr:first-child th { position: sticky; top: var(--head-h); z-index: 5; }
-  .table-wrap:not(.is-wide) > table:has(th) tr:first-child th:first-child { border-top-left-radius: var(--radius); }
-  .table-wrap:not(.is-wide) > table:has(th) tr:first-child th:last-child { border-top-right-radius: var(--radius); }
+  #main .table-wrap:not(.is-wide) > table:has(th) tr:first-child th { position: sticky; top: var(--mast-h); z-index: 5; }
+  #main .table-wrap:not(.is-wide) > table:has(th) tr:first-child th:first-child { border-top-left-radius: var(--radius); }
+  #main .table-wrap:not(.is-wide) > table:has(th) tr:first-child th:last-child { border-top-right-radius: var(--radius); }
 }
 
 /* tables that don't fit scroll sideways instead of breaking the layout */

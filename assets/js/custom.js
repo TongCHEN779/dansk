@@ -212,7 +212,18 @@
     render();
   }
 
+  /* keep sticky things (table headers, sidebar) exactly below the sticky masthead */
+  function syncHeadHeight() {
+    var m = $('.masthead');
+    if (!m) return;
+    var set = function () { root.style.setProperty('--mast-h', m.getBoundingClientRect().height + 'px'); };
+    set();
+    if (window.ResizeObserver) new ResizeObserver(set).observe(m);
+    else window.addEventListener('resize', set);
+  }
+
   function init() {
+    syncHeadHeight();
     markActive();
     wrapTables();
     addFilter();
