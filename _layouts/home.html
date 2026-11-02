@@ -2,7 +2,20 @@
 layout: archive
 ---
 
+
+<nav class="launcher">
+  {%- assign icons = "fa-language,fa-chalkboard-teacher,fa-headphones,fa-book-open,fa-link" | split: "," -%}
+  {%- assign n = 0 -%}
+  {%- for link in site.data.navigation.main -%}
+    {%- unless link.title contains "<i" -%}
+      <a href="{{ link.url | relative_url }}"><span class="ico"><i class="fas {{ icons[n] }}"></i></span><span>{{ link.title }}</span></a>
+      {%- assign n = n | plus: 1 -%}
+    {%- endunless -%}
+  {%- endfor -%}
+</nav>
+
 {{ content }}
+
 
 <!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
 
