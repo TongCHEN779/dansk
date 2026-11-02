@@ -46,7 +46,7 @@ permalink: /search/
     function renderRow(e, term) {
         const dansk = highlightText(e.dansk || "", term);
         const ipa   = e.mp3
-            ? `<audio id="s_${e.audio_id}" src="${e.mp3}" style="display:none;"></audio>` +
+            ? `<audio id="s_${e.audio_id}" preload="none" src="${e.mp3}" style="display:none;"></audio>` +
               `<span onclick="playSound('s_${e.audio_id}');" style="cursor:pointer;color:blue;">${e.ipa}</span>`
             : (e.ipa || "");
         const eng  = highlightText(e.engelsk || "", term);

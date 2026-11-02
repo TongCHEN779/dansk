@@ -163,7 +163,7 @@ permalink: /flash/
         if (!currentWord) return;
         const userAnswer = document.getElementById("answer")?.value || "";
         const audioHTML  = currentWord.mp3
-            ? `<audio id="fc_${currentWord.audio_id}" src="${currentWord.mp3}" style="display:none;"></audio>` +
+            ? `<audio id="fc_${currentWord.audio_id}" preload="none" src="${currentWord.mp3}" style="display:none;"></audio>` +
               `<span onclick="playSound('fc_${currentWord.audio_id}');" style="cursor:pointer;color:blue;">${currentWord.ipa}</span>`
             : (currentWord.ipa || "—");
         document.getElementById("question").innerHTML = `
@@ -238,7 +238,7 @@ permalink: /flash/
         tbody.innerHTML = bank.map(w => {
             const key = (bankKey(w)).replace(/'/g, "\\'");
             const audioHTML = w.mp3
-                ? `<audio id="bk_${w.audio_id}" src="${w.mp3}" style="display:none;"></audio>` +
+                ? `<audio id="bk_${w.audio_id}" preload="none" src="${w.mp3}" style="display:none;"></audio>` +
                   `<span onclick="playSound('bk_${w.audio_id}');" style="cursor:pointer;color:blue;">${w.ipa}</span>`
                 : (w.ipa || "");
             return `<tr>

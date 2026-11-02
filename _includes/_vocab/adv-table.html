@@ -14,7 +14,7 @@
     <td>{{ e.adverb }}</td>
     <td>
       {% if e.mp3 and e.mp3 != "" %}
-      <audio id="{{ e.audio_id }}" src="{{ e.mp3 }}" style="display:none;"></audio>
+      <audio id="{{ e.audio_id }}" preload="none" src="{{ e.mp3 }}" style="display:none;"></audio>
       <span onclick="playSound('{{ e.audio_id }}');" style="cursor:pointer;color:blue;">{{ e.ipa }}</span>
       {% else %}{{ e.ipa }}{% endif %}
     </td>

@@ -1,25 +1,54 @@
 <script>
-    /* Avatar "talks" while a word plays: the jaw (everything below the mouth line)
-       of the static portrait opens and closes at a natural, irregular rhythm.
-       Drawn frame by frame on a canvas, so no GIF is needed. */
+    /* Avatar "talks" while a word plays. Only the area around the mouth is warped
+       (the lower lip and chin move down smoothly, fading out to nothing at the edges),
+       so the rest of the face never moves. Drawn on a canvas laid exactly over the
+       avatar image; the image itself is never resized or swapped. */
     var Talk = (function () {
-        var SPLIT = 0.648;            /* mouth line, as a fraction of the image height */
-        var MOUTH_X = 0.55, MOUTH_W = 0.15;
-        var MAX_DROP = 0.030;         /* max jaw drop, as a fraction of drawn image height */
-        var st = { img: null, canvas: null, src: null, raf: 0, open: 0, target: 0, nextAt: 0, talking: false, cur: null };
+        /* all values are fractions of the source image */
+        var MX = 0.56, HW = 0.17;                  /* mouth centre x, half-width of the affected area */
+        var Y_TOP = 0.640, Y_LIP = 0.676, Y_END = 0.745, Y_FIX = 0.648;  /* area top, lower lip, area bottom, upper lip (stays) */
+        var MAX_DROP = 0.04;                       /* lower-lip travel, as a fraction of image height */
+        var COLS = 18, ROWS = 26;
+
+        var st = { src: null, canvas: null, img: null, raf: 0, open: 0, target: 0, nextAt: 0, talking: false, cur: null };
+
+        function smooth(t) { t = t < 0 ? 0 : t > 1 ? 1 : t; return t * t * (3 - 2 * t); }
+        function vprofile(y) {     /* 0 above the upper lip, 1 at the lower lip, back to 0 at the chin */
+            if (y <= Y_FIX) return 0;
+            if (y <= Y_LIP) return smooth((y - Y_FIX) / (Y_LIP - Y_FIX));
+            return 1 - smooth((y - Y_LIP) / (Y_END - Y_LIP));
+        }
+
+        function preload() {
+            var el = document.getElementById("profile-avatar");
+            if (el && !st.src) { st.src = new Image(); st.src.src = el.src; }
+        }
+        if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", preload); else preload();
 
         function ensure(imgEl) {
             if (st.canvas && st.canvas.parentNode) return true;
-            if (!st.src) { st.src = new Image(); st.src.src = imgEl.src; }
-            if (!st.src.complete || !st.src.naturalWidth) return false;
+            if (!st.src || !st.src.complete || !st.src.naturalWidth) return false;
+            var box = imgEl.parentNode;
+            while (box && getComputedStyle(box).display === "inline") box = box.parentNode;
+            if (!box) return false;
             var dpr = window.devicePixelRatio || 1;
             var w = imgEl.clientWidth, h = imgEl.clientHeight;
+            if (!w || !h) return false;
+            if (getComputedStyle(box).position === "static") box.style.position = "relative";
+            var br = imgEl.getBoundingClientRect(), bb = box.getBoundingClientRect();
             var c = document.createElement("canvas");
             c.width = Math.round(w * dpr); c.height = Math.round(h * dpr);
-            c.className = "u-photo talk-canvas";
+            var cs = c.style;
+            cs.position = "absolute";
+            cs.left = (br.left - bb.left + imgEl.clientLeft) + "px";
+            cs.top = (br.top - bb.top + imgEl.clientTop) + "px";
+            cs.width = w + "px"; cs.height = h + "px";
+            cs.borderRadius = "50%"; cs.pointerEvents = "none"; cs.margin = "0";
             c.setAttribute("aria-hidden", "true");
-            imgEl.parentNode.insertBefore(c, imgEl.nextSibling);
+            box.appendChild(c);
             st.canvas = c; st.img = imgEl;
+            st.bg = getComputedStyle(imgEl).backgroundColor;
+            if (!st.bg || st.bg === "transparent" || st.bg === "rgba(0, 0, 0, 0)") st.bg = "#fff";
             return true;
         }
 
@@ -28,22 +57,39 @@
             var iw = im.naturalWidth, ih = im.naturalHeight, cw = c.width, ch = c.height;
             var s = Math.max(cw / iw, ch / ih), dw = iw * s, dh = ih * s;
             var dx = (cw - dw) / 2, dy = (ch - dh) / 2;
-            var sy = ih * SPLIT, top = sy * s, drop = st.open * MAX_DROP * dh;
-            g.clearRect(0, 0, cw, ch);
-            /* upper face */
-            g.drawImage(im, 0, 0, iw, sy, dx, dy, dw, top);
-            if (drop > 0.4) {
-                /* cheeks: stretch the row at the mouth line across the gap */
-                g.drawImage(im, 0, sy, iw, 1, dx, dy + top, dw, drop + 1);
-                /* the open mouth */
-                var mx = dx + dw * MOUTH_X, mw = dw * MOUTH_W * 0.5;
-                g.fillStyle = "rgba(120, 108, 114, .38)";
-                g.beginPath();
-                g.ellipse(mx, dy + top + drop / 2, mw, drop / 2 + 0.5, 0, 0, Math.PI * 2);
-                g.fill();
+            var drop = st.open * MAX_DROP * dh;
+
+            g.fillStyle = st.bg; g.fillRect(0, 0, cw, ch);
+            g.drawImage(im, dx, dy, dw, dh);               /* whole face, untouched */
+            if (drop < 0.3) return;
+
+            /* mouth area: redraw in thin strips, each shifted vertically by a smooth amount */
+            var x0 = (MX - HW) * iw, colW = (2 * HW * iw) / COLS;
+            var y0 = Y_TOP * ih, rowH = ((Y_END - Y_TOP) * ih) / ROWS;
+            for (var i = 0; i < COLS; i++) {
+                var sx = x0 + i * colW;
+                var u = ((sx + colW / 2) / iw - MX) / HW;               /* -1 … 1 across the area */
+                var hx = Math.cos(Math.min(1, Math.abs(u)) * Math.PI / 2); hx *= hx;
+                var prev = null;
+                for (var j = 0; j <= ROWS; j++) {
+                    var ys = y0 + j * rowH, yn = ys / ih;
+                    var yd = dy + ys * s + drop * hx * vprofile(yn);
+                    if (prev) {
+                        g.drawImage(im, sx, prev.ys, colW, rowH,
+                                    dx + sx * s, prev.yd, colW * s + 0.7, yd - prev.yd + 0.7);
+                    }
+                    prev = { ys: ys, yd: yd };
+                }
             }
-            /* jaw, shifted down */
-            g.drawImage(im, 0, sy, iw, ih - sy, dx, dy + top + drop, dw, (ih - sy) * s);
+            /* dark inside of the mouth, a flat ellipse that grows with the opening */
+            var mx = dx + MX * iw * s, my = dy + (Y_FIX * ih) * s + drop * 0.45;
+            var rx = HW * iw * s * 0.38 * (0.55 + 0.45 * st.open), ry = Math.max(0.5, drop * 0.42);
+            g.save(); g.translate(mx, my); g.scale(1, ry / rx);
+            var g2 = g.createRadialGradient(0, 0, 0, 0, 0, rx);
+            g2.addColorStop(0, "rgba(70, 58, 64," + (0.62 * st.open) + ")");
+            g2.addColorStop(0.7, "rgba(70, 58, 64," + (0.38 * st.open) + ")");
+            g2.addColorStop(1, "rgba(70, 58, 64, 0)");
+            g.fillStyle = g2; g.beginPath(); g.arc(0, 0, rx, 0, Math.PI * 2); g.fill(); g.restore();
         }
 
         function frame(t) {
@@ -63,21 +109,19 @@
         function finish() {
             cancelAnimationFrame(st.raf);
             if (st.canvas && st.canvas.parentNode) st.canvas.parentNode.removeChild(st.canvas);
-            if (st.img) st.img.style.display = "";
             st.canvas = null; st.open = 0; st.target = 0;
         }
 
         return {
             start: function (imgEl, owner) {
                 st.cur = owner; st.talking = true;
-                if (st.canvas) return;                /* already animating: keep going */
-                if (!ensure(imgEl)) return;           /* image not ready: just stay still */
-                imgEl.style.display = "none";
+                if (st.canvas) return;
+                if (!ensure(imgEl)) return;       /* not ready: simply no animation */
                 st.nextAt = 0;
                 st.raf = requestAnimationFrame(frame);
             },
             stop: function (owner) {
-                if (st.cur === owner) st.talking = false;   /* mouth eases shut, then restores the image */
+                if (st.cur === owner) st.talking = false;   /* mouth eases shut, then the overlay is removed */
             }
         };
     })();
