@@ -127,7 +127,8 @@ h1, h2, h3, h4 { color: var(--ink); }
 #main { max-width: 1440px; padding-top: 1.5rem; }
 .initial-content { min-height: 70vh; }
 
-.sidebar .author__avatar img {
+.sidebar .author__avatar img,
+.sidebar .author__avatar canvas {
   width: 112px; height: 112px;
   object-fit: cover;
   border-radius: 50%;
@@ -138,6 +139,7 @@ h1, h2, h3, h4 { color: var(--ink); }
   background: var(--surface);
 }
 .sidebar .author__avatar img:hover { transform: rotate(-4deg) scale(1.04); }
+.sidebar .author__avatar canvas { display: block; border-radius: 50%; border: 3px solid var(--surface); box-shadow: var(--shadow); background: var(--surface); }
 
 @media (min-width: 64em) {
   .sidebar.sticky {
@@ -150,11 +152,11 @@ h1, h2, h3, h4 { color: var(--ink); }
     scrollbar-color: var(--line) transparent;
   }
   .sidebar .author__avatar { margin-bottom: .5rem; }
-  .sidebar .author__avatar img { width: 120px; height: 120px; }
+  .sidebar .author__avatar img, .sidebar .author__avatar canvas { width: 120px; height: 120px; }
 }
 @media (max-width: 63.999em) {
   .sidebar .author__avatar { text-align: left; }
-  .sidebar .author__avatar img { width: 72px; height: 72px; }
+  .sidebar .author__avatar img, .sidebar .author__avatar canvas { width: 72px; height: 72px; }
 }
 
 .author__urls-wrapper { margin-bottom: .5rem; }

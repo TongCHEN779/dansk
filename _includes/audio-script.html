@@ -1,17 +1,103 @@
 <script>
+    /* Avatar "talks" while a word plays: the jaw (everything below the mouth line)
+       of the static portrait opens and closes at a natural, irregular rhythm.
+       Drawn frame by frame on a canvas, so no GIF is needed. */
+    var Talk = (function () {
+        var SPLIT = 0.648;            /* mouth line, as a fraction of the image height */
+        var MOUTH_X = 0.55, MOUTH_W = 0.15;
+        var MAX_DROP = 0.030;         /* max jaw drop, as a fraction of drawn image height */
+        var st = { img: null, canvas: null, src: null, raf: 0, open: 0, target: 0, nextAt: 0, talking: false, cur: null };
+
+        function ensure(imgEl) {
+            if (st.canvas && st.canvas.parentNode) return true;
+            if (!st.src) { st.src = new Image(); st.src.src = imgEl.src; }
+            if (!st.src.complete || !st.src.naturalWidth) return false;
+            var dpr = window.devicePixelRatio || 1;
+            var w = imgEl.clientWidth, h = imgEl.clientHeight;
+            var c = document.createElement("canvas");
+            c.width = Math.round(w * dpr); c.height = Math.round(h * dpr);
+            c.className = "u-photo talk-canvas";
+            c.setAttribute("aria-hidden", "true");
+            imgEl.parentNode.insertBefore(c, imgEl.nextSibling);
+            st.canvas = c; st.img = imgEl;
+            return true;
+        }
+
+        function draw() {
+            var c = st.canvas, g = c.getContext("2d"), im = st.src;
+            var iw = im.naturalWidth, ih = im.naturalHeight, cw = c.width, ch = c.height;
+            var s = Math.max(cw / iw, ch / ih), dw = iw * s, dh = ih * s;
+            var dx = (cw - dw) / 2, dy = (ch - dh) / 2;
+            var sy = ih * SPLIT, top = sy * s, drop = st.open * MAX_DROP * dh;
+            g.clearRect(0, 0, cw, ch);
+            /* upper face */
+            g.drawImage(im, 0, 0, iw, sy, dx, dy, dw, top);
+            if (drop > 0.4) {
+                /* cheeks: stretch the row at the mouth line across the gap */
+                g.drawImage(im, 0, sy, iw, 1, dx, dy + top, dw, drop + 1);
+                /* the open mouth */
+                var mx = dx + dw * MOUTH_X, mw = dw * MOUTH_W * 0.5;
+                g.fillStyle = "rgba(120, 108, 114, .38)";
+                g.beginPath();
+                g.ellipse(mx, dy + top + drop / 2, mw, drop / 2 + 0.5, 0, 0, Math.PI * 2);
+                g.fill();
+            }
+            /* jaw, shifted down */
+            g.drawImage(im, 0, sy, iw, ih - sy, dx, dy + top + drop, dw, (ih - sy) * s);
+        }
+
+        function frame(t) {
+            if (!st.canvas) return;
+            if (st.talking && t >= st.nextAt) {
+                /* irregular "syllables": mostly open-ish, sometimes nearly closed */
+                st.target = Math.random() < 0.22 ? Math.random() * 0.15 : 0.45 + Math.random() * 0.55;
+                st.nextAt = t + 70 + Math.random() * 110;
+            }
+            if (!st.talking) st.target = 0;
+            st.open += (st.target - st.open) * 0.35;
+            draw();
+            if (!st.talking && st.open < 0.02) { finish(); return; }
+            st.raf = requestAnimationFrame(frame);
+        }
+
+        function finish() {
+            cancelAnimationFrame(st.raf);
+            if (st.canvas && st.canvas.parentNode) st.canvas.parentNode.removeChild(st.canvas);
+            if (st.img) st.img.style.display = "";
+            st.canvas = null; st.open = 0; st.target = 0;
+        }
+
+        return {
+            start: function (imgEl, owner) {
+                st.cur = owner; st.talking = true;
+                if (st.canvas) return;                /* already animating: keep going */
+                if (!ensure(imgEl)) return;           /* image not ready: just stay still */
+                imgEl.style.display = "none";
+                st.nextAt = 0;
+                st.raf = requestAnimationFrame(frame);
+            },
+            stop: function (owner) {
+                if (st.cur === owner) st.talking = false;   /* mouth eases shut, then restores the image */
+            }
+        };
+    })();
+
     function playSound(soundId) {
         var audioElement = document.getElementById(soundId);
+        if (!audioElement) return;
         var profileImage = document.getElementById("profile-avatar");
-        if (audioElement && profileImage) {
-            if (!audioElement.src || audioElement.readyState < 2 || audioElement.duration === 0 || isNaN(audioElement.duration)) {
-                console.warn("Invalid or empty audio source.");
-                return;
-            }
-            profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.GIF";
-            audioElement.play();
-            audioElement.onended = function () {
-                profileImage.src = "https://tongchen779.github.io/dansk/images/young_man.png";
-            };
-        }
+
+        function done() { if (profileImage) Talk.stop(audioElement); }
+
+        /* play() must be called straight from the tap (mobile browsers block it otherwise),
+           and it also starts loading the file, so no readyState check is needed. */
+        audioElement.preload = "auto";
+        audioElement.currentTime = 0;
+        audioElement.onended = done;
+        audioElement.onerror = done;
+        audioElement.onpause = done;
+        audioElement.onplaying = function () { if (profileImage) Talk.start(profileImage, audioElement); };
+        var p = audioElement.play();
+        if (p && p.catch) p.catch(function (e) { console.warn("Audio failed:", e); done(); });
     }
 </script>
