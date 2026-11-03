@@ -11,6 +11,132 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/11/Episode-117.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 117 - Biblioteker </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om de danske biblioteker. Det er nemlig en rigtig god ressource at kende til, hvis man lærer dansk. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du finde ordlister og online læringsredskaber, downloade episoden og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo. Det koster kun 37 kr. i måneden at få adgang til bonusmaterialet.
+<br><br>
+Bibliotekerne spiller en meget vigtig rolle i Danmark. De danske biblioteker har til opgave at fremme viden, uddannelse og oplysning og afholde kulturelle aktiviteter. Derfor kan borgerne helt gratis finde bøger, tidsskrifter, musik, film og mange andre materialer på de danske biblioteker. Man kan også bruge bibliotekets computer til at gå på internettet. Bibliotekerne er en del af det danske velfærdssamfund, hvor tanken er, at alle mennesker skal have adgang til viden, uanset hvor meget de tjener, eller hvilken baggrund de har.
+<br><br>
+Når man taler om biblioteker i Danmark, tænker de fleste på folkebibliotekerne. Det er de biblioteker, som findes i landets kommuner, og som alle borgere kan bruge. Der findes mere end 240 kommunale folkebiblioteker rundt omkring i Danmark. Her kan man låne romaner, fagbøger, tegneserier, film, musik og spil. Mange biblioteker har også arbejdspladser, hvor man kan studere eller arbejde i rolige omgivelser. Nogle mennesker besøger biblioteket for at låne bøger, mens andre bruger biblioteket som et sted at læse, mødes eller arbejde.
+<br><br>
+De fleste danskere har på et tidspunkt haft et lånerkort til biblioteket. Det er gratis at blive oprettet som låner, og når man er registreret, kan man låne bøger og andre materialer med hjem. Ofte har biblioteket mange flere bøger på depotet, end dem du kan se på hylderne. Så kan du spørge om hjælp hos en bibliotekar til at bestille bogen. Hvis biblioteket ikke har den bog, man leder efter, kan man ofte bestille den fra et andet bibliotek i landet. De danske biblioteker arbejder nemlig tæt sammen. Derfor kan man få adgang til millioner af bøger og andre materialer, selv om de ikke står på hylden på ens lokale bibliotek.
+<br><br>
+En vigtig del af dette samarbejde er hjemmesiden Bibliotek.dk. Her kan man søge efter materialer fra biblioteker i hele landet. Hvis man finder en bog, som findes på et bibliotek langt væk, kan man bestille den og få den sendt til sit eget lokale bibliotek. På den måde fungerer de danske biblioteker næsten som ét stort bibliotek.
+<br><br>
+I dag handler biblioteker ikke kun om fysiske bøger. Meget af bibliotekernes arbejde foregår digitalt. Gennem appen ”eReolen” kan man låne e-bøger og lydbøger direkte på sin telefon, tablet eller computer. Mange danskere bruger eReolen til at lytte til bøger, mens de går en tur, cykler eller kører i tog. Bibliotekerne tilbyder også adgang til digitale aviser, databaser og andre elektroniske materialer.
+<br><br>
+Bibliotekerne har ændret sig meget gennem historien. Hvis vi går mange hundrede år tilbage, var bøger sjældne og dyre. I middelalderen fandtes bøger især i kirker, klostre og hos rige mennesker. Nogle bøger var så værdifulde, at de blev lænket fast til borde med kæder, så ingen kunne stjæle dem. Dengang havde almindelige mennesker næsten ingen adgang til bøger.
+<br><br>
+Efter Reformationen i år 1536 begyndte flere royale og folk i eliten at opbygge deres egne store bogsamlinger. Senere kom der læseforeninger og små lokale biblioteker. Men det var først i begyndelsen af 1900-tallet, at biblioteker for alvor blev tilgængelige for hele befolkningen.
+<br><br>
+Det store gennembrud var i år 1920, hvor Danmark fik sin første bibliotekslov. Loven skulle være med til at udbrede almindelig oplysning blandt befolkningen. Tanken var, at alle borgere skulle have adgang til viden og dermed bedre mulighed for at deltage aktivt i samfundet. Biblioteksloven var derfor en vigtig del af udviklingen af det danske demokrati.
+<br><br>
+Efter 1920 voksede bibliotekerne hurtigt. Der blev oprettet biblioteker over hele landet, og staten støttede udviklingen. Senere fik danskerne kortere arbejdstid og mere fritid, og flere mennesker begyndte at læse bøger. Bibliotekerne blev populære mødesteder, hvor mennesker kunne lære nyt og få adgang til information.
+<br><br>
+I dag er bibliotekerne faktisk de mest besøgte kulturinstitutioner i Danmark. Men moderne biblioteker er meget anderledes end tidligere. Før i tiden forventede man ofte, at der skulle være helt stille på biblioteket. I dag er mange biblioteker indrettet som kulturhuse, hvor der foregår mange forskellige aktiviteter. Der kan være børneteater, foredrag, læseklubber, koncerter, kreative workshops og kunstudstillinger. Derfor er der ofte mere liv og aktivitet på bibliotekerne end tidligere.
+<br><br>
+Ud over folkebibliotekerne findes der også forskningsbiblioteker. De fungerer anderledes end folkebibliotekerne. Mens folkebibliotekerne er lavet for alle borgere, er forskningsbibliotekerne især til forskere, undervisere og universitetsstuderende. Her finder man store samlinger af faglitteratur, videnskabelige tidsskrifter og databaser. Mange af materialerne er på engelsk og handler om meget specialiserede emner.
+<br><br>
+Et af de mest kendte forskningsbiblioteker er Det Kongelige Bibliotek. Det fungerer både som forskningsbibliotek og som Danmarks nationalbibliotek. Det betyder blandt andet, at biblioteket har ansvar for at indsamle og bevare det, der udgives i Danmark. På den måde kan fremtidige generationer også få adgang til den danske kulturarv. Selvom forskningsbibliotekerne primært er lavet til forskning og uddannelse, er de ofte åbne for offentligheden. Mange mennesker besøger dem for at læse, studere eller bruge deres samlinger.
+<br><br>
+For at få bibliotekerne til at fungere arbejder mange bibliotekarer hver dag med at hjælpe brugerne. En bibliotekar er ikke kun en person, der sætter bøger på plads. Bibliotekarer hjælper også med informationssøgning, digitale tjenester, arrangementer og vejledning. I dag har bibliotekarer ofte en universitetsuddannelse inden for informationsvidenskab, biblioteksvidenskab eller kulturformidling.
+<br><br>
+Mange biblioteker har også selvbetjente åbningstider. Det betyder, at man kan komme ind på biblioteket, selv når personalet er gået hjem. Man låser sig typisk ind med sit sundhedskort eller en app. Det giver borgerne mulighed for at bruge biblioteket tidligt om morgenen eller sent om aftenen.
+<br><br>
+Der findes også bogbusser i nogle dele af landet. En bogbus er simpelthen en bus, fuld af biblioteksbøger. Den kører rundt til mindre byer og landsbyer, der ikke har deres eget bibliotek. På den måde kan mennesker, der bor langt væk fra større byer, stadig låne bøger og bruge bibliotekets tilbud.
+<br><br>
+Hvis du bor i Danmark og lærer dansk, er biblioteket en fantastisk ressource. Du kan låne bøger på forskellige sprogniveauer, så du kan finde noget, der passer til dine sproglige færdigheder. Mange biblioteker har også bøger på andre sprog end dansk. Derudover arrangerer nogle biblioteker sprogcaféer, lektiecaféer og andre aktiviteter, hvor man kan øve dansk sammen med andre mennesker. Og det er stort set alt sammen helt gratis.
+<br><br>
+Det var alt for denne episode. Jeg håber du er blevet klogere på de danske biblioteker. Jeg synes det er en fantastisk tanke: at viden og information skal være tilgængelig for alle. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/10/Episode-116.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 116 - Digitalisering </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om digitalisering i Danmark. Jeg vil fortælle hvorfor Danmark er et af de mest digitaliserede lande i verden, hvad MitID og borger.dk er, og forklare begrebet ”digital tillid”. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du støtte podcasten, finde bonusmateriale og lytte til episoden uden reklamer.
+<br><br>
+Danmark er et af de mest digitaliserede lande i verden. Det betyder, at rigtig mange ting i hverdagen foregår på computeren eller telefonen. Man kan få sin post, betale sine regninger, tale med lægen og snakke med kommunen uden at forlade sit hjem. Og i FN’s store undersøgelse af digitalisering, ligger Danmark på førstepladsen. Undersøgelsen roser blandt andet Danmark for gode fælles digitale løsninger og for, at borgerne kan være med i demokratiet online.
+<br><br>
+Men hvordan blev Danmark så digitalt? For at forstå det skal vi tilbage til 1960’erne. På den tid arbejdede bankerne med pen og papir, og alle udregninger tog lang tid. I år 1963 tændte Danske Bank for en stor IBM-computer, som kunne regne renter og skrive regnskaber meget hurtigere end mennesker. Det var starten på en stor forandring. I slutningen af 1960’erne indså bankerne, at det ikke var smart, at alle havde hver deres computersystem. De begyndte derfor at samarbejde om nogle fælles løsninger. Og det samarbejde er en vigtig grund til, at danskerne tidligt blev trygge ved digitale løsninger.
+<br><br>
+I år 1983 kom Dankortet, som var danskernes første betalingskort. Dengang skulle kortet køres gennem en maskine, som man kaldte en fluesmækker. Navnet kom af den lyd, som maskinen lavede. Dankortet blev hurtigt meget populært, og i år 1999 blev det for første gang brugt til at handle i en webshop. Senere udviklede de danske banker deres egne apps til at betale regninger, og i år 2013 udviklede Danske Bank betalingsappen MobilePay. Nu kunne man sende penge til en ven ved at swipe på telefonen.
+<br><br>
+Digitalisering er dog ikke kun for bankerne. Den offentlige sektor har også digitaliseret meget. CPR-nummeret er naturligvis centralt for digitaliseringen, men det har jeg fortalt om i episode 94, så jeg vil ikke snakke mere om CPR-nummeret i denne episode.
+<br><br>
+En anden vigtig ting er MitID. MitID er danskernes digitale id, og det beviser, hvem du er på nettet. Du bruger det fx, når du skal logge ind i netbanken eller på borger.dk. MitID blev lanceret i år 2021 og erstattede et andet digitalt ID, der hed NemID.
+<br><br>
+En anden vigtig ting er e-Boks. e-Boks blev startet i år 2001, og i dag bruger omkring 5,4 millioner danskere det. Her kan man få sin digitale post fra banken, pensionsselskabet, forsikringsselskabet og fra det offentlige. Det kan for eksempel være lønsedler, information fra Skat eller et brev om en tid på sygehuset. Alle danskere over 15 år skal kunne modtage digital post fra det offentlige. Under særlige omstændigheder kan man dog søge om dispensation til at få lov at modtage sin post med et fysisk brev i stedet.
+<br><br>
+Så er der borger.dk. Det er den fælles hjemmeside for borgere og det offentlige, og den blev lanceret i år 2007. Her kan du finde guides om forskellige livssituationer, for eksempel hvad du skal gøre, når du flytter, eller når du bliver forælder. Du kan også logge ind og se dine egne oplysninger. Der findes også sundhed.dk, hvor man kan finde sundhedsinformation og se sine egne oplysninger fra sygehuset og lægen. Og siden år 2021 har danskerne kunnet vælge at have deres sundhedskort og kørekort i en app på telefonen.
+<br><br>
+Alt dette virker kun, fordi danskerne har stor tillid til staten og til de digitale systemer. I år 2025 svarede 83 procent af danskerne, at de har tillid til offentlige digitale løsninger. Tallene viser også, hvor langt Danmark er kommet. I år 2008 var 12 procent af danskerne slet ikke på internettet. I år 2026 var tallet 0 procent. 89 procent af danskerne bruger sociale medier. Og 68 procent af danskerne har brugt kunstig intelligens.
+<br><br>
+Men der er også udfordringer. Når så meget foregår online, bliver samfundet mere sårbart over for hacking og datalæk. Derfor arbejder det offentlige hele tiden med sikkerheden. Og så er der udfordringer for de danskere, som har svært ved det digitale, for eksempel nogle ældre mennesker.
+<br><br>
+Danmark har faktisk også givet verden en vigtig digital opfindelse. Det meget udbredte programmeringssprog, kaldet C++ er nemlig udviklet i Danmark. Det var Bjarne Stroustrup fra Aarhus, der i 1970’erne begyndte at udvikle sproget. I dag bruges C++ i rigtig mange computerprogrammer, for eksempel i spil, i biler og i store systemer, som du bruger hver dag. Så den digitale verden har også et lille stykke Aarhus i sig.
+<br><br>
+Men hvad så med det danske sprog i den digitale verden? Dansk er et lille sprog, og det betyder, at der er langt mindre dansk tekst på internettet end fx engelsk, spansk og fransk. Derfor er det vigtigt at lave gode danske ressourcer. Der findes for eksempel ordbøger og hjemmesider, hvor man frit kan slå danske ord op. Ordnet.dk er et godt eksempel, og her ligger Den Danske Ordbog. Hjemmesiden sproget.dk, som drives af Dansk Sprognævn, kan hjælpe med regler for stavning og grammatik. Der er også mange åbne data og sprogressourcer, som forskere og programmører kan bruge til at lave danske sprogmodeller og nye digitale værktøjer. Det hjælper både danskere og alle jer, der lærer dansk.
+<br><br>
+Og det bringer mig til noget, jeg har glædet mig til at fortælle jer om. Teknologi og fællesskab kan nemlig også mødes her på “Dansk i ørerne”. En af mine lyttere fra Aarhus har bygget et rigtig godt online læringsværktøj til podcasten, og han vil gerne bidrage til vores ”Dansk i ørerne”-fællesskab. Derfor kan alle podcastens guldlyttere på buymeacoff.ee/danskioererne bruge det nye online redskab. Det er et super godt redskab og jeg glæder mig til at høre, hvad I synes om det.
+<br><br>
+Værktøjet har mange gode muligheder. Først og fremmest kan du følge teksten, mens du hører episoden. Hvis der er et ord, du ikke forstår, kan du klikke på ordet og slå det op direkte på ordnet.dk. Du kan også oversætte teksten til engelsk, hvis du har brug for lidt ekstra hjælp. Du kan lave din egen ordliste med de ord, som er svære for dig, så du kan øve dem senere. Og så kan du øve din udtale, så du bliver mere sikker på at tale dansk. Du kan få 7 dages gratis prøveperiode som guldlytter, så du kan teste om det er noget for dig.
+<br><br>
+Det var alt for denne episode. Tusind tak fordi du lyttede med! Og særligt tak til Dzmitry, der har udviklet et rigtig godt læringsredskab til podcasten.
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/09/Episode-115.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 115 - Ombudsmanden </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om ombudsmanden. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du finde ordlister, downloade episoden og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo. Det koster kun 37 kr. i måneden at få adgang til bonusmaterialet.
+<br><br>
+Har du nogensinde følt dig uretfærdigt behandlet af en offentlig myndighed i Danmark, for eksempel kommunen eller Skat? Så findes der faktisk en særlig person, du kan klage til. Han hedder ombudsmanden, eller mere præcist Folketingets Ombudsmand. Ombudsmanden er en meget vigtig del af det danske demokrati, og hans opgave er at sørge for, at offentlige myndigheder følger loven og behandler borgerne ordentligt og retfærdigt.
+<br><br>
+Ombudsmanden bliver valgt af Folketinget, og han skal være uddannet jurist. Det er også Folketinget, der bestemmer, hvor meget ombudsmanden skal have i løn. Men selvom det er Folketinget, der vælger ombudsmanden, er han faktisk helt uafhængig i sit arbejde. Det betyder, at hverken Folketinget eller regeringen kan bestemme, hvilke sager ombudsmanden skal undersøge. Det er en meget vigtig regel, fordi ombudsmanden netop skal kunne kontrollere myndighederne uden at blive påvirket af politik.
+<br><br>
+Ombudsmandens arbejde går ud på tre ting. For det første behandler han klager fra borgere, som mener, at en myndighed har begået en fejl. For det andet kan han selv tage initiativ til at undersøge en myndighed, selv uden at have modtaget en klage. Og for det tredje fører han tilsyn med steder, hvor mennesker bor i kortere eller længere tid, uden selv at have valgt det. Det kan for eksempel være fængsler, psykiatriske afdelinger eller børnehjem. Her besøger ombudsmanden stederne for at sikre sig, at menneskerne, der bor der, bliver behandlet ordentligt.
+<br><br>
+Hvis ombudsmanden finder ud af, at en myndighed har lavet en fejl, kan han komme med kritik og opfordre myndigheden til at se på sagen igen. Men ombudsmanden kan faktisk ikke tvinge myndighederne til at rette fejlen. Han kan ikke afsige en dom, sådan som man kender det fra en retssal. I stedet er det op til myndigheden selv at vælge, om de vil følge ombudsmandens kritik. Historisk set har myndighederne næsten altid valgt at følge ombudsmandens anbefalinger, fordi hans ord betyder rigtig meget i det danske samfund.
+<br><br>
+Siden 2012 har ombudsmanden også haft et særligt børnekontor. Børnekontoret tager sig specielt af sager, der handler om børn. Det kan for eksempel være, hvis en kommune ikke følger reglerne, eller hvis et barn bliver dårligt behandlet af en offentlig institution. Både børn selv og voksne, der klager på vegne af et barn, kan henvende sig til børnekontoret. Kontoret besøger også børneinstitutioner og holder øje med, om Danmark overholder internationale regler om børns rettigheder, for eksempel FN’s Børnekonvention.
+<br><br>
+Det er værd at vide, at der faktisk findes to forskellige slags ombudsmænd i Danmark. Ud over Folketingets Ombudsmand findes der nemlig også Forbrugerombudsmanden, som blev oprettet i år 1975. De to institutioner har meget forskellige opgaver. Folketingets Ombudsmand kontrollerer den offentlige forvaltning, altså kommuner, regioner og statslige myndigheder. Forbrugerombudsmanden holder derimod øje med private virksomheder og sikrer, at de ikke snyder eller vildleder deres kunder, for eksempel gennem falsk reklame. En anden vigtig forskel er, at Forbrugerombudsmanden faktisk kan gå videre med en sag og starte en retssag. Det kan Folketingets Ombudsmand ikke.
+<br><br>
+Selve ordet “ombudsmand” er faktisk ikke oprindeligt dansk. Det stammer fra Sverige, hvor man allerede i år 1809 oprettede verdens allerførste ombudsmand. Danmark fulgte først efter mange år senere. Det blev bestemt i den danske grundlov fra 1953, at Danmark også skulle have en ombudsmand, og i år 1955 begyndte den første danske ombudsmand, som hed Stephan Hurwitz, sit arbejde. Siden da har konceptet spredt sig til hele verden, og i dag har over 100 lande deres egen ombudsmandsinstitution. Faktisk bruger mange sprog i verden det nordiske ord “ombudsman” direkte, uden at oversætte det, for eksempel engelsk, spansk og fransk.
+<br><br>
+Gennem årene har flere forskellige personer haft rollen som Folketingets Ombudsmand. Hans Gammeltoft-Hansen sad på posten fra 1987 til 2012. Han blev efterfulgt af Jørgen Steen Sørensen, der var ombudsmand indtil 2019, og derefter overtog Niels Fenger posten frem til 2024. I dag er det Christian Lundblad, som er Danmarks ombudsmand. Han startede i jobbet i år 2025.
+<br><br>
+Ombudsmandens arbejde stopper faktisk ikke ved Danmarks grænser. Institutionen samarbejder nemlig også internationalt. Ombudsmanden bruger for eksempel både dansk og international lovgivning, når han vurderer sager, herunder Den Europæiske Menneskerettighedskonvention og FN’s konventioner om børn og handicap. Derudover deler ombudsmanden jævnligt sin viden med internationale organisationer som FN og Europarådet, og han er en del af et stort europæisk netværk med over 95 lignende myndigheder fra 36 europæiske lande. Ombudsmanden har et særligt tæt samarbejde med de andre nordiske lande.
+<br><br>
+Selvom ombudsmanden altså oprindeligt er en svensk opfindelse, har Danmark været med til at gøre institutionen kendt i hele verden. Det var især den første ombudsmand, Stephan Hurwitz, der gjorde et meget stort stykke arbejde for at oplyse resten af verden om ombudsmandsordningen. Han rejste rundt, fortalte om sit arbejde, skrev akademiske artikler og holdt foredrag. I dag er ombudsmanden en fast og vigtig del af det danske demokrati og demokratier verden over.
+<br><br>
+Det var alt for denne episode. Jeg håber du er blevet klogere på konceptet ”ombudsmand”. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/09/Episode-114.wav"></audio> </td>
 <td> 
 <details>
