@@ -1,11 +1,10 @@
-<table>
+<table class="vocab">
+<colgroup><col style="width:17%"><col style="width:17%"><col style="width:19%"><col style="width:35%"><col style="width:12%"></colgroup>
 <tr>
   <th>Ental Ubestemt</th>
   <th>Udtale</th>
-  <th>Ental Bestemt</th>
-  <th>Flertal Ubestemt</th>
-  <th>Flertal Bestemt</th>
-  <th>Engelsk</th>
+  <th>Ental Bestemt<br>Flertal Ubestemt<br>Flertal Bestemt</th>
+  <th class="eng">Engelsk</th>
   <th>Gruppe</th>
 </tr>
 {% for e in include.entries %}
@@ -17,10 +16,8 @@
     <span onclick="playSound('{{ e.audio_id }}');" style="cursor:pointer;color:blue;">{{ e.ipa }}</span>
     {% else %}{{ e.ipa }}{% endif %}
   </td>
-  <td>{{ e.bestemt }}</td>
-  <td>{{ e.flertal_ubestemt }}</td>
-  <td>{{ e.flertal_bestemt }}</td>
-  <td>{{ e.engelsk }}</td>
+  <td class="bojning">{% if e.bojning %}{{ e.bojning }}{% else %}{{ e.bestemt }}, {{ e.flertal_ubestemt }}, {{ e.flertal_bestemt }}{% endif %}</td>
+  <td class="eng">{{ e.engelsk }}{% if e.kinesisk %}<br><span class="zh">{{ e.kinesisk }}</span>{% endif %}</td>
   <td>{{ e.gruppe }}</td>
 </tr>
 {% endfor %}

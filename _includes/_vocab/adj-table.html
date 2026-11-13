@@ -1,12 +1,11 @@
-<table>
+<table class="vocab">
+<colgroup><col style="width:16%"><col style="width:16%"><col style="width:19%"><col style="width:19%"><col style="width:30%"></colgroup>
 <tr>
   <th>N-form (ental)</th>
   <th>Udtale</th>
-  <th>T-form (ental)</th>
-  <th>E-form (flertal og bestemt form)</th>
-  <th>Komparativ (ental)</th>
-  <th>Superlativ (ental)</th>
-  <th>Engelsk</th>
+  <th>T-form (ental)<br>E-form (flertal og bestemt form)</th>
+  <th>Komparativ (ental)<br>Superlativ (ental)</th>
+  <th class="eng">Engelsk</th>
 </tr>
 {% for e in include.entries %}
 <tr>
@@ -17,11 +16,9 @@
     <span onclick="playSound('{{ e.audio_id }}');" style="cursor:pointer;color:blue;">{{ e.ipa }}</span>
     {% else %}{{ e.ipa }}{% endif %}
   </td>
-  <td>{{ e.t_form }}</td>
-  <td>{{ e.e_form }}</td>
-  <td>{{ e.komparativ }}</td>
-  <td>{{ e.superlativ }}</td>
-  <td>{{ e.engelsk }}</td>
+  <td class="bojning">{% if e.bojning %}{{ e.bojning }}{% else %}{{ e.t_form }}, {{ e.e_form }}{% endif %}</td>
+  <td class="bojning">{% if e.grad %}{{ e.grad }}{% else %}{{ e.komparativ }}, {{ e.superlativ }}{% endif %}</td>
+  <td class="eng">{{ e.engelsk }}{% if e.kinesisk %}<br><span class="zh">{{ e.kinesisk }}</span>{% endif %}</td>
 </tr>
 {% endfor %}
 </table>

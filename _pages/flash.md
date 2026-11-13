@@ -64,6 +64,8 @@ permalink: /flash/
     let isFlash     = true;          // true = show Flash, false = show Bingo
     let useBankOnly = false;
 
+    function zhJoin(w) { return w.engelsk + (w.kinesisk ? " · " + w.kinesisk : ""); }
+
     /* ── storage ── */
     function loadBank() {
         try { return JSON.parse(localStorage.getItem(BANK_KEY) || "[]"); }
@@ -153,7 +155,7 @@ permalink: /flash/
         document.getElementById("question").innerHTML = `
             <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayField === "dansk"   ? currentWord.dansk   : ""}</div>
             <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayField === "ipa"     ? currentWord.ipa     : ""}</div>
-            <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${displayField === "engelsk" ? currentWord.engelsk : ""}</div>
+            <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${displayField === "engelsk" ? zhJoin(currentWord) : ""}</div>
             <input type="text" id="answer" placeholder="Skriv dit svar" onmouseenter="this.select()">
         `;
         updateMarkButton();
@@ -169,7 +171,7 @@ permalink: /flash/
         document.getElementById("question").innerHTML = `
             <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.dansk}</div>
             <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${audioHTML}</div>
-            <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${currentWord.engelsk}</div>
+            <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${zhJoin(currentWord)}</div>
             <input type="text" id="answer" placeholder="Skriv dit svar">
         `;
         document.getElementById("answer").value = userAnswer;
@@ -244,7 +246,7 @@ permalink: /flash/
             return `<tr>
                 <td>${w.dansk}</td>
                 <td>${audioHTML}</td>
-                <td>${w.engelsk}</td>
+                <td>${zhJoin(w)}</td>
                 <td><button class="remove-btn" onclick="removeFromBank('${key}')" title="Fjern">✕</button></td>
             </tr>`;
         }).join("");

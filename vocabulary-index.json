@@ -5,17 +5,17 @@ permalink: /vocabulary-index.json
 [
 {%- comment %} Adjektiver {%- endcomment %}
 {% for e in site.data.vocabulary.adj %}
-  {"type":"adj","label":"Adjektiver","dansk":{{ e.dansk | jsonify }},"ipa":{{ e.ipa | jsonify }},"audio_id":{{ e.audio_id | jsonify }},"mp3":{{ e.mp3 | jsonify }},"engelsk":{{ e.engelsk | jsonify }},"extra":{{ e.t_form | jsonify }}}{% unless forloop.last %},{% endunless %}
+  {"type":"adj","label":"Adjektiver","dansk":{{ e.dansk | jsonify }},"ipa":{{ e.ipa | jsonify }},"audio_id":{{ e.audio_id | jsonify }},"mp3":{{ e.mp3 | jsonify }},"engelsk":{{ e.engelsk | jsonify }},"kinesisk":{{ e.kinesisk | default:"" | jsonify }},"extra":{{ e.t_form | jsonify }}}{% unless forloop.last %},{% endunless %}
 {% endfor %}
 ,
 {%- comment %} Substantiver {%- endcomment %}
 {% for e in site.data.vocabulary.sub %}
-  {"type":"sub","label":"Substantiver","dansk":{{ e.dansk | jsonify }},"ipa":{{ e.ipa | jsonify }},"audio_id":{{ e.audio_id | jsonify }},"mp3":{{ e.mp3 | jsonify }},"engelsk":{{ e.engelsk | jsonify }},"extra":{{ e.bestemt | jsonify }}}{% unless forloop.last %},{% endunless %}
+  {"type":"sub","label":"Substantiver","dansk":{{ e.dansk | jsonify }},"ipa":{{ e.ipa | jsonify }},"audio_id":{{ e.audio_id | jsonify }},"mp3":{{ e.mp3 | jsonify }},"engelsk":{{ e.engelsk | jsonify }},"kinesisk":{{ e.kinesisk | default:"" | jsonify }},"extra":{{ e.bestemt | jsonify }}}{% unless forloop.last %},{% endunless %}
 {% endfor %}
 ,
 {%- comment %} Verber {%- endcomment %}
 {% for e in site.data.vocabulary.verb %}
-  {"type":"verb","label":"Verber","dansk":{{ e.dansk | jsonify }},"ipa":{{ e.ipa | jsonify }},"audio_id":{{ e.audio_id | jsonify }},"mp3":{{ e.mp3 | jsonify }},"engelsk":{{ e.engelsk | jsonify }},"extra":{{ e.nutid | jsonify }}}{% unless forloop.last %},{% endunless %}
+  {"type":"verb","label":"Verber","dansk":{{ e.dansk | jsonify }},"ipa":{{ e.ipa | jsonify }},"audio_id":{{ e.audio_id | jsonify }},"mp3":{{ e.mp3 | jsonify }},"engelsk":{{ e.engelsk | jsonify }},"kinesisk":{{ e.kinesisk | default:"" | jsonify }},"extra":{{ e.nutid | jsonify }}}{% unless forloop.last %},{% endunless %}
 {% endfor %}
 ,
 {%- comment %} Adverbier {%- endcomment %}

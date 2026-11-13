@@ -49,7 +49,7 @@ permalink: /search/
             ? `<audio id="s_${e.audio_id}" preload="none" src="${e.mp3}" style="display:none;"></audio>` +
               `<span onclick="playSound('s_${e.audio_id}');" style="cursor:pointer;color:blue;">${e.ipa}</span>`
             : (e.ipa || "");
-        const eng  = highlightText(e.engelsk || "", term);
+        const eng  = highlightText(e.engelsk || "", term) + (e.kinesisk ? `<br><span class="zh">${highlightText(e.kinesisk, term)}</span>` : "");
         const ext  = highlightText(e.extra   || "", term);
         return `<tr><td>${dansk}</td><td>${ipa}</td><td>${eng}</td>${ext ? `<td>${ext}</td>` : ""}</tr>`;
     }
@@ -65,7 +65,7 @@ permalink: /search/
         const byType = {};
         for (const e of allWords) {
             if (!types.includes(e.type)) continue;
-            const searchText = (e.dansk + " " + e.engelsk + " " + (e.extra || "")).toLowerCase();
+            const searchText = (e.dansk + " " + e.engelsk + " " + (e.kinesisk || "") + " " + (e.extra || "")).toLowerCase();
             if (!searchText.includes(term)) continue;
             if (!byType[e.type]) byType[e.type] = { label: e.label, entries: [] };
             byType[e.type].entries.push(e);

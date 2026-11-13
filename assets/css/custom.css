@@ -319,15 +319,22 @@ h1, h2, h3, h4 { color: var(--ink); }
 #main table th {
   background: var(--surface-2);
   color: var(--muted);
-  font-size: .74rem;
+  font-size: .72rem;
   font-weight: 700;
-  letter-spacing: .06em;
+  letter-spacing: .03em;
   text-transform: uppercase;
   text-align: left;
-  white-space: nowrap;
 }
 #main table tr { transition: background .12s; }
 #main table tr:hover td { background: color-mix(in srgb, var(--accent-soft) 70%, transparent); }
+/* vocabulary tables: fixed column widths so they always fit the page; long words wrap inside their column */
+#main table.vocab { table-layout: fixed; }
+#main table.vocab td { overflow-wrap: anywhere; }
+#main table.vocab td:has(> span[onclick]) { font-size: .9em; }
+@media (max-width: 63.999em) {
+  #main table.vocab { table-layout: auto; min-width: 680px; }
+  #main table.vocab td.eng { min-width: 9rem; }
+}
 #main table td h1, #main table td h2, #main table td h3 {
   font-family: var(--font-head);
   font-size: 1.12rem;
@@ -374,6 +381,8 @@ h1, h2, h3, h4 { color: var(--ink); }
   #main .table-wrap.no-head td:first-child { width: 42%; }
   #main .table-wrap.no-head td audio { min-width: 0; width: 100%; }
 }
+
+.zh { color: var(--muted); font-size: .94em; }
 
 /* ---------- audio ---------- */
 audio { max-width: 100%; border-radius: 999px; vertical-align: middle; }
