@@ -25,6 +25,8 @@ permalink: /flash/
         align-items: center;
     }
     .flashcard div { width: 100%; text-align: left; margin-bottom: 8px; display: flex; }
+    .flashcard .fc-row { display: grid; grid-template-columns: 5.5rem 1fr; column-gap: .75rem; align-items: baseline; }
+    .flashcard .fc-row strong { white-space: nowrap; }
     .flashcard input { margin-top: 10px; text-align: center; display: block; width: 100%; }
 
     /* ── buttons ── */
@@ -63,6 +65,18 @@ permalink: /flash/
     let displayField = "";
     let isFlash     = true;          // true = show Flash, false = show Bingo
     let useBankOnly = false;
+
+    /* IPA as a clickable sound link (plain text if the word has no recording) */
+    function ipaHTML(w) {
+        if (!w.mp3) return w.ipa || "—";
+        return `<audio id="fc_${w.audio_id}" preload="none" src="${w.mp3}" style="display:none;"></audio>` +
+               `<span onclick="playSound('fc_${w.audio_id}');" style="cursor:pointer;color:blue;">${w.ipa}</span>`;
+    }
+
+    /* one label/value row; the label column has a fixed width so the colons line up */
+    function row(label, value) {
+        return `<div class="fc-row"><strong>${label}:</strong><span>${value}</span></div>`;
+    }
 
     function zhJoin(w) { return w.engelsk + (w.kinesisk ? " · " + w.kinesisk : ""); }
 
@@ -152,28 +166,22 @@ permalink: /flash/
         currentWord  = pool[Math.floor(Math.random() * pool.length)];
         const fields = ["dansk", "ipa", "engelsk"];
         displayField = fields[Math.floor(Math.random() * fields.length)];
-        document.getElementById("question").innerHTML = `
-            <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayField === "dansk"   ? currentWord.dansk   : ""}</div>
-            <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${displayField === "ipa"     ? currentWord.ipa     : ""}</div>
-            <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${displayField === "engelsk" ? zhJoin(currentWord) : ""}</div>
-            <input type="text" id="answer" placeholder="Skriv dit svar" onmouseenter="this.select()">
-        `;
+        document.getElementById("question").innerHTML =
+            row("Dansk",   displayField === "dansk"   ? currentWord.dansk       : "") +
+            row("Udtale",  displayField === "ipa"     ? ipaHTML(currentWord)    : "") +
+            row("Engelsk", displayField === "engelsk" ? zhJoin(currentWord)     : "") +
+            `<input type="text" id="answer" placeholder="Skriv dit svar" onmouseenter="this.select()">`;
         updateMarkButton();
     }
 
     function showAnswer() {
         if (!currentWord) return;
         const userAnswer = document.getElementById("answer")?.value || "";
-        const audioHTML  = currentWord.mp3
-            ? `<audio id="fc_${currentWord.audio_id}" preload="none" src="${currentWord.mp3}" style="display:none;"></audio>` +
-              `<span onclick="playSound('fc_${currentWord.audio_id}');" style="cursor:pointer;color:blue;">${currentWord.ipa}</span>`
-            : (currentWord.ipa || "—");
-        document.getElementById("question").innerHTML = `
-            <div><strong>Dansk:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${currentWord.dansk}</div>
-            <div><strong>Udtale:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong> ${audioHTML}</div>
-            <div><strong>Engelsk:&nbsp;&nbsp;&nbsp;</strong> ${zhJoin(currentWord)}</div>
-            <input type="text" id="answer" placeholder="Skriv dit svar">
-        `;
+        document.getElementById("question").innerHTML =
+            row("Dansk",   currentWord.dansk) +
+            row("Udtale",  ipaHTML(currentWord)) +
+            row("Engelsk", zhJoin(currentWord)) +
+            `<input type="text" id="answer" placeholder="Skriv dit svar">`;
         document.getElementById("answer").value = userAnswer;
         updateMarkButton();
     }
