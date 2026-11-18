@@ -475,13 +475,31 @@ tr.is-filtered-out { display: none !important; }
   border: 1px solid var(--line);
   border-radius: 20px;
   box-shadow: var(--shadow-lg);
-  padding: 2rem 1.75rem;
-  min-height: 260px;
+  padding: 1.75rem 1.75rem 1.5rem;
+  height: 17rem;                 /* fixed: the card never changes size between states */
+  min-height: 0;
   max-width: 640px;
   font-size: 1.1rem;
+  justify-content: flex-start;
+  align-items: stretch;
 }
+/* content column: always the same width, left edge and top position */
+#main .flashcard #question {
+  width: min(100%, 30rem);
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  overflow-y: auto;
+}
+#main .flashcard #question.is-msg { justify-content: center; align-items: center; text-align: center; }
+#main .flashcard #question input { margin-top: auto; flex: none; }   /* answer box pinned to the bottom */
 #main .flashcard strong { color: var(--muted); font-size: .78rem; text-transform: uppercase; letter-spacing: .08em; }
 #main .flashcard input { text-align: center; font-size: 1.05rem; }
+
+/* word bank heading + hint centred */
+#main #bankPanel h3, #main #bankPanel #emptyMsg { text-align: center; }
 
 #main #bankPanel table { font-size: .85rem; }
 #main #bankCount { color: var(--muted); }

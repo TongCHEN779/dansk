@@ -25,7 +25,7 @@ permalink: /flash/
         align-items: center;
     }
     .flashcard div { width: 100%; text-align: left; margin-bottom: 8px; display: flex; }
-    .flashcard .fc-row { display: grid; grid-template-columns: 5.5rem 1fr; column-gap: .75rem; align-items: baseline; }
+    .flashcard .fc-row { min-height: 3rem; display: grid; grid-template-columns: 5.5rem 1fr; column-gap: .75rem; align-items: center; margin-bottom: 0; }
     .flashcard .fc-row strong { white-space: nowrap; }
     .flashcard input { margin-top: 10px; text-align: center; display: block; width: 100%; }
 
@@ -76,6 +76,13 @@ permalink: /flash/
     /* one label/value row; the label column has a fixed width so the colons line up */
     function row(label, value) {
         return `<div class="fc-row"><strong>${label}:</strong><span>${value}</span></div>`;
+    }
+
+    /* every card state goes through here, so the card layout never jumps between states */
+    function setCard(html, isMessage) {
+        const q = document.getElementById("question");
+        q.innerHTML = html;
+        q.classList.toggle("is-msg", !!isMessage);
     }
 
     function zhJoin(w) { return w.engelsk + (w.kinesisk ? " · " + w.kinesisk : ""); }
@@ -158,30 +165,29 @@ permalink: /flash/
         await loadIndex();
         const pool = getPool();
         if (pool.length === 0) {
-            document.getElementById("question").innerHTML =
-                useBankOnly ? "Ingen ord i banken for valgte kategorier — tilføj ord med ★-knappen!"
-                            : "Ingen ord tilgængelige, tjek valg af kategori!";
+            setCard(useBankOnly ? "Ingen ord i banken for valgte kategorier — tilføj ord med ★-knappen!"
+                                : "Ingen ord tilgængelige, tjek valg af kategori!", true);
             return;
         }
         currentWord  = pool[Math.floor(Math.random() * pool.length)];
         const fields = ["dansk", "ipa", "engelsk"];
         displayField = fields[Math.floor(Math.random() * fields.length)];
-        document.getElementById("question").innerHTML =
+        setCard(
             row("Dansk",   displayField === "dansk"   ? currentWord.dansk       : "") +
             row("Udtale",  displayField === "ipa"     ? ipaHTML(currentWord)    : "") +
             row("Engelsk", displayField === "engelsk" ? zhJoin(currentWord)     : "") +
-            `<input type="text" id="answer" placeholder="Skriv dit svar" onmouseenter="this.select()">`;
+            `<input type="text" id="answer" placeholder="Skriv dit svar" onmouseenter="this.select()">`);
         updateMarkButton();
     }
 
     function showAnswer() {
         if (!currentWord) return;
         const userAnswer = document.getElementById("answer")?.value || "";
-        document.getElementById("question").innerHTML =
+        setCard(
             row("Dansk",   currentWord.dansk) +
             row("Udtale",  ipaHTML(currentWord)) +
             row("Engelsk", zhJoin(currentWord)) +
-            `<input type="text" id="answer" placeholder="Skriv dit svar">`;
+            `<input type="text" id="answer" placeholder="Skriv dit svar">`);
         document.getElementById("answer").value = userAnswer;
         updateMarkButton();
     }
@@ -226,9 +232,8 @@ permalink: /flash/
         currentWord = null;
         isFlash = true;
         document.getElementById("toggleButton").innerText = "Flash";
-        document.getElementById("question").innerHTML = useBankOnly
-            ? "Øver ord fra banken — klik »Flash« for at starte"
-            : "Klik på »Flash« for at starte";
+        setCard(useBankOnly ? "Øver ord fra banken — klik »Flash« for at starte"
+                            : "Klik på »Flash« for at starte", true);
         updateMarkButton();
     }
 
@@ -283,7 +288,7 @@ permalink: /flash/
 
 <!-- flashcard -->
 <div class="flashcard">
-    <p id="question">Klik på »Flash« for at starte</p>
+    <div id="question" class="is-msg">Klik på »Flash« for at starte</div>
 </div>
 
 <!-- action buttons -->
