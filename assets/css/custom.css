@@ -462,11 +462,16 @@ tr.is-filtered-out { display: none !important; }
   background: var(--surface);
   border: 1px solid var(--line);
   border-radius: 999px;
-  padding: .35rem .95rem;
+  padding: .18rem .5rem;
+  font-size: .7rem;             /* about half the previous size */
+  line-height: 1.4;
   cursor: pointer;
   user-select: none;
   transition: border-color .15s, background .15s;
 }
+#main .checkbox-container { gap: .5rem; }
+#main .checkbox-container label { gap: .3rem; }
+#main .checkbox-container input[type="checkbox"] { width: .6rem; height: .6rem; margin: 0; }
 .checkbox-container label:hover { border-color: var(--accent); }
 .checkbox-container label:has(input:checked) { background: var(--accent-soft); border-color: var(--accent); color: var(--accent-ink); }
 
