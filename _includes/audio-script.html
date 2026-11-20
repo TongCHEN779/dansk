@@ -5,8 +5,9 @@
        avatar image; the image itself is never resized or swapped. */
     var Talk = (function () {
         /* all values are fractions of the source image */
-        var MX = 0.56, HW = 0.17;                  /* mouth centre x, half-width of the affected area */
-        var Y_TOP = 0.640, Y_LIP = 0.676, Y_END = 0.745, Y_FIX = 0.648;  /* area top, lower lip, area bottom, upper lip (stays) */
+        /* measured on images/young_man_lines.png (the portrait cropped to the figure) */
+        var MX = 0.568, HW = 0.199;                /* mouth centre x, half-width of the affected area */
+        var Y_TOP = 0.633, Y_LIP = 0.670, Y_END = 0.741, Y_FIX = 0.641;  /* area top, lower lip, area bottom, upper lip (stays) */
         var MAX_DROP = 0.04;                       /* lower-lip travel, as a fraction of image height */
         var COLS = 18, ROWS = 26;
 

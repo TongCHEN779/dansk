@@ -69,9 +69,8 @@ h1, h2, h3, h4 { color: var(--ink); }
   position: sticky;
   top: 0;
   z-index: 50;
-  background: color-mix(in srgb, var(--bg) 82%, transparent);
-  -webkit-backdrop-filter: saturate(1.4) blur(14px);
-  backdrop-filter: saturate(1.4) blur(14px);
+  /* opaque on purpose: the avatar's multiply/screen blend needs a solid background inside the bar */
+  background: var(--bg);
   border-bottom: 1px solid var(--line);
   transition: box-shadow .2s, background .25s;
 }
@@ -101,8 +100,8 @@ h1, h2, h3, h4 { color: var(--ink); }
 .greedy-nav .visible-links a {
   font-size: .92rem;
   font-weight: 500;
-  padding: .45rem .85rem;
-  margin: 0 .1rem;
+  padding: .45rem .6rem;
+  margin: 0 .05rem;
   border-radius: 999px;
   color: var(--muted);
   transition: background .15s, color .15s;
@@ -128,18 +127,21 @@ h1, h2, h3, h4 { color: var(--ink); }
 #main { max-width: 1440px; padding-top: 1.5rem; }
 .initial-content { min-height: 70vh; }
 
-.sidebar .author__avatar img,
-.sidebar .author__avatar canvas.talk-canvas {
-  width: 112px; height: auto;
+/* avatar: sits to the right of the site title in the masthead */
+.masthead .masthead__avatar,
+.masthead canvas.talk-canvas {
+  height: 2.5rem; width: auto;
+  margin: 0 0 0 .7rem;
   border: 0; border-radius: 0; box-shadow: none; padding: 0;
   background: none;
-  /* the portrait has a white fill: multiply makes the white vanish so only the lines show */
-  mix-blend-mode: multiply;
+  /* images/young_man_lines.png is the portrait with the white fill removed: dark pencil lines on transparency */
 }
-:root[data-theme="dark"] .sidebar .author__avatar img,
-:root[data-theme="dark"] .sidebar .author__avatar canvas.talk-canvas { filter: invert(1) brightness(2.6); mix-blend-mode: screen; }
-.sidebar .author__avatar img { transition: transform .3s; }
-.sidebar .author__avatar img:hover { transform: rotate(-4deg) scale(1.04); }
+.masthead canvas.talk-canvas { pointer-events: none; }
+:root[data-theme="dark"] .masthead .masthead__avatar,
+:root[data-theme="dark"] .masthead canvas.talk-canvas { filter: invert(1) brightness(1.6); }   /* light lines on the dark bar */
+.masthead .masthead__avatar { transition: transform .3s; }
+.greedy-nav .site-title:hover .masthead__avatar { transform: rotate(-5deg) scale(1.06); }
+@media (max-width: 40em) { .masthead .masthead__avatar { height: 2.1rem; margin-left: .45rem; } }
 
 @media (min-width: 64em) {
   .sidebar.sticky {
@@ -151,18 +153,13 @@ h1, h2, h3, h4 { color: var(--ink); }
     scrollbar-width: thin;
     scrollbar-color: var(--line) transparent;
   }
-  .sidebar .author__avatar { margin-bottom: .5rem; }
-  .sidebar .author__avatar img { width: 120px; height: auto; }
-}
-@media (max-width: 63.999em) {
-  .sidebar .author__avatar { text-align: left; }
-  .sidebar .author__avatar img { width: 72px; height: auto; }
 }
 
-.author__urls-wrapper { margin-bottom: .5rem; }
-.author__urls.social-icons a, .author__urls.social-icons li { color: var(--muted); }
-.author__urls.social-icons a:hover { color: var(--accent); }
-.author__urls, .author__urls.social-icons { background: transparent !important; border: 0 !important; box-shadow: none !important; padding-left: 0; }
+/* pages without any sidebar content (home, search, flash): the content uses the full width */
+#main.no-sidebar .sidebar { display: none; }
+@media (min-width: 64em) {
+  #main.no-sidebar .archive, #main.no-sidebar .page { float: none; width: 100%; padding-right: 0; margin-right: 0; }
+}
 
 /* ---------- sidebar navigation ---------- */
 .nav__list { margin-bottom: 1rem; }
@@ -215,7 +212,6 @@ h1, h2, h3, h4 { color: var(--ink); }
   height: auto;
   border-radius: var(--radius-sm);
 }
-#main .author__avatar img { border-radius: 50%; }
 
 /* hero images on the front page */
 /* sheet-music pages: full-width page-turning viewer (built by custom.js) */

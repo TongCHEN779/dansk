@@ -21,6 +21,11 @@ main:
   - title: "<i class='fas fa-bolt'></i>"
     url: /flash/
 
+  - title: "<i class='fas fa-coffee'></i>"
+    url: https://buymeacoffee.com/dansk
+    description: "Buy Me a Coffee"
+    target: _blank
+
 ord_og_gram:
   - title: "Ordforråd og Grammatik"
     children:

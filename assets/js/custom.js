@@ -29,6 +29,7 @@
     var path = location.pathname.replace(/index\.html$/, '');
     function norm(a) { try { return new URL(a.href, location.href).pathname.replace(/index\.html$/, ''); } catch (e) { return ''; } }
     $$('.greedy-nav .visible-links a, .greedy-nav .hidden-links a').forEach(function (a) {
+      if (a.origin !== location.origin) return;           /* external links (coffee) are never "current" */
       var p = norm(a);
       var section = p.replace(/\/main\/$/, '/');
       if (p === path || (section !== p && path.indexOf(section) === 0)) {
@@ -227,7 +228,14 @@
     else window.addEventListener('resize', set);
   }
 
+  /* a sidebar with no menu in it is dropped, so the page content can use the full width */
+  function markSidebar() {
+    var main = $('#main'), sb = $('.sidebar');
+    if (main && sb && !sb.querySelector('.nav__list, .toc, nav, a, img')) main.classList.add('no-sidebar');
+  }
+
   function init() {
+    markSidebar();
     syncHeadHeight();
     markActive();
     wrapTables();
