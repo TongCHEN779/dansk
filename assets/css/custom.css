@@ -205,6 +205,9 @@ h1, h2, h3, h4 { color: var(--ink); }
 .archive { padding-bottom: 3rem; }
 .page__title, .archive__item-title { font-family: var(--font-head); }
 .page__content p, .archive p { max-width: 75ch; }
+/* search page: the box sits in its own <p>; keep it centred under the filter chips */
+.archive p:has(> #searchInput) { max-width: none; }
+#main #searchInput { display: block; width: min(100%, 44rem); margin: .4rem auto .9rem; }
 .page__content p[align="center"], .archive p[align="center"] { max-width: none; }
 
 #main img {
