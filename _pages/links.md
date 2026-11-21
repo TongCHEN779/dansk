@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /links/
+classes: wide links-page
 ---
 
 # Bibliotek
