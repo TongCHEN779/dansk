@@ -150,14 +150,18 @@ permalink: /flash/
         return ["adj","sub","verb"].filter(t => document.getElementById(t).checked);
     }
 
+    /* level filter: words without a level tag (old bank entries) are never excluded */
+    function getCheckedLevels() {
+        return ["A1-A2","B1-B2"].filter((l, i) => document.getElementById(i ? "lvB" : "lvA").checked);
+    }
+    function levelOk(w) { return !w.niveau || getCheckedLevels().includes(w.niveau); }
+
     function getPool() {
-        if (useBankOnly) {
-            const bank = loadBank();
-            const types = getCheckedTypes();
-            return bank.filter(w => types.includes(w.type));
-        }
         const types = getCheckedTypes();
-        return allWords.filter(e => types.includes(e.type));
+        if (useBankOnly) {
+            return loadBank().filter(w => types.includes(w.type) && levelOk(w));
+        }
+        return allWords.filter(e => types.includes(e.type) && levelOk(e));
     }
 
     /* ── flashcard ── */
@@ -272,6 +276,10 @@ permalink: /flash/
 </script>
 
 <!-- category checkboxes -->
+<div class="checkbox-container" id="levelRow">
+    <label><input type="checkbox" id="lvA" checked> A1-A2 </label>
+    <label><input type="checkbox" id="lvB" checked> B1-B2 </label>
+</div>
 <div class="checkbox-container">
     <label><input type="checkbox" id="adj"  checked> Adjektiver </label>
     <label><input type="checkbox" id="sub"  checked> Substantiver </label>

@@ -21,6 +21,10 @@ main:
   - title: "<i class='fas fa-bolt'></i>"
     url: /flash/
 
+  - title: "<i class='fas fa-trophy'></i>"
+    url: /leaderboard/
+    description: "Leaderboard"
+
   - title: "<i class='fas fa-coffee'></i>"
     url: https://buymeacoffee.com/dansk
     description: "Buy Me a Coffee"

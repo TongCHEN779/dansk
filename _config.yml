@@ -68,6 +68,15 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true # true, false (default)
+
+# Leaderboard (_pages/leaderboard.md)
+# Empty: scores are kept in each visitor's own browser only.
+# To share one leaderboard between all visitors, create a free Firebase Realtime Database
+# (Rules: allow read/write on "leaderboard") and paste its URL here, e.g.
+#   endpoint: "https://your-project-default-rtdb.europe-west1.firebasedatabase.app"
+leaderboard:
+  endpoint               : ""
+
 search                   : false # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : lunr # lunr (default), algolia, google
