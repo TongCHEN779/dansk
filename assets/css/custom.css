@@ -477,7 +477,7 @@ tr.is-filtered-out { display: none !important; }
 }
 #main .checkbox-container { gap: .5rem; }
 #main .checkbox-container label { gap: .3rem; }
-#main .checkbox-container input[type="checkbox"] { width: .6rem; height: .6rem; margin: 0; }
+#main .checkbox-container input[type="checkbox"], #main .checkbox-container input[type="radio"] { width: .6rem; height: .6rem; margin: 0; }
 .checkbox-container label:hover { border-color: var(--accent); }
 .checkbox-container label:has(input:checked) { background: var(--accent-soft); border-color: var(--accent); color: var(--accent-ink); }
 

@@ -36,6 +36,7 @@ classes: wide lb-page
     /* ── boards ── */
     .lb-boards { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; margin-top: 1rem; max-width: 60rem; margin-left: auto; margin-right: auto; }
     @media (max-width: 40em) { .lb-boards { grid-template-columns: 1fr; } }
+    .lb-boards[hidden], .lb-scope[hidden] { display: none !important; }
     .lb-boards h2 { text-align: center; margin: 0 0 .5rem; }
     .lb-boards table { margin: 0; }
     .lb-boards td.rank { width: 2.6rem; text-align: center; }
@@ -48,8 +49,8 @@ classes: wide lb-page
     <p class="lb-intro" id="lbIntro">Vælg niveau, skriv dit navn og start. Højst 3 fejl – 10 sekunder pr. spørgsmål.</p>
 
     <div class="checkbox-container" id="lbLevels">
-        <label><input type="checkbox" id="lvA" checked> A1-A2 </label>
-        <label><input type="checkbox" id="lvB" checked> B1-B2 </label>
+        <label><input type="radio" name="lbLevel" id="lvA" checked> A1-A2 </label>
+        <label><input type="radio" name="lbLevel" id="lvB"> B1-B2 </label>
     </div>
 
     <div class="lb-start" id="lbStart">
@@ -75,7 +76,7 @@ classes: wide lb-page
     </div>
 </div>
 
-<div class="lb-boards">
+<div class="lb-boards" id="lbBoards" hidden>
     <div>
         <h2>A1-A2</h2>
         <table id="lbBoardA"><thead><tr><th>#</th><th>Navn</th><th>Point</th></tr></thead><tbody></tbody></table>
@@ -85,7 +86,7 @@ classes: wide lb-page
         <table id="lbBoardB"><thead><tr><th>#</th><th>Navn</th><th>Point</th></tr></thead><tbody></tbody></table>
     </div>
 </div>
-<p class="lb-scope" id="lbScope"></p>
+<p class="lb-scope" id="lbScope" hidden></p>
 
 <script>
     const INDEX_URL   = "/dansk/vocabulary-index.json";
@@ -107,7 +108,7 @@ classes: wide lb-page
     let playerName = "", playedLevels = [];
     let timerId = null, deadline = 0, nextId = null;
 
-    const $ = id => document.getElementById(id);
+    const byId = id => document.getElementById(id);
 
     /* ── helpers ── */
     function shuffle(a) {
@@ -118,12 +119,12 @@ classes: wide lb-page
         return a;
     }
     function setMsg(t, kind) {
-        const m = $("lbMsg");
+        const m = byId("lbMsg");
         m.textContent = t || "";
         m.style.color = kind === "err" ? "var(--lb-bad)" : "";
     }
     function checkedLevels() {
-        return ["A1-A2", "B1-B2"].filter((l, i) => $(i ? "lvB" : "lvA").checked);
+        return ["A1-A2", "B1-B2"].filter((l, i) => byId(i ? "lvB" : "lvA").checked);
     }
 
     async function loadWords() {
@@ -169,8 +170,8 @@ classes: wide lb-page
     /* ── game flow ── */
     async function lbStart() {
         if (running) return;
-        const name = $("lbName").value.trim();
-        if (!name) { setMsg("Skriv et brugernavn først.", "err"); $("lbName").focus(); return; }
+        const name = byId("lbName").value.trim();
+        if (!name) { setMsg("Skriv et brugernavn først.", "err"); byId("lbName").focus(); return; }
         const levels = checkedLevels();
         if (!levels.length) { setMsg("Vælg mindst ét niveau.", "err"); return; }
         setMsg("Henter ord …");
@@ -182,18 +183,18 @@ classes: wide lb-page
         total = pool.length; score = 0; mistakes = 0; asked = 0;
         running = true;
         setMsg("");
-        $("lbStart").hidden = true; $("lbEnd").hidden = true; $("lbCard").hidden = false;
-        $("lbIntro").hidden = true;
-        $("lvA").disabled = $("lvB").disabled = true;
+        byId("lbStart").hidden = true; byId("lbEnd").hidden = true; byId("lbCard").hidden = false;
+        byId("lbIntro").hidden = true; byId("lbBoards").hidden = true; byId("lbScope").hidden = true;
+        byId("lvA").disabled = byId("lvB").disabled = true;
         nextQuestion();
     }
 
     function renderLives() {
         let s = "";
         for (let i = 0; i < MAX_MISTAKES; i++) s += i < MAX_MISTAKES - mistakes ? "♥" : "♡";
-        $("lbLives").textContent = s;
-        $("lbScore").textContent = "Point: " + score;
-        $("lbLeft").textContent = (total - asked) + " tilbage";
+        byId("lbLives").textContent = s;
+        byId("lbScore").textContent = "Point: " + score;
+        byId("lbLeft").textContent = (total - asked) + " tilbage";
     }
 
     function nextQuestion() {
@@ -203,11 +204,11 @@ classes: wide lb-page
         while (pool.length && !q) { q = buildQuestion(pool.pop()); asked++; }     // a word that cannot get 3 distractors is skipped
         if (!q) return finish(true);
         cur = q; locked = false;
-        $("lbTag").textContent = q.tag;
-        $("lbPrompt").textContent = q.prompt;
-        $("lbFeedback").textContent = "";
-        $("lbFeedback").style.color = "";
-        const box = $("lbOptions");
+        byId("lbTag").textContent = q.tag;
+        byId("lbPrompt").textContent = q.prompt;
+        byId("lbFeedback").textContent = "";
+        byId("lbFeedback").style.color = "";
+        const box = byId("lbOptions");
         box.innerHTML = "";
         q.options.forEach((t, i) => {
             const b = document.createElement("button");
@@ -225,7 +226,7 @@ classes: wide lb-page
     function startTimer() {
         clearInterval(timerId);
         deadline = Date.now() + TIME_MS;
-        const bar = $("lbTimerBar");
+        const bar = byId("lbTimerBar");
         const tick = () => {
             const left = Math.max(0, deadline - Date.now());
             bar.style.transform = "scaleX(" + (left / TIME_MS) + ")";
@@ -244,7 +245,7 @@ classes: wide lb-page
         const btns = [...document.querySelectorAll("#lbOptions .lb-opt")];
         btns.forEach(b => b.disabled = true);
         btns[cur.answer].classList.add("is-correct");
-        const fb = $("lbFeedback");
+        const fb = byId("lbFeedback");
         if (ok) {
             score++;
             fb.textContent = "Rigtigt!";
@@ -268,13 +269,13 @@ classes: wide lb-page
     async function finish(cleared) {
         running = false; locked = true;
         clearInterval(timerId); clearTimeout(nextId);
-        $("lbCard").hidden = true; $("lbEnd").hidden = false;
-        $("lbEndTitle").textContent = cleared ? "Du har klaret alle ord!" : "Spillet er slut";
-        $("lbEndScore").textContent = score + " point";
-        $("lbEndInfo").textContent = "Gemmer …";
+        byId("lbCard").hidden = true; byId("lbEnd").hidden = false;
+        byId("lbEndTitle").textContent = cleared ? "Du har klaret alle ord!" : "Spillet er slut";
+        byId("lbEndScore").textContent = score + " point";
+        byId("lbEndInfo").textContent = "Gemmer …";
         let info = [];
         if (score === 0) {                                   // nothing to rank
-            $("lbEndInfo").textContent = playerName + " – ingen point, resultatet gemmes ikke.";
+            byId("lbEndInfo").textContent = playerName + " – ingen point, resultatet gemmes ikke.";
             renderBoards(playerName);
             return;
         }
@@ -285,13 +286,13 @@ classes: wide lb-page
                 info.push(level + ": " + (rank ? "plads " + rank : "ikke på top " + TOP_N));
             } catch (e) { info.push(level + ": kunne ikke gemme"); }
         }
-        $("lbEndInfo").textContent = playerName + " – " + info.join(" · ");
+        byId("lbEndInfo").textContent = playerName + " – " + info.join(" · ");
         renderBoards(playerName);
     }
 
     function lbReset() {
-        $("lbEnd").hidden = true; $("lbStart").hidden = false; $("lbIntro").hidden = false;
-        $("lvA").disabled = $("lvB").disabled = false;
+        byId("lbEnd").hidden = true; byId("lbStart").hidden = false; byId("lbIntro").hidden = false;
+        byId("lvA").disabled = byId("lvB").disabled = false;
         setMsg("");
     }
 
@@ -353,10 +354,11 @@ classes: wide lb-page
                 const c = r.insertCell(); c.className = "pts"; c.textContent = x.score;
             });
         }
-        $("lbScope").textContent = REMOTE_URL ? "" : "Listen gemmes kun i denne browser.";
+        byId("lbScope").textContent = REMOTE_URL ? "" : "Listen gemmes kun i denne browser.";
+        byId("lbBoards").hidden = false; byId("lbScope").hidden = !byId("lbScope").textContent;
     }
 
-    try { $("lbName").value = localStorage.getItem(NAME_KEY) || ""; } catch (e) {}
-    $("lbName").addEventListener("keydown", e => { if (e.key === "Enter") lbStart(); });
-    renderBoards();
+    try { byId("lbName").value = localStorage.getItem(NAME_KEY) || ""; } catch (e) {}
+    byId("lbName").addEventListener("keydown", e => { if (e.key === "Enter") lbStart(); });
+
 </script>
