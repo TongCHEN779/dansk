@@ -42,6 +42,8 @@ classes: wide lb-page
     .lb-boards td.rank { width: 2.6rem; text-align: center; }
     .lb-boards td.pts { width: 4rem; text-align: right; font-weight: 700; }
     .lb-boards tr.me td { font-weight: 700; }
+    .archive .lb-view { text-align: center; max-width: none; margin: 0 0 .4rem; }
+    .lb-view a { cursor: pointer; font-weight: 600; }
     .lb-scope { text-align: center; font-size: .8em; margin-top: 1rem; }
 </style>
 
@@ -75,6 +77,8 @@ classes: wide lb-page
         <button onclick="lbReset()">Spil igen</button>
     </div>
 </div>
+
+<p class="lb-view"><a href="#lbBoards" id="lbViewBoards" role="button">Se topliste</a></p>
 
 <div class="lb-boards" id="lbBoards" hidden>
     <div>
@@ -184,7 +188,7 @@ classes: wide lb-page
         running = true;
         setMsg("");
         byId("lbStart").hidden = true; byId("lbEnd").hidden = true; byId("lbCard").hidden = false;
-        byId("lbIntro").hidden = true; byId("lbBoards").hidden = true; byId("lbScope").hidden = true;
+        byId("lbIntro").hidden = true; byId("lbBoards").hidden = true; byId("lbScope").hidden = true; byId("lbViewBoards").textContent = "Se topliste";
         byId("lvA").disabled = byId("lvB").disabled = true;
         nextQuestion();
     }
@@ -351,8 +355,18 @@ classes: wide lb-page
             });
         }
         byId("lbScope").textContent = REMOTE_URL ? "" : "Listen gemmes kun i denne browser.";
-        byId("lbBoards").hidden = false; byId("lbScope").hidden = !byId("lbScope").textContent;
+        byId("lbBoards").hidden = false; byId("lbScope").hidden = !byId("lbScope").textContent; byId("lbViewBoards").textContent = "Skjul topliste";
     }
+
+    /* "Se topliste": show or hide the boards at any time (they also open by themselves when a game ends) */
+    byId("lbViewBoards").addEventListener("click", async e => {
+        e.preventDefault();
+        const box = byId("lbBoards");
+        if (!box.hidden) { box.hidden = true; byId("lbScope").hidden = true; byId("lbViewBoards").textContent = "Se topliste"; return; }
+        await renderBoards(playerName);
+        byId("lbViewBoards").textContent = "Skjul topliste";
+        box.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
 
     try { byId("lbName").value = localStorage.getItem(NAME_KEY) || ""; } catch (e) {}
     byId("lbName").addEventListener("keydown", e => { if (e.key === "Enter") lbStart(); });

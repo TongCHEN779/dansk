@@ -55,6 +55,7 @@
 
         function draw() {
             var c = st.canvas, g = c.getContext("2d"), im = st.src;
+            g.imageSmoothingEnabled = true; g.imageSmoothingQuality = "high";
             var iw = im.naturalWidth, ih = im.naturalHeight, cw = c.width, ch = c.height;
             var s = Math.max(cw / iw, ch / ih), dw = iw * s, dh = ih * s;
             var dx = (cw - dw) / 2, dy = (ch - dh) / 2;
