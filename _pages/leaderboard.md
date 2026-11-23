@@ -321,21 +321,17 @@ classes: wide lb-page
             localStorage.setItem(LOCAL_KEY + key, JSON.stringify(list));
         }
     }
+    /* every finished game is its own row (the same name may appear several times);
+       highest score first, earlier result first on a tie; only the top 10 are kept */
     function topEntries(list) {
-        const best = new Map();                       // one row per user name: the best score
-        list.forEach(x => {
-            const k = x.name.toLowerCase();
-            const o = best.get(k);
-            if (!o || x.score > o.score) best.set(k, x);
-        });
-        return [...best.values()].sort((a, b) => b.score - a.score || a.t - b.t).slice(0, TOP_N);
+        return list.slice().sort((a, b) => b.score - a.score || a.t - b.t).slice(0, TOP_N);
     }
-    /* returns the rank (1-based) or 0 if the score did not make the list */
+    /* returns the rank (1-based) of this very result, or 0 if it did not make the list */
     async function submitScore(key, name, sc) {
-        const entry = { name, score: sc, t: Date.now() };
+        const entry = { name, score: sc, t: Date.now() + Math.random() };     // unique timestamp, even for two equal results
         const next  = topEntries([...(await loadBoard(key)), entry]);
         await saveBoard(key, next);
-        const i = next.findIndex(x => x.name.toLowerCase() === name.toLowerCase() && x.score === sc);
+        const i = next.findIndex(x => x.t === entry.t);
         return i < 0 ? 0 : i + 1;
     }
 

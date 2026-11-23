@@ -164,6 +164,28 @@ permalink: /flash/
         return allWords.filter(e => types.includes(e.type) && levelOk(e));
     }
 
+    /* Sampling without replacement: the current selection is shuffled once and dealt card by card;
+       only when every word has been shown is it shuffled again. Changing the selection
+       (levels, word types, bank mode, bank contents) starts a fresh deck. */
+    let deck = [], deckSig = "";
+    function drawWord(pool) {
+        const sig = [useBankOnly, getCheckedTypes().join(), getCheckedLevels().join(), pool.length].join("|");
+        if (sig !== deckSig || deck.length === 0) {
+            const last = currentWord;
+            deck = pool.slice();
+            for (let i = deck.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [deck[i], deck[j]] = [deck[j], deck[i]];
+            }
+            /* a new round must not start with the card that just ended the previous one */
+            if (deckSig === sig && last && deck.length > 1 && bankKey(deck[deck.length - 1]) === bankKey(last)) {
+                [deck[0], deck[deck.length - 1]] = [deck[deck.length - 1], deck[0]];
+            }
+            deckSig = sig;
+        }
+        return deck.pop();
+    }
+
     /* ── flashcard ── */
     async function generateFlashCard() {
         await loadIndex();
@@ -173,7 +195,7 @@ permalink: /flash/
                                 : "Ingen ord tilgængelige, tjek valg af kategori!", true);
             return;
         }
-        currentWord  = pool[Math.floor(Math.random() * pool.length)];
+        currentWord  = drawWord(pool);
         const fields = ["dansk", "ipa", "engelsk"];
         displayField = fields[Math.floor(Math.random() * fields.length)];
         setCard(

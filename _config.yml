@@ -75,7 +75,7 @@ atom_feed:
 # (Rules: allow read/write on "leaderboard") and paste its URL here, e.g.
 #   endpoint: "https://your-project-default-rtdb.europe-west1.firebasedatabase.app"
 leaderboard:
-  endpoint               : ""
+  endpoint               : "https://danish-leaderboard-default-rtdb.europe-west1.firebasedatabase.app"
 
 search                   : false # true, false (default)
 search_full_content      : true # true, false (default)
