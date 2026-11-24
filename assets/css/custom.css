@@ -445,7 +445,12 @@ tr.is-filtered-out { display: none !important; }
   cursor: pointer;
   transition: transform .12s, background .15s, border-color .15s, color .15s, box-shadow .15s;
 }
-#main button:hover:not(:disabled), .btn:hover { background: var(--accent-soft); border-color: var(--accent); color: var(--accent-ink); transform: translateY(-1px); }
+/* hover colours only where a real pointer exists: on touch screens :hover sticks to whatever is under the finger,
+   so after a tap the next quiz option (rendered in the same place) would show up tinted red */
+@media (hover: hover) {
+  #main button:hover:not(:disabled), .btn:hover { background: var(--accent-soft); border-color: var(--accent); color: var(--accent-ink); transform: translateY(-1px); }
+}
+#main button { -webkit-tap-highlight-color: transparent; }
 #main button:active:not(:disabled) { transform: translateY(0); }
 #main button:disabled { opacity: .45; cursor: not-allowed; box-shadow: none; }
 #main #markBtn.marked { background: #fff3cd; border-color: #f0ad4e; color: #7a5200; }
