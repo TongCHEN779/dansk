@@ -113,6 +113,32 @@
     });
   }
 
+  /* ---- listening lists: centre the audio bar on the episode TITLE only ----
+     Rows are  [audio | <details><summary>title</summary> long text …</details> | link].
+     The title is what the player is lined up with; the expanded text below it does not count. */
+  function centreAudio() {
+    $$('#main table tr').forEach(function (row) {
+      var first = row.cells[0], second = row.cells[1];
+      var a = first && first.querySelector('audio');
+      if (!a || !second) return;
+      var title = second.querySelector('summary') || second.querySelector('h1, h2, h3');
+      if (!title) return;
+      a.style.transform = '';
+      var ar = a.getBoundingClientRect(), tr = title.getBoundingClientRect();
+      var dy = (tr.top + tr.height / 2) - (ar.top + ar.height / 2);
+      a.style.transform = Math.abs(dy) > 1 ? 'translateY(' + Math.round(dy) + 'px)' : '';
+    });
+  }
+  function watchAudioCentring() {
+    if (!$('#main table audio')) return;
+    var run = function () { window.requestAnimationFrame(centreAudio); };
+    run();
+    window.addEventListener('resize', run);
+    window.addEventListener('load', run);
+    document.addEventListener('toggle', run, true);            /* <details> opened / closed (the event does not bubble) */
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(run);
+  }
+
   /* ---- only one audio at a time ---- */
   function singleAudio() {
     document.addEventListener('play', function (e) {
@@ -241,6 +267,7 @@
     wrapTables();
     addFilter();
     singleAudio();
+    watchAudioCentring();
     addFabs();
     pager();
     onScroll();

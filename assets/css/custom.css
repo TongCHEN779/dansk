@@ -347,6 +347,9 @@ h1, h2, h3, h4 { color: var(--ink); }
   line-height: 1.35;
   margin: 0 0 .35rem;
 }
+/* expandable episodes: the triangle and the title share one line (the title is an <h1> inside <summary>) */
+#main details > summary { cursor: pointer; list-style-position: inside; }
+#main details > summary > h1, #main details > summary > h2, #main details > summary > h3 { display: inline; margin: 0; }
 #main table td img { display: block; margin: 0 auto; box-shadow: var(--shadow); }
 #main table td span[style*="color:blue"], #main table td span[onclick] {
   color: var(--link) !important;
