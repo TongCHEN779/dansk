@@ -11,6 +11,56 @@ search: false
 (Alle tekster og lydfiler kan findes [her](https://danskioererne.dk/).)
 <table align="center" cellspacing="5" style="text-align: left" width="100%">
 <tr>
+<td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/11/Episode-118.wav"></audio> </td>
+<td> 
+<details>
+<summary>
+<h1> 118 - Dansk kaffekultur </h1>
+</summary>
+<span style="font-weight: normal">
+Hej, og velkommen til ”Dansk i ørerne”. I denne episode vil jeg fortælle om den danske kaffekultur. Du kan finde teksten til episoden på podcastens hjemmeside. På www.buymeacoff.ee/danskioererne kan du finde ordlister og online læringsredskaber, downloade episoden og lytte til niveau 2-udgaven, hvor jeg taler i almindeligt tempo. Det koster kun 37 kr. i måneden at få adgang til bonusmaterialet.
+<br><br>
+Danmark er et ægte kaffeland. Faktisk er danskerne blandt de mennesker i verden, der drikker mest kaffe. De nordiske lande ligger helt i top, når man ser på kaffeforbruget. Finland ligger på førstepladsen, derefter kommer Norge, Island, Danmark og Sverige. Kaffe spiller derfor en meget større rolle i hverdagen, end mange måske tænker over.
+<br><br>
+For de fleste danskere begynder dagen med en kop kaffe. Undersøgelser viser, at 84 procent af danskerne drikker kaffe om morgenen. For mange er morgenkaffen næsten et ritual. Nogle nyder kaffen i stilhed hjemme ved køkkenbordet, mens andre drikker den på vej til arbejde eller sammen med kolleger.
+<br><br>
+I gennemsnit drikker danskerne omkring fire kopper kaffe om dagen. Mænd drikker generelt lidt mere kaffe end kvinder, og kaffeforbruget stiger ofte med alderen. Unge under 25 år drikker i gennemsnit omkring to og en halv kop kaffe om dagen, mens personer over 55 år i gennemsnit drikker mere end fem kopper dagligt. Der er også geografiske forskelle. Generelt drikkes der mere kaffe i Jylland end på Sjælland.
+<br><br>
+Kaffe er ikke kun en drik. Det er også en social aktivitet. På danske arbejdspladser er kaffepausen en vigtig del af dagen. Her mødes kollegerne, taler sammen og tager en lille pause fra arbejdet. Mange arbejdspladser har et kaffehjørne eller en kaffemaskine, som fungerer som et naturligt samlingspunkt. Her bliver der talt om arbejde, familie, weekendplaner eller måske bare vejret, som danskerne også er glade for at diskutere.
+<br><br>
+Kaffen spiller også en vigtig rolle i dansk hyggekultur. Hvis en dansker siger: “Skal vi mødes til en kop kaffe?”, handler det ofte lige så meget om samtalen som om selve kaffen. Det er en nem og uformel måde at mødes på. Kaffe bliver ofte serveret sammen med kage, især om eftermiddagen. Mange danskere forbinder derfor kaffe med hygge, gæstfrihed og samvær. Men hvis en dansker har spurgt dig om I skal mødes til en kop kaffe, så er det også helt ok hvis du i stedet bestiller en kop te eller en juice. Til gengæld anser danskerne det som høfligt, at du altid tilbyder en kop kaffe når de kommer på besøg. Også hvis det er om aftenen. Det er ikke sikkert at de siger ”ja tak” til dit tilbud, men det er stadig høfligt at spørge.
+<br><br>
+I dag drikker 75 procent af danskerne kaffe derhjemme, men næsten lige så mange drikker også kaffe uden for hjemmet. Caféer er blevet meget populære, især i de større byer. Her kan man få mange forskellige typer kaffe. Tidligere drak de fleste danskere kun almindelig filterkaffe, men i dag kender de fleste forskellen på en espresso, cappuccino, café latte og americano.
+<br><br>
+Selvom filterkaffe stadig er den mest almindelige type kaffe i Danmark, er kaffekulturen blevet mere avanceret. Mange danskere går mere op i kaffens kvalitet end tidligere. Salget af hele kaffebønner er steget, og flere mennesker investerer i kaffekværne og espressomaskiner til hjemmet. Mange bruger tid på at finde de rigtige bønner og lære forskellige bryggemetoder.
+<br><br>
+Den mest almindelige måde at brygge kaffe på i Danmark er stadig filterkaffemaskinen, som mere end halvdelen af danskerne bruger. Andre foretrækker stempelkande, espressomaskine eller kaffekapsler. Nogle drikker stadig instantkaffe, altså pulverkaffe, som bare blandes med varmt vand. Instantkaffe var især populært, fordi det var hurtigt og nemt, men i dag bruger flere danskere tid på at brygge kaffe af høj kvalitet.
+<br><br>
+Kaffen har dog ikke altid været en del af danskernes hverdag. Kaffen stammer oprindeligt fra Etiopien i Afrika. Ifølge en gammel historie opdagede en gedehyrde, at hans geder blev meget energiske, når de spiste kaffebær. Senere begyndte mennesker at lave en drik af bønnerne, og langsomt spredte kaffen sig til resten af verden.
+<br><br>
+Kaffen kom til Danmark i 1600-tallet. Dengang var kaffe meget dyrt og blev primært drukket af de rigeste mennesker. Kaffe var et luksusprodukt og et statussymbol. Først i 1700-tallet og 1800-tallet blev kaffen mere almindelig. Bedre handel og lavere priser gjorde det muligt for flere danskere at købe kaffe. På landet blev kaffen hurtigt populær blandt bønder og arbejdere, fordi den gav energi til lange arbejdsdage.
+<br><br>
+I løbet af 1800-tallet blev kaffebordet en vigtig del af det sociale liv. Især blandt kvinder blev kaffe og kage et naturligt samlingspunkt. Mange af de traditioner findes stadig i dag. Derfor er kaffe stadig tæt forbundet med begrebet hygge.
+<br><br>
+Da Danmark blev industrialiseret, og flere mennesker begyndte at arbejde på fabrikker, blev kaffe endnu mere populært. Koffeinen hjalp folk med at holde sig vågne gennem lange arbejdsdage. Kaffen blev efterhånden så vigtig, at den nærmest udviklede sig til Danmarks nationaldrik.
+<br><br>
+Under Anden Verdenskrig opstod der dog problemer. Danmark kunne ikke importere lige så meget kaffe som normalt, og derfor blev kaffe rationeret. Til sidst var det næsten umuligt at få rigtig kaffe. Mange danskere måtte derfor drikke kaffeerstatning i stedet. En populær erstatning hed Rich’s og var lavet af blandt andet cikorierod, byg og roer. Smagen mindede lidt om kaffe, men det var ikke det samme. Mange danskere savnede rigtig kaffe, og da krigen sluttede, var glæden stor, da de igen kunne købe de ægte kaffebønner.
+<br><br>
+I dag er kaffe en global vare, og de kaffebønner, som danskerne drikker, kommer ofte fra lande som Brasilien, Vietnam, Colombia og Etiopien. Men klimaforandringer påvirker i stigende grad kaffeproduktionen. I både Brasilien og Vietnam har tørke, frost og ekstremt vejr flere gange ødelagt dele af kaffehøsten. Når høsten bliver mindre, falder udbuddet af kaffe på verdensmarkedet, og priserne stiger.
+<br><br>
+Det har danskerne tydeligt mærket i de senere år. Kaffepriserne steg kraftigt i 2024 og 2025 og nåede nogle af de højeste niveauer nogensinde. Transportomkostninger og internationale konflikter gjorde også kaffen dyrere. Selvom priserne senere faldt lidt igen, er kaffe stadig dyrere end for få år siden.
+<br><br>
+Denne udvikling har fået mange danskere til at tænke mere over, hvilken kaffe de køber. Flere vælger kaffe med certificeringer som Fairtrade eller Rainforest Alliance. Disse mærker skal være med til at sikre, at kaffebønderne får en mere retfærdig betaling, og at produktionen sker under bedre forhold for både mennesker og miljø.
+<br><br>
+Selvom danskernes kaffevaner ændrer sig, er én ting dog den samme. Kaffen har en helt særlig plads i dansk kultur. For mange danskere er kaffe ikke bare en drik. Den er et ritual, en pause, en tradition og en undskyldning for at mødes med andre mennesker. Derfor er kaffekulturen stadig en vigtig del af hverdagen i Danmark.
+<br><br>
+Det var alt for denne episode. Tak fordi du lyttede med!
+</span>
+</details> 
+</td>
+</tr>
+
+<tr>
 <td style="vertical-align: top;"> <audio controls preload="none" src="https://danskioererne.dk/wp-content/uploads/2026/11/Episode-117.wav"></audio> </td>
 <td> 
 <details>
