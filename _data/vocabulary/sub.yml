@@ -3306,6 +3306,19 @@
   bojning: -n, -r, -rne
   niveau: A1-A2
   gruppe: '1'
+- dansk: en brik
+  ordnet: https://ordnet.dk/ddo/ordbog?query=brik
+  audio_id: brik
+  mp3: https://static.ordnet.dk/mp3/11006/11006155_1.mp3
+  ipa: '[ˈbʁεg]'
+  bestemt: briken
+  flertal_ubestemt: brikker
+  flertal_bestemt: brikkerne
+  engelsk: piece, token
+  kinesisk: 棋子；筹码
+  bojning: -en, -ker, -kerne
+  niveau: B1-B2
+  gruppe: A
 - dansk: en brillebutik
   ordnet: https://ordnet.dk/ddo/ordbog?query=brillebutik
   audio_id: brillebutik
@@ -9448,6 +9461,19 @@
   bojning: -en, -er, -erne
   niveau: B1-B2
   gruppe: '1'
+- dansk: en gennemsigtighed
+  ordnet: https://ordnet.dk/ddo/ordbog?query=gennemsigtighed
+  audio_id: gennemsigtighed
+  mp3: https://static.ordnet.dk/mp3/51000/51000520_1.mp3
+  ipa: '[gεnəmˈsegdiˌheðˀ]'
+  bestemt: gennemsigtigheden
+  flertal_ubestemt: gennemsigtigheder
+  flertal_bestemt: gennemsigtighederne
+  engelsk: transparency
+  kinesisk: 透明；透明度
+  bojning: -en, -er, -erne
+  niveau: B1-B2
+  gruppe: '1'
 - dansk: en gennemslagskraft
   ordnet: https://ordnet.dk/ddo/ordbog?query=gennemslagskraft
   audio_id: gennemslagskraft
@@ -10229,6 +10255,19 @@
   bojning: -en, -er, -erne
   niveau: B1-B2
   gruppe: '1'
+- dansk: en gøgler
+  ordnet: https://ordnet.dk/ddo/ordbog?query=g%C3%B8gler
+  audio_id: gøgler
+  mp3: https://static.ordnet.dk/mp3/11019/11019432_1.mp3
+  ipa: '[ˈgʌjlʌ]'
+  bestemt: gøgleren
+  flertal_ubestemt: gøglere
+  flertal_bestemt: gøglerne
+  engelsk: juggler, street performer
+  kinesisk: 杂耍艺人；街头艺人
+  bojning: -en, -e, -ne
+  niveau: B1-B2
+  gruppe: '2'
 - dansk: en gård
   ordnet: https://ordnet.dk/ddo/ordbog?query=g%C3%A5rd
   audio_id: gård
@@ -28413,6 +28452,19 @@
   engelsk: synagogue
   kinesisk: 犹太教堂
   bojning: -n, -r, -rne
+  niveau: B1-B2
+  gruppe: '1'
+- dansk: en synlighed
+  ordnet: https://ordnet.dk/ddo/ordbog?query=synlighed
+  audio_id: synlighed
+  mp3: https://static.ordnet.dk/mp3/11052/11052053_1.mp3
+  ipa: '[ˈsyːnliˌheðˀ]'
+  bestemt: synligheden
+  flertal_ubestemt: '-'
+  flertal_bestemt: '-'
+  engelsk: visibility
+  kinesisk: 可见性；知名度
+  bojning: -en
   niveau: B1-B2
   gruppe: '1'
 - dansk: et synonym

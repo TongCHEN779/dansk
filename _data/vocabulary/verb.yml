@@ -1062,6 +1062,20 @@
   bojning: -r, -de, -t
   niveau: B1-B2
   gruppe: '1'
+- dansk: at anslå
+  ordnet: https://ordnet.dk/ddo/ordbog?query=ansl%C3%A5
+  audio_id: anslå
+  mp3: https://static.ordnet.dk/mp3/11001/11001966_1.mp3
+  ipa: '[-ˌslɔˀ]'
+  nutid: anslår
+  datid: anslog
+  fornutid: har anslået
+  imperativ: anslå
+  engelsk: to estimate, assess
+  kinesisk: 估计；估算
+  bojning: anslår, anslog, har anslået
+  niveau: B1-B2
+  gruppe: U
 - dansk: at anspænde
   ordnet: https://ordnet.dk/ddo/ordbog?query=anspænde
   audio_id: anspænde
@@ -7205,6 +7219,20 @@
   imperativ: gød
   engelsk: to fertilize
   kinesisk: 施肥
+  bojning: -r, -de, -t
+  niveau: B1-B2
+  gruppe: '1'
+- dansk: at gøgle
+  ordnet: https://ordnet.dk/ddo/ordbog?query=g%C3%B8gle
+  audio_id: gøgle
+  mp3: https://static.ordnet.dk/mp3/11019/11019430_1.mp3
+  ipa: '[ˈgʌjlə]'
+  nutid: gøgler
+  datid: gøglede
+  fornutid: har gøglet
+  imperativ: gøgl
+  engelsk: to juggle, perform tricks
+  kinesisk: 耍杂耍；变戏法
   bojning: -r, -de, -t
   niveau: B1-B2
   gruppe: '1'

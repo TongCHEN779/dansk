@@ -3344,6 +3344,20 @@
   bojning: gennemgribende, gennemgribende
   grad: mere -, mest -
   niveau: B1-B2
+- dansk: gennemsigtig
+  ordnet: https://ordnet.dk/ddo/ordbog?query=gennemsigtig
+  audio_id: gennemsigtig
+  mp3: https://static.ordnet.dk/mp3/11017/11017671_1.mp3
+  ipa: '[ˈgεnəmˌsegdi]'
+  t_form: gennemsigtigt
+  e_form: gennemsigtige
+  komparativ: mere gennemsigtig
+  superlativ: mest gennemsigtig
+  engelsk: transparent
+  kinesisk: 透明的
+  bojning: -t, -e
+  grad: mere -, mest -
+  niveau: B1-B2
 - dansk: gennemskuelig
   ordnet: https://ordnet.dk/ddo/ordbog?query=gennemskuelig
   audio_id: gennemskuelig
